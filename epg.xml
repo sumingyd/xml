@@ -1,1069 +1,8209 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
-  <channel id="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <channel id="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <display-name lang="zh">CCTV-1 综合</display-name>
-    <display-name lang="zh">CCTV-1</display-name>
+    
+    
+    
+    
+    
+    
+    
+    
     <display-name lang="zh">CCTV1</display-name>
-    <display-name lang="zh">央视一套</display-name>
+    
+    
+    
+    
+    
+    
+    
+    
+    <display-name lang="zh">CCTV-1</display-name>
+    
+    
+    
+    
+  
+  
+  
+  
   </channel>
-  <programme start="20260310004300 +0800" stop="20260310011500 +0800" channel="cctv1">
-    <title lang="zh">农耕探文明II（19）：广西恭城 月柿栽培系统</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310011500 +0800" stop="20260310014700 +0800" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310014700 +0800" stop="20260310015700 +0800" channel="cctv1">
-    <title lang="zh">中华古树（8）：功勋树</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310015700 +0800" stop="20260310022500 +0800" channel="cctv1">
-    <title lang="zh">今日说法（两会特别节目）：法治新征程·司法护航 破茧重生</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310022500 +0800" stop="20260310023100 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国（节选）：《武韵长河》</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310023100 +0800" stop="20260310024200 +0800" channel="cctv1">
-    <title lang="zh">歌曲：《非遗里的中国》</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310024200 +0800" stop="20260310041200 +0800" channel="cctv1">
-    <title lang="zh">中华考工记：第5期</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310041200 +0800" stop="20260310044300 +0800" channel="cctv1">
-    <title lang="zh">今日说法（两会特别节目）：法治新征程·司法护航 破茧重生</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310044300 +0800" stop="20260310052700 +0800" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310052700 +0800" stop="20260310060000 +0800" channel="cctv1">
-    <title lang="zh">农耕探文明III（2）：江苏吴江 蚕桑文化系统</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310060000 +0800" stop="20260310083600 +0800" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310083600 +0800" stop="20260310092400 +0800" channel="cctv1">
-    <title lang="zh">生活圈</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310092400 +0800" stop="20260310101400 +0800" channel="cctv1">
-    <title lang="zh">藏海传（40）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310101400 +0800" stop="20260310110500 +0800" channel="cctv1">
-    <title lang="zh">天下同心（1）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310110500 +0800" stop="20260310115400 +0800" channel="cctv1">
-    <title lang="zh">天下同心（2）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310115400 +0800" stop="20260310120000 +0800" channel="cctv1">
-    <title lang="zh">秘境之眼：毛冠鹿</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310120000 +0800" stop="20260310123400 +0800" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310123400 +0800" stop="20260310130800 +0800" channel="cctv1">
-    <title lang="zh">今日说法</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310130800 +0800" stop="20260310135500 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（4）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310135500 +0800" stop="20260310144200 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（5）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310144200 +0800" stop="20260310153100 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（6）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310153100 +0800" stop="20260310162400 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（7）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310162400 +0800" stop="20260310171500 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（8）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310171500 +0800" stop="20260310185000 +0800" channel="cctv1">
-    <title lang="zh">山水间的家IV：第4期</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310185000 +0800" stop="20260310190000 +0800" channel="cctv1">
-    <title lang="zh">秘境之眼：猞猁</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310190000 +0800" stop="20260310194000 +0800" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310194000 +0800" stop="20260310194700 +0800" channel="cctv1">
-    <title lang="zh">天气预报</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310194700 +0800" stop="20260310200800 +0800" channel="cctv1">
-    <title lang="zh">焦点访谈：跟着总书记上两会</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310200800 +0800" stop="20260310210200 +0800" channel="cctv1">
-    <title lang="zh">好好的时光（19）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310210200 +0800" stop="20260310215300 +0800" channel="cctv1">
-    <title lang="zh">好好的时光（20）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310215300 +0800" stop="20260310220000 +0800" channel="cctv1">
-    <title lang="zh">请您欣赏：大美中国·春</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310220000 +0800" stop="20260310223600 +0800" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310223600 +0800" stop="20260310231100 +0800" channel="cctv1">
-    <title lang="zh">自然中国：地矿宝藏（2）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260310231100 +0800" stop="20260311000000 +0800" channel="cctv1">
-    <title lang="zh">中华考工记：第6期</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260311000000 +0800" stop="20260311004200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311000000 +0800" stop="20260311004200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（7）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311004200 +0800" stop="20260311010400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311004200 +0800" stop="20260311010400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">人口</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311010400 +0800" stop="20260311014600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311010400 +0800" stop="20260311014600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311014600 +0800" stop="20260311021600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311014600 +0800" stop="20260311021600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311021600 +0800" stop="20260311024500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311021600 +0800" stop="20260311024500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311024500 +0800" stop="20260311041400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311024500 +0800" stop="20260311041400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（7）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311041400 +0800" stop="20260311044500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311041400 +0800" stop="20260311044500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311044500 +0800" stop="20260311052700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311044500 +0800" stop="20260311052700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311052700 +0800" stop="20260311055900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311052700 +0800" stop="20260311055900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">农耕探文明（4）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311055900 +0800" stop="20260311060000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311055900 +0800" stop="20260311060000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311060000 +0800" stop="20260311070000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311070000 +0800" stop="20260311070100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311070000 +0800" stop="20260311070100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311070100 +0800" stop="20260311074500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311070100 +0800" stop="20260311074500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311074500 +0800" stop="20260311091800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311074500 +0800" stop="20260311091800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311091800 +0800" stop="20260311092600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311091800 +0800" stop="20260311092600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">全国政协十四届四次会议闭幕会</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311092600 +0800" stop="20260311093500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311092600 +0800" stop="20260311093500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311093500 +0800" stop="20260311102300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311093500 +0800" stop="20260311102300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（3）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311102300 +0800" stop="20260311111200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311102300 +0800" stop="20260311111200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（4）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311111200 +0800" stop="20260311120000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311111200 +0800" stop="20260311120000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（5）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311120000 +0800" stop="20260311123400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311120000 +0800" stop="20260311123400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻30分</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311123400 +0800" stop="20260311130800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311123400 +0800" stop="20260311130800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311130800 +0800" stop="20260311135500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311130800 +0800" stop="20260311135500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（9）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311135500 +0800" stop="20260311144400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311135500 +0800" stop="20260311144400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（10）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311144400 +0800" stop="20260311153300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311144400 +0800" stop="20260311153300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（11）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311153300 +0800" stop="20260311162300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311153300 +0800" stop="20260311162300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（12）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311162300 +0800" stop="20260311171600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311162300 +0800" stop="20260311171600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（13）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311171600 +0800" stop="20260311185000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311171600 +0800" stop="20260311185000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">山水间的家Ⅳ（7）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311185000 +0800" stop="20260311190000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311185000 +0800" stop="20260311190000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311190000 +0800" stop="20260311193700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311190000 +0800" stop="20260311193700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311193700 +0800" stop="20260311194300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311193700 +0800" stop="20260311194300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天气预报</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311194300 +0800" stop="20260311200200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311194300 +0800" stop="20260311200200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">焦点访谈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311200200 +0800" stop="20260311200500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311200200 +0800" stop="20260311200500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">前情提要：好好的时光（21）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311200500 +0800" stop="20260311205600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311200500 +0800" stop="20260311205600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（21）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311205600 +0800" stop="20260311205800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311205600 +0800" stop="20260311205800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">前情提要：好好的时光（22）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311205800 +0800" stop="20260311215200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311205800 +0800" stop="20260311215200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（22）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311215200 +0800" stop="20260311220000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311215200 +0800" stop="20260311220000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">《三餐四季Ⅱ》宣传片</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311220000 +0800" stop="20260311223600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311220000 +0800" stop="20260311223600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311223600 +0800" stop="20260311231100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311223600 +0800" stop="20260311231100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">自然中国：地矿宝藏-高原找铜</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260311231100 +0800" stop="20260312000000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260311231100 +0800" stop="20260312000000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（4）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312004500 +0800" stop="20260312012900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312004500 +0800" stop="20260312012900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312012900 +0800" stop="20260312020100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312012900 +0800" stop="20260312020100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312020100 +0800" stop="20260312023300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312020100 +0800" stop="20260312023300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法（两会特别节目）：法治新征程·跨越山海的执行</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312023300 +0800" stop="20260312024500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312023300 +0800" stop="20260312024500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华古树（2）：黄帝手植柏</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312024500 +0800" stop="20260312041700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312024500 +0800" stop="20260312041700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记：第4期</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312041700 +0800" stop="20260312044800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312041700 +0800" stop="20260312044800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法（两会特别节目）：法治新征程·跨越山海的执行</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312044800 +0800" stop="20260312052700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312044800 +0800" stop="20260312052700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312052700 +0800" stop="20260312060000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312052700 +0800" stop="20260312060000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">农耕探文明III（7）：湖南新田 三味辣椒种植系统</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312060000 +0800" stop="20260312083600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312060000 +0800" stop="20260312083600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312083600 +0800" stop="20260312092400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312083600 +0800" stop="20260312092400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312092400 +0800" stop="20260312101400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312092400 +0800" stop="20260312101400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（6）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312101400 +0800" stop="20260312110500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312101400 +0800" stop="20260312110500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（7）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312110500 +0800" stop="20260312115400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312110500 +0800" stop="20260312115400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（8）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312115400 +0800" stop="20260312120000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312115400 +0800" stop="20260312120000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼：大天鹅</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312120000 +0800" stop="20260312123400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312120000 +0800" stop="20260312123400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻30分</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312123400 +0800" stop="20260312130800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312123400 +0800" stop="20260312130800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法：非法捕捞的代价</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312130800 +0800" stop="20260312134500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312130800 +0800" stop="20260312134500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">农耕探文明III（7）：湖南新田 三味辣椒种植系统</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312134500 +0800" stop="20260312140000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312134500 +0800" stop="20260312140000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议闭幕会特别报道</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312140000 +0800" stop="20260312144200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312140000 +0800" stop="20260312144200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议第3场“代表通道”</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312144200 +0800" stop="20260312153400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312144200 +0800" stop="20260312153400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议闭幕会特别报道</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312153400 +0800" stop="20260312154300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312153400 +0800" stop="20260312154300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议闭幕会</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312154300 +0800" stop="20260312160000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312154300 +0800" stop="20260312160000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议闭幕会特别报道</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312160000 +0800" stop="20260312165100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312160000 +0800" stop="20260312165100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">聚焦两会：十四届全国人大四次会议第3场“部长通道”</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312165100 +0800" stop="20260312165500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312165100 +0800" stop="20260312165500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">请您欣赏</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312165500 +0800" stop="20260312170600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312165500 +0800" stop="20260312170600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华古树（1）：绿色国宝</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312170600 +0800" stop="20260312184200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312170600 +0800" stop="20260312184200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">山水间的家IV：第12期</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312184200 +0800" stop="20260312185100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312184200 +0800" stop="20260312185100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">歌曲：《非遗里的中国》</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312185100 +0800" stop="20260312190000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312185100 +0800" stop="20260312190000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼：虎</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312190000 +0800" stop="20260312193900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312190000 +0800" stop="20260312193900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312193900 +0800" stop="20260312194700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312193900 +0800" stop="20260312194700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天气预报</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312194700 +0800" stop="20260312200600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312194700 +0800" stop="20260312200600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">焦点访谈：跟着总书记上两会</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312200600 +0800" stop="20260312210100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312200600 +0800" stop="20260312210100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（23）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312210100 +0800" stop="20260312214800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312210100 +0800" stop="20260312214800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（24）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312214800 +0800" stop="20260312220000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312214800 +0800" stop="20260312220000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">请您欣赏：大美中国·春</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312220000 +0800" stop="20260312223600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312220000 +0800" stop="20260312223600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312223600 +0800" stop="20260312231100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312223600 +0800" stop="20260312231100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">自然中国：地矿宝藏（4）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260312231100 +0800" stop="20260313004400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260312231100 +0800" stop="20260313004400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记：第4期</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313004400 +0800" stop="20260313014600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313004400 +0800" stop="20260313014600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">花开中国：云南·德宏篇</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313014600 +0800" stop="20260313021600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313014600 +0800" stop="20260313021600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313021600 +0800" stop="20260313024400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313021600 +0800" stop="20260313024400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313024400 +0800" stop="20260313041400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313024400 +0800" stop="20260313041400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（6）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313041400 +0800" stop="20260313044500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313041400 +0800" stop="20260313044500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313044500 +0800" stop="20260313052700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313044500 +0800" stop="20260313052700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313052700 +0800" stop="20260313055900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313052700 +0800" stop="20260313055900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">农耕探文明（12）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313055900 +0800" stop="20260313060000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313055900 +0800" stop="20260313060000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313060000 +0800" stop="20260313070000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313060000 +0800" stop="20260313070000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313070000 +0800" stop="20260313070100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313070000 +0800" stop="20260313070100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313070100 +0800" stop="20260313083600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313070100 +0800" stop="20260313083600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313083600 +0800" stop="20260313092400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313083600 +0800" stop="20260313092400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313092400 +0800" stop="20260313101400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313092400 +0800" stop="20260313101400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（9）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313101400 +0800" stop="20260313110500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313101400 +0800" stop="20260313110500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（10）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313110500 +0800" stop="20260313115400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313110500 +0800" stop="20260313115400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（11）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313115400 +0800" stop="20260313120000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313115400 +0800" stop="20260313120000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313120000 +0800" stop="20260313123400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313120000 +0800" stop="20260313123400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻30分</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313123400 +0800" stop="20260313130800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313123400 +0800" stop="20260313130800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313130800 +0800" stop="20260313135500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313130800 +0800" stop="20260313135500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（14）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313135500 +0800" stop="20260313144300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313135500 +0800" stop="20260313144300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（15）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313144300 +0800" stop="20260313153200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313144300 +0800" stop="20260313153200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（16）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313153200 +0800" stop="20260313162200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313153200 +0800" stop="20260313162200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（17）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313162200 +0800" stop="20260313170900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313162200 +0800" stop="20260313170900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">岁月有情时（18）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313170900 +0800" stop="20260313171600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313170900 +0800" stop="20260313171600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">《非遗里的中国》MV</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313171600 +0800" stop="20260313185000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313171600 +0800" stop="20260313185000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">山水间的家Ⅳ（5）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313185000 +0800" stop="20260313190000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313185000 +0800" stop="20260313190000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313190000 +0800" stop="20260313193200 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313190000 +0800" stop="20260313193200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313193200 +0800" stop="20260313193800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313193200 +0800" stop="20260313193800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天气预报</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313193800 +0800" stop="20260313195900 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313193800 +0800" stop="20260313195900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">焦点访谈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313195900 +0800" stop="20260313200300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313195900 +0800" stop="20260313200300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">前情提要：好好的时光（25）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313200300 +0800" stop="20260313205400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313200300 +0800" stop="20260313205400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（25）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313205400 +0800" stop="20260313205700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313205400 +0800" stop="20260313205700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">前情提要：好好的时光（26）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313205700 +0800" stop="20260313215100 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313205700 +0800" stop="20260313215100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">好好的时光（26）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313215100 +0800" stop="20260313220000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313215100 +0800" stop="20260313220000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">《三餐四季Ⅱ》宣传片</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313220000 +0800" stop="20260313223600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313220000 +0800" stop="20260313223600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313223600 +0800" stop="20260313232500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313223600 +0800" stop="20260313232400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">礼仪中国（10）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260313232500 +0800" stop="20260314004400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260313232400 +0800" stop="20260314005600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（8）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314004400 +0800" stop="20260314012800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314005600 +0800" stop="20260314014000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314012800 +0800" stop="20260314020000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314014000 +0800" stop="20260314021200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314020000 +0800" stop="20260314022800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314021200 +0800" stop="20260314024000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314022800 +0800" stop="20260314023800 +0800" channel="cctv1">
-    <title lang="zh">中华古树：阳朔古榕树</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314024000 +0800" stop="20260314024400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">《三餐四季Ⅱ》宣传片</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314023800 +0800" stop="20260314024200 +0800" channel="cctv1">
-    <title lang="zh">三餐四季II-宣传片</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314024400 +0800" stop="20260314025100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">《非遗里的中国》MV</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314024200 +0800" stop="20260314025100 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国-MV</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314025100 +0800" stop="20260314042000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314025100 +0800" stop="20260314042000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">中华考工记（8）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314042000 +0800" stop="20260314042200 +0800" channel="cctv1">
-    <title lang="zh">泱泱中华：历史文化街区</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314042000 +0800" stop="20260314042200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">泱泱中华-历史文化街区（1）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314042200 +0800" stop="20260314045300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314042200 +0800" stop="20260314045300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">今日说法</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314045300 +0800" stop="20260314052700 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314045300 +0800" stop="20260314052700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314052700 +0800" stop="20260314060000 +0800" channel="cctv1">
-    <title lang="zh">农耕探文明</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314052700 +0800" stop="20260314055900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">农耕探文明（17）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314060000 +0800" stop="20260314083600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314055900 +0800" stop="20260314060000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314060000 +0800" stop="20260314070000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314083600 +0800" stop="20260314092400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314070000 +0800" stop="20260314070100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">中华人民共和国国歌</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314070100 +0800" stop="20260314083600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314083600 +0800" stop="20260314092400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314092400 +0800" stop="20260314101400 +0800" channel="cctv1">
-    <title lang="zh">天下同心（11）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314101400 +0800" stop="20260314110500 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314092400 +0800" stop="20260314101400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（12）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314110500 +0800" stop="20260314115400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314101400 +0800" stop="20260314110500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（13）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260314115400 +0800" stop="20260314120000 +0800" channel="cctv1">
-    <title lang="zh">秘境之眼</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314120000 +0800" stop="20260314123400 +0800" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314123400 +0800" stop="20260314140800 +0800" channel="cctv1">
-    <title lang="zh">三餐四季III：新疆</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314140800 +0800" stop="20260314145600 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（19）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314145600 +0800" stop="20260314154600 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（20）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314154600 +0800" stop="20260314163800 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（21）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314163800 +0800" stop="20260314173100 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（22）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314173100 +0800" stop="20260314185000 +0800" channel="cctv1">
-    <title lang="zh">星光大道</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314185000 +0800" stop="20260314190000 +0800" channel="cctv1">
-    <title lang="zh">秘境之眼</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314190000 +0800" stop="20260314193800 +0800" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314193800 +0800" stop="20260314200200 +0800" channel="cctv1">
-    <title lang="zh">焦点访谈</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314200200 +0800" stop="20260314215100 +0800" channel="cctv1">
-    <title lang="zh">城市风华录II：郑州篇</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314215100 +0800" stop="20260314220000 +0800" channel="cctv1">
-    <title lang="zh">三餐四季II-宣传片</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314220000 +0800" stop="20260314223600 +0800" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314223600 +0800" stop="20260314232500 +0800" channel="cctv1">
-    <title lang="zh">礼仪中国</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260314232500 +0800" stop="20260315004500 +0800" channel="cctv1">
-    <title lang="zh">星光大道</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315004500 +0800" stop="20260315012900 +0800" channel="cctv1">
-    <title lang="zh">生活圈</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315012900 +0800" stop="20260315020100 +0800" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315020100 +0800" stop="20260315023100 +0800" channel="cctv1">
-    <title lang="zh">农耕探文明</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315023100 +0800" stop="20260315024100 +0800" channel="cctv1">
-    <title lang="zh">中华古树：霞浦黄连木</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315024100 +0800" stop="20260315025100 +0800" channel="cctv1">
-    <title lang="zh">中华古树：茅镬古树群</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315025100 +0800" stop="20260315025500 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国-MV</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315025500 +0800" stop="20260315030300 +0800" channel="cctv1">
-    <title lang="zh">三餐四季II-宣传片</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315030300 +0800" stop="20260315042000 +0800" channel="cctv1">
-    <title lang="zh">星光大道</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315042000 +0800" stop="20260315045300 +0800" channel="cctv1">
-    <title lang="zh">本草流芳：黄连</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315045300 +0800" stop="20260315052700 +0800" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315052700 +0800" stop="20260315060000 +0800" channel="cctv1">
-    <title lang="zh">农耕探文明</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315060000 +0800" stop="20260315083600 +0800" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315083600 +0800" stop="20260315092400 +0800" channel="cctv1">
-    <title lang="zh">生活圈</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315092400 +0800" stop="20260315101400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314110500 +0800" stop="20260314115400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">天下同心（14）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315101400 +0800" stop="20260315110500 +0800" channel="cctv1">
-    <title lang="zh">天下同心（15）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315110500 +0800" stop="20260315115400 +0800" channel="cctv1">
-    <title lang="zh">天下同心（16）</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315115400 +0800" stop="20260315120000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314115400 +0800" stop="20260314120000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315120000 +0800" stop="20260315123400 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314120000 +0800" stop="20260314123400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻30分</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315123400 +0800" stop="20260315141500 +0800" channel="cctv1">
-    <title lang="zh">城市风华录II：郑州篇</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314123400 +0800" stop="20260314141300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">三餐四季Ⅲ（3）：天津</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315141500 +0800" stop="20260315150300 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（23）</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314141300 +0800" stop="20260314150000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（19）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315150300 +0800" stop="20260315155200 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（24）</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314150000 +0800" stop="20260314155000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（20）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315155200 +0800" stop="20260315163900 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（25）</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314155000 +0800" stop="20260314163800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（21）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315163900 +0800" stop="20260315172800 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（26）</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314163800 +0800" stop="20260314173100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（22）</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315172800 +0800" stop="20260315181800 +0800" channel="cctv1">
-    <title lang="zh">岁月有情时（27）</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314173100 +0800" stop="20260314185000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">星光大道</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315181800 +0800" stop="20260315185000 +0800" channel="cctv1">
-    <title lang="zh">寻味山海：临海</title>
-    <desc lang="zh"/>
-    <category lang="zh"/>
-  </programme>
-  <programme start="20260315185000 +0800" stop="20260315190000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314185000 +0800" stop="20260314190000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315190000 +0800" stop="20260315193800 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314190000 +0800" stop="20260314193200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315193800 +0800" stop="20260315200300 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314193200 +0800" stop="20260314193800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">天气预报</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314193800 +0800" stop="20260314200200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">焦点访谈</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315200300 +0800" stop="20260315215100 +0800" channel="cctv1">
-    <title lang="zh">2025中国诗词大会</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314200200 +0800" stop="20260314215300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">城市风华录Ⅱ：郑州篇</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315215100 +0800" stop="20260315220000 +0800" channel="cctv1">
-    <title lang="zh">非遗里的中国-MV</title>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314215300 +0800" stop="20260314220000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">《三餐四季Ⅱ》宣传片</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315220000 +0800" stop="20260315223600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314220000 +0800" stop="20260314223600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315223600 +0800" stop="20260315232600 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314223600 +0800" stop="20260314232600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">开讲啦</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
-  <programme start="20260315232600 +0800" stop="20260316002000 +0800" channel="cctv1">
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260314232600 +0800" stop="20260315004500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">星光大道</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315004500 +0800" stop="20260315012900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315012900 +0800" stop="20260315020100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315020100 +0800" stop="20260315023100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">农耕探文明</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315023100 +0800" stop="20260315024100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">中华古树：霞浦黄连木</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315024100 +0800" stop="20260315025100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">中华古树：茅镬古树群</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315025100 +0800" stop="20260315025500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">非遗里的中国-MV</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315025500 +0800" stop="20260315030300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">三餐四季II-宣传片</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315030300 +0800" stop="20260315042000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">星光大道</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315042000 +0800" stop="20260315045300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">本草流芳：黄连</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315045300 +0800" stop="20260315052700 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315052700 +0800" stop="20260315060000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">农耕探文明</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315060000 +0800" stop="20260315083600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">朝闻天下</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315083600 +0800" stop="20260315092400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">生活圈</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315092400 +0800" stop="20260315101400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">天下同心（14）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315101400 +0800" stop="20260315110500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">天下同心（15）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315110500 +0800" stop="20260315115400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">天下同心（16）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315115400 +0800" stop="20260315120000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315120000 +0800" stop="20260315123400 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">新闻30分</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315123400 +0800" stop="20260315141500 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">城市风华录II：郑州篇</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315141500 +0800" stop="20260315150300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（23）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315150300 +0800" stop="20260315155200 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（24）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315155200 +0800" stop="20260315163900 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（25）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315163900 +0800" stop="20260315172800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（26）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315172800 +0800" stop="20260315181800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">岁月有情时（27）</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315181800 +0800" stop="20260315185000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">寻味山海：临海</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315185000 +0800" stop="20260315190000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">秘境之眼</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315190000 +0800" stop="20260315193800 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">新闻联播</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315193800 +0800" stop="20260315200300 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">焦点访谈</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315200300 +0800" stop="20260315215100 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">2025中国诗词大会</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315215100 +0800" stop="20260315220000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">非遗里的中国-MV</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315220000 +0800" stop="20260315223600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">晚间新闻</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315223600 +0800" stop="20260315232600 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
+    <title lang="zh">开讲啦</title>
+    
+    
+    
+    
+    
+    
+    
+    
+    <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
+  </programme>
+  
+  
+  
+  
+  
+  
+  
+  
+  <programme start="20260315232600 +0800" stop="20260316002000 +0800" channel="CCTV1">
+    
+    
+    
+    
+    
+    
+    
+    
     <title lang="zh">金石探文明</title>
+    
+    
+    
+    
+    
+    
+    
+    
     <desc lang="zh"/>
+    
+    
+    
+    
+    
+    
+    
+    
     <category lang="zh"/>
+    
+    
+    
+    
+  
+  
+  
+  
   </programme>
+  
+  
+  
+  
+
+
+
+
 </tv>

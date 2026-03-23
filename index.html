@@ -8,47 +8,107 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f8f9fa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
         }
         .container {
-            margin-top: 30px;
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 20px;
         }
         .header {
-            background-color: #343a40;
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
             color: white;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 20px;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-weight: 700;
+            font-size: 2.5rem;
+        }
+        .header p {
+            margin: 10px 0 0;
+            opacity: 0.9;
         }
         .btn {
-            margin-right: 10px;
-        }
-        .info-box {
-            background-color: #e9ecef;
-            padding: 15px;
             border-radius: 8px;
-            margin-bottom: 20px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        .info-card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+        }
+        .info-item {
+            display: inline-block;
+            margin-right: 30px;
+        }
+        .info-item strong {
+            color: #3498db;
+        }
+        .table-container {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
         }
         .table {
-            background-color: white;
-            border-radius: 8px;
-            overflow: hidden;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin: 0;
         }
         .table th {
-            background-color: #343a40;
+            background-color: #3498db;
             color: white;
+            font-weight: 600;
+            text-align: center;
+            vertical-align: middle;
+            padding: 15px;
         }
-        .alias-list {
-            margin: 0;
-            padding-left: 20px;
+        .table td {
+            padding: 12px 15px;
+            text-align: center;
+            vertical-align: middle;
         }
-        .alias-list li {
-            margin-bottom: 5px;
+        .table tbody tr:hover {
+            background-color: #f8f9ff;
         }
-        .refresh-btn {
-            margin-bottom: 20px;
+        .coverage-bar {
+            width: 100%;
+            height: 8px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .coverage-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #27ae60, #229954);
+            transition: width 0.3s ease;
+        }
+        .coverage-100 .coverage-fill {
+            background: linear-gradient(90deg, #27ae60, #1e8449);
+        }
+        .coverage-75 .coverage-fill {
+            background: linear-gradient(90deg, #2ecc71, #27ae60);
+        }
+        .coverage-50 .coverage-fill {
+            background: linear-gradient(90deg, #f39c12, #e67e22);
+        }
+        .coverage-25 .coverage-fill {
+            background: linear-gradient(90deg, #e67e22, #c0392b);
+        }
+        .coverage-0 .coverage-fill {
+            background: linear-gradient(90deg, #e74c3c, #c0392b);
         }
     </style>
 </head>
@@ -56,46 +116,49 @@
     <div class="container" id="app">
         <div class="header">
             <h1>EPG频道信息</h1>
-            <div class="mt-3">
-                <a href="epg.xml" download class="btn btn-success">下载EPG.xml</a>
-                <div class="mt-2">
+            <div class="mt-4">
+                <a href="epg.xml" download class="btn btn-light">下载EPG.xml</a>
+                <div class="mt-3">
                     <strong>调用地址：</strong>
                     <code>{{ epgUrl }}</code>
                 </div>
             </div>
         </div>
         
-        <button class="btn btn-primary refresh-btn" @click="loadEpgData">刷新数据</button>
-        
-        <div class="info-box">
-            <p><strong>更新时间：</strong>{{ updateTime }}</p>
-            <p><strong>频道数量：</strong>{{ channels.length }}</p>
+        <div class="info-card">
+            <div class="info-item">
+                <strong>更新时间：</strong>{{ updateTime }}
+            </div>
+            <div class="info-item">
+                <strong>频道数量：</strong>{{ channels.length }}
+            </div>
         </div>
         
-        <table class="table table-striped table-hover">
-            <thead>
-                <tr>
-                    <th>频道ID</th>
-                    <th>频道名</th>
-                    <th>频道别名</th>
-                    <th>最后节目时间</th>
-                    <th>节目描述覆盖率</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr v-for="channel in channels" :key="channel.id">
-                    <td>{{ channel.id }}</td>
-                    <td>{{ channel.name }}</td>
-                    <td>
-                        <ul class="alias-list">
-                            <li v-for="(alias, index) in channel.aliases" :key="index">{{ alias }}</li>
-                        </ul>
-                    </td>
-                    <td>{{ channel.lastProgramTime }}</td>
-                    <td>{{ channel.descriptionCoverage }}%</td>
-                </tr>
-            </tbody>
-        </table>
+        <div class="table-container">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>频道ID</th>
+                        <th>频道名</th>
+                        <th>最后节目时间</th>
+                        <th>节目描述覆盖率</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="channel in channels" :key="channel.id">
+                        <td>{{ channel.id }}</td>
+                        <td>{{ channel.name }}</td>
+                        <td>{{ channel.lastProgramTime }}</td>
+                        <td>
+                            <div class="coverage-bar" :class="getCoverageClass(channel.descriptionCoverage)">
+                                <div class="coverage-fill" :style="{ width: channel.descriptionCoverage + '%' }"></div>
+                            </div>
+                            <div class="mt-1">{{ channel.descriptionCoverage }}%</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
     
     <script>
@@ -104,16 +167,41 @@
             data: {
                 channels: [],
                 updateTime: '',
-                epgUrl: ''
+                epgUrl: '',
+                channelOrder: []
             },
             mounted() {
-                this.epgUrl = window.location.origin + '/epg.xml';
+                // 使用GitHub raw地址
+                this.epgUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml';
+                this.loadChannelOrder();
                 this.loadEpgData();
-                // 每5分钟自动刷新数据
-                setInterval(this.loadEpgData, 5 * 60 * 1000);
             },
             methods: {
+                loadChannelOrder() {
+                    // 从1.txt加载频道顺序
+                    fetch('1.txt')
+                        .then(response => response.text())
+                        .then(text => {
+                            this.channelOrder = text.split('\n')
+                                .map(line => line.trim())
+                                .filter(line => line.length > 0);
+                        })
+                        .catch(() => {
+                            // 如果失败，使用GitHub raw地址加载
+                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/1.txt')
+                                .then(response => response.text())
+                                .then(text => {
+                                    this.channelOrder = text.split('\n')
+                                        .map(line => line.trim())
+                                        .filter(line => line.length > 0);
+                                })
+                                .catch(error => {
+                                    console.error('Error loading channel order:', error);
+                                });
+                        });
+                },
                 loadEpgData() {
+                    // 尝试从相对路径加载（本地测试）
                     fetch('epg.xml')
                         .then(response => response.text())
                         .then(xmlText => {
@@ -122,8 +210,19 @@
                             this.parseEpgData(xmlDoc);
                             this.updateTime = new Date().toLocaleString();
                         })
-                        .catch(error => {
-                            console.error('Error loading EPG data:', error);
+                        .catch(() => {
+                            // 如果失败，尝试从GitHub raw地址加载
+                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml')
+                                .then(response => response.text())
+                                .then(xmlText => {
+                                    const parser = new DOMParser();
+                                    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                                    this.parseEpgData(xmlDoc);
+                                    this.updateTime = new Date().toLocaleString();
+                                })
+                                .catch(error => {
+                                    console.error('Error loading EPG data:', error);
+                                });
                         });
                 },
                 parseEpgData(xmlDoc) {
@@ -137,17 +236,9 @@
                         const channelElement = channelElements[i];
                         const id = channelElement.getAttribute('id');
                         
-                        // 获取频道名称和别名
+                        // 获取频道名称
                         const displayNames = channelElement.getElementsByTagName('display-name');
                         const name = displayNames[0] ? displayNames[0].textContent : '';
-                        const aliases = [];
-                        
-                        for (let j = 1; j < displayNames.length; j++) {
-                            const alias = displayNames[j].textContent;
-                            if (alias && alias !== name) {
-                                aliases.push(alias);
-                            }
-                        }
                         
                         // 查找该频道的所有节目
                         const programmes = [];
@@ -180,13 +271,27 @@
                         channels.push({
                             id,
                             name,
-                            aliases,
                             lastProgramTime,
                             descriptionCoverage
                         });
                     }
                     
-                    this.channels = channels;
+                    // 按照1.txt中的顺序排序频道
+                    this.channels = this.sortChannels(channels);
+                },
+                sortChannels(channels) {
+                    // 创建频道名称到排序位置的映射
+                    const nameToIndex = {};
+                    this.channelOrder.forEach((name, index) => {
+                        nameToIndex[name] = index;
+                    });
+                    
+                    // 排序频道
+                    return channels.sort((a, b) => {
+                        const indexA = nameToIndex[a.name] !== undefined ? nameToIndex[a.name] : 999999;
+                        const indexB = nameToIndex[b.name] !== undefined ? nameToIndex[b.name] : 999999;
+                        return indexA - indexB;
+                    });
                 },
                 formatTime(timeStr) {
                     if (!timeStr) return '';
@@ -197,6 +302,13 @@
                     const hour = timeStr.substring(8, 10);
                     const minute = timeStr.substring(10, 12);
                     return `${year}-${month}-${day} ${hour}:${minute}`;
+                },
+                getCoverageClass(coverage) {
+                    if (coverage >= 100) return 'coverage-100';
+                    if (coverage >= 75) return 'coverage-75';
+                    if (coverage >= 50) return 'coverage-50';
+                    if (coverage >= 25) return 'coverage-25';
+                    return 'coverage-0';
                 }
             }
         });

@@ -1,0 +1,32 @@
+name: EPG Update
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'epg.xml'
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Verify epg.xml exists
+        run: ls -la epg.xml
+
+      - name: Update last modified timestamp
+        run: |
+          # This step ensures that the workflow runs when epg.xml changes
+          # The actual data is loaded dynamically by the webpage
+          echo "EPG updated at $(date)" >> epg-last-updated.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add epg-last-updated.txt
+          git commit -m "Update EPG timestamp" || echo "No changes to commit"
+          git push

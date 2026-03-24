@@ -445,106 +445,25 @@
             methods: {
                 loadEpgData() {
                     // 尝试从相对路径加载（本地测试）
-                    fetch('epg.xml')
-                        .then(response => response.text())
-                        .then(xmlText => {
-                            const parser = new DOMParser();
-                            const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-                            this.parseEpgData(xmlDoc);
-                            this.updateTime = new Date().toLocaleString();
+                    fetch('epg_data.json')
+                        .then(response => response.json())
+                        .then(data => {
+                            this.channels = data.channels;
+                            this.updateTime = new Date(data.updateTime * 1000).toLocaleString();
                         })
                         .catch(() => {
                             // 如果失败，尝试从GitHub raw地址加载
-                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml')
-                                .then(response => response.text())
-                                .then(xmlText => {
-                                    const parser = new DOMParser();
-                                    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
-                                    this.parseEpgData(xmlDoc);
-                                    this.updateTime = new Date().toLocaleString();
+                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json')
+                                .then(response => response.json())
+                                .then(data => {
+                                    this.channels = data.channels;
+                                    this.updateTime = new Date(data.updateTime * 1000).toLocaleString();
                                 })
                                 .catch(error => {
                                     console.error('Error loading EPG data:', error);
+                                    this.updateTime = new Date().toLocaleString();
                                 });
                         });
-                },
-                parseEpgData(xmlDoc) {
-                    const channelElements = xmlDoc.getElementsByTagName('channel');
-                    const programmeElements = xmlDoc.getElementsByTagName('programme');
-                    
-                    // 构建频道数据
-                    const channels = [];
-                    
-                    for (let i = 0; i < channelElements.length; i++) {
-                        const channelElement = channelElements[i];
-                        const id = channelElement.getAttribute('id');
-                        
-                        // 获取频道名称
-                        const displayNames = channelElement.getElementsByTagName('display-name');
-                        const name = displayNames[0] ? displayNames[0].textContent : '';
-                        
-                        // 查找该频道的所有节目
-                        const programmes = [];
-                        for (let k = 0; k < programmeElements.length; k++) {
-                            const programme = programmeElements[k];
-                            if (programme.getAttribute('channel') === id) {
-                                programmes.push(programme);
-                            }
-                        }
-                        
-                        // 计算最后节目时间
-                        let lastProgramTime = '';
-                        if (programmes.length > 0) {
-                            // 按结束时间排序，取最后一个
-                            programmes.sort((a, b) => {
-                                const stopA = a.getAttribute('stop');
-                                const stopB = b.getAttribute('stop');
-                                return stopB.localeCompare(stopA);
-                            });
-                            lastProgramTime = this.formatTime(programmes[0].getAttribute('stop'));
-                        }
-                        
-                        // 计算节目描述覆盖率
-                        let descriptionCoverage = 0;
-                        if (programmes.length > 0) {
-                            const programmesWithDesc = programmes.filter(p => p.getElementsByTagName('desc').length > 0);
-                            descriptionCoverage = Math.round((programmesWithDesc.length / programmes.length) * 100);
-                        }
-                        
-                        channels.push({
-                            id,
-                            name,
-                            lastProgramTime,
-                            descriptionCoverage
-                        });
-                    }
-                    
-                    // 按照1.txt中的顺序排序频道
-                    this.channels = this.sortChannels(channels);
-                },
-                sortChannels(channels) {
-                    // 创建频道名称到排序位置的映射
-                    const nameToIndex = {};
-                    this.channelOrder.forEach((name, index) => {
-                        nameToIndex[name] = index;
-                    });
-                    
-                    // 排序频道
-                    return channels.sort((a, b) => {
-                        const indexA = nameToIndex[a.name] !== undefined ? nameToIndex[a.name] : 999999;
-                        const indexB = nameToIndex[b.name] !== undefined ? nameToIndex[b.name] : 999999;
-                        return indexA - indexB;
-                    });
-                },
-                formatTime(timeStr) {
-                    if (!timeStr) return '';
-                    // 格式：20260321010000 +0800
-                    const year = timeStr.substring(0, 4);
-                    const month = timeStr.substring(4, 6);
-                    const day = timeStr.substring(6, 8);
-                    const hour = timeStr.substring(8, 10);
-                    const minute = timeStr.substring(10, 12);
-                    return `${year}-${month}-${day} ${hour}:${minute}`;
                 },
                 getCoverageClass(coverage) {
                     if (coverage >= 100) return 'coverage-100';

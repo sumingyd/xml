@@ -2,6 +2,7 @@
 import xml.etree.ElementTree as ET
 import json
 import os
+import time
 
 # 解析epg.xml文件
 tree = ET.parse('epg.xml')
@@ -72,7 +73,7 @@ channels.sort(key=lambda c: name_to_index.get(c['name'], 999999))
 with open('epg_data.json', 'w', encoding='utf-8') as f:
     json.dump({
         'channels': channels,
-        'updateTime': os.path.getmtime('epg.xml')
+        'updateTime': time.time()
     }, f, ensure_ascii=False, indent=2)
 
 print('Coverage calculation completed.')

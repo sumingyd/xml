@@ -1,0 +1,1175 @@
+{
+  "channels": [
+    {
+      "id": "CCTV1",
+      "name": "CCTV-1 综合",
+      "lastProgramTime": "2026-03-28 00:51",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV2",
+      "name": "CCTV-2 财经",
+      "lastProgramTime": "2026-03-28 00:01",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV3",
+      "name": "CCTV-3 综艺",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV4",
+      "name": "CCTV-4 中文",
+      "lastProgramTime": "2026-03-28 00:34",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV5",
+      "name": "CCTV-5 体育",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV5+",
+      "name": "CCTV-5+ 体育赛事",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV6",
+      "name": "CCTV-6 电影",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV7",
+      "name": "CCTV-7 国防军事",
+      "lastProgramTime": "2026-03-28 00:25",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV8",
+      "name": "CCTV-8 电视剧",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV9",
+      "name": "CCTV-9 纪录",
+      "lastProgramTime": "2026-03-28 00:31",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV10",
+      "name": "CCTV-10 科教",
+      "lastProgramTime": "2026-03-28 00:25",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV11",
+      "name": "CCTV-11 戏曲",
+      "lastProgramTime": "2026-03-28 00:26",
+      "descriptionCoverage": 99
+    },
+    {
+      "id": "CCTV12",
+      "name": "CCTV-12 社会与法",
+      "lastProgramTime": "2026-03-28 00:13",
+      "descriptionCoverage": 100
+    },
+    {
+      "id": "CCTV13",
+      "name": "CCTV-13 新闻",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 28
+    },
+    {
+      "id": "CCTV14",
+      "name": "CCTV-14 少儿",
+      "lastProgramTime": "2026-03-28 06:00",
+      "descriptionCoverage": 4
+    },
+    {
+      "id": "CCTV15",
+      "name": "CCTV-15 音乐",
+      "lastProgramTime": "2026-03-28 00:42",
+      "descriptionCoverage": 24
+    },
+    {
+      "id": "CCTV17",
+      "name": "CCTV-17 农业农村",
+      "lastProgramTime": "2026-03-28 00:09",
+      "descriptionCoverage": 16
+    },
+    {
+      "id": "湖南卫视",
+      "name": "湖南卫视",
+      "lastProgramTime": "2026-03-28 00:54",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "浙江卫视",
+      "name": "浙江卫视",
+      "lastProgramTime": "2026-03-28 00:27",
+      "descriptionCoverage": 21
+    },
+    {
+      "id": "江苏卫视",
+      "name": "江苏卫视",
+      "lastProgramTime": "2026-03-28 00:26",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "东方卫视",
+      "name": "东方卫视",
+      "lastProgramTime": "2026-03-25 00:13",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "北京卫视",
+      "name": "北京卫视",
+      "lastProgramTime": "2026-03-28 00:21",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "安徽卫视",
+      "name": "安徽卫视",
+      "lastProgramTime": "2026-03-28 00:59",
+      "descriptionCoverage": 15
+    },
+    {
+      "id": "山东卫视",
+      "name": "山东卫视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "天津卫视",
+      "name": "天津卫视",
+      "lastProgramTime": "2026-03-25 01:20",
+      "descriptionCoverage": 47
+    },
+    {
+      "id": "辽宁卫视",
+      "name": "辽宁卫视",
+      "lastProgramTime": "2026-03-24 22:00",
+      "descriptionCoverage": 23
+    },
+    {
+      "id": "深圳卫视",
+      "name": "深圳卫视",
+      "lastProgramTime": "2026-03-28 00:12",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "湖北卫视",
+      "name": "湖北卫视",
+      "lastProgramTime": "2026-03-28 00:20",
+      "descriptionCoverage": 36
+    },
+    {
+      "id": "广东卫视",
+      "name": "广东卫视",
+      "lastProgramTime": "2026-03-28 01:35",
+      "descriptionCoverage": 26
+    },
+    {
+      "id": "东南卫视",
+      "name": "东南卫视",
+      "lastProgramTime": "2026-03-28 00:02",
+      "descriptionCoverage": 15
+    },
+    {
+      "id": "黑龙江卫视",
+      "name": "黑龙江卫视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 6
+    },
+    {
+      "id": "重庆卫视",
+      "name": "重庆卫视",
+      "lastProgramTime": "2026-03-24 22:50",
+      "descriptionCoverage": 16
+    },
+    {
+      "id": "四川卫视",
+      "name": "四川卫视",
+      "lastProgramTime": "2026-03-24 22:30",
+      "descriptionCoverage": 17
+    },
+    {
+      "id": "江西卫视",
+      "name": "江西卫视",
+      "lastProgramTime": "2026-03-25 00:29",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "河南卫视",
+      "name": "河南卫视",
+      "lastProgramTime": "2026-03-28 00:12",
+      "descriptionCoverage": 34
+    },
+    {
+      "id": "河北卫视",
+      "name": "河北卫视",
+      "lastProgramTime": "2026-03-25 00:25",
+      "descriptionCoverage": 9
+    },
+    {
+      "id": "贵州卫视",
+      "name": "贵州卫视",
+      "lastProgramTime": "2026-03-25 00:00",
+      "descriptionCoverage": 24
+    },
+    {
+      "id": "海南卫视",
+      "name": "海南卫视",
+      "lastProgramTime": "2026-03-25 00:00",
+      "descriptionCoverage": 27
+    },
+    {
+      "id": "广西卫视",
+      "name": "广西卫视",
+      "lastProgramTime": "2026-03-28 00:06",
+      "descriptionCoverage": 17
+    },
+    {
+      "id": "山西卫视",
+      "name": "山西卫视",
+      "lastProgramTime": "2026-03-28 00:44",
+      "descriptionCoverage": 29
+    },
+    {
+      "id": "吉林卫视",
+      "name": "吉林卫视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 6
+    },
+    {
+      "id": "云南卫视",
+      "name": "云南卫视",
+      "lastProgramTime": "2026-03-25 00:06",
+      "descriptionCoverage": 27
+    },
+    {
+      "id": "陕西卫视",
+      "name": "陕西卫视",
+      "lastProgramTime": "2026-03-25 01:26",
+      "descriptionCoverage": 17
+    },
+    {
+      "id": "内蒙古卫视",
+      "name": "内蒙古卫视",
+      "lastProgramTime": "2026-03-28 00:05",
+      "descriptionCoverage": 20
+    },
+    {
+      "id": "宁夏卫视",
+      "name": "宁夏卫视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 15
+    },
+    {
+      "id": "新疆卫视",
+      "name": "新疆卫视",
+      "lastProgramTime": "2026-03-28 00:14",
+      "descriptionCoverage": 29
+    },
+    {
+      "id": "甘肃卫视",
+      "name": "甘肃卫视",
+      "lastProgramTime": "2026-03-24 23:30",
+      "descriptionCoverage": 13
+    },
+    {
+      "id": "青海卫视",
+      "name": "青海卫视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "西藏卫视",
+      "name": "西藏卫视",
+      "lastProgramTime": "2026-03-28 00:32",
+      "descriptionCoverage": 35
+    },
+    {
+      "id": "兵团卫视",
+      "name": "兵团卫视",
+      "lastProgramTime": "2026-03-28 00:53",
+      "descriptionCoverage": 18
+    },
+    {
+      "id": "三沙卫视",
+      "name": "三沙卫视",
+      "lastProgramTime": "2026-03-25 00:15",
+      "descriptionCoverage": 12
+    },
+    {
+      "id": "农林卫视",
+      "name": "农林卫视",
+      "lastProgramTime": "2026-03-28 00:30",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "厦门卫视",
+      "name": "厦门卫视",
+      "lastProgramTime": "2026-03-28 00:05",
+      "descriptionCoverage": 5
+    },
+    {
+      "id": "延边卫视",
+      "name": "延边卫视",
+      "lastProgramTime": "2026-03-28 00:30",
+      "descriptionCoverage": 6
+    },
+    {
+      "id": "金鹰卡通",
+      "name": "金鹰卡通",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 6
+    },
+    {
+      "id": "卡酷少儿",
+      "name": "卡酷少儿",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "CHC家庭影院",
+      "name": "CHC家庭影院",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 1
+    },
+    {
+      "id": "CHC动作电影",
+      "name": "CHC动作电影",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "CHC影迷电影",
+      "name": "CHC影迷电影",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 1
+    },
+    {
+      "id": "精彩影视",
+      "name": "精彩影视",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "都市剧场",
+      "name": "都市剧场",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "金鹰纪实",
+      "name": "金鹰纪实",
+      "lastProgramTime": "2026-03-25 00:00",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "北京纪实科教",
+      "name": "北京纪实科教",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 3
+    },
+    {
+      "id": "法治天地",
+      "name": "法治天地",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "中国教育1",
+      "name": "中国教育-1",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 21
+    },
+    {
+      "id": "中学生",
+      "name": "中学生",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "中国教育4",
+      "name": "中国教育-4",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 4
+    },
+    {
+      "id": "求索纪录",
+      "name": "求索纪录",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "游戏风云",
+      "name": "游戏风云",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "生活时尚",
+      "name": "生活时尚",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "动漫秀场",
+      "name": "动漫秀场",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "财富天下",
+      "name": "财富天下",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "中国交通",
+      "name": "中国交通",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 3
+    },
+    {
+      "id": "乐游",
+      "name": "乐游",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "快乐垂钓",
+      "name": "快乐垂钓",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "四海钓鱼",
+      "name": "四海钓鱼",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "文物宝库",
+      "name": "文物宝库",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "梨园",
+      "name": "梨园",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "武术世界",
+      "name": "武术世界",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "汽摩",
+      "name": "汽摩",
+      "lastProgramTime": "2026-03-26 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "海洋频道",
+      "name": "海洋频道",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "环球旅游",
+      "name": "环球旅游",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "生态环境",
+      "name": "生态环境",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "茶",
+      "name": "茶",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "金色学堂",
+      "name": "金色学堂",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "书画",
+      "name": "书画",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "优漫卡通",
+      "name": "优漫卡通",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 1
+    },
+    {
+      "id": "新动漫",
+      "name": "新动漫",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 13
+    },
+    {
+      "id": "嘉佳卡通",
+      "name": "嘉佳卡通",
+      "lastProgramTime": "2026-03-28 00:02",
+      "descriptionCoverage": 65
+    },
+    {
+      "id": "优优宝贝",
+      "name": "优优宝贝",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "中国教育2",
+      "name": "中国教育-2",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "中华特产",
+      "name": "中华特产",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "CCTV4美洲",
+      "name": "CCTV-4 美洲",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 77
+    },
+    {
+      "id": "CCTV4欧洲",
+      "name": "CCTV-4 欧洲",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 77
+    },
+    {
+      "id": "CGTN",
+      "name": "CGTN",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 3
+    },
+    {
+      "id": "CGTN纪录",
+      "name": "CGTN英文纪录",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 16
+    },
+    {
+      "id": "CGTN西语",
+      "name": "CGTN西班牙语",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 9
+    },
+    {
+      "id": "CGTN法语",
+      "name": "CGTN法语",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "CGTN俄语",
+      "name": "CGTN俄语",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "CGTN阿语",
+      "name": "CGTN阿拉伯语",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 15
+    },
+    {
+      "id": "山东齐鲁",
+      "name": "山东齐鲁",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 5
+    },
+    {
+      "id": "山东综艺",
+      "name": "山东综艺",
+      "lastProgramTime": "2026-03-25 00:42",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "山东体育",
+      "name": "山东体育",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 18
+    },
+    {
+      "id": "山东生活",
+      "name": "山东生活",
+      "lastProgramTime": "2026-03-25 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "山东文旅",
+      "name": "山东文旅",
+      "lastProgramTime": "2026-03-25 00:34",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "山东农科",
+      "name": "山东农科",
+      "lastProgramTime": "2026-03-25 00:23",
+      "descriptionCoverage": 13
+    },
+    {
+      "id": "山东少儿",
+      "name": "山东少儿",
+      "lastProgramTime": "2026-03-25 00:01",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "山东教育",
+      "name": "山东教育卫视",
+      "lastProgramTime": "2026-03-28 00:35",
+      "descriptionCoverage": 38
+    },
+    {
+      "id": "居家购物",
+      "name": "居家购物",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "济南新闻",
+      "name": "济南新闻综合",
+      "lastProgramTime": "2026-03-28 07:30",
+      "descriptionCoverage": 16
+    },
+    {
+      "id": "济南生活",
+      "name": "济南生活",
+      "lastProgramTime": "2026-03-28 00:15",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "济南都市",
+      "name": "济南都市",
+      "lastProgramTime": "2026-03-28 06:58",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "济南娱乐",
+      "name": "济南娱乐",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 8
+    },
+    {
+      "id": "济南体育",
+      "name": "济南文旅体育",
+      "lastProgramTime": "2026-03-28 06:42",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "济南教育",
+      "name": "济南教育",
+      "lastProgramTime": "2026-03-28 09:00",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "济南少儿",
+      "name": "济南少儿",
+      "lastProgramTime": "2026-03-28 07:02",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "济南鲁中",
+      "name": "济南鲁中",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 20
+    },
+    {
+      "id": "青岛QTV-1",
+      "name": "青岛QTV-1",
+      "lastProgramTime": "2026-03-25 00:16",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "青岛QTV-2",
+      "name": "青岛QTV-2",
+      "lastProgramTime": "2026-03-25 05:43",
+      "descriptionCoverage": 8
+    },
+    {
+      "id": "青岛QTV-3",
+      "name": "青岛QTV-3",
+      "lastProgramTime": "2026-03-24 21:04",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "青岛QTV-4",
+      "name": "青岛QTV-4",
+      "lastProgramTime": "2026-03-25 05:22",
+      "descriptionCoverage": 5
+    },
+    {
+      "id": "青岛QTV-5",
+      "name": "青岛QTV-5",
+      "lastProgramTime": "2026-03-25 06:05",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "烟台新闻",
+      "name": "烟台新闻综合",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "烟台经济",
+      "name": "烟台经济科技",
+      "lastProgramTime": "2026-03-28 01:10",
+      "descriptionCoverage": 3
+    },
+    {
+      "id": "烟台公共",
+      "name": "烟台公共",
+      "lastProgramTime": "2026-03-28 00:20",
+      "descriptionCoverage": 4
+    },
+    {
+      "id": "潍坊新闻综合",
+      "name": "潍坊新闻综合",
+      "lastProgramTime": "2026-03-25 05:35",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "潍坊经济生活",
+      "name": "潍坊经济生活",
+      "lastProgramTime": "2026-03-25 05:35",
+      "descriptionCoverage": 9
+    },
+    {
+      "id": "潍坊公共",
+      "name": "潍坊公共",
+      "lastProgramTime": "2026-03-25 05:31",
+      "descriptionCoverage": 21
+    },
+    {
+      "id": "潍坊科教文化",
+      "name": "潍坊科教文化",
+      "lastProgramTime": "2026-03-25 00:00",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "济宁综合",
+      "name": "济宁综合",
+      "lastProgramTime": "2026-03-28 06:59",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "济宁生活",
+      "name": "济宁生活",
+      "lastProgramTime": "2026-03-28 06:50",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "济宁公共",
+      "name": "济宁公共",
+      "lastProgramTime": "2026-03-28 01:30",
+      "descriptionCoverage": 12
+    },
+    {
+      "id": "济宁高新",
+      "name": "济宁高新",
+      "lastProgramTime": "2026-03-28 07:10",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "淄博新闻综合",
+      "name": "淄博新闻综合",
+      "lastProgramTime": "2026-03-28 05:00",
+      "descriptionCoverage": 15
+    },
+    {
+      "id": "淄博影视",
+      "name": "淄博影视",
+      "lastProgramTime": "2026-03-28 05:30",
+      "descriptionCoverage": 17
+    },
+    {
+      "id": "淄博民生",
+      "name": "淄博民生",
+      "lastProgramTime": "2026-03-28 05:00",
+      "descriptionCoverage": 14
+    },
+    {
+      "id": "淄博文旅",
+      "name": "淄博文旅",
+      "lastProgramTime": "2026-03-28 05:00",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "聊城综合",
+      "name": "聊城综合",
+      "lastProgramTime": "2026-03-28 06:00",
+      "descriptionCoverage": 20
+    },
+    {
+      "id": "聊城民生",
+      "name": "聊城民生",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "威海新闻",
+      "name": "威海新闻综合",
+      "lastProgramTime": "2026-03-28 06:29",
+      "descriptionCoverage": 11
+    },
+    {
+      "id": "德州新闻",
+      "name": "德州新闻综合",
+      "lastProgramTime": "2026-03-25 07:00",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "德州生活",
+      "name": "德州经济生活",
+      "lastProgramTime": "2026-03-25 07:30",
+      "descriptionCoverage": 0
+    },
+    {
+      "id": "东营新闻",
+      "name": "东营新闻综合",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "东营公共",
+      "name": "东营公共",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "日照新闻",
+      "name": "日照新闻综合",
+      "lastProgramTime": "2026-03-28 00:05",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "日照公共",
+      "name": "日照公共",
+      "lastProgramTime": "2026-03-28 00:15",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "日照科教",
+      "name": "日照科教",
+      "lastProgramTime": "2026-03-28 00:10",
+      "descriptionCoverage": 12
+    },
+    {
+      "id": "滨州新闻",
+      "name": "滨州新闻综合",
+      "lastProgramTime": "2026-03-28 06:29",
+      "descriptionCoverage": 29
+    },
+    {
+      "id": "滨州民生",
+      "name": "滨州民生",
+      "lastProgramTime": "2026-03-28 06:29",
+      "descriptionCoverage": 34
+    },
+    {
+      "id": "菏泽-1",
+      "name": "菏泽-1",
+      "lastProgramTime": "2026-03-28 06:00",
+      "descriptionCoverage": 25
+    },
+    {
+      "id": "菏泽-2",
+      "name": "菏泽-2",
+      "lastProgramTime": "2026-03-28 00:21",
+      "descriptionCoverage": 4
+    },
+    {
+      "id": "历城综合",
+      "name": "历城综合",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 5
+    },
+    {
+      "id": "济阳综合",
+      "name": "济阳综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 33
+    },
+    {
+      "id": "商河综合",
+      "name": "商河综合",
+      "lastProgramTime": "2026-03-28 06:30",
+      "descriptionCoverage": 11
+    },
+    {
+      "id": "黄岛综合",
+      "name": "黄岛综合",
+      "lastProgramTime": "2026-03-28 06:30",
+      "descriptionCoverage": 6
+    },
+    {
+      "id": "黄岛生活",
+      "name": "黄岛生活",
+      "lastProgramTime": "2026-03-28 06:54",
+      "descriptionCoverage": 29
+    },
+    {
+      "id": "崂山综合",
+      "name": "崂山综合",
+      "lastProgramTime": "2026-03-28 06:50",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "胶州综合",
+      "name": "胶州综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 14
+    },
+    {
+      "id": "平度综合",
+      "name": "平度综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 41
+    },
+    {
+      "id": "莱西综合",
+      "name": "莱西综合",
+      "lastProgramTime": "2026-03-28 00:50",
+      "descriptionCoverage": 7
+    },
+    {
+      "id": "张店综合",
+      "name": "张店综合",
+      "lastProgramTime": "2026-03-27 23:59",
+      "descriptionCoverage": 28
+    },
+    {
+      "id": "周村新闻",
+      "name": "周村新闻",
+      "lastProgramTime": "2026-03-28 06:55",
+      "descriptionCoverage": 20
+    },
+    {
+      "id": "桓台综合",
+      "name": "桓台综合",
+      "lastProgramTime": "2026-03-28 06:00",
+      "descriptionCoverage": 3
+    },
+    {
+      "id": "龙口综合",
+      "name": "龙口综合",
+      "lastProgramTime": "2026-03-28 06:30",
+      "descriptionCoverage": 5
+    },
+    {
+      "id": "招远综合",
+      "name": "招远综合",
+      "lastProgramTime": "2026-03-28 00:20",
+      "descriptionCoverage": 18
+    },
+    {
+      "id": "长岛综合",
+      "name": "长岛综合",
+      "lastProgramTime": "2026-03-28 00:36",
+      "descriptionCoverage": 18
+    },
+    {
+      "id": "昌乐综合",
+      "name": "昌乐综合",
+      "lastProgramTime": "2026-03-28 06:25",
+      "descriptionCoverage": 21
+    },
+    {
+      "id": "兖州新闻",
+      "name": "兖州新闻",
+      "lastProgramTime": "2026-03-28 00:10",
+      "descriptionCoverage": 44
+    },
+    {
+      "id": "曲阜综合",
+      "name": "曲阜综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 26
+    },
+    {
+      "id": "邹城综合",
+      "name": "邹城综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 33
+    },
+    {
+      "id": "鱼台综合",
+      "name": "鱼台综合",
+      "lastProgramTime": "2026-03-28 06:55",
+      "descriptionCoverage": 16
+    },
+    {
+      "id": "鱼台生活",
+      "name": "鱼台生活",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 10
+    },
+    {
+      "id": "任城综合",
+      "name": "任城综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 27
+    },
+    {
+      "id": "任城生活",
+      "name": "任城生活",
+      "lastProgramTime": "2026-03-28 06:59",
+      "descriptionCoverage": 11
+    },
+    {
+      "id": "岱岳综合",
+      "name": "岱岳综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 25
+    },
+    {
+      "id": "泰山综合",
+      "name": "泰山综合",
+      "lastProgramTime": "2026-03-28 06:59",
+      "descriptionCoverage": 24
+    },
+    {
+      "id": "河东综合",
+      "name": "河东综合",
+      "lastProgramTime": "2026-03-27 23:59",
+      "descriptionCoverage": 51
+    },
+    {
+      "id": "兰陵综合",
+      "name": "兰陵综合",
+      "lastProgramTime": "2026-03-28 07:01",
+      "descriptionCoverage": 17
+    },
+    {
+      "id": "兰陵公共",
+      "name": "兰陵公共",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 23
+    },
+    {
+      "id": "沂水综合",
+      "name": "沂水综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 37
+    },
+    {
+      "id": "沂水生活",
+      "name": "沂水生活",
+      "lastProgramTime": "2026-03-28 06:59",
+      "descriptionCoverage": 28
+    },
+    {
+      "id": "陵城综合",
+      "name": "陵城综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 23
+    },
+    {
+      "id": "禹城综合",
+      "name": "禹城综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "禹城综艺",
+      "name": "禹城综艺",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "武城综合",
+      "name": "武城综合",
+      "lastProgramTime": "2026-03-27 22:12",
+      "descriptionCoverage": 58
+    },
+    {
+      "id": "齐河综合",
+      "name": "齐河综合",
+      "lastProgramTime": "2026-03-28 06:30",
+      "descriptionCoverage": 11
+    },
+    {
+      "id": "临清综合",
+      "name": "临清综合",
+      "lastProgramTime": "2026-03-28 07:00",
+      "descriptionCoverage": 32
+    },
+    {
+      "id": "莘县综合",
+      "name": "莘县综合",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 61
+    },
+    {
+      "id": "冠县综合",
+      "name": "冠县综合",
+      "lastProgramTime": "2026-03-28 07:30",
+      "descriptionCoverage": 49
+    },
+    {
+      "id": "惠民综合",
+      "name": "惠民综合",
+      "lastProgramTime": "2026-03-28 06:30",
+      "descriptionCoverage": 25
+    },
+    {
+      "id": "沾化综合",
+      "name": "沾化综合",
+      "lastProgramTime": "2026-03-23 06:30",
+      "descriptionCoverage": 22
+    },
+    {
+      "id": "定陶综合",
+      "name": "定陶综合",
+      "lastProgramTime": "2026-03-28 00:05",
+      "descriptionCoverage": 11
+    },
+    {
+      "id": "威海海洋生活",
+      "name": "威海海洋生活",
+      "lastProgramTime": "2026-03-28 06:00",
+      "descriptionCoverage": 2
+    },
+    {
+      "id": "五莲新闻",
+      "name": "五莲新闻",
+      "lastProgramTime": "2026-03-28 00:05",
+      "descriptionCoverage": 19
+    },
+    {
+      "id": "央广购物",
+      "name": "央广购物",
+      "lastProgramTime": "2026-03-28 00:00",
+      "descriptionCoverage": 0
+    }
+  ],
+  "updateTime": 1774362046.3850853
+}

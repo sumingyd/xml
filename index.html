@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EPG频道信息</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+        .header {
+            background: linear-gradient(135deg, #3498db 0%, #2c3e50 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0;
+            font-weight: 700;
+            font-size: 2.5rem;
+        }
+        .header p {
+            margin: 10px 0 0;
+            opacity: 0.9;
+        }
+        .btn {
+            border-radius: 8px;
+            padding: 10px 20px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        .info-card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+        }
+        .info-item {
+            display: inline-block;
+            margin-right: 30px;
+        }
+        .info-item strong {
+            color: #3498db;
+        }
+        .table-container {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+        }
+        .table {
+            margin: 0;
+        }
+        .table th {
+            background-color: #3498db;
+            color: white;
+            font-weight: 600;
+            text-align: center;
+            vertical-align: middle;
+            padding: 15px;
+        }
+        .table td {
+            padding: 12px 15px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .table tbody tr:hover {
+            background-color: #f8f9ff;
+        }
+        .coverage-bar {
+            width: 100%;
+            height: 8px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .coverage-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #27ae60, #229954);
+            transition: width 0.3s ease;
+        }
+        .coverage-100 .coverage-fill {
+            background: linear-gradient(90deg, #27ae60, #1e8449);
+        }
+        .coverage-75 .coverage-fill {
+            background: linear-gradient(90deg, #2ecc71, #27ae60);
+        }
+        .coverage-50 .coverage-fill {
+            background: linear-gradient(90deg, #f39c12, #e67e22);
+        }
+        .coverage-25 .coverage-fill {
+            background: linear-gradient(90deg, #e67e22, #c0392b);
+        }
+        .coverage-0 .coverage-fill {
+            background: linear-gradient(90deg, #e74c3c, #c0392b);
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="app">
+        <div class="header">
+            <h1>EPG频道信息</h1>
+            <div class="mt-4">
+                <a href="epg.xml" download class="btn btn-light">下载EPG.xml</a>
+                <div class="mt-3">
+                    <strong>调用地址：</strong>
+                    <code>{{ epgUrl }}</code>
+                </div>
+            </div>
+        </div>
+        
+        <div class="info-card">
+            <div class="info-item">
+                <strong>更新时间：</strong>{{ updateTime }}
+            </div>
+            <div class="info-item">
+                <strong>频道数量：</strong>{{ channels.length }}
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>频道ID</th>
+                        <th>频道名</th>
+                        <th>最后节目时间</th>
+                        <th>节目描述覆盖率</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="channel in channels" :key="channel.id">
+                        <td>{{ channel.id }}</td>
+                        <td>{{ channel.name }}</td>
+                        <td>{{ channel.lastProgramTime }}</td>
+                        <td>
+                            <div class="coverage-bar" :class="getCoverageClass(channel.descriptionCoverage)">
+                                <div class="coverage-fill" :style="{ width: channel.descriptionCoverage + '%' }"></div>
+                            </div>
+                            <div class="mt-1">{{ channel.descriptionCoverage }}%</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+                channels: [],
+                updateTime: '',
+                epgUrl: '',
+                channelOrder: [
+                    'CCTV-1 综合',
+                    'CCTV-2 财经',
+                    'CCTV-3 综艺',
+                    'CCTV-4 中文',
+                    'CCTV-5 体育',
+                    'CCTV-5+ 体育赛事',
+                    'CCTV-6 电影',
+                    'CCTV-7 国防军事',
+                    'CCTV-8 电视剧',
+                    'CCTV-9 纪录',
+                    'CCTV-10 科教',
+                    'CCTV-11 戏曲',
+                    'CCTV-12 社会与法',
+                    'CCTV-13 新闻',
+                    'CCTV-14 少儿',
+                    'CCTV-15 音乐',
+                    'CCTV-17 农业农村',
+                    '湖南卫视',
+                    '浙江卫视',
+                    '江苏卫视',
+                    '东方卫视',
+                    '北京卫视',
+                    '安徽卫视',
+                    '山东卫视',
+                    '天津卫视',
+                    '辽宁卫视',
+                    '深圳卫视',
+                    '湖北卫视',
+                    '广东卫视',
+                    '东南卫视',
+                    '黑龙江卫视',
+                    '重庆卫视',
+                    '四川卫视',
+                    '江西卫视',
+                    '河南卫视',
+                    '河北卫视',
+                    '贵州卫视',
+                    '海南卫视',
+                    '广西卫视',
+                    '山西卫视',
+                    '吉林卫视',
+                    '云南卫视',
+                    '陕西卫视',
+                    '内蒙古卫视',
+                    '宁夏卫视',
+                    '新疆卫视',
+                    '甘肃卫视',
+                    '青海卫视',
+                    '西藏卫视',
+                    '兵团卫视',
+                    '三沙卫视',
+                    '农林卫视',
+                    '厦门卫视',
+                    '延边卫视',
+                    'CCTV-4K 超高清',
+                    '湖南卫视-4K',
+                    '浙江卫视-4K',
+                    '江苏卫视-4K',
+                    '东方卫视-4K',
+                    '北京卫视-4K',
+                    '广东卫视-4K',
+                    '深圳卫视-4K',
+                    '山东卫视-4K',
+                    '四川卫视-4K',
+                    '金鹰卡通',
+                    '卡酷少儿',
+                    'CHC家庭影院',
+                    'CHC动作电影',
+                    'CHC影迷电影',
+                    '精彩影视',
+                    '都市剧场',
+                    '金鹰纪实',
+                    '北京纪实科教',
+                    '法治天地',
+                    '中国教育-1',
+                    '中学生',
+                    '中国教育-4',
+                    '求索纪录',
+                    '游戏风云',
+                    '生活时尚',
+                    '动漫秀场',
+                    '东方财经',
+                    '财富天下',
+                    '中国交通',
+                    '乐游',
+                    '快乐垂钓',
+                    '四海钓鱼',
+                    '文物宝库',
+                    '梨园',
+                    '武术世界',
+                    '汽摩',
+                    '海洋频道',
+                    '环球旅游',
+                    '生态环境',
+                    '茶',
+                    '金色学堂',
+                    '书画',
+                    '优漫卡通',
+                    '新动漫',
+                    '嘉佳卡通',
+                    '优优宝贝',
+                    '中国教育-2',
+                    '中华特产',
+                    '重温经典影视',
+                    'CCTV-4 美洲',
+                    'CCTV-4 欧洲',
+                    'CGTN',
+                    'CGTN英文纪录',
+                    'CGTN西班牙语',
+                    'CGTN法语',
+                    'CGTN俄语',
+                    'CGTN阿拉伯语',
+                    '山东齐鲁',
+                    '山东新闻',
+                    '山东综艺',
+                    '山东体育',
+                    '山东生活',
+                    '山东文旅',
+                    '山东农科',
+                    '山东少儿',
+                    '山东教育卫视',
+                    '居家购物',
+                    '济南新闻综合',
+                    '济南生活',
+                    '济南都市',
+                    '济南娱乐',
+                    '济南文旅体育',
+                    '济南教育',
+                    '济南少儿',
+                    '济南鲁中',
+                    '青岛QTV-1',
+                    '青岛QTV-2',
+                    '青岛QTV-3',
+                    '青岛QTV-4',
+                    '青岛QTV-5',
+                    '烟台新闻综合',
+                    '烟台经济科技',
+                    '烟台影视',
+                    '烟台公共',
+                    '潍坊新闻综合',
+                    '潍坊经济生活',
+                    '潍坊公共',
+                    '潍坊科教文化',
+                    '潍坊高新区',
+                    '济宁综合',
+                    '济宁生活',
+                    '济宁公共',
+                    '济宁高新',
+                    '淄博新闻综合',
+                    '淄博影视',
+                    '淄博民生',
+                    '淄博文旅',
+                    '聊城综合',
+                    '聊城民生',
+                    '威海新闻综合',
+                    '威海都市生活',
+                    '德州新闻综合',
+                    '德州经济生活',
+                    '东营新闻综合',
+                    '东营公共',
+                    '日照新闻综合',
+                    '日照公共',
+                    '日照科教',
+                    '滨州新闻综合',
+                    '滨州民生',
+                    '菏泽-1',
+                    '菏泽-2',
+                    '历城综合',
+                    '济阳综合',
+                    '长清综合',
+                    '平阴综合',
+                    '商河综合',
+                    '黄岛综合',
+                    '黄岛生活',
+                    '崂山综合',
+                    '胶州综合',
+                    '平度综合',
+                    '莱西综合',
+                    '张店综合',
+                    '淄川新闻',
+                    '周村新闻',
+                    '桓台综合',
+                    '高青综合',
+                    '沂源综合',
+                    '广饶综合',
+                    '龙口综合',
+                    '招远综合',
+                    '蓬莱综合',
+                    '栖霞综合',
+                    '海阳综合',
+                    '海阳综艺',
+                    '长岛综合',
+                    '牟平综合',
+                    '牟平生活',
+                    '青州综合',
+                    '青州文化旅游',
+                    '诸城综合',
+                    '寿光综合',
+                    '寿光蔬菜',
+                    '安丘综合',
+                    '高密综合',
+                    '昌邑综合',
+                    '昌乐综合',
+                    '兖州新闻',
+                    '曲阜综合',
+                    '邹城综合',
+                    '鱼台综合',
+                    '鱼台生活',
+                    '嘉祥综合',
+                    '汶上综合',
+                    '梁山综合',
+                    '任城综合',
+                    '任城生活',
+                    '新泰综合',
+                    '新泰乡村',
+                    '肥城综合',
+                    '宁阳综合',
+                    '宁阳生活',
+                    '东平综合',
+                    '岱岳综合',
+                    '泰山综合',
+                    '文登综合',
+                    '荣成综合',
+                    '乳山综合',
+                    '岚山综合',
+                    '莒县综合',
+                    '五莲综合',
+                    '河东综合',
+                    '兰陵综合',
+                    '兰陵公共',
+                    '沂水综合',
+                    '沂水生活',
+                    '莒南综合',
+                    '蒙阴综合',
+                    '临沭综合',
+                    '陵城综合',
+                    '禹城综合',
+                    '禹城综艺',
+                    '临邑综合',
+                    '平原综合',
+                    '夏津综合',
+                    '夏津公共',
+                    '武城综合',
+                    '宁津综合',
+                    '齐河综合',
+                    '东昌综合',
+                    '临清综合',
+                    '莘县综合',
+                    '茌平综合',
+                    '东阿综合',
+                    '冠县综合',
+                    '惠民综合',
+                    '阳信综合',
+                    '无棣综合',
+                    '沾化综合',
+                    '邹平综合',
+                    '定陶综合',
+                    '单县综合',
+                    '巨野新闻',
+                    '郓城综合',
+                    '鄄城综合',
+                    '东明综合',
+                    '临朐综合',
+                    '山东综合广播',
+                    '山东经济广播',
+                    '山东交通广播'
+                ]
+            },
+            mounted() {
+                // 使用GitHub raw地址
+                this.epgUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml';
+                this.loadEpgData();
+            },
+            methods: {
+                loadEpgData() {
+                    // 尝试从相对路径加载（本地测试）
+                    fetch('epg.xml')
+                        .then(response => response.text())
+                        .then(xmlText => {
+                            const parser = new DOMParser();
+                            const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                            this.parseEpgData(xmlDoc);
+                            this.updateTime = new Date().toLocaleString();
+                        })
+                        .catch(() => {
+                            // 如果失败，尝试从GitHub raw地址加载
+                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml')
+                                .then(response => response.text())
+                                .then(xmlText => {
+                                    const parser = new DOMParser();
+                                    const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+                                    this.parseEpgData(xmlDoc);
+                                    this.updateTime = new Date().toLocaleString();
+                                })
+                                .catch(error => {
+                                    console.error('Error loading EPG data:', error);
+                                });
+                        });
+                },
+                parseEpgData(xmlDoc) {
+                    const channelElements = xmlDoc.getElementsByTagName('channel');
+                    const programmeElements = xmlDoc.getElementsByTagName('programme');
+                    
+                    // 构建频道数据
+                    const channels = [];
+                    
+                    for (let i = 0; i < channelElements.length; i++) {
+                        const channelElement = channelElements[i];
+                        const id = channelElement.getAttribute('id');
+                        
+                        // 获取频道名称
+                        const displayNames = channelElement.getElementsByTagName('display-name');
+                        const name = displayNames[0] ? displayNames[0].textContent : '';
+                        
+                        // 查找该频道的所有节目
+                        const programmes = [];
+                        for (let k = 0; k < programmeElements.length; k++) {
+                            const programme = programmeElements[k];
+                            if (programme.getAttribute('channel') === id) {
+                                programmes.push(programme);
+                            }
+                        }
+                        
+                        // 计算最后节目时间
+                        let lastProgramTime = '';
+                        if (programmes.length > 0) {
+                            // 按结束时间排序，取最后一个
+                            programmes.sort((a, b) => {
+                                const stopA = a.getAttribute('stop');
+                                const stopB = b.getAttribute('stop');
+                                return stopB.localeCompare(stopA);
+                            });
+                            lastProgramTime = this.formatTime(programmes[0].getAttribute('stop'));
+                        }
+                        
+                        // 计算节目描述覆盖率
+                        let descriptionCoverage = 0;
+                        if (programmes.length > 0) {
+                            const programmesWithDesc = programmes.filter(p => p.getElementsByTagName('desc').length > 0);
+                            descriptionCoverage = Math.round((programmesWithDesc.length / programmes.length) * 100);
+                        }
+                        
+                        channels.push({
+                            id,
+                            name,
+                            lastProgramTime,
+                            descriptionCoverage
+                        });
+                    }
+                    
+                    // 按照1.txt中的顺序排序频道
+                    this.channels = this.sortChannels(channels);
+                },
+                sortChannels(channels) {
+                    // 创建频道名称到排序位置的映射
+                    const nameToIndex = {};
+                    this.channelOrder.forEach((name, index) => {
+                        nameToIndex[name] = index;
+                    });
+                    
+                    // 排序频道
+                    return channels.sort((a, b) => {
+                        const indexA = nameToIndex[a.name] !== undefined ? nameToIndex[a.name] : 999999;
+                        const indexB = nameToIndex[b.name] !== undefined ? nameToIndex[b.name] : 999999;
+                        return indexA - indexB;
+                    });
+                },
+                formatTime(timeStr) {
+                    if (!timeStr) return '';
+                    // 格式：20260321010000 +0800
+                    const year = timeStr.substring(0, 4);
+                    const month = timeStr.substring(4, 6);
+                    const day = timeStr.substring(6, 8);
+                    const hour = timeStr.substring(8, 10);
+                    const minute = timeStr.substring(10, 12);
+                    return `${year}-${month}-${day} ${hour}:${minute}`;
+                },
+                getCoverageClass(coverage) {
+                    if (coverage >= 100) return 'coverage-100';
+                    if (coverage >= 75) return 'coverage-75';
+                    if (coverage >= 50) return 'coverage-50';
+                    if (coverage >= 25) return 'coverage-25';
+                    return 'coverage-0';
+                }
+            }
+        });
+    </script>
+</body>
+</html>

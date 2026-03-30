@@ -3,6 +3,10 @@ name: EPG Update
 permissions:
   contents: write
 
+concurrency:
+  group: epg-update
+  cancel-in-progress: false
+
 on:
   push:
     branches:

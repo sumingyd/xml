@@ -454,8 +454,9 @@
             },
             methods: {
                 loadEpgData() {
+                    const timestamp = Date.now();
                     // 尝试从相对路径加载（本地测试）
-                    fetch('epg_data.json')
+                    fetch('epg_data.json?t=' + timestamp)
                         .then(response => response.json())
                         .then(data => {
                             this.channels = data.channels;
@@ -463,7 +464,7 @@
                         })
                         .catch(() => {
                             // 如果失败，尝试从GitHub raw地址加载
-                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json')
+                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json?t=' + timestamp)
                                 .then(response => response.json())
                                 .then(data => {
                                     this.channels = data.channels;

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-合并当天EPG数据到完整EPG文件
+合并当天及未来EPG数据到完整EPG文件
 
 由GitHub Actions工作流调用，将epg_today.xml合并到epg.xml中：
-1. 从epg.xml中移除当天的旧节目（被新数据替换）
-2. 添加当天新节目
+1. 从epg.xml中移除当天及未来的旧节目（被新数据替换）
+2. 添加新节目
 3. 清理过期数据
 4. 移除空频道
 """
@@ -37,7 +37,7 @@ def merge_epg():
         epg_tree = ET.parse(epg_file)
         epg_root = epg_tree.getroot()
     except Exception as e:
-        print(f"epg.xml 解析失败: {e}，使用当天数据替换")
+        print(f"epg.xml 解析失败: {e}，使用新数据替换")
         tree = ET.parse(today_file)
         ET.indent(tree, space='  ')
         tree.write(epg_file, encoding='utf-8', xml_declaration=True)
@@ -49,13 +49,13 @@ def merge_epg():
     to_remove = []
     for programme in epg_root.findall('programme'):
         start = programme.get('start', '')
-        if len(start) >= 8 and start[:8] == today:
+        if len(start) >= 8 and start[:8] >= today:
             to_remove.append(programme)
 
     for programme in to_remove:
         epg_root.remove(programme)
 
-    print(f"从epg.xml中移除了 {len(to_remove)} 个当天的旧节目")
+    print(f"从epg.xml中移除了 {len(to_remove)} 个当天及未来的旧节目")
 
     existing_channel_ids = set()
     for channel in epg_root.findall('channel'):
@@ -77,7 +77,7 @@ def merge_epg():
         epg_root.append(programme)
         added_programmes += 1
 
-    print(f"添加了 {added_programmes} 个当天节目")
+    print(f"添加了 {added_programmes} 个当天及未来节目")
 
     cutoff = (datetime.now() - timedelta(days=HISTORY_DAYS + 1)).strftime('%Y%m%d%H%M%S')
     old_to_remove = []

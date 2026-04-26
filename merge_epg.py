@@ -46,17 +46,10 @@ def merge_epg():
     today_tree = ET.parse(today_file)
     today_root = today_tree.getroot()
 
-    today_channel_ids = set()
-    for channel in today_root.findall('channel'):
-        ch_id = channel.get('id', '')
-        if ch_id:
-            today_channel_ids.add(ch_id)
-
     to_remove = []
     for programme in epg_root.findall('programme'):
         start = programme.get('start', '')
-        channel_id = programme.get('channel', '')
-        if len(start) >= 8 and start[:8] == today and channel_id in today_channel_ids:
+        if len(start) >= 8 and start[:8] == today:
             to_remove.append(programme)
 
     for programme in to_remove:

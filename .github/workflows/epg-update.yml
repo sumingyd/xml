@@ -12,31 +12,37 @@ on:
     branches:
       - main
     paths:
-      - 'epg.xml'
+      - 'epg_today.xml'
 
 jobs:
   update-epg:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Verify epg.xml exists
-        run: ls -la epg.xml
+      - name: Verify epg_today.xml exists
+        run: test -f epg_today.xml
+
+      - name: Merge today's data into epg.xml
+        run: python merge_epg.py
 
       - name: Calculate coverage and generate data
-        run: |
-          python calculate_coverage.py
+        run: python calculate_coverage.py
 
       - name: Compress epg.xml
-        run: |
-          gzip -c epg.xml > epg.xml.gz
+        run: gzip -c epg.xml > epg.xml.gz
+
+      - name: Update timestamp
+        run: date -u +"%Y-%m-%dT%H:%M:%SZ" > epg-last-updated.txt
 
       - name: Configure git and push changes
         run: |
           git config user.name 'github-actions'
           git config user.email 'github-actions@github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git add epg_data.json epg.xml.gz
+          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt
+          git rm -f epg_today.xml
           git commit -m "Update EPG data and compress epg.xml" || echo "No changes to commit"
           git push

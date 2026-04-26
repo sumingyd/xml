@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 import os
 import sys
 
-HISTORY_DAYS = 3
+HISTORY_DAYS = 7
 
 
 def merge_epg():

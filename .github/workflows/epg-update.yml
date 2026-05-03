@@ -12,7 +12,7 @@ on:
     branches:
       - main
     paths:
-      - 'epg_today.xml'
+      - 'days/**'
 
 jobs:
   update-epg:
@@ -22,10 +22,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Verify epg_today.xml exists
-        run: test -f epg_today.xml
-
-      - name: Merge today's data into epg.xml
+      - name: Merge all day files into epg.xml
         run: python merge_epg.py
 
       - name: Calculate coverage and generate data
@@ -42,7 +39,6 @@ jobs:
           git config user.name 'github-actions'
           git config user.email 'github-actions@github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt
-          git rm -f epg_today.xml
-          git commit -m "Update EPG data and compress epg.xml" || echo "No changes to commit"
+          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt days/
+          git commit -m "Update EPG data" || echo "No changes to commit"
           git push

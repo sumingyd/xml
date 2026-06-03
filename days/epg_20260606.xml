@@ -1,0 +1,38 @@
+<tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="优购物"><display-name lang="zh">优购物</display-name>
+  </channel>
+  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
+  </channel>
+  <channel id="CCTV发现之旅"><display-name lang="zh">CCTV发现之旅</display-name><display-name lang="zh">CCTV-发现之旅</display-name><display-name lang="zh">发现之旅</display-name><display-name lang="zh">央视发现之旅</display-name>
+  </channel>
+  <channel id="中医药"><display-name lang="zh">中医药</display-name><display-name lang="zh">中医药</display-name>
+  </channel>
+  <channel id="滨城TV"><display-name lang="zh">滨城TV</display-name>
+  </channel>
+  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
+  </channel>
+  <channel id="现代女性"><display-name lang="zh">现代女性</display-name><display-name lang="zh">现代女性</display-name>
+  </channel>
+  <channel id="时尚购物"><display-name lang="zh">时尚购物</display-name>
+  </channel>
+  <channel id="环球奇观"><display-name lang="zh">环球奇观</display-name>
+  </channel>
+  <programme start="20260606000000 +0800" stop="20260606001000 +0800" channel="中医药"><title lang="zh">腰养有道(20)</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606003000 +0800" channel="CCTV发现之旅"><title lang="zh">发现汇</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606005800 +0800" channel="现代女性"><title lang="zh">印想瑜伽</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606003000 +0800" channel="环球奇观"><title lang="zh">功夫季:经络拍打操(6)</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606004000 +0800" channel="聚鲨环球精选"><title lang="zh">购物节目</title><category lang="zh">电视剧</category><desc>以电视为媒介，集商品宣传、销售为一体的无店铺零售节目形态，1992年在中国首次出现。节目通常由主持人、厂商代表或购物专家通过产品展示、功能讲解、限时优惠等方式推销商品，观众通过电话、扫描二维码等方式下单购买。按运营模式分为专业的居家购物频道（如东方购物、快乐购）和在卫视频道广告时段播出的购物短片广告。</desc>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606010000 +0800" channel="优购物"><title lang="zh">优购物精选</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606010000 +0800" channel="时尚购物"><title lang="zh">时尚购精品</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606003000 +0800" channel="中视购物"><title lang="zh">流行嘉年华</title><category lang="zh">other</category>
+  </programme>
+  <programme start="20260606000000 +0800" stop="20260606070000 +0800" channel="滨城TV"><title lang="zh">再见</title><category lang="zh">电视剧</category><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
+  </programme>
+</tv>

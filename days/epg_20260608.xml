@@ -1,0 +1,50 @@
+<tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="环球奇观"><display-name lang="zh">环球奇观</display-name>
+  </channel>
+  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
+  </channel>
+  <channel id="时尚购物"><display-name lang="zh">时尚购物</display-name>
+  </channel>
+  <channel id="金色学堂"><display-name lang="zh">金色学堂</display-name><display-name lang="zh">金色学堂</display-name><display-name lang="zh">CHANNEL00002018</display-name>
+  </channel>
+  <channel id="山东体育"><display-name lang="zh">山东体育</display-name><display-name lang="zh">山东体育</display-name><display-name lang="zh">CHANNEL00000315</display-name><display-name lang="zh">山东体育休闲</display-name>
+  </channel>
+  <channel id="优购物"><display-name lang="zh">优购物</display-name>
+  </channel>
+  <channel id="CCTV发现之旅"><display-name lang="zh">CCTV发现之旅</display-name><display-name lang="zh">CCTV-发现之旅</display-name><display-name lang="zh">发现之旅</display-name><display-name lang="zh">央视发现之旅</display-name>
+  </channel>
+  <channel id="中医药"><display-name lang="zh">中医药</display-name><display-name lang="zh">中医药</display-name>
+  </channel>
+  <channel id="滨城TV"><display-name lang="zh">滨城TV</display-name>
+  </channel>
+  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
+  </channel>
+  <channel id="现代女性"><display-name lang="zh">现代女性</display-name><display-name lang="zh">现代女性</display-name>
+  </channel>
+  <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
+  </channel>
+  <programme start="20260608000000 +0800" stop="20260608013000 +0800" channel="山东体育"><title lang="zh">巅峰赛事</title><category lang="zh">电视剧</category><desc>国内赛事重点转播中超、CBA,利用CSPN成员台当地体育资源的优势,同时段播出本省球队的比赛。</desc>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608004000 +0800" channel="陕西卫视"><title lang="zh">延安游击队</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608002000 +0800" channel="金色学堂"><title lang="zh">大医来了:焦虑障碍≠想太多</title><category lang="zh">电视剧</category><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608001000 +0800" channel="中医药"><title lang="zh">腰养有道(22)</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608003000 +0800" channel="CCTV发现之旅"><title lang="zh">发现汇</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608005800 +0800" channel="现代女性"><title lang="zh">印想瑜伽</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608003000 +0800" channel="环球奇观"><title lang="zh">功夫季:太极基本功(1)</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608004000 +0800" channel="聚鲨环球精选"><title lang="zh">中科溯源泰禾堂东甲陈皮皇</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608010000 +0800" channel="优购物"><title lang="zh">优购物精选</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608010000 +0800" channel="时尚购物"><title lang="zh">时尚购精品</title><category lang="zh">电视剧</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608003000 +0800" channel="中视购物"><title lang="zh">流行嘉年华</title><category lang="zh">other</category>
+  </programme>
+  <programme start="20260608000000 +0800" stop="20260608070000 +0800" channel="滨城TV"><title lang="zh">再见</title><category lang="zh">电视剧</category><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
+  </programme>
+</tv>

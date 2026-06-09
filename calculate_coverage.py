@@ -68,13 +68,10 @@ for channel in root.findall('channel'):
             curr_stop = today_programmes[i].get('stop', '')
             next_start = today_programmes[i + 1].get('start', '')
             if curr_stop and next_start:
-                curr_min = int(curr_stop[:12])
-                next_min = int(next_start[:12])
-                if next_min > curr_min:
-                    gap_minutes = (next_min - curr_min)
-                    gap_h = gap_minutes // 10000
-                    gap_m = gap_minutes % 10000
-                    total_min = gap_h * 60 + gap_m // 100
+                curr_total = int(curr_stop[8:10]) * 60 + int(curr_stop[10:12])
+                next_total = int(next_start[8:10]) * 60 + int(next_start[10:12])
+                if next_total > curr_total:
+                    total_min = next_total - curr_total
                     if total_min >= 5:
                         gaps.append(total_min)
                         gap_list.append({

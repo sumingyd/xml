@@ -15,6 +15,13 @@ root = tree.getroot()
 today = datetime.now().strftime('%Y%m%d')
 tomorrow = (datetime.now() + timedelta(days=1)).strftime('%Y%m%d')
 
+
+def _fmt_time(t):
+    if not t or len(t) < 12:
+        return ''
+    return f"{t[8:10]}:{t[10:12]}"
+
+
 channels = []
 
 for channel in root.findall('channel'):
@@ -52,6 +59,7 @@ for channel in root.findall('channel'):
 
     has_gap = False
     gap_details = ''
+    gap_list = []
     if len(today_programmes) >= 2:
         today_programmes.sort(key=lambda p: p.get('start', ''))
         gaps = []
@@ -68,9 +76,27 @@ for channel in root.findall('channel'):
                     total_min = gap_h * 60 + gap_m // 100
                     if total_min >= 5:
                         gaps.append(total_min)
+                        gap_list.append({
+                            'after': _fmt_time(curr_stop),
+                            'before': _fmt_time(next_start),
+                            'minutes': total_min
+                        })
         if gaps:
             has_gap = True
             gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"
+
+    today_schedule = []
+    for p in today_programmes:
+        start = p.get('start', '')
+        stop = p.get('stop', '')
+        title_el = p.find('title')
+        desc_el = p.find('desc')
+        today_schedule.append({
+            'start': _fmt_time(start),
+            'stop': _fmt_time(stop),
+            'title': title_el.text if title_el is not None else '',
+            'desc': desc_el.text if desc_el is not None else ''
+        })
 
     channels.append({
         'id': channel_id,
@@ -79,7 +105,9 @@ for channel in root.findall('channel'):
         'lastProgramTime': last_program_time,
         'descriptionCoverage': description_coverage,
         'hasGap': has_gap,
-        'gapDetails': gap_details
+        'gapDetails': gap_details,
+        'gapList': gap_list,
+        'todaySchedule': today_schedule
     })
 
 channels.sort(key=lambda c: get_sort_key(c['name']))

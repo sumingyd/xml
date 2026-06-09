@@ -16,13 +16,11 @@
             --text: #e2e8f0;
             --text-dim: #64748b;
             --accent: #6366f1;
-            --accent-glow: rgba(99,102,241,0.15);
             --green: #22c55e;
             --green-dim: rgba(34,197,94,0.12);
             --red: #ef4444;
             --red-dim: rgba(239,68,68,0.12);
             --orange: #f59e0b;
-            --orange-dim: rgba(245,158,11,0.12);
             --radius: 12px;
         }
         body {
@@ -120,12 +118,19 @@
         .stat-value.accent { color: var(--accent); }
         .stat-value.green { color: var(--green); }
         .stat-value.red { color: var(--red); }
+        .stat-value.qq { color: #a5b4fc; font-size: 1.3rem; }
 
-        .category-nav {
+        .filter-bar {
             display: flex; gap: 8px; flex-wrap: wrap;
             margin-bottom: 24px;
+            align-items: center;
         }
-        .cat-btn {
+        .filter-bar .sep {
+            width: 1px; height: 24px;
+            background: var(--border);
+            margin: 0 4px;
+        }
+        .cat-btn, .gap-btn {
             padding: 6px 16px;
             border-radius: 20px;
             font-size: 0.8rem; font-weight: 500;
@@ -135,8 +140,9 @@
             cursor: pointer;
             transition: all 0.2s;
         }
-        .cat-btn:hover { border-color: var(--accent); color: var(--text); }
+        .cat-btn:hover, .gap-btn:hover { border-color: var(--accent); color: var(--text); }
         .cat-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+        .gap-btn.active { background: var(--surface-2); border-color: var(--accent); color: #a5b4fc; }
 
         .table-wrap {
             background: var(--surface);
@@ -155,9 +161,7 @@
             padding: 14px 16px;
             text-align: left;
             border-bottom: 1px solid var(--border);
-            position: sticky;
-            top: 0;
-            z-index: 2;
+            position: sticky; top: 0; z-index: 2;
         }
         thead th.center { text-align: center; }
         tbody td {
@@ -167,25 +171,14 @@
             vertical-align: middle;
         }
         tbody tr { transition: background 0.15s; }
-        tbody tr:hover { background: rgba(99,102,241,0.04); }
+        tbody tr.row-data { cursor: pointer; }
+        tbody tr.row-data:hover { background: rgba(99,102,241,0.06); }
         .td-center { text-align: center; }
-        .td-index {
-            color: var(--text-dim);
-            font-size: 0.78rem;
-            font-weight: 500;
-            width: 50px;
-            text-align: center;
-        }
-        .td-id {
-            font-family: 'SF Mono', 'Fira Code', monospace;
-            font-size: 0.78rem;
-            color: var(--text-dim);
-        }
+        .td-index { color: var(--text-dim); font-size: 0.78rem; font-weight: 500; width: 50px; text-align: center; }
+        .td-id { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.78rem; color: var(--text-dim); }
         .td-name { font-weight: 500; }
 
-        .cat-group-header {
-            background: var(--surface-2);
-        }
+        .cat-group-header { background: var(--surface-2); }
         .cat-group-header td {
             padding: 10px 16px;
             font-size: 0.82rem;
@@ -194,56 +187,76 @@
             border-bottom: 1px solid var(--border);
             border-left: 3px solid var(--accent);
         }
-        .cat-count {
-            font-weight: 400;
-            color: var(--text-dim);
-            margin-left: 8px;
-        }
+        .cat-count { font-weight: 400; color: var(--text-dim); margin-left: 8px; }
 
-        .badge {
-            display: inline-flex; align-items: center;
-            padding: 3px 10px;
-            border-radius: 6px;
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
+        .badge { display: inline-flex; align-items: center; padding: 3px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 600; }
         .badge-ok { background: var(--green-dim); color: var(--green); }
         .badge-warn { background: var(--red-dim); color: var(--red); }
 
         .coverage-wrap { display: flex; align-items: center; gap: 10px; }
-        .coverage-track {
-            flex: 1;
-            height: 6px;
-            background: rgba(255,255,255,0.06);
-            border-radius: 3px;
-            overflow: hidden;
-            min-width: 60px;
-        }
-        .coverage-fill {
-            height: 100%;
-            border-radius: 3px;
-            transition: width 0.4s ease;
-        }
+        .coverage-track { flex: 1; height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; min-width: 60px; }
+        .coverage-fill { height: 100%; border-radius: 3px; transition: width 0.4s ease; }
         .fill-green { background: linear-gradient(90deg, #22c55e, #16a34a); }
         .fill-lime { background: linear-gradient(90deg, #84cc16, #65a30d); }
         .fill-orange { background: linear-gradient(90deg, #f59e0b, #d97706); }
         .fill-red { background: linear-gradient(90deg, #ef4444, #dc2626); }
-        .coverage-pct {
-            font-size: 0.78rem;
-            font-weight: 600;
-            min-width: 38px;
-            text-align: right;
-        }
+        .coverage-pct { font-size: 0.78rem; font-weight: 600; min-width: 38px; text-align: right; }
         .pct-green { color: var(--green); }
         .pct-lime { color: #84cc16; }
         .pct-orange { color: var(--orange); }
         .pct-red { color: var(--red); }
 
-        .empty-state {
-            text-align: center;
-            padding: 60px 20px;
-            color: var(--text-dim);
+        .empty-state { text-align: center; padding: 60px 20px; color: var(--text-dim); }
+
+        .overlay {
+            position: fixed; inset: 0;
+            background: rgba(0,0,0,0.6);
+            backdrop-filter: blur(4px);
+            z-index: 100;
+            display: flex; align-items: center; justify-content: center;
+            padding: 20px;
         }
+        .modal {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            width: 100%; max-width: 640px; max-height: 85vh;
+            display: flex; flex-direction: column;
+            box-shadow: 0 24px 48px rgba(0,0,0,0.4);
+        }
+        .modal-head {
+            padding: 24px 28px 16px;
+            border-bottom: 1px solid var(--border);
+            display: flex; justify-content: space-between; align-items: flex-start;
+        }
+        .modal-title { font-size: 1.15rem; font-weight: 700; }
+        .modal-cat { font-size: 0.78rem; color: #a5b4fc; margin-top: 4px; }
+        .modal-close {
+            background: none; border: none; color: var(--text-dim);
+            font-size: 1.5rem; cursor: pointer; padding: 0 4px; line-height: 1;
+        }
+        .modal-close:hover { color: var(--text); }
+        .modal-meta {
+            padding: 16px 28px;
+            display: flex; gap: 20px; flex-wrap: wrap;
+            border-bottom: 1px solid var(--border);
+        }
+        .meta-item { font-size: 0.82rem; color: var(--text-dim); }
+        .meta-item strong { color: var(--text); margin-right: 4px; }
+        .modal-body { padding: 16px 28px 24px; overflow-y: auto; flex: 1; }
+        .modal-body::-webkit-scrollbar { width: 6px; }
+        .modal-body::-webkit-scrollbar-track { background: transparent; }
+        .modal-body::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+        .gap-section { margin-bottom: 20px; }
+        .gap-section-title { font-size: 0.82rem; font-weight: 600; color: var(--red); margin-bottom: 10px; }
+        .gap-item { background: var(--red-dim); border-radius: 8px; padding: 10px 14px; margin-bottom: 6px; font-size: 0.82rem; color: var(--red); }
+        .schedule-title { font-size: 0.82rem; font-weight: 600; color: var(--text-dim); margin-bottom: 10px; }
+        .sched-item { display: flex; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.82rem; }
+        .sched-item:last-child { border-bottom: none; }
+        .sched-time { font-family: 'SF Mono', 'Fira Code', monospace; color: var(--accent); white-space: nowrap; min-width: 100px; }
+        .sched-info { flex: 1; }
+        .sched-name { font-weight: 500; color: var(--text); }
+        .sched-desc { color: var(--text-dim); font-size: 0.78rem; margin-top: 3px; line-height: 1.4; }
 
         @media (max-width: 768px) {
             .page { padding: 20px 12px 60px; }
@@ -252,6 +265,8 @@
             .stats { grid-template-columns: repeat(2, 1fr); gap: 10px; }
             thead th, tbody td { padding: 8px 10px; font-size: 0.78rem; }
             .coverage-track { min-width: 40px; }
+            .modal { max-width: 100%; }
+            .modal-head, .modal-meta, .modal-body { padding-left: 20px; padding-right: 20px; }
         }
     </style>
 </head>
@@ -290,14 +305,22 @@
                 <div class="stat-value red">{{ gapCount }}</div>
             </div>
             <div class="stat-card">
+                <div class="stat-label">QQ群</div>
+                <div class="stat-value qq">757694351</div>
+            </div>
+            <div class="stat-card">
                 <div class="stat-label">更新时间</div>
                 <div class="stat-value" style="font-size:1rem;margin-top:4px">{{ updateTime }}</div>
             </div>
         </div>
 
-        <div class="category-nav">
+        <div class="filter-bar">
             <button class="cat-btn" :class="{ active: activeCategory === 'all' }" @click="activeCategory='all'">全部</button>
             <button class="cat-btn" :class="{ active: activeCategory === cat }" v-for="cat in availableCategories" :key="cat" @click="activeCategory=cat">{{ cat }}</button>
+            <div class="sep"></div>
+            <button class="gap-btn" :class="{ active: gapFilter === 'all' }" @click="gapFilter='all'">全部频道</button>
+            <button class="gap-btn" :class="{ active: gapFilter === 'ok' }" @click="gapFilter='ok'">无断层</button>
+            <button class="gap-btn" :class="{ active: gapFilter === 'gap' }" @click="gapFilter='gap'">有断层</button>
         </div>
 
         <div class="table-wrap">
@@ -317,7 +340,7 @@
                         <tr class="cat-group-header" :key="'h'+gIndex">
                             <td colspan="6">{{ group.category }}<span class="cat-count">{{ group.channels.length }} 频道</span></td>
                         </tr>
-                        <tr v-for="ch in group.channels" :key="ch.id">
+                        <tr v-for="ch in group.channels" :key="ch.id" class="row-data" @click="openDetail(ch)">
                             <td class="td-index">{{ ch.globalIndex }}</td>
                             <td class="td-id">{{ ch.id }}</td>
                             <td class="td-name">{{ ch.name }}</td>
@@ -336,11 +359,49 @@
                             </td>
                         </tr>
                     </template>
-                    <tr v-if="filteredGroups.length === 0">
-                        <td colspan="6" class="empty-state">暂无频道数据</td>
+                    <tr v-if="filteredGroups.length === 0 || totalFiltered === 0">
+                        <td colspan="6" class="empty-state">暂无匹配频道</td>
                     </tr>
                 </tbody>
             </table>
+        </div>
+
+        <div class="overlay" v-if="detailChannel" @click.self="detailChannel=null">
+            <div class="modal">
+                <div class="modal-head">
+                    <div>
+                        <div class="modal-title">{{ detailChannel.name }}</div>
+                        <div class="modal-cat">{{ detailChannel.category }} · ID: {{ detailChannel.id }}</div>
+                    </div>
+                    <button class="modal-close" @click="detailChannel=null">&times;</button>
+                </div>
+                <div class="modal-meta">
+                    <div class="meta-item"><strong>最后节目</strong>{{ detailChannel.lastProgramTime }}</div>
+                    <div class="meta-item"><strong>描述覆盖</strong>{{ detailChannel.descriptionCoverage }}%</div>
+                    <div class="meta-item">
+                        <strong>今日断层</strong>
+                        <span v-if="detailChannel.hasGap" style="color:var(--red)">{{ detailChannel.gapDetails }}</span>
+                        <span v-else style="color:var(--green)">无</span>
+                    </div>
+                    <div class="meta-item"><strong>今日节目</strong>{{ detailChannel.todaySchedule.length }}个</div>
+                </div>
+                <div class="modal-body">
+                    <div class="gap-section" v-if="detailChannel.gapList && detailChannel.gapList.length">
+                        <div class="gap-section-title">断层详情</div>
+                        <div class="gap-item" v-for="(g, gi) in detailChannel.gapList" :key="gi">
+                            {{ g.after }} → {{ g.before }}，间隔 {{ g.minutes }} 分钟
+                        </div>
+                    </div>
+                    <div class="schedule-title">今日节目单</div>
+                    <div class="sched-item" v-for="(s, si) in detailChannel.todaySchedule" :key="si">
+                        <div class="sched-time">{{ s.start }}-{{ s.stop }}</div>
+                        <div class="sched-info">
+                            <div class="sched-name">{{ s.title }}</div>
+                            <div class="sched-desc" v-if="s.desc">{{ s.desc }}</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -352,12 +413,14 @@
                 updateTime: '',
                 epgUrl: '',
                 epgGzUrl: '',
-                activeCategory: 'all'
+                activeCategory: 'all',
+                gapFilter: 'all',
+                detailChannel: null
             },
             computed: {
-                noGapCount() { return this.channels.filter(c => !c.hasGap).length; },
-                gapCount() { return this.channels.filter(c => c.hasGap).length; },
-                groupedChannels() {
+                noGapCount: function() { return this.channels.filter(function(c) { return !c.hasGap; }).length; },
+                gapCount: function() { return this.channels.filter(function(c) { return c.hasGap; }).length; },
+                groupedChannels: function() {
                     var order = ['央视', '卫视', '4K超高清', '付费', '国际', '省级', '市级', '县级', '其他'];
                     var groups = {};
                     order.forEach(function(c) { groups[c] = []; });
@@ -370,21 +433,36 @@
                     return order.filter(function(c) { return groups[c] && groups[c].length > 0; })
                         .map(function(c) { return { category: c, channels: groups[c] }; });
                 },
-                availableCategories() {
+                availableCategories: function() {
                     return this.groupedChannels.map(function(g) { return g.category; });
                 },
-                filteredGroups() {
-                    if (this.activeCategory === 'all') return this.groupedChannels;
-                    return this.groupedChannels.filter(function(g) { return g.category === this.activeCategory; }.bind(this));
+                filteredGroups: function() {
+                    var gf = this.gapFilter;
+                    var groups = this.groupedChannels;
+                    if (this.activeCategory !== 'all') {
+                        groups = groups.filter(function(g) { return g.category === this.activeCategory; }.bind(this));
+                    }
+                    return groups.map(function(g) {
+                        var chs = g.channels;
+                        if (gf === 'ok') chs = chs.filter(function(c) { return !c.hasGap; });
+                        else if (gf === 'gap') chs = chs.filter(function(c) { return c.hasGap; });
+                        return { category: g.category, channels: chs };
+                    }).filter(function(g) { return g.channels.length > 0; });
+                },
+                totalFiltered: function() {
+                    return this.filteredGroups.reduce(function(s, g) { return s + g.channels.length; }, 0);
                 }
             },
-            mounted() {
+            mounted: function() {
                 this.epgUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml';
                 this.epgGzUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml.gz';
                 this.loadEpgData();
+                document.addEventListener('keydown', this.onKey);
             },
+            beforeDestroy: function() { document.removeEventListener('keydown', this.onKey); },
             methods: {
-                loadEpgData() {
+                onKey: function(e) { if (e.key === 'Escape') this.detailChannel = null; },
+                loadEpgData: function() {
                     var ts = Date.now();
                     var self = this;
                     fetch('epg_data.json?t=' + ts)
@@ -403,18 +481,19 @@
                                 .catch(function() { self.updateTime = new Date().toLocaleString(); });
                         });
                 },
-                fillClass(v) {
+                fillClass: function(v) {
                     if (v >= 75) return 'fill-green';
                     if (v >= 50) return 'fill-lime';
                     if (v >= 25) return 'fill-orange';
                     return 'fill-red';
                 },
-                pctClass(v) {
+                pctClass: function(v) {
                     if (v >= 75) return 'pct-green';
                     if (v >= 50) return 'pct-lime';
                     if (v >= 25) return 'pct-orange';
                     return 'pct-red';
-                }
+                },
+                openDetail: function(ch) { this.detailChannel = ch; }
             }
         });
     </script>

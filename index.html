@@ -177,6 +177,7 @@
         .td-index { color: var(--text-dim); font-size: 0.78rem; font-weight: 500; width: 50px; text-align: center; }
         .td-id { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.78rem; color: var(--text-dim); }
         .td-name { font-weight: 500; }
+        .td-hint { font-size: 0.7rem; color: var(--text-dim); opacity: 0.6; margin-left: 6px; }
 
         .cat-group-header { background: var(--surface-2); }
         .cat-group-header td {
@@ -250,6 +251,16 @@
         .gap-section { margin-bottom: 20px; }
         .gap-section-title { font-size: 0.82rem; font-weight: 600; color: var(--red); margin-bottom: 10px; }
         .gap-item { background: var(--red-dim); border-radius: 8px; padding: 10px 14px; margin-bottom: 6px; font-size: 0.82rem; color: var(--red); }
+        .alias-section { margin-bottom: 20px; }
+        .alias-title { font-size: 0.82rem; font-weight: 600; color: var(--text-dim); margin-bottom: 10px; }
+        .alias-list { display: flex; flex-wrap: wrap; gap: 6px; }
+        .alias-tag {
+            background: rgba(99,102,241,0.1);
+            color: #a5b4fc;
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.78rem;
+        }
         .schedule-title { font-size: 0.82rem; font-weight: 600; color: var(--text-dim); margin-bottom: 10px; }
         .sched-item { display: flex; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.82rem; }
         .sched-item:last-child { border-bottom: none; }
@@ -331,6 +342,7 @@
                         <th>频道ID</th>
                         <th>频道名</th>
                         <th class="center">最后节目</th>
+                        <th class="center">今日节目</th>
                         <th class="center">今日断层</th>
                         <th>描述覆盖率</th>
                     </tr>
@@ -338,13 +350,14 @@
                 <tbody>
                     <template v-for="(group, gIndex) in filteredGroups">
                         <tr class="cat-group-header" :key="'h'+gIndex">
-                            <td colspan="6">{{ group.category }}<span class="cat-count">{{ group.channels.length }} 频道</span></td>
+                            <td colspan="7">{{ group.category }}<span class="cat-count">{{ group.channels.length }} 频道</span></td>
                         </tr>
                         <tr v-for="ch in group.channels" :key="ch.id" class="row-data" @click="openDetail(ch)">
                             <td class="td-index">{{ ch.globalIndex }}</td>
                             <td class="td-id">{{ ch.id }}</td>
-                            <td class="td-name">{{ ch.name }}</td>
+                            <td class="td-name">{{ ch.name }}<span class="td-hint">点击查看详情</span></td>
                             <td class="td-center">{{ ch.lastProgramTime }}</td>
+                            <td class="td-center">{{ ch.todaySchedule.length }}</td>
                             <td class="td-center">
                                 <span class="badge badge-warn" v-if="ch.hasGap">{{ ch.gapDetails }}</span>
                                 <span class="badge badge-ok" v-else>无断层</span>
@@ -360,7 +373,7 @@
                         </tr>
                     </template>
                     <tr v-if="filteredGroups.length === 0 || totalFiltered === 0">
-                        <td colspan="6" class="empty-state">暂无匹配频道</td>
+                        <td colspan="7" class="empty-state">暂无匹配频道</td>
                     </tr>
                 </tbody>
             </table>
@@ -386,6 +399,12 @@
                     <div class="meta-item"><strong>今日节目</strong>{{ detailChannel.todaySchedule.length }}个</div>
                 </div>
                 <div class="modal-body">
+                    <div class="alias-section" v-if="detailChannel.aliases && detailChannel.aliases.length">
+                        <div class="alias-title">频道别名</div>
+                        <div class="alias-list">
+                            <span class="alias-tag" v-for="(a, ai) in detailChannel.aliases" :key="ai">{{ a }}</span>
+                        </div>
+                    </div>
                     <div class="gap-section" v-if="detailChannel.gapList && detailChannel.gapList.length">
                         <div class="gap-section-title">断层详情</div>
                         <div class="gap-item" v-for="(g, gi) in detailChannel.gapList" :key="gi">

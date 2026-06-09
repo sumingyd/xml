@@ -28,6 +28,7 @@ for channel in root.findall('channel'):
     channel_id = channel.get('id')
     display_names = channel.findall('display-name')
     name = display_names[0].text if display_names else ''
+    aliases = list(dict.fromkeys(dn.text for dn in display_names if dn.text and dn.text != name))
 
     programmes = []
     for programme in root.findall('programme'):
@@ -101,6 +102,7 @@ for channel in root.findall('channel'):
     channels.append({
         'id': channel_id,
         'name': name,
+        'aliases': aliases,
         'category': classify_channel(name),
         'lastProgramTime': last_program_time,
         'descriptionCoverage': description_coverage,

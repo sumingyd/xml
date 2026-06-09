@@ -22,6 +22,26 @@ def _fmt_time(t):
     return f"{t[8:10]}:{t[10:12]}"
 
 
+def _to_minutes(date_str, time_str):
+    day = int(date_str)
+    h = int(time_str[:2])
+    m = int(time_str[2:4])
+    return day * 1440 + h * 60 + m
+
+
+def _min_to_display(min_val, base_day):
+    offset = min_val - base_day * 1440
+    if offset < 0:
+        offset += 1440
+    if offset >= 1440:
+        h = 24
+        m = 0
+    else:
+        h = offset // 60
+        m = offset % 60
+    return f"{h:02d}:{m:02d}"
+
+
 channels = []
 
 for channel in root.findall('channel'):
@@ -58,6 +78,8 @@ for channel in root.findall('channel'):
         if start and start[:8] == today:
             today_programmes.append(p)
 
+    base_day = int(today)
+
     has_gap = False
     gap_details = ''
     gap_list = []
@@ -67,8 +89,8 @@ for channel in root.findall('channel'):
             s = p.get('start', '')
             e = p.get('stop', '')
             if s and e and len(s) >= 12 and len(e) >= 12:
-                s_min = int(s[8:10]) * 60 + int(s[10:12])
-                e_min = int(e[8:10]) * 60 + int(e[10:12])
+                s_min = _to_minutes(s[:8], s[8:12])
+                e_min = _to_minutes(e[:8], e[8:12])
                 if e_min > s_min:
                     intervals.append((s_min, e_min))
         if intervals:
@@ -85,8 +107,8 @@ for channel in root.findall('channel'):
                 if gap_min >= 5:
                     gaps.append(gap_min)
                     gap_list.append({
-                        'after': '{:02d}:{:02d}'.format(*divmod(merged[i][1], 60)),
-                        'before': '{:02d}:{:02d}'.format(*divmod(merged[i + 1][0], 60)),
+                        'after': _min_to_display(merged[i][1], base_day),
+                        'before': _min_to_display(merged[i + 1][0], base_day),
                         'minutes': gap_min
                     })
             if gaps:
@@ -95,7 +117,7 @@ for channel in root.findall('channel'):
 
     today_schedule = []
     if today_programmes:
-        today_programmes.sort(key=lambda p: (p.get('start', ''), -(int(p.get('stop', '0')[8:10]) * 60 + int(p.get('stop', '0')[10:12]) - int(p.get('start', '0')[8:10]) * 60 - int(p.get('start', '0')[10:12]))))
+        today_programmes.sort(key=lambda p: (p.get('start', ''), -(_to_minutes(p.get('stop', '0')[:8], p.get('stop', '0')[8:12]) - _to_minutes(p.get('start', '0')[:8], p.get('start', '0')[8:12]))))
         used = set()
         for i, p in enumerate(today_programmes):
             if i in used:
@@ -105,8 +127,12 @@ for channel in root.findall('channel'):
             title_el = p.find('title')
             desc_el = p.find('desc')
             main_dur = 0
+            s1_min = 0
+            e1_min = 0
             if s and e and len(s) >= 12 and len(e) >= 12:
-                main_dur = int(e[8:10]) * 60 + int(e[10:12]) - int(s[8:10]) * 60 - int(s[10:12])
+                s1_min = _to_minutes(s[:8], s[8:12])
+                e1_min = _to_minutes(e[:8], e[8:12])
+                main_dur = e1_min - s1_min
             sub_programmes = []
             for j in range(i + 1, len(today_programmes)):
                 if j in used:
@@ -116,25 +142,23 @@ for channel in root.findall('channel'):
                 e2 = p2.get('stop', '')
                 if not s2 or not e2 or len(s2) < 12 or len(e2) < 12:
                     continue
-                s2_min = int(s2[8:10]) * 60 + int(s2[10:12])
-                e2_min = int(e2[8:10]) * 60 + int(e2[10:12])
-                s1_min = int(s[8:10]) * 60 + int(s[10:12])
-                e1_min = int(e[8:10]) * 60 + int(e[10:12])
+                s2_min = _to_minutes(s2[:8], s2[8:12])
+                e2_min = _to_minutes(e2[:8], e2[8:12])
                 if s2_min < e1_min and e2_min >= s1_min:
                     sub_dur = e2_min - s2_min
                     if sub_dur < main_dur or (sub_dur == 0 and main_dur > 0):
                         t2 = p2.find('title')
                         d2 = p2.find('desc')
                         sub_programmes.append({
-                            'start': _fmt_time(s2),
-                            'stop': _fmt_time(e2),
+                            'start': _min_to_display(s2_min, base_day),
+                            'stop': _min_to_display(e2_min, base_day),
                             'title': t2.text if t2 is not None else '',
                             'desc': d2.text if d2 is not None else ''
                         })
                         used.add(j)
             today_schedule.append({
-                'start': _fmt_time(s),
-                'stop': _fmt_time(e),
+                'start': _min_to_display(s1_min, base_day),
+                'stop': _min_to_display(e1_min, base_day),
                 'title': title_el.text if title_el is not None else '',
                 'desc': desc_el.text if desc_el is not None else '',
                 'subProgrammes': sub_programmes

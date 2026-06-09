@@ -261,6 +261,52 @@ def merge_epg():
     if empty_count:
         print(f"移除了 {empty_count} 个空频道")
 
+    removed_overlap = 0
+    ch_programmes = {}
+    for p in all_programmes:
+        ch_id = p.get('channel', '')
+        if ch_id not in ch_programmes:
+            ch_programmes[ch_id] = []
+        ch_programmes[ch_id].append(p)
+
+    def _parse_min(t):
+        if not t:
+            return 0
+        t = t.split()[0]
+        if len(t) < 12:
+            return 0
+        return int(t[:8]) * 1440 + int(t[8:10]) * 60 + int(t[10:12])
+
+    cleaned_programmes = []
+    for ch_id, progs in ch_programmes.items():
+        progs.sort(key=lambda p: (p.get('start', ''), _parse_min(p.get('stop', '')) - _parse_min(p.get('start', ''))))
+        used = set()
+        for i, p in enumerate(progs):
+            if i in used:
+                continue
+            s1_min = _parse_min(p.get('start', ''))
+            e1_min = _parse_min(p.get('stop', ''))
+            main_dur = e1_min - s1_min
+            if main_dur <= 0:
+                cleaned_programmes.append(p)
+                continue
+            for j in range(i + 1, len(progs)):
+                if j in used:
+                    continue
+                p2 = progs[j]
+                s2_min = _parse_min(p2.get('start', ''))
+                e2_min = _parse_min(p2.get('stop', ''))
+                if s2_min >= e1_min:
+                    break
+                sub_dur = e2_min - s2_min
+                if sub_dur < main_dur or (sub_dur == 0 and main_dur > 0):
+                    used.add(j)
+                    removed_overlap += 1
+            cleaned_programmes.append(p)
+
+    if removed_overlap:
+        print(f"清理了 {removed_overlap} 个重叠子节目")
+
     def get_channel_sort_key(ch):
         display_names = ch.findall('display-name')
         name = display_names[0].text if display_names else ''
@@ -272,7 +318,7 @@ def merge_epg():
     tv.set('generator-info-name', 'EPG')
     for channel in sorted_channels:
         tv.append(channel)
-    for programme in all_programmes:
+    for programme in cleaned_programmes:
         tv.append(programme)
 
     tree = ET.ElementTree(tv)
@@ -280,7 +326,7 @@ def merge_epg():
     tree.write('epg.xml', encoding='utf-8', xml_declaration=True)
 
     file_size = os.path.getsize('epg.xml')
-    print(f"合并完成! {len(day_files)} 个日期文件, {len(all_channels)} 个频道, {len(all_programmes)} 个节目, {file_size / 1024:.1f}KB")
+    print(f"合并完成! {len(day_files)} 个日期文件, {len(all_channels)} 个频道, {len(cleaned_programmes)} 个节目, {file_size / 1024:.1f}KB")
 
     return True
 

@@ -1,79 +1,93 @@
 #!/usr/bin/env python3
 import xml.etree.ElementTree as ET
 import json
-import os
 import time
+import sys
+import os
+from datetime import datetime, timedelta
 
-# 解析epg.xml文件
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from merge_epg import classify_channel, get_sort_key, CATEGORY_ORDER
+
 tree = ET.parse('epg.xml')
 root = tree.getroot()
 
-# 构建频道数据
+today = datetime.now().strftime('%Y%m%d')
+tomorrow = (datetime.now() + timedelta(days=1)).strftime('%Y%m%d')
+
 channels = []
 
-# 定义频道顺序（从1.txt读取）
-channel_order = []
-try:
-    with open('1.txt', 'r', encoding='utf-8') as f:
-        channel_order = [line.strip() for line in f if line.strip()]
-except FileNotFoundError:
-    pass
-
-# 创建频道名称到排序位置的映射
-name_to_index = {}
-for index, name in enumerate(channel_order):
-    name_to_index[name] = index
-
-# 遍历所有频道
 for channel in root.findall('channel'):
     channel_id = channel.get('id')
-    
-    # 获取频道名称
     display_names = channel.findall('display-name')
     name = display_names[0].text if display_names else ''
-    
-    # 查找该频道的所有节目
+
     programmes = []
     for programme in root.findall('programme'):
         if programme.get('channel') == channel_id:
             programmes.append(programme)
-    
-    # 计算最后节目时间
+
     last_program_time = ''
     if programmes:
-        # 按结束时间排序，取最后一个
         programmes.sort(key=lambda p: p.get('stop'), reverse=True)
         stop_time = programmes[0].get('stop')
         if stop_time:
-            # 格式：20260321010000 +0800
             year = stop_time[:4]
             month = stop_time[4:6]
             day = stop_time[6:8]
             hour = stop_time[8:10]
             minute = stop_time[10:12]
             last_program_time = f"{year}-{month}-{day} {hour}:{minute}"
-    
-    # 计算节目描述覆盖率
+
     description_coverage = 0
     if programmes:
         programmes_with_desc = [p for p in programmes if p.find('desc') is not None]
         description_coverage = round((len(programmes_with_desc) / len(programmes)) * 100)
-    
+
+    today_programmes = []
+    for p in programmes:
+        start = p.get('start', '')
+        if start and start[:8] == today:
+            today_programmes.append(p)
+
+    has_gap = False
+    gap_details = ''
+    if len(today_programmes) >= 2:
+        today_programmes.sort(key=lambda p: p.get('start', ''))
+        gaps = []
+        for i in range(len(today_programmes) - 1):
+            curr_stop = today_programmes[i].get('stop', '')
+            next_start = today_programmes[i + 1].get('start', '')
+            if curr_stop and next_start:
+                curr_min = int(curr_stop[:12])
+                next_min = int(next_start[:12])
+                if next_min > curr_min:
+                    gap_minutes = (next_min - curr_min)
+                    gap_h = gap_minutes // 10000
+                    gap_m = gap_minutes % 10000
+                    total_min = gap_h * 60 + gap_m // 100
+                    if total_min >= 5:
+                        gaps.append(total_min)
+        if gaps:
+            has_gap = True
+            gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"
+
     channels.append({
         'id': channel_id,
         'name': name,
+        'category': classify_channel(name),
         'lastProgramTime': last_program_time,
-        'descriptionCoverage': description_coverage
+        'descriptionCoverage': description_coverage,
+        'hasGap': has_gap,
+        'gapDetails': gap_details
     })
 
-# 按照频道顺序排序
-channels.sort(key=lambda c: name_to_index.get(c['name'], 999999))
+channels.sort(key=lambda c: get_sort_key(c['name']))
 
-# 生成JSON文件
 with open('epg_data.json', 'w', encoding='utf-8') as f:
     json.dump({
         'channels': channels,
         'updateTime': time.time()
     }, f, ensure_ascii=False, indent=2)
 
-print('Coverage calculation completed.')
+print(f'Coverage calculation completed. {len(channels)} channels.')

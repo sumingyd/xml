@@ -94,17 +94,51 @@ for channel in root.findall('channel'):
                 gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"
 
     today_schedule = []
-    for p in today_programmes:
-        start = p.get('start', '')
-        stop = p.get('stop', '')
-        title_el = p.find('title')
-        desc_el = p.find('desc')
-        today_schedule.append({
-            'start': _fmt_time(start),
-            'stop': _fmt_time(stop),
-            'title': title_el.text if title_el is not None else '',
-            'desc': desc_el.text if desc_el is not None else ''
-        })
+    if today_programmes:
+        today_programmes.sort(key=lambda p: (p.get('start', ''), -(int(p.get('stop', '0')[8:10]) * 60 + int(p.get('stop', '0')[10:12]) - int(p.get('start', '0')[8:10]) * 60 - int(p.get('start', '0')[10:12]))))
+        used = set()
+        for i, p in enumerate(today_programmes):
+            if i in used:
+                continue
+            s = p.get('start', '')
+            e = p.get('stop', '')
+            title_el = p.find('title')
+            desc_el = p.find('desc')
+            main_dur = 0
+            if s and e and len(s) >= 12 and len(e) >= 12:
+                main_dur = int(e[8:10]) * 60 + int(e[10:12]) - int(s[8:10]) * 60 - int(s[10:12])
+            sub_programmes = []
+            for j in range(i + 1, len(today_programmes)):
+                if j in used:
+                    continue
+                p2 = today_programmes[j]
+                s2 = p2.get('start', '')
+                e2 = p2.get('stop', '')
+                if not s2 or not e2 or len(s2) < 12 or len(e2) < 12:
+                    continue
+                s2_min = int(s2[8:10]) * 60 + int(s2[10:12])
+                e2_min = int(e2[8:10]) * 60 + int(e2[10:12])
+                s1_min = int(s[8:10]) * 60 + int(s[10:12])
+                e1_min = int(e[8:10]) * 60 + int(e[10:12])
+                if s2_min < e1_min and e2_min >= s1_min:
+                    sub_dur = e2_min - s2_min
+                    if sub_dur < main_dur or (sub_dur == 0 and main_dur > 0):
+                        t2 = p2.find('title')
+                        d2 = p2.find('desc')
+                        sub_programmes.append({
+                            'start': _fmt_time(s2),
+                            'stop': _fmt_time(e2),
+                            'title': t2.text if t2 is not None else '',
+                            'desc': d2.text if d2 is not None else ''
+                        })
+                        used.add(j)
+            today_schedule.append({
+                'start': _fmt_time(s),
+                'stop': _fmt_time(e),
+                'title': title_el.text if title_el is not None else '',
+                'desc': desc_el.text if desc_el is not None else '',
+                'subProgrammes': sub_programmes
+            })
 
     channels.append({
         'id': channel_id,

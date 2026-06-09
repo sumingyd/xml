@@ -268,6 +268,10 @@
         .sched-info { flex: 1; }
         .sched-name { font-weight: 500; color: var(--text); }
         .sched-desc { color: var(--text-dim); font-size: 0.78rem; margin-top: 3px; line-height: 1.4; }
+        .sub-list { margin-top: 6px; padding-left: 12px; border-left: 2px solid rgba(99,102,241,0.2); }
+        .sub-item { font-size: 0.76rem; color: var(--text-dim); padding: 2px 0; display: flex; gap: 8px; }
+        .sub-time { font-family: 'SF Mono', 'Fira Code', monospace; color: rgba(99,102,241,0.6); white-space: nowrap; }
+        .sub-title { color: var(--text-dim); }
 
         @media (max-width: 768px) {
             .page { padding: 20px 12px 60px; }
@@ -417,6 +421,12 @@
                         <div class="sched-info">
                             <div class="sched-name">{{ s.title }}</div>
                             <div class="sched-desc" v-if="s.desc">{{ s.desc }}</div>
+                            <div class="sub-list" v-if="s.subProgrammes && s.subProgrammes.length">
+                                <div class="sub-item" v-for="(sub, subi) in s.subProgrammes" :key="subi">
+                                    <span class="sub-time">{{ sub.start }}-{{ sub.stop }}</span>
+                                    <span class="sub-title">{{ sub.title }}</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -62,26 +62,36 @@ for channel in root.findall('channel'):
     gap_details = ''
     gap_list = []
     if len(today_programmes) >= 2:
-        today_programmes.sort(key=lambda p: p.get('start', ''))
-        gaps = []
-        for i in range(len(today_programmes) - 1):
-            curr_stop = today_programmes[i].get('stop', '')
-            next_start = today_programmes[i + 1].get('start', '')
-            if curr_stop and next_start:
-                curr_total = int(curr_stop[8:10]) * 60 + int(curr_stop[10:12])
-                next_total = int(next_start[8:10]) * 60 + int(next_start[10:12])
-                if next_total > curr_total:
-                    total_min = next_total - curr_total
-                    if total_min >= 5:
-                        gaps.append(total_min)
-                        gap_list.append({
-                            'after': _fmt_time(curr_stop),
-                            'before': _fmt_time(next_start),
-                            'minutes': total_min
-                        })
-        if gaps:
-            has_gap = True
-            gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"
+        intervals = []
+        for p in today_programmes:
+            s = p.get('start', '')
+            e = p.get('stop', '')
+            if s and e and len(s) >= 12 and len(e) >= 12:
+                s_min = int(s[8:10]) * 60 + int(s[10:12])
+                e_min = int(e[8:10]) * 60 + int(e[10:12])
+                if e_min > s_min:
+                    intervals.append((s_min, e_min))
+        if intervals:
+            intervals.sort()
+            merged = [intervals[0]]
+            for s, e in intervals[1:]:
+                if s <= merged[-1][1]:
+                    merged[-1] = (merged[-1][0], max(merged[-1][1], e))
+                else:
+                    merged.append((s, e))
+            gaps = []
+            for i in range(len(merged) - 1):
+                gap_min = merged[i + 1][0] - merged[i][1]
+                if gap_min >= 5:
+                    gaps.append(gap_min)
+                    gap_list.append({
+                        'after': '{:02d}:{:02d}'.format(*divmod(merged[i][1], 60)),
+                        'before': '{:02d}:{:02d}'.format(*divmod(merged[i + 1][0], 60)),
+                        'minutes': gap_min
+                    })
+            if gaps:
+                has_gap = True
+                gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"
 
     today_schedule = []
     for p in today_programmes:

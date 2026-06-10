@@ -102,19 +102,19 @@ for channel in root.findall('channel'):
                 else:
                     merged.append((s, e))
             gaps = []
-            day_start = base_day * 1440
+            day_start = base_day * 1440 + 360
             day_end = (base_day + 1) * 1440
             first_start = merged[0][0]
-            if first_start - day_start >= 5:
+            if first_start > day_start and first_start - day_start >= 5:
                 gaps.append(first_start - day_start)
                 gap_list.append({
-                    'after': '00:00',
+                    'after': '06:00',
                     'before': _min_to_display(first_start, base_day),
                     'minutes': first_start - day_start
                 })
             for i in range(len(merged) - 1):
                 gap_min = merged[i + 1][0] - merged[i][1]
-                if gap_min >= 5:
+                if gap_min >= 5 and merged[i][1] >= day_start and merged[i + 1][0] <= day_end:
                     gaps.append(gap_min)
                     gap_list.append({
                         'after': _min_to_display(merged[i][1], base_day),

@@ -83,6 +83,8 @@
   </channel>
   <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
   </channel>
+  <channel id="熊猫TV"><display-name lang="zh">熊猫TV</display-name><display-name lang="zh">熊猫TV</display-name>
+  </channel>
   <channel id="谍战大剧"><display-name lang="zh">谍战大剧</display-name>
   </channel>
   <channel id="爱尔达生活"><display-name lang="zh">爱尔达生活</display-name><display-name lang="zh">爱尔达生活旅游</display-name><display-name lang="zh">爱尔达旅游</display-name><display-name lang="zh">爱尔达生活旅游台</display-name>
@@ -112,6 +114,8 @@
   <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
+  </channel>
+  <channel id="黑莓影视"><display-name lang="zh">黑莓影视</display-name>
   </channel>
   <channel id="靖天戏剧"><display-name lang="zh">靖天戏剧</display-name><display-name lang="zh">靖天戏剧台</display-name>
   </channel>
@@ -5492,5 +5496,15 @@
   <programme start="20260612220000 +0800" stop="20260612230000 +0800" channel="靖天戏剧"><title lang="zh">愛…沒有距離(護)</title>
   </programme>
   <programme start="20260612230000 +0800" stop="20260612235959 +0800" channel="靖天戏剧"><title lang="zh">小資女孩向前衝(普)</title>
+  </programme>
+  <programme start="20260612000001 +0800" stop="20260612000323 +0800" channel="黑莓影视"><title lang="zh">09_庆余年</title>
+  </programme>
+  <programme start="20260612000001 +0800" stop="20260612050000 +0800" channel="熊猫TV"><title lang="zh">海洋公園 (重溫)</title>
+  </programme>
+  <programme start="20260612050000 +0800" stop="20260612100000 +0800" channel="熊猫TV"><title lang="zh">海洋公園 (重溫)</title>
+  </programme>
+  <programme start="20260612100000 +0800" stop="20260612190000 +0800" channel="熊猫TV"><title lang="zh">海洋公園 (直播)</title>
+  </programme>
+  <programme start="20260612190000 +0800" stop="20260613000000 +0800" channel="熊猫TV"><title lang="zh">海洋公園 (即日重溫)</title>
   </programme>
 </tv>

@@ -83,7 +83,7 @@ for channel in root.findall('channel'):
     has_gap = False
     gap_details = ''
     gap_list = []
-    if len(today_programmes) >= 2:
+    if today_programmes:
         intervals = []
         for p in today_programmes:
             s = p.get('start', '')
@@ -102,6 +102,16 @@ for channel in root.findall('channel'):
                 else:
                     merged.append((s, e))
             gaps = []
+            day_start = base_day * 1440
+            day_end = (base_day + 1) * 1440
+            first_start = merged[0][0]
+            if first_start - day_start >= 5:
+                gaps.append(first_start - day_start)
+                gap_list.append({
+                    'after': '00:00',
+                    'before': _min_to_display(first_start, base_day),
+                    'minutes': first_start - day_start
+                })
             for i in range(len(merged) - 1):
                 gap_min = merged[i + 1][0] - merged[i][1]
                 if gap_min >= 5:
@@ -111,6 +121,14 @@ for channel in root.findall('channel'):
                         'before': _min_to_display(merged[i + 1][0], base_day),
                         'minutes': gap_min
                     })
+            last_end = merged[-1][1]
+            if last_end < day_end and day_end - last_end >= 5:
+                gaps.append(day_end - last_end)
+                gap_list.append({
+                    'after': _min_to_display(last_end, base_day),
+                    'before': '24:00',
+                    'minutes': day_end - last_end
+                })
             if gaps:
                 has_gap = True
                 gap_details = f"{len(gaps)}处断层(最长{max(gaps)}分钟)"

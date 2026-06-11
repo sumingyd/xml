@@ -18,7 +18,7 @@ import glob
 HISTORY_DAYS = 7
 DAYS_DIR = 'days'
 
-CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '省级', '市级', '县级', '其他']
+CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '省级', '市级', '县级', '其他']
 
 CATEGORY_RULES = OrderedDict([
     ('央视', [
@@ -44,15 +44,13 @@ CATEGORY_RULES = OrderedDict([
         r'^戏曲频道$', r'^音乐频道$', r'^电影频道$', r'^电视指南$',
         r'^天元围棋$', r'^环球奇观$', r'^现代女性$', r'^中医药$', r'^国学$',
         r'^多彩文体$', r'^聚鲨环球精选$', r'^趯球$',
-        r'^HBO', r'^CINEMAX', r'^HISTORY$', r'^HITS', r'^动物星球$',
-        r'^beIN SPORTS', r'^Discovery', r'^中国功夫$', r'^军旅剧场$', r'^冬奥纪实$',
-        r'^云上电影院$', r'^亚洲剧$', r'^亚洲美食$', r'^千禧经典$', r'^惊悚悬疑$',
-        r'^影迷数位', r'^热播精选$', r'^烽烟剧场$', r'^爱情喜剧$', r'^经典剧场$',
-        r'^谍战大剧$', r'^精品大剧$', r'^黄金华剧$', r'^追剧少女$', r'^创世电视$',
-        r'^冰火$', r'^八大精彩$', r'^八大综艺$', r'^精品萌宠$', r'^精品体育$',
-        r'^精品综合$', r'^哈哈炫动$', r'^哒啵电竞$', r'^哒啵赛事$', r'^咪咕足球$',
-        r'^咪咕体育$', r'^劲爆体育$', r'^熊猫TV$', r'^黑莓影视$', r'^黑莓动画$',
-        r'^黑莓电影$', r'^炫舞未来$', r'^睛彩广场舞$', r'^睛彩竞技$', r'^睛彩篮球$',
+        r'^HBO', r'^CINEMAX', r'^HISTORY$', r'^HITS',
+        r'^beIN SPORTS', r'^中国功夫$', r'^军旅剧场$', r'^冬奥纪实$',
+        r'^云上电影院$',
+        
+        r'^哈哈炫动$', r'^哒啵电竞$', r'^哒啵赛事$', r'^咪咕足球$',
+        r'^咪咕体育$', r'^劲爆体育$', r'^熊猫TV$',
+        r'^炫舞未来$', r'^睛彩广场舞$', r'^睛彩竞技$', r'^睛彩篮球$',
         r'^睛彩青少$', r'^魅力足球$', r'^求索生活$', r'^证券资讯$', r'^第一财经$',
         r'^军事评论$', r'^戏曲$', r'^岭南戏曲$', r'^潮妈辣婆$',
         r'^中视购物$', r'^优购物$', r'^好享购物$', r'^央广购物$', r'^时尚购物$',
@@ -61,13 +59,21 @@ CATEGORY_RULES = OrderedDict([
     ('国际', [
         r'^CCTV-4 (美洲|欧洲)', r'^CGTN',
         r'^BBC', r'^CNN', r'^CNBC', r'^DW', r'^France 24', r'^NHK',
-        r'^CNC', r'^半岛', r'^亚洲新闻$', r'^寰宇新闻$', r'^华视新闻$',
+        r'^CNC', r'^半岛', r'^亚洲新闻$', r'^寰宇新闻$',
+        r'^动物星球$', r'^Discovery',
+    ]),
+    ('港澳台', [
         r'^TVBS', r'^TVB Plus$', r'^中天新闻$', r'^中天亚洲$', r'^三立新闻$',
         r'^三立综合$', r'^爱尔达', r'^无线新闻$', r'^无线卫星新闻$', r'^无线卫星亚洲$',
         r'^凤凰中文$', r'^凤凰资讯$', r'^凤凰香港$',
         r'^翡翠台$', r'^明珠$', r'^澳视', r'^民视', r'^大爱电视$',
-        r'^娱乐新闻$', r'^客家生活$',
+        r'^华视新闻$', r'^娱乐新闻$', r'^客家生活$',
         r'^靖天戏剧$', r'^粤语片$', r'^黄金翡翠$',
+        r'^八大精彩$', r'^八大综艺$', r'^亚洲剧$', r'^亚洲美食$', r'^千禧经典$',
+        r'^惊悚悬疑$', r'^影迷数位', r'^热播精选$', r'^烽烟剧场$', r'^爱情喜剧$',
+        r'^经典剧场$', r'^谍战大剧$', r'^精品大剧$', r'^黄金华剧$', r'^追剧少女$',
+        r'^创世电视$', r'^冰火$', r'^精品萌宠$', r'^精品体育$', r'^精品综合$',
+        r'^黑莓影视$', r'^黑莓动画$', r'^黑莓电影$',
     ]),
 ])
 
@@ -147,13 +153,11 @@ PREFECTURES = {
 
 MUNICIPAL_PROVINCES = {'北京', '天津', '上海', '重庆'}
 
-
 def _match_province(name):
     for prov in PROVINCES:
         if name.startswith(prov):
             return prov
     return None
-
 
 def _match_prefecture(name):
     for prov, cities in PREFECTURES.items():
@@ -161,7 +165,6 @@ def _match_prefecture(name):
             if name.startswith(city):
                 return prov, city
     return None
-
 
 def classify_channel(name):
     if not name:
@@ -201,7 +204,6 @@ def classify_channel(name):
         return '其他'
     return '县级'
 
-
 def get_sort_key(name):
     category = classify_channel(name)
     cat_idx = CATEGORY_ORDER.index(category) if category in CATEGORY_ORDER else len(CATEGORY_ORDER)
@@ -221,7 +223,6 @@ def get_sort_key(name):
     else:
         sub_key = (99, name)
     return (cat_idx, sub_key)
-
 
 def merge_epg():
     if not os.path.exists(DAYS_DIR):
@@ -352,7 +353,6 @@ def merge_epg():
     print(f"合并完成! {len(day_files)} 个日期文件, {len(all_channels)} 个频道, {len(cleaned_programmes)} 个节目, {file_size / 1024:.1f}KB")
 
     return True
-
 
 if __name__ == '__main__':
     success = merge_epg()

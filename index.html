@@ -450,7 +450,7 @@
                 noGapCount: function() { return this.channels.filter(function(c) { return !c.hasGap; }).length; },
                 gapCount: function() { return this.channels.filter(function(c) { return c.hasGap; }).length; },
                 groupedChannels: function() {
-                    var order = ['央视', '卫视', '4K超高清', '付费', '国际', '省级', '市级', '县级', '其他'];
+                    var order = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '省级', '市级', '县级', '其他'];
                     var groups = {};
                     order.forEach(function(c) { groups[c] = []; });
                     this.channels.forEach(function(ch, i) {

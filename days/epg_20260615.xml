@@ -1,5 +1,39 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
+  </channel>
+  <channel id="粤语片"><display-name lang="zh">粤语片</display-name><display-name lang="zh">粤语片台</display-name>
+  </channel>
+  <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
+  </channel>
+  <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name>
+  </channel>
+  <channel id="动物星球"><display-name lang="zh">动物星球</display-name><display-name lang="zh">动物星球频道</display-name>
+  </channel>
+  <channel id="HBO"><display-name lang="zh">HBO</display-name>
+  </channel>
+  <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
+  </channel>
+  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name>
+  </channel>
+  <channel id="NHK World Premium"><display-name lang="zh">NHK World Premium</display-name>
+  </channel>
+  <channel id="HBO家庭"><display-name lang="zh">HBO家庭</display-name><display-name lang="zh">HBO Family</display-name>
+  </channel>
+  <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name>
+  </channel>
+  <channel id="明珠"><display-name lang="zh">明珠</display-name><display-name lang="zh">明珠台</display-name>
+  </channel>
+  <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name>
+  </channel>
+  <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name>
+  </channel>
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
+  </channel>
+  <channel id="Discovery科学频道"><display-name lang="zh">Discovery科学频道</display-name>
+  </channel>
+  <channel id="亚洲剧"><display-name lang="zh">亚洲剧</display-name><display-name lang="zh">亚洲剧台</display-name>
   </channel>
   <programme start="20260615003500 +0000" stop="20260615011000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
   </programme>
@@ -90,5 +124,39 @@
   <programme start="20260615235000 +0000" stop="20260615235500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌[粵]</title>
   </programme>
   <programme start="20260615235500 +0000" stop="20260616010000 +0000" channel="翡翠台"><title lang="zh">無名天使3D#19[粵][PG]</title><desc lang="zh">麗花傷重昏迷，堅強斥責樂琦，樂琦百詞莫辯。寶兒發現槍手故意在麗花的避彈衣上開槍，令她受傷程度減至最低。樂琦得悉神秘電郵來自天華，並查出天華原是中情局的臥底，求他合作對付學文，天華答應。堅強衣不解帶在醫院照顧麗花，麗花感動不已。政要鍾斯和香港議員關正良參觀電視城，樂琦負責保安工作，並派人調查正良，發現他已被學文收買。學文揭發天華身份，並謂他早已劫持正良妻女，逼他負責暗殺鍾斯。樂琦及時捉拿正良，救出鍾斯，但學文劫持堅強和天華，在二人身上綁上計時炸彈，時神秘槍手出現，槍殺了學文。</desc>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615002157 +0800" channel="潮妈辣婆"><title lang="zh">畅倍清菊苣耐力特膳粉好物推荐</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615001800 +0800" channel="Discovery科学频道"><title lang="zh">宇宙有道理 第8季第10集 </title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615000300 +0800" channel="HBO家庭"><title lang="zh">瘋狂夏令營 第2季第5集 </title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615011000 +0800" channel="HBO强档锯献"><title lang="zh">逃亡遊戲</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615002500 +0800" channel="HBO原创锯献"><title lang="zh">盛女日記</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615004500 +0800" channel="HBO"><title lang="zh">接駁靈聲 2</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615004000 +0800" channel="HISTORY"><title lang="zh">尋寶雙星 第18季第327集 </title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615004500 +0800" channel="HITS MOVIES"><title lang="zh">E.T. 外星人</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615002000 +0800" channel="NHK World Premium"><title lang="zh">NHK Amateur Singing Contest</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615002500 +0800" channel="TVB Plus"><title lang="zh">師傅點算[粵][PG]</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615003000 +0800" channel="beIN SPORTS 2"><title lang="zh">法國網球公開賽2026精華 </title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615001000 +0800" channel="亚洲剧"><title lang="zh">浪漫滿屋 #2 [粵/韓]</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615005000 +0800" channel="动物星球"><title lang="zh">萬塔拉: 保育園區紀實 第1季第6集 </title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615000500 +0800" channel="明珠"><title lang="zh">藍海世界[英]</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615010500 +0800" channel="粤语片"><title lang="zh">入伙大吉</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615005000 +0800" channel="黄金翡翠"><title lang="zh">兩仔爺 #1 [粵]</title>
+  </programme>
+  <programme start="20260615000001 +0800" stop="20260615000500 +0800" channel="黄金华剧"><title lang="zh">再見愛人 #20 [普/粵]</title>
   </programme>
 </tv>

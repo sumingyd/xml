@@ -1,11 +1,15 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name>
   </channel>
+  <channel id="海峡卫视"><display-name lang="zh">海峡卫视</display-name><display-name lang="zh">海峡卫视</display-name>
+  </channel>
   <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
   </channel>
   <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name>
   </channel>
   <channel id="Discovery科学频道"><display-name lang="zh">Discovery科学频道</display-name>
+  </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
   </channel>
   <channel id="HBO家庭"><display-name lang="zh">HBO家庭</display-name><display-name lang="zh">HBO Family</display-name>
   </channel>
@@ -22,6 +26,8 @@
   <channel id="明珠"><display-name lang="zh">明珠</display-name><display-name lang="zh">明珠台</display-name>
   </channel>
   <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
   </channel>
   <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
   </channel>
@@ -456,5 +462,187 @@
   <programme start="20260619000001 +0800" stop="20260619003500 +0800" channel="黄金翡翠"><title lang="zh">歡樂今宵 #499 [粵]</title>
   </programme>
   <programme start="20260619000001 +0800" stop="20260619004000 +0800" channel="黄金华剧"><title lang="zh">《京城大狀師》審死官 #8 [普]</title>
+  </programme>
+  <programme start="20260619000000 +0000" stop="20260619004200 +0000" channel="海峡卫视"><title lang="zh">今日海峡</title>
+  </programme>
+  <programme start="20260619004200 +0000" stop="20260619010800 +0000" channel="海峡卫视"><title lang="zh">宝岛,报到!</title>
+  </programme>
+  <programme start="20260619010800 +0000" stop="20260619012300 +0000" channel="海峡卫视"><title lang="zh">山海福建</title>
+  </programme>
+  <programme start="20260619012300 +0000" stop="20260619013000 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619013000 +0000" stop="20260619021500 +0000" channel="海峡卫视"><title lang="zh">书卷一梦21</title>
+  </programme>
+  <programme start="20260619021500 +0000" stop="20260619030000 +0000" channel="海峡卫视"><title lang="zh">书卷一梦22</title>
+  </programme>
+  <programme start="20260619030000 +0000" stop="20260619034500 +0000" channel="海峡卫视"><title lang="zh">书卷一梦23</title>
+  </programme>
+  <programme start="20260619034500 +0000" stop="20260619041300 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619041300 +0000" stop="20260619045500 +0000" channel="海峡卫视"><title lang="zh">今日海峡</title>
+  </programme>
+  <programme start="20260619045500 +0000" stop="20260619052000 +0000" channel="海峡卫视"><title lang="zh">宝岛,报到!</title>
+  </programme>
+  <programme start="20260619052000 +0000" stop="20260619053700 +0000" channel="海峡卫视"><title lang="zh">山海福建</title>
+  </programme>
+  <programme start="20260619053700 +0000" stop="20260619060200 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619060200 +0000" stop="20260619062700 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619062700 +0000" stop="20260619071200 +0000" channel="海峡卫视"><title lang="zh">今日海峡</title>
+  </programme>
+  <programme start="20260619071200 +0000" stop="20260619073700 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619073700 +0000" stop="20260619080500 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619080500 +0000" stop="20260619081200 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619081200 +0000" stop="20260619083600 +0000" channel="海峡卫视"><title lang="zh">宝岛,报到!</title>
+  </programme>
+  <programme start="20260619083600 +0000" stop="20260619085100 +0000" channel="海峡卫视"><title lang="zh">山海福建</title>
+  </programme>
+  <programme start="20260619085100 +0000" stop="20260619085900 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619085900 +0000" stop="20260619094300 +0000" channel="海峡卫视"><title lang="zh">藏海传1</title>
+  </programme>
+  <programme start="20260619094300 +0000" stop="20260619102700 +0000" channel="海峡卫视"><title lang="zh">藏海传2</title>
+  </programme>
+  <programme start="20260619102700 +0000" stop="20260619111100 +0000" channel="海峡卫视"><title lang="zh">藏海传3</title>
+  </programme>
+  <programme start="20260619111100 +0000" stop="20260619112600 +0000" channel="海峡卫视"><title lang="zh">山海福建</title>
+  </programme>
+  <programme start="20260619112600 +0000" stop="20260619115100 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619115100 +0000" stop="20260619120000 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619123000 +0000" channel="海峡卫视"><title lang="zh">海峡午报</title><desc>《海峡午报》在延续《海峡新干线》特色的同时，更注重时效，更关注台湾岛内的经济、社会和民生，用生动、鲜活的两岸资讯展示台海焦点与岛内百态。《海峡午报》的推出实现了东南卫视在台海新闻栏目在全天时段中的合理分布，标志着东南卫视在午间和晚间两个台海新闻栏目带状通栏的构建基本完成。</desc>
+  </programme>
+  <programme start="20260619123000 +0000" stop="20260619125500 +0000" channel="海峡卫视"><title lang="zh">宝岛,报到!</title>
+  </programme>
+  <programme start="20260619125500 +0000" stop="20260619131000 +0000" channel="海峡卫视"><title lang="zh">山海福建</title>
+  </programme>
+  <programme start="20260619131000 +0000" stop="20260619131700 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619131700 +0000" stop="20260619134200 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619134200 +0000" stop="20260619140900 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619140900 +0000" stop="20260619145300 +0000" channel="海峡卫视"><title lang="zh">淬火年代18</title>
+  </programme>
+  <programme start="20260619145300 +0000" stop="20260619153700 +0000" channel="海峡卫视"><title lang="zh">淬火年代19</title>
+  </programme>
+  <programme start="20260619153700 +0000" stop="20260619162100 +0000" channel="海峡卫视"><title lang="zh">淬火年代20</title>
+  </programme>
+  <programme start="20260619162100 +0000" stop="20260619175100 +0000" channel="海峡卫视"><title lang="zh"> 福建第13届三月三畲族文化周晚会</title>
+  </programme>
+  <programme start="20260619175100 +0000" stop="20260619180000 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619182500 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619182500 +0000" stop="20260619184100 +0000" channel="海峡卫视"><title lang="zh">心中有片海</title>
+  </programme>
+  <programme start="20260619184100 +0000" stop="20260619192500 +0000" channel="海峡卫视"><title lang="zh">书卷一梦24</title>
+  </programme>
+  <programme start="20260619192500 +0000" stop="20260619200900 +0000" channel="海峡卫视"><title lang="zh">书卷一梦25</title>
+  </programme>
+  <programme start="20260619200900 +0000" stop="20260619205300 +0000" channel="海峡卫视"><title lang="zh">书卷一梦26</title>
+  </programme>
+  <programme start="20260619205300 +0000" stop="20260619210000 +0000" channel="海峡卫视"><title lang="zh">早餐中国Ⅲ</title>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619214200 +0000" channel="海峡卫视"><title lang="zh">今日海峡</title>
+  </programme>
+  <programme start="20260619214200 +0000" stop="20260619220900 +0000" channel="海峡卫视"><title lang="zh">海峡拼经济</title>
+  </programme>
+  <programme start="20260619220900 +0000" stop="20260619225200 +0000" channel="海峡卫视"><title lang="zh">黄雀16</title>
+  </programme>
+  <programme start="20260619225200 +0000" stop="20260619233500 +0000" channel="海峡卫视"><title lang="zh">黄雀17</title>
+  </programme>
+  <programme start="20260619233500 +0000" stop="20260620000000 +0000" channel="海峡卫视"><title lang="zh">精品纪录片</title>
+  </programme>
+  <programme start="20260619000000 +0000" stop="20260619010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
+  </programme>
+  <programme start="20260619010000 +0000" stop="20260619013000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260619013000 +0000" stop="20260619020000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260619020000 +0000" stop="20260619023000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260619023000 +0000" stop="20260619030000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260619030000 +0000" stop="20260619033000 +0000" channel="凤凰卫视"><title lang="zh">风云对话</title>
+  </programme>
+  <programme start="20260619033000 +0000" stop="20260619040000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260619040000 +0000" stop="20260619043000 +0000" channel="凤凰卫视"><title lang="zh">筑梦天下</title>
+  </programme>
+  <programme start="20260619043000 +0000" stop="20260619050000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260619050000 +0000" stop="20260619053000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260619053000 +0000" stop="20260619060000 +0000" channel="凤凰卫视"><title lang="zh">石评天下</title>
+  </programme>
+  <programme start="20260619060000 +0000" stop="20260619063000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260619063000 +0000" stop="20260619070000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260619070000 +0000" stop="20260619090000 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260619090000 +0000" stop="20260619093000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260619093000 +0000" stop="20260619100000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260619100000 +0000" stop="20260619110000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260619110000 +0000" stop="20260619113000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260619113000 +0000" stop="20260619120000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260619120000 +0000" stop="20260619125500 +0000" channel="凤凰卫视"><title lang="zh">凤凰午间专列</title>
+  </programme>
+  <programme start="20260619125500 +0000" stop="20260619130000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260619130000 +0000" stop="20260619133000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260619133000 +0000" stop="20260619140000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619143000 +0000" channel="凤凰卫视"><title lang="zh">冷暖人生</title>
+  </programme>
+  <programme start="20260619143000 +0000" stop="20260619150000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260619150000 +0000" stop="20260619160000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260619160000 +0000" stop="20260619163000 +0000" channel="凤凰卫视"><title lang="zh">风云对话</title>
+  </programme>
+  <programme start="20260619163000 +0000" stop="20260619170000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260619170000 +0000" stop="20260619173000 +0000" channel="凤凰卫视"><title lang="zh">石评天下</title>
+  </programme>
+  <programme start="20260619173000 +0000" stop="20260619180000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260619180000 +0000" stop="20260619183000 +0000" channel="凤凰卫视"><title lang="zh">凤凰焦点新闻</title>
+  </programme>
+  <programme start="20260619183000 +0000" stop="20260619190000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260619190000 +0000" stop="20260619193000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260619193000 +0000" stop="20260619200000 +0000" channel="凤凰卫视"><title lang="zh">空间观策</title>
+  </programme>
+  <programme start="20260619200000 +0000" stop="20260619203000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260619203000 +0000" stop="20260619210000 +0000" channel="凤凰卫视"><title lang="zh">今日看世界</title>
+  </programme>
+  <programme start="20260619210000 +0000" stop="20260619215500 +0000" channel="凤凰卫视"><title lang="zh">时事直通车</title>
+  </programme>
+  <programme start="20260619215500 +0000" stop="20260619220000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260619220000 +0000" stop="20260619223000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260619223000 +0000" stop="20260619230000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260619230000 +0000" stop="20260619233000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260619233000 +0000" stop="20260620000000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260619000001 +0800" stop="20260619002302 +0800" channel="精品大剧"><title lang="zh">11_蜜语纪</title>
   </programme>
 </tv>

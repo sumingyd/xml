@@ -21,13 +21,19 @@
   </channel>
   <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name>
   </channel>
+  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
+  </channel>
   <channel id="动物星球"><display-name lang="zh">动物星球</display-name><display-name lang="zh">动物星球频道</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
   </channel>
   <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
   </channel>
   <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name>
+  </channel>
+  <channel id="精品综合"><display-name lang="zh">精品综合</display-name>
   </channel>
   <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name>
   </channel>
@@ -560,5 +566,11 @@
   <programme start="20260621000001 +0800" stop="20260621011000 +0800" channel="粤语片"><title lang="zh">陳世美與秦香蓮</title>
   </programme>
   <programme start="20260621000001 +0800" stop="20260621002000 +0800" channel="黄金华剧"><title lang="zh">再見愛人 #21 [普/粵]</title>
+  </programme>
+  <programme start="20260621000001 +0800" stop="20260621002921 +0800" channel="精品大剧"><title lang="zh">19_蜜语纪</title>
+  </programme>
+  <programme start="20260621000001 +0800" stop="20260621002755 +0800" channel="精品综合"><title lang="zh">巨兽狂蟒</title>
+  </programme>
+  <programme start="20260621000001 +0800" stop="20260621012946 +0800" channel="黑莓电影"><title lang="zh">暮光之城4：破晓（上）（英文版）</title>
   </programme>
 </tv>

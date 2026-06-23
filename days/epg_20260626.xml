@@ -21,6 +21,8 @@
   </channel>
   <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
   </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
   <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
@@ -30,6 +32,10 @@
   <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name>
   </channel>
   <channel id="粤语片"><display-name lang="zh">粤语片</display-name><display-name lang="zh">粤语片台</display-name>
+  </channel>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
   </channel>
   <channel id="HBO"><display-name lang="zh">HBO</display-name>
   </channel>
@@ -458,5 +464,103 @@
   <programme start="20260626000001 +0800" stop="20260626011000 +0800" channel="粤语片"><title lang="zh">望夫山上望夫歸</title>
   </programme>
   <programme start="20260626000001 +0800" stop="20260626000500 +0800" channel="黄金华剧"><title lang="zh">《京城大狀師》審死官 #13 [普]</title>
+  </programme>
+  <programme start="20260626010000 +0000" stop="20260626013500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260626013500 +0000" stop="20260626022000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  </programme>
+  <programme start="20260626022000 +0000" stop="20260626025000 +0000" channel="翡翠台"><title lang="zh">早D知早D醫[粵]</title><desc lang="zh">曾參加《中年好聲音2》的陳寶雄試過糖尿上眼，自揭曾日飲七罐汽水，並藉訪談釐清不少人對糖尿病患者在飲食、醫療方面的誤解。另邊廂，永城請到內科醫生介紹兩款新型藥物。此外，如小便量多、易口渴、體重驟降，都是患糖尿病的先兆。糖尿病人要注意飲食，焗豬扒飯可免則免，營養師提議替代品，並簡述如何根據食品的升糖指數而控制血糖；中醫角度，則有茶療可降血糖。也有適合糖尿病人的運動動作，留意物理治療師與主持的示範。</desc>
+  </programme>
+  <programme start="20260626025000 +0000" stop="20260626034500 +0000" channel="翡翠台"><title lang="zh">原來愛上賊#9[粵][PG]</title><desc lang="zh">高哲佈局令君豪送上珠寶展的保安佈陣。君豪在珠寶展見到美莉，驚為天人，邀請她做模特兒，江揚卻指君豪有問題，夫妻不歡而散。結果美莉弄傷盤骨，江揚抱她去醫院而關了手機，此時高哲出動變聲器扮江揚，支開大海等人。之後譚彬播出假畫面，蒙騙保安室內的江翹，高哲、關仁及明翔以催眠氣體弄暈警衛，把握紅外線保安被關上的五分鐘行事時，發現珠寶飾櫃的密碼被改。江揚趕到現場，發現「宇宙之星」仍在，卻多了「善有善報」四字。</desc>
+  </programme>
+  <programme start="20260626034500 +0000" stop="20260626041000 +0000" channel="翡翠台"><title lang="zh">高朋滿座#127[粵]</title><desc lang="zh">眾人遇上多宗喜事，擔心是暴風雨前夕。露台突傳出巨響，樓上空置的單位突然有物件擲下，原來是有新房客遷入該址。新搬來的婆婆對眾人稱自己常遭虐待。眾人在藥房談論此事，但花聽後卻起了疑心，於是決定展開偵查。</desc>
+  </programme>
+  <programme start="20260626041000 +0000" stop="20260626050500 +0000" channel="翡翠台"><title lang="zh">命轉皇后#2[粵/普][PG]</title><desc lang="zh">雪寧到尤府想找回前世的貼身宮女芳吟，發現她被家人壓制，雪寧奮不顧身營救。有刺客想刺殺謝危，雪寧剛好來到而被挾持，雪寧以為謝危想殺她。花燈會上，燕臨提到自己快將加冠，讓雪寧想起前世冠禮的情況而傷心落淚…</desc>
+  </programme>
+  <programme start="20260626050500 +0000" stop="20260626053000 +0000" channel="翡翠台"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">Do姐挑戰自己，與譚玉瑛、黃智賢一同答題測智慧！一個藝人名字，輕易令眾人猜到曼谷「冬蔭功湯」的特別煮法。東京的八層雪糕有何最潮食法？聖地牙哥的軍車載客人享用甚麼？擔當主持的農夫能否享用阿拉斯加皇帝蟹？</desc>
+  </programme>
+  <programme start="20260626053000 +0000" stop="20260626060000 +0000" channel="翡翠台"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">走入曼谷首間以狐狸作主題的餐廳前，要做些甚麼？高海寧發揮智慧之餘，亦展現幽默感。競猜西雅圖一堵香口膠牆的所在地，使方力申散發出個人魅力。首爾有餐廳只有一張餐桌，兩人輕易猜出餐廳主題，與美食走近一步！</desc>
+  </programme>
+  <programme start="20260626060000 +0000" stop="20260626074000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260626074000 +0000" stop="20260626074500 +0000" channel="翡翠台"><title lang="zh">環球新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260626074500 +0000" stop="20260626081000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260626081000 +0000" stop="20260626084000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260626084000 +0000" stop="20260626090000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵]</title>
+  </programme>
+  <programme start="20260626090000 +0000" stop="20260626100000 +0000" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  </programme>
+  <programme start="20260626100000 +0000" stop="20260626100500 +0000" channel="翡翠台"><title lang="zh">勁歌推介[粵]</title>
+  </programme>
+  <programme start="20260626100500 +0000" stop="20260626103500 +0000" channel="翡翠台"><title lang="zh">高朋滿座#128[粵]</title><desc lang="zh">情夢見化身成超級特工，醒後卻只處理瑣事。根訛稱自己是特務，收情為見習特務。可是，蘇根的所謂的「任務」，是要有情到後樓梯偷報紙，以及替蘇根打理家務。根更要情排隊換禮品，但因不良少女出現打翻蘇根如意算盤。</desc>
+  </programme>
+  <programme start="20260626103500 +0000" stop="20260626114000 +0000" channel="翡翠台"><title lang="zh">命轉皇后#3[粵/普][PG]</title><desc lang="zh">雪寧列入芷衣伴讀名單，孟氏氣憤。薛遠欲給燕家偽造罪證，周寅之成功接近燕臨，雪寧猜到前世燕家慘案與寅之有關，提醒他別牽涉燕薛兩家之爭。雪寧在伴讀考試故意亂寫以求落選，不料謝危留她成為伴讀，她折返找謝危…</desc>
+  </programme>
+  <programme start="20260626114000 +0000" stop="20260626121500 +0000" channel="翡翠台"><title lang="zh">交易現場[粵] 及 潮流生活誌之北上睇真D[粵]</title>
+  </programme>
+  <programme start="20260626121500 +0000" stop="20260626125500 +0000" channel="翡翠台"><title lang="zh">食平D[粵]</title><desc lang="zh">肥媽以菜心加上少許蝦乾和冬菇，煮出菜飯。剩下的菜心，配上蝦殼、冬瓜，煮成蝦上湯浸冬瓜粒。菜心還有妙用，肥媽配上水果，變出有助腸道健康的飲品。「大廚平煮」，陳惠文師傅以蓮藕和茄子炸出一道鎮江雙艷。</desc>
+  </programme>
+  <programme start="20260626125500 +0000" stop="20260626130000 +0000" channel="翡翠台"><title lang="zh">澳門「休」遊攻略[粵]</title>
+  </programme>
+  <programme start="20260626130000 +0000" stop="20260626132000 +0000" channel="翡翠台"><title lang="zh">午間新聞[粵]</title>
+  </programme>
+  <programme start="20260626132000 +0000" stop="20260626132500 +0000" channel="翡翠台"><title lang="zh">滙豐Premier Elite呈獻：《滙豐Premier Elite財富滙談》[粵]</title><desc lang="zh">金融市場瞬息萬變，加上科技發展日新月異，如何影響投資市場？《滙豐Premier Elite財富滙談》，雲集不同行業專家，剖析市場趨勢，講解金融、投資及理財等話題，務求做到深入淺出，聚焦分析不同議題，為大家捕捉市場先機。</desc>
+  </programme>
+  <programme start="20260626132500 +0000" stop="20260626141000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  </programme>
+  <programme start="20260626141000 +0000" stop="20260626145000 +0000" channel="翡翠台"><title lang="zh">早D知早D醫[粵]</title><desc lang="zh">記性轉差？同一事情問完又問？有可能是認知障礙症先兆。永城接受相關AI系統測試；拍攝眼底影像、驗血，又是如何做到檢測患病風險？醫學院教授從全球調查報告結果，細說大多認知障礙患者的病因，並提出有助預防患病的日常生活錦囊。陳欣健的太太突然離家出走，令他察覺問題嚴重，求診後證實太太患上認知障礙症。病患受苦，照顧者或承受更大壓力，認知障礙協會代表帶來照顧者個案，提醒大家如遇照顧困難，肯揚聲必能找到舒緩出口。</desc>
+  </programme>
+  <programme start="20260626145000 +0000" stop="20260626155000 +0000" channel="翡翠台"><title lang="zh">原來愛上賊#10[粵][PG]</title><desc lang="zh">譚彬猜中江翹的新密碼，眾人及時脫身；不取走「宇宙之星」是為免江翹失職，同時亦達成阻止君豪騙保險的目的。江揚過份專注高哲，不知道美莉發現因病難以生育。有司機自揭五年前用車撞傷過江揚師傅，但他卻指江揚師傅當時一身賊人裝束，江揚不肯相信。高哲向江揚呈上其師傅死前的錄音，江揚聽後卻指高哲做假，高哲再拿出相關錄像，兩人糾纏間影片播出，令江揚知道師傅成盜之路。君豪派殺手殺高哲，高哲受槍傷，蓉蓉目擊過程。</desc>
+  </programme>
+  <programme start="20260626155000 +0000" stop="20260626162000 +0000" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  </programme>
+  <programme start="20260626162000 +0000" stop="20260626165000 +0000" channel="翡翠台"><title lang="zh">Kiki &amp; Nuna 知識寶庫[粵/普]</title><desc lang="zh">在小鎮上生活著六個小朋友，在他們的日常生活中，會遇到形形色色的問題，有朋友之間的情感問題，有生活中的安全問題，有待人處事的行為規範，美妙世界的科學原理...</desc>
+  </programme>
+  <programme start="20260626165000 +0000" stop="20260626172000 +0000" channel="翡翠台"><title lang="zh">Hands Up[粵]</title><desc lang="zh">兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！</desc>
+  </programme>
+  <programme start="20260626172000 +0000" stop="20260626175000 +0000" channel="翡翠台"><title lang="zh">皇家少女樂團[粵/日]</title><desc lang="zh">看到小奈的成功，阿源開始思考如何自已容易緊張的問題，流星推介她嘗試吸動物的氣味。蜜柑為了拯救道場的生意，於是開始研發與功夫融合的舞蹈；她被邪音魔襲擊，幸好阿燎發現邪音魔的弱點並將其打敗。</desc>
+  </programme>
+  <programme start="20260626175000 +0000" stop="20260626180000 +0000" channel="翡翠台"><title lang="zh">財經新聞[粵]</title><desc lang="zh">緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。</desc>
+  </programme>
+  <programme start="20260626180000 +0000" stop="20260626182500 +0000" channel="翡翠台"><title lang="zh">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 潮流生活誌之北上睇真D[粵]</title><desc lang="zh">住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。</desc>
+  </programme>
+  <programme start="20260626182500 +0000" stop="20260626183000 +0000" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260626183000 +0000" stop="20260626191500 +0000" channel="翡翠台"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+  </programme>
+  <programme start="20260626191500 +0000" stop="20260626192500 +0000" channel="翡翠台"><title lang="zh">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260626192500 +0000" stop="20260626193000 +0000" channel="翡翠台"><title lang="zh">有理說得清[粵]</title>
+  </programme>
+  <programme start="20260626193000 +0000" stop="20260626193500 +0000" channel="翡翠台"><title lang="zh">澳門「休」遊攻略[粵]</title>
+  </programme>
+  <programme start="20260626193500 +0000" stop="20260626200000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260626200000 +0000" stop="20260626203000 +0000" channel="翡翠台"><title lang="zh">黃道益活絡油呈獻：愛． 回家之開心速遞#2838[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵][PG]</title><desc lang="zh">熊家眾人對懷孕的若水百般遷就，她卻出現極大變化，仿如衍生多重人格，情緒化得難以「侍候」，眾人縱吃盡苦頭，亦只能默默承受。若水追看劇集，發現劇中懷孕妻子的丈夫疑似遭遇不測，預告片更出現丈夫喪禮的畫面。若水代入妻子角色，難過之餘，更擔心龔燁會遭遇不測。眾人設法安慰，城安查看下星期劇情預告，發現喪夫情節屬實，不敢讓若水知道。若水情緒低落，經常胡思亂想，龔燁務必在下集播出前設法改寫劇情……</desc>
+  </programme>
+  <programme start="20260626203000 +0000" stop="20260626213000 +0000" channel="翡翠台"><title lang="zh">飛常日誌II#10[粵]</title><desc lang="zh">(大結局)一班客機於惡劣天氣降落時偏離跑道，北跑道被迫緊急關閉，尚偉、芷珊、雅雯等人迅速作出人流管制和航班編排，確保機場維持正常運轉的同時，也可盡快恢復跑道運行。尚偉被安排參與拍攝機場宣傳片，其生澀表現令人會心一笑。二副機師可兒迎來飛行生涯的重要考驗，在機長啟光嚴格監督下接受升級考試……「機場百年印記」展覽舉行，尚偉向記者闡述未來藍圖「SKYTOPIA」，展望每位員工都能在崗位上譜寫獨特篇章……</desc>
+  </programme>
+  <programme start="20260626213000 +0000" stop="20260626213300 +0000" channel="翡翠台"><title lang="zh">飛常日誌II - 獨家三分鐘 [粵]</title><desc lang="zh">(大結局)一班客機於惡劣天氣降落時偏離跑道，北跑道被迫緊急關閉，尚偉、芷珊、雅雯等人迅速作出人流管制和航班編排，確保機場維持正常運轉的同時，也可盡快恢復跑道運行。尚偉被安排參與拍攝機場宣傳片，其生澀表現令人會心一笑。二副機師可兒迎來飛行生涯的重要考驗，在機長啟光嚴格監督下接受升級考試……「機場百年印記」展覽舉行，尚偉向記者闡述未來藍圖「SKYTOPIA」，展望每位員工都能在崗位上譜寫獨特篇章……</desc>
+  </programme>
+  <programme start="20260626213300 +0000" stop="20260626220000 +0000" channel="翡翠台"><title lang="zh">中國建設銀行(亞洲)呈獻：走過歷史大地[粵]</title><desc lang="zh">世界上某些文明、地方、事件與生活方式經已在歷史長河中消逝，如何能重塑一段段空白？主持洪永城、黃翠如藉真人實地探訪配合AI技術還原虛擬面貌，以輕鬆風格引領觀眾《走過歷史大地》，將古代與現代連結，啟動歷史穿梭新旅程！這對「最佳旅遊拍檔」遊走埃及開羅、意大利羅馬、法國巴黎、英國倫敦，親身探索遺址現況，見識當地文化與生活；同時化身「時空旅人」，透過AI技術置身一幕幕世界大事的關鍵場景，沉浸式體驗歷史時刻。</desc>
+  </programme>
+  <programme start="20260626220000 +0000" stop="20260626230000 +0000" channel="翡翠台"><title lang="zh">女法醫解密#10[粵/普][PG]</title>
+  </programme>
+  <programme start="20260626230000 +0000" stop="20260626231500 +0000" channel="翡翠台"><title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title><desc lang="zh">節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。</desc>
+  </programme>
+  <programme start="20260626231500 +0000" stop="20260626234500 +0000" channel="翡翠台"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+  </programme>
+  <programme start="20260626234500 +0000" stop="20260626235000 +0000" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260626235000 +0000" stop="20260626235500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌之北上睇真D[粵]</title>
+  </programme>
+  <programme start="20260626235500 +0000" stop="20260627010000 +0000" channel="翡翠台"><title lang="zh">獵鷹#8[粵][PG]</title><desc lang="zh">嘉琦責大偉鼓勵阿昇投考警察，大偉無奈離去。嘉琦弟妹無心向學，無一聽其勸告，獨自飲泣。蛋家文暗示增加線人費，戚幹與大偉商量卻被拒，爭執時被郭警司見到，著令戚幹放假。大偉於是安排他與江霞到外地旅遊。嘉慧久未返家，返回時遭嘉琦責打卻反唇相稽，嘉琦難受。大偉掃蕩陳水的白粉檔，陳水與國基商量帶走證人，國基假稱一直追查此案，說服大偉將案件轉交，隨即釋放證人。戚幹歸來知悉此事與大偉再生口角，被調到國基手下。</desc>
+  </programme>
+  <programme start="20260626000001 +0800" stop="20260626002441 +0800" channel="精品大剧"><title lang="zh">37_蜜语纪</title>
+  </programme>
+  <programme start="20260626000001 +0800" stop="20260626003358 +0800" channel="军旅剧场"><title lang="zh">PASSEZLA蒺藜木精油皂甄享组-渠道（右）</title>
   </programme>
 </tv>

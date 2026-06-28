@@ -17,11 +17,15 @@
   </channel>
   <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name>
   </channel>
+  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
+  </channel>
   <channel id="动物星球"><display-name lang="zh">动物星球</display-name><display-name lang="zh">动物星球频道</display-name>
   </channel>
   <channel id="明珠"><display-name lang="zh">明珠</display-name><display-name lang="zh">明珠台</display-name>
   </channel>
   <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
   </channel>
   <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
   </channel>
@@ -34,6 +38,8 @@
   <channel id="粤语片"><display-name lang="zh">粤语片</display-name><display-name lang="zh">粤语片台</display-name>
   </channel>
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
   </channel>
   <channel id="HBO"><display-name lang="zh">HBO</display-name>
   </channel>
@@ -162,5 +168,11 @@
   <programme start="20260701000001 +0800" stop="20260701002500 +0800" channel="黄金翡翠"><title lang="zh">歡樂今宵 #502 [粵]</title>
   </programme>
   <programme start="20260701000001 +0800" stop="20260701001500 +0800" channel="黄金华剧"><title lang="zh">《京城大狀師》審死官 #16 [普]</title>
+  </programme>
+  <programme start="20260701000001 +0800" stop="20260701003138 +0800" channel="精品大剧"><title lang="zh">18_兰陵王</title>
+  </programme>
+  <programme start="20260701000001 +0800" stop="20260701004115 +0800" channel="黑莓电影"><title lang="zh">绣春刀·修罗战场</title>
+  </programme>
+  <programme start="20260701000001 +0800" stop="20260701000154 +0800" channel="潮妈辣婆"><title lang="zh">25_兰陵王</title>
   </programme>
 </tv>

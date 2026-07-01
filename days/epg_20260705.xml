@@ -1,0 +1,492 @@
+<tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
+  <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name>
+  </channel>
+  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
+  </channel>
+  <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name>
+  </channel>
+  <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
+  </channel>
+  <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
+  </channel>
+  <channel id="Discovery科学频道"><display-name lang="zh">Discovery科学频道</display-name>
+  </channel>
+  <channel id="亚洲剧"><display-name lang="zh">亚洲剧</display-name><display-name lang="zh">亚洲剧台</display-name>
+  </channel>
+  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name>
+  </channel>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
+  </channel>
+  <channel id="粤语片"><display-name lang="zh">粤语片</display-name><display-name lang="zh">粤语片台</display-name>
+  </channel>
+  <channel id="康巴卫视"><display-name lang="zh">康巴卫视</display-name>
+  </channel>
+  <channel id="旅游卫视"><display-name lang="zh">旅游卫视</display-name>
+  </channel>
+  <channel id="NHK World Premium"><display-name lang="zh">NHK World Premium</display-name>
+  </channel>
+  <channel id="动物星球"><display-name lang="zh">动物星球</display-name><display-name lang="zh">动物星球频道</display-name>
+  </channel>
+  <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
+  </channel>
+  <channel id="HBO"><display-name lang="zh">HBO</display-name>
+  </channel>
+  <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name>
+  </channel>
+  <channel id="beIN SPORTS 3"><display-name lang="zh">beIN SPORTS 3</display-name>
+  </channel>
+  <channel id="HBO家庭"><display-name lang="zh">HBO家庭</display-name><display-name lang="zh">HBO Family</display-name>
+  </channel>
+  <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
+  </channel>
+  <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name>
+  </channel>
+  <channel id="明珠"><display-name lang="zh">明珠</display-name><display-name lang="zh">明珠台</display-name>
+  </channel>
+  <programme start="20260705000000 +0000" stop="20260705001500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260705001500 +0000" stop="20260705015000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260705015000 +0000" stop="20260705022000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇英文版</title>
+  </programme>
+  <programme start="20260705022000 +0000" stop="20260705024500 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260705024500 +0000" stop="20260705025000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260705025000 +0000" stop="20260705032000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260705032000 +0000" stop="20260705033500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260705033500 +0000" stop="20260705034000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705034000 +0000" stop="20260705041000 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260705041000 +0000" stop="20260705043500 +0000" channel="康巴卫视"><title lang="zh">雪域高原(双语)</title>
+  </programme>
+  <programme start="20260705043500 +0000" stop="20260705060000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260705060000 +0000" stop="20260705062500 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260705062500 +0000" stop="20260705063000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705063000 +0000" stop="20260705065500 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260705065500 +0000" stop="20260705070000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260705073000 +0000" stop="20260705074500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260705074500 +0000" stop="20260705074900 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705074900 +0000" stop="20260705082100 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260705082100 +0000" stop="20260705102000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260705102000 +0000" stop="20260705103200 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260705103200 +0000" stop="20260705105700 +0000" channel="康巴卫视"><title lang="zh">雪域高原(藏语汉文)</title>
+  </programme>
+  <programme start="20260705105700 +0000" stop="20260705115200 +0000" channel="康巴卫视"><title lang="zh">周末大舞台</title>
+  </programme>
+  <programme start="20260705115200 +0000" stop="20260705120000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260705123000 +0000" stop="20260705125000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260705125000 +0000" stop="20260705132000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语版)</title>
+  </programme>
+  <programme start="20260705132000 +0000" stop="20260705172700 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260705172700 +0000" stop="20260705175700 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260705175700 +0000" stop="20260705182700 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260705182700 +0000" stop="20260705185700 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260705185700 +0000" stop="20260705190500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705190500 +0000" stop="20260705193300 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语)</title>
+  </programme>
+  <programme start="20260705193300 +0000" stop="20260705194300 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260705194300 +0000" stop="20260705195000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260705195000 +0000" stop="20260705213000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260705213000 +0000" stop="20260705220000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260705220000 +0000" stop="20260705222000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260705222000 +0000" stop="20260705222500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705222500 +0000" stop="20260705225100 +0000" channel="康巴卫视"><title lang="zh">康巴讲坛(藏语汉文)</title>
+  </programme>
+  <programme start="20260705225100 +0000" stop="20260705231900 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260705231900 +0000" stop="20260705233000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260705233000 +0000" stop="20260706000000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260705000000 +0000" stop="20260705003000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
+  </programme>
+  <programme start="20260705003000 +0000" stop="20260705010000 +0000" channel="凤凰卫视"><title lang="zh">香港新视点</title>
+  </programme>
+  <programme start="20260705010000 +0000" stop="20260705020000 +0000" channel="凤凰卫视"><title lang="zh">一虎一席谈</title>
+  </programme>
+  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260705023000 +0000" stop="20260705030000 +0000" channel="凤凰卫视"><title lang="zh">文化大观园</title>
+  </programme>
+  <programme start="20260705030000 +0000" stop="20260705033000 +0000" channel="凤凰卫视"><title lang="zh">近观中国</title>
+  </programme>
+  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="凤凰卫视"><title lang="zh">新闻鉴证组</title>
+  </programme>
+  <programme start="20260705040000 +0000" stop="20260705043000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
+  </programme>
+  <programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="凤凰卫视"><title lang="zh">我们和它们</title>
+  </programme>
+  <programme start="20260705050000 +0000" stop="20260705060000 +0000" channel="凤凰卫视"><title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260705060000 +0000" stop="20260705062900 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260705062900 +0000" stop="20260705070000 +0000" channel="凤凰卫视"><title lang="zh">筑梦天下</title>
+  </programme>
+  <programme start="20260705070000 +0000" stop="20260705075400 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260705075400 +0000" stop="20260705075900 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260705075900 +0000" stop="20260705085400 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260705085400 +0000" stop="20260705090000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="凤凰卫视"><title lang="zh">空间观策</title>
+  </programme>
+  <programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="凤凰卫视"><title lang="zh">我们和它们</title>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705105400 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260705105400 +0000" stop="20260705105900 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260705105900 +0000" stop="20260705115900 +0000" channel="凤凰卫视"><title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260705115900 +0000" stop="20260705130000 +0000" channel="凤凰卫视"><title lang="zh">凤凰午间专列</title>
+  </programme>
+  <programme start="20260705130000 +0000" stop="20260705135900 +0000" channel="凤凰卫视"><title lang="zh">一虎一席谈</title>
+  </programme>
+  <programme start="20260705135900 +0000" stop="20260705145900 +0000" channel="凤凰卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705145900 +0000" stop="20260705160000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="凤凰卫视"><title lang="zh">新闻鉴证组</title>
+  </programme>
+  <programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260705170000 +0000" stop="20260705180000 +0000" channel="凤凰卫视"><title lang="zh">皇牌大放送</title>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="凤凰卫视"><title lang="zh">凤凰焦点新闻</title>
+  </programme>
+  <programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="凤凰卫视"><title lang="zh">筑梦天下</title>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705202900 +0000" channel="凤凰卫视"><title lang="zh">凤凰大健康</title>
+  </programme>
+  <programme start="20260705202900 +0000" stop="20260705205900 +0000" channel="凤凰卫视"><title lang="zh">名人面对面</title>
+  </programme>
+  <programme start="20260705205900 +0000" stop="20260705215300 +0000" channel="凤凰卫视"><title lang="zh">时事直通车</title>
+  </programme>
+  <programme start="20260705215300 +0000" stop="20260705215900 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260705215900 +0000" stop="20260705223000 +0000" channel="凤凰卫视"><title lang="zh">近观中国</title>
+  </programme>
+  <programme start="20260705223000 +0000" stop="20260705224500 +0000" channel="凤凰卫视"><title lang="zh">我的香港故事</title>
+  </programme>
+  <programme start="20260705224500 +0000" stop="20260705230000 +0000" channel="凤凰卫视"><title lang="zh">笑逐言开</title>
+  </programme>
+  <programme start="20260705230000 +0000" stop="20260705232900 +0000" channel="凤凰卫视"><title lang="zh">笑逐言开</title>
+  </programme>
+  <programme start="20260705232900 +0000" stop="20260706000000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260705000700 +0000" stop="20260705003800 +0000" channel="旅游卫视"><title lang="zh">卫视高尔夫</title><desc>国内首屈一指的高尔夫电视节目，拥有20年播出历史，全年超千小时高尔夫日播节目。与世界高尔夫四大满贯、美巡赛、欧巡赛等国际顶级赛事组织长期合作，全程跟踪报道李昊桐、袁也淳、冯珊珊等中国职业球员在世界赛场上的表现，是国内唯一拥有强大自制能力的专业垂直类体育节目。</desc>
+  </programme>
+  <programme start="20260705003800 +0000" stop="20260705010300 +0000" channel="旅游卫视"><title lang="zh">步步为营</title><desc>海南卫视营商环境特色品牌栏目，紧扣海南自贸港建设的核心需求，聚焦企业、群众关心的堵点难点问题，用镜头直击改革现场，搭建政企沟通桥梁。</desc>
+  </programme>
+  <programme start="20260705010300 +0000" stop="20260705014800 +0000" channel="旅游卫视"><title lang="zh">午夜剧场:蜂巢27</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705014800 +0000" stop="20260705023300 +0000" channel="旅游卫视"><title lang="zh">午夜剧场:蜂巢28</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705023300 +0000" stop="20260705032300 +0000" channel="旅游卫视"><title lang="zh">纪录中国</title><desc>大型纪录片日播栏目，由中央电视台纪录频道联合全国省、市级电视台共同开办，2013年11月11日起在全国70家省市电视台同步开播，被业界称为“目前我国传播范围最广、参与电视台最多的纪录片栏目”。栏目以播出自然类、社会类、人文类、文献类等国内外优秀纪录片为主，涵盖《美丽中国》《舌尖上的中国》《国家宝藏》《复活的军团》等精品国产纪录片，以及《花豹女王》《鳄鱼争霸战》等海外引进经典。</desc>
+  </programme>
+  <programme start="20260705032300 +0000" stop="20260705035000 +0000" channel="旅游卫视"><title lang="zh">卫视高尔夫</title><desc>国内首屈一指的高尔夫电视节目，拥有20年播出历史，全年超千小时高尔夫日播节目。与世界高尔夫四大满贯、美巡赛、欧巡赛等国际顶级赛事组织长期合作，全程跟踪报道李昊桐、袁也淳、冯珊珊等中国职业球员在世界赛场上的表现，是国内唯一拥有强大自制能力的专业垂直类体育节目。</desc>
+  </programme>
+  <programme start="20260705035000 +0000" stop="20260705042000 +0000" channel="旅游卫视"><title lang="zh">视界-行者</title>
+  </programme>
+  <programme start="20260705042000 +0000" stop="20260705045600 +0000" channel="旅游卫视"><title lang="zh">动画片:海底小纵队第十季</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260705045600 +0000" stop="20260705053800 +0000" channel="旅游卫视"><title lang="zh">午夜剧场:蜂巢29</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705053800 +0000" stop="20260705060500 +0000" channel="旅游卫视"><title lang="zh">视界-行者</title>
+  </programme>
+  <programme start="20260705060500 +0000" stop="20260705070000 +0000" channel="旅游卫视"><title lang="zh">大使家宴第四季</title>
+  </programme>
+  <programme start="20260705070000 +0000" stop="20260705070100 +0000" channel="旅游卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260705070100 +0000" stop="20260705073300 +0000" channel="旅游卫视"><title lang="zh">海南新闻联播</title><desc>海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
+  </programme>
+  <programme start="20260705073300 +0000" stop="20260705080100 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅64</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705080100 +0000" stop="20260705081100 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705081100 +0000" stop="20260705083900 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅65</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705083900 +0000" stop="20260705084900 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705084900 +0000" stop="20260705091700 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅66</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705091700 +0000" stop="20260705093700 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705093700 +0000" stop="20260705100500 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅67</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705100500 +0000" stop="20260705102500 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705102500 +0000" stop="20260705105300 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅68</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705105300 +0000" stop="20260705111300 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705111300 +0000" stop="20260705112100 +0000" channel="旅游卫视"><title lang="zh">风华正茂·向南渡</title><desc>海南卫视大型生态人文纪录片，第三季以“向南渡”为主题，以333.8公里的桨板漂流为独特视角，跨越南渡江流域七市县，记录生态护林员、水库巡查队、新农人、非遗传承人等奋斗者的故事，呈现海南生态文明建设实践。</desc>
+  </programme>
+  <programme start="20260705112100 +0000" stop="20260705113000 +0000" channel="旅游卫视"><title lang="zh">风华正茂·向南渡</title><desc>海南卫视大型生态人文纪录片，第三季以“向南渡”为主题，以333.8公里的桨板漂流为独特视角，跨越南渡江流域七市县，记录生态护林员、水库巡查队、新农人、非遗传承人等奋斗者的故事，呈现海南生态文明建设实践。</desc>
+  </programme>
+  <programme start="20260705113000 +0000" stop="20260705135000 +0000" channel="旅游卫视"><title lang="zh">第六届亚洲沙滩运动会</title>
+  </programme>
+  <programme start="20260705135000 +0000" stop="20260705141800 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅69</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705141800 +0000" stop="20260705143800 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705143800 +0000" stop="20260705150600 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅70</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705150600 +0000" stop="20260705152600 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705152600 +0000" stop="20260705155400 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅71</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705155400 +0000" stop="20260705161400 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705161400 +0000" stop="20260705164200 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅72</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705164200 +0000" stop="20260705170200 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705170200 +0000" stop="20260705173000 +0000" channel="旅游卫视"><title lang="zh">阳光剧场:穆桂英挂帅73</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705173000 +0000" stop="20260705175900 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705175900 +0000" stop="20260705180800 +0000" channel="旅游卫视"><title lang="zh">纪录片:风华正茂·向南渡</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705180800 +0000" stop="20260705182200 +0000" channel="旅游卫视"><title lang="zh">动画片:天眼归来之幸福配方</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260705182200 +0000" stop="20260705183000 +0000" channel="旅游卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705183000 +0000" stop="20260705190000 +0000" channel="旅游卫视"><title lang="zh">海南新闻联播</title><desc>海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="旅游卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705193300 +0000" channel="旅游卫视"><title lang="zh">广告</title><desc>生活服务类广告栏目，以健康、养生栏目等形式变相发布医疗、药品、医疗器械、保健食品等服务类广告节目。</desc>
+  </programme>
+  <programme start="20260705193300 +0000" stop="20260705200000 +0000" channel="旅游卫视"><title lang="zh">潮起海之南</title><desc>海南卫视专题节目，由《开放》《品味》《遇见》《奋斗》《纪事》五个板块组成。周一至周五播出，涵盖纪实影像、文化体验、人物访谈等多种形式，从科技创新、文化传承、乡村振兴、医疗发展等多元视角记录海南自贸港建设进程。</desc>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705203300 +0000" channel="旅游卫视"><title lang="zh">自贸港·财经视界</title><desc>海南卫视财经栏目，设置“潮向·风向标”“洞见·深一度”“足迹·TA故事”三大板块，以全球视野、专业视角和通俗表达，速览一周财经热点，剖析自贸港关键议题，讲述千行百业奋斗者故事，展现海南自贸港的制度创新与产业活力。</desc>
+  </programme>
+  <programme start="20260705203300 +0000" stop="20260705211800 +0000" channel="旅游卫视"><title lang="zh">金椰剧场:六姊妹24</title>
+  </programme>
+  <programme start="20260705211800 +0000" stop="20260705220000 +0000" channel="旅游卫视"><title lang="zh">金椰剧场:六姊妹25</title>
+  </programme>
+  <programme start="20260705220000 +0000" stop="20260705223200 +0000" channel="旅游卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260705223200 +0000" stop="20260705232700 +0000" channel="旅游卫视"><title lang="zh">大使家宴第四季</title>
+  </programme>
+  <programme start="20260705232700 +0000" stop="20260706000000 +0000" channel="旅游卫视"><title lang="zh">纪录中国</title><desc>大型纪录片日播栏目，由中央电视台纪录频道联合全国省、市级电视台共同开办，2013年11月11日起在全国70家省市电视台同步开播，被业界称为“目前我国传播范围最广、参与电视台最多的纪录片栏目”。栏目以播出自然类、社会类、人文类、文献类等国内外优秀纪录片为主，涵盖《美丽中国》《舌尖上的中国》《国家宝藏》《复活的军团》等精品国产纪录片，以及《花豹女王》《鳄鱼争霸战》等海外引进经典。</desc>
+  </programme>
+  <programme start="20260705000500 +0000" stop="20260705005500 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705005500 +0000" stop="20260705031800 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705031800 +0000" stop="20260705054000 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705054000 +0000" stop="20260705060800 +0000" channel="南方卫视"><title lang="zh">都市笑口组</title>
+  </programme>
+  <programme start="20260705060800 +0000" stop="20260705070100 +0000" channel="南方卫视"><title lang="zh">粤唱粤好戏</title>
+  </programme>
+  <programme start="20260705070100 +0000" stop="20260705081200 +0000" channel="南方卫视"><title lang="zh">都市笑口组</title>
+  </programme>
+  <programme start="20260705081200 +0000" stop="20260705094000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260705094000 +0000" stop="20260705102000 +0000" channel="南方卫视"><title lang="zh">养生节目</title>
+  </programme>
+  <programme start="20260705102000 +0000" stop="20260705110500 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705110500 +0000" stop="20260705111000 +0000" channel="南方卫视"><title lang="zh">五分钟热度</title>
+  </programme>
+  <programme start="20260705111000 +0000" stop="20260705115100 +0000" channel="南方卫视"><title lang="zh">养生节目</title>
+  </programme>
+  <programme start="20260705115100 +0000" stop="20260705140000 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160800 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705160800 +0000" stop="20260705163300 +0000" channel="南方卫视"><title lang="zh">五分钟热度</title>
+  </programme>
+  <programme start="20260705163300 +0000" stop="20260705182900 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705182900 +0000" stop="20260705184000 +0000" channel="南方卫视"><title lang="zh">都市笑口组</title>
+  </programme>
+  <programme start="20260705184000 +0000" stop="20260705193000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705200000 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705210500 +0000" channel="南方卫视"><title lang="zh">今日最新闻</title>
+  </programme>
+  <programme start="20260705210500 +0000" stop="20260705220000 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705220000 +0000" stop="20260705224500 +0000" channel="南方卫视"><title lang="zh"> 冬电视剧</title>
+  </programme>
+  <programme start="20260705224500 +0000" stop="20260705225500 +0000" channel="南方卫视"><title lang="zh">财经节目</title>
+  </programme>
+  <programme start="20260705225500 +0000" stop="20260705235000 +0000" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260705235000 +0000" stop="20260706000000 +0000" channel="南方卫视"><title lang="zh">节目专题</title>
+  </programme>
+  <programme start="20260705003500 +0000" stop="20260705010500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260705010500 +0000" stop="20260705013500 +0000" channel="翡翠台"><title lang="zh">約埋班Friend遊香港[粵][PG]</title><desc lang="zh">遊樂團ReU，麥包、江美儀、滕麗名、陳浚霆先到活化後的中環街市，四處嬉鬧，透過舊物品懷緬一番之餘，更會親手拉製龍鬚糖！四人登船品嚐避風塘海鮮，還大玩「快問快答二揀一」，美儀總是可預計到拍檔的選擇？轉場行逛夜市，檔主熱情邀請試飲，這夜變得繽紛。凌晨三點飲夜茶，又帶來何等精彩？此外，美儀領麥包前往食素，藉「打卡美食」談起兒時的快樂來源，開心其實可以很簡單。美儀還帶他去按摩，期間還自揭技能秘密。</desc>
+  </programme>
+  <programme start="20260705013500 +0000" stop="20260705020500 +0000" channel="翡翠台"><title lang="zh">周六聊Teen谷[粵]</title><desc lang="zh">年輕人潮流觸角敏銳，愛好探索新事物、新資訊。踏入科技年代，青少年對新興電子產品、網絡流行媒體尤感興趣，追上時代步伐，已成新世代指標！主持開設《周六聊Teen谷》，會用盡所能搜羅世界各地至潮、至新情報，上至世界盛事、醫學百科、文藝與科技；下至日常生活、網絡熱搜，在每個星期六跟觀眾一一分享。論盡天南地北，暢談人氣熱話，「谷友」緊貼節目，便可輕鬆掌握全球脈搏動向。</desc>
+  </programme>
+  <programme start="20260705020500 +0000" stop="20260705023500 +0000" channel="翡翠台"><title lang="zh">仨心友行 3[粵]</title><desc lang="zh">李佳芯、麥美恩、劉穎鏇放慢腳步，隨黎諾懿同遊秘密花園。用地圖找目的地任務等待着「女神們」，有人卻遲遲未露面？抵埗後，三女體驗以物易物，用水果跟村中婆婆換來採摘「天然驅蚊法寶」艾草的機會。眾人重拾童心，暢玩兒時玩意「東南西北」，並細訴童年事。佳芯小時候愛通山跑，獨生女穎鏇卻會與「隱形朋友」玩？談到「我的志願」，穎鏇曾希望當醫生，佳芯、美恩則是入行後才看清目標。同場加映紙飛機飛行大賽，輸家要接受懲罰！</desc>
+  </programme>
+  <programme start="20260705023500 +0000" stop="20260705030500 +0000" channel="翡翠台"><title lang="zh">一個好人[粵]</title><desc lang="zh">十五歲少年Owen希望分享運動的快樂，成立義教平台，將擅長項目的技巧傳授給基層兒童；其善心亦激勵弟弟，也令不少同齡人願意成為同行者。成員要包辦義教活動的策劃、籌備等事務，當中有何深刻點滴？輪椅人士出行時會遇到乘搭交通工具、上落樓梯等不便，不忍他們因此「被困」，吉哥化身義載司機、Peonie擔任義務樓梯機操作員，助輪椅人士走出社區。還有邱師傳以身作則，引領兒子一同當上家居維修義工，為有需要人士服務。</desc>
+  </programme>
+  <programme start="20260705030500 +0000" stop="20260705033500 +0000" channel="翡翠台"><title lang="zh">一個好人[粵]</title><desc lang="zh">傷殘人士都可享受潛水樂趣，教練區紹堅提供專業訓練兼贊助器材，讓他們自由自在探索水底世界。美儀下水給予支援，體會傷健共融的美好！彎腰剪腳甲看似輕易，對部份長者卻甚艱難！美甲師吳詠珊向社區中心提出義剪服務，卻曾被拒絕？老友記多年沒剪甲，腳甲狀況或甚惡劣，她難忘驚見甲藏昆蟲。美儀初次義剪，遇大考驗……另一「剪」現愛故事，髮型師陳楚傑亦發揮專長，組織團隊為長者義剪。節目尾聲，美儀還以手工禮物感謝「好人」！</desc>
+  </programme>
+  <programme start="20260705033500 +0000" stop="20260705040500 +0000" channel="翡翠台"><title lang="zh">手匠傳承[粵/韓]</title><desc lang="zh">本節目將帶您走進亞洲文化的手工藝術世界，彰顯不同國家的美學。工匠們用心地透過藝術和耐心的加工，創造出了精工細作的文化遺產。工藝及其藝術表現形式作為傳統文化的遺產，為文化多樣性提供了豐富的內容。</desc>
+  </programme>
+  <programme start="20260705040500 +0000" stop="20260705050000 +0000" channel="翡翠台"><title lang="zh">香檳掌門人[粵/英]</title><desc lang="zh">香檳是法國最負盛名的文化遺產之一，以其獨特的釀造工藝和嚴格的產區規管而聞名。本節目將帶大家認識這些產自不起眼的葡萄酒產區的佳釀，是如何成為如今最受讚譽、最令人著迷的標誌性產品之一。</desc>
+  </programme>
+  <programme start="20260705050000 +0000" stop="20260705060000 +0000" channel="翡翠台"><title lang="zh">隆行天下之重走八千里路雲和月[普]</title>
+  </programme>
+  <programme start="20260705060000 +0000" stop="20260705063000 +0000" channel="翡翠台"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">何遠東駕駛「降魔的」，聯同史學專家施志明講解「蕉林」、「十三座」、「雞寮」實指地點。梁嘉琪全神演繹「失常女神」，與「火水哥」合演瘋狂趣劇，探究「發狼戾」、「斷片」、「跳掣」等港式俗語起源。蜑家人以艇為家，艇上「打仔」當然「飛唔得上灘」！黃沙蜆被奉為新會石板沙三寶之一，眾人實地講解與「蜆」有關的歇後語。「麻煩導演」來到順德逢簡水鄉拍攝音樂電影，被「龍舟說唱」的民間情懷深深吸引，廖Sir細述箇中特色。</desc>
+  </programme>
+  <programme start="20260705063000 +0000" stop="20260705070000 +0000" channel="翡翠台"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">賭博嗜好衍生不少術語，且聽掌故專家鄭寶鴻細數「割禾青」、「坐定粒六」、「鋪草皮」等俗語的有趣出處。「火水哥」對來自台灣的「Roller女神」余思霆一見傾心，他卻對「森77」、「拍謝」等台式潮語一竅不通，難怪再次淪為情場「魯蛇」！廣州有一諺語「沙灣何，有仔唔憂冇老婆」，顯示沙灣何家的名堂響噹噹。何家「管家」疑似死於非命，真相與當地美食可有關連？銅煲、棉被均是廣州著名工藝，背後又隱藏着哪些㜺鬼歇後語？</desc>
+  </programme>
+  <programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="翡翠台"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">一種普通食物，令聖地牙哥的漢堡包得獎；發霉的食材，煲成湯竟能醫百病；一件物件，令東京某麵店不用火亦可替客人翻熱湯汁；麥長青、黃浩然能夠猜中答案，要感謝的竟是攝影師？</desc>
+  </programme>
+  <programme start="20260705073000 +0000" stop="20260705080000 +0000" channel="翡翠台"><title lang="zh">Do姐有問題[粵]</title><desc lang="zh">馬國明與唐詩詠忙於拍劇，但接獲Do姐邀請，當然即到擔任嘉賓！台灣「問題專員」找來一款加入「黑材料」的蛋卷，究竟是甚麼特別食材？要平遊東京，住Hostel是常識吧！書店主題Hostel為客人送上貼心禮物，內裡有何乾坤？K小姐走進首爾的漁市場，發現鮟鱇魚限售雌性。詩詠對答案似乎胸有成竹，可否猜中原因？來到以積分兌換貨幣的關鍵時刻，面對四個不太熟悉的國家貨幣，二人會如何抉擇？</desc>
+  </programme>
+  <programme start="20260705080000 +0000" stop="20260705090000 +0000" channel="翡翠台"><title lang="zh">文明啟航[粵/英]</title><desc lang="zh">一連六集，歷史學家Bettany Hughes將帶領觀眾踏上另一段令人難忘的人類文明史之旅。</desc>
+  </programme>
+  <programme start="20260705090000 +0000" stop="20260705093000 +0000" channel="翡翠台"><title lang="zh">星夢頻道[粵/日]</title><desc lang="zh">遲遲找不到主人的菈比莉，被露露娜警告要是再找不到主人，今天就要和星夢電子蛋一起被重置。被逼到絕境的菈比莉，偶遇從百老匯秘密回國的瑪莉亞和小鈴，瑪莉亞二人願意幫忙她找尋主人，結果卻一直在撲空……</desc>
+  </programme>
+  <programme start="20260705093000 +0000" stop="20260705094500 +0000" channel="翡翠台"><title lang="zh">喜羊羊與灰太狼之羊羊趣冒險[粵/普]</title><desc lang="zh">未來的小羊們獲得了灰太狼新制的發明“變小手錶”，變成迷你版小羊並坐上慢羊羊發明的玩具小車，前往微觀世界，幫助大家解決各式各樣的問題。</desc>
+  </programme>
+  <programme start="20260705094500 +0000" stop="20260705100000 +0000" channel="翡翠台"><title lang="zh">喜羊羊與灰太狼之羊羊趣冒險[粵/普]</title><desc lang="zh">未來的小羊們獲得了灰太狼新制的發明“變小手錶”，變成迷你版小羊並坐上慢羊羊發明的玩具小車，前往微觀世界，幫助大家解決各式各樣的問題。</desc>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705103000 +0000" channel="翡翠台"><title lang="zh">多啦A夢[粵]</title><desc lang="zh">多啦A夢用「影子閃光燈」召喚出自己的影子看守豆沙包，大雄見狀決定召喚五道影子去對付胖虎和小夫。大雄被小夫說的吸血殭屍故事嚇得屁滾尿流，多啦A夢借他「吸血殭屍套裝」去吸走大家的記憶。</desc>
+  </programme>
+  <programme start="20260705103000 +0000" stop="20260705110000 +0000" channel="翡翠台"><title lang="zh">少女煮意日常[粵/日]</title><desc lang="zh">詩音、躑躅與奈奈溫習到過了校舍關門時間，為免被職員逮住，她們打算摸黑走到出口。可是，在學生之間口耳相傳的妖怪連帽女，果真在校舍出沒了！到底詩音三人能否避開職員耳目，安然離開校舍呢？</desc>
+  </programme>
+  <programme start="20260705110000 +0000" stop="20260705113000 +0000" channel="翡翠台"><title lang="zh">講清講楚[粵]</title>
+  </programme>
+  <programme start="20260705113000 +0000" stop="20260705120000 +0000" channel="翡翠台"><title lang="zh">一路繁花[粵]</title><desc lang="zh">子羚、蓓蔚在街頭開餐，點吃油條、粢飯、鹹豆漿、鹹大餅的滬式早餐「四大金剛」。遊覽由紡織廠改建的文創園區，內裡的酒店、餐廳各有特色。西餐廳將上海名湯「醃篤鮮」製成薄餅，還有腐乳芝士蛋糕，滋味如何？跟隨《繁花》劇組的足跡到雜貨店「尋寶」；再享用劇中「夜東京」餐廳的新式淮陽菜，廚師還席前顯刀功，烹調「龍鬚富貴魚」。曾在上海和平飯店任職的大廚，將獅子頭、八寶飯等地道滬菜帶來香江，在港的麥長青到店品嚐。</desc>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705123000 +0000" channel="翡翠台"><title lang="zh">煮戰[粵]</title><desc lang="zh">慶祝紀念日怎可缺少一頓豐富佳餚，西廚Anson向Ricky挑機，以愛心餐一較高下。Anson主打海鮮料理，以心型啫喱配帶子他他、蘆筍湯配蟹肉、炒龍蝦配香草薯蓉牛油汁，奉上滿滿的心思與「煮」意！着重玩得開心的Ricky卻慢條斯理地斟酒，Hea住製作慢煮鵝肝多士、海鹽朱古力士多啤梨、「快速版」蟹肉海膽意式燴飯，以貫徹「求其」主題？成品還被嘉賓周汶錡笑稱是「分手餐」！總結環節，有評判竟打出破天荒的低分？</desc>
+  </programme>
+  <programme start="20260705123000 +0000" stop="20260705130000 +0000" channel="翡翠台"><title lang="zh">煮戰[粵]</title><desc lang="zh">想煮出令學生期待的開心飯盒，不單要夠美味、夠吸睛，也講求均衡營養。今集請來十歲「小廚神」Zoey擔任嘉賓評判，品評詠儀與保哥的廚藝。詠儀巧製造型可愛的「動物飯盒」，熊寶寶雙色飯糰、豚肉蔬菜卷、車厘茄三文魚沙律、雞仔酥和紅豆酥盒，創意與賣相兼備。保哥注重選料與味道，但要趕及限時內完成三文魚菠菜羹、薑黃鴨仔飯糰等五款料理，忙到「爆汗」！煎蜜糖雞翼時，保哥還被詠儀「停止一分鐘」，無奈地看着雞翼變燶……</desc>
+  </programme>
+  <programme start="20260705130000 +0000" stop="20260705131500 +0000" channel="翡翠台"><title lang="zh">午間新聞[粵]</title>
+  </programme>
+  <programme start="20260705131500 +0000" stop="20260705132000 +0000" channel="翡翠台"><title lang="zh">積金講e啲[粵]</title><desc lang="zh">強積金是僱員退休後的保障之一，跟全港打工仔女息息相關。《積金講e啲》由藝員梁敏巧、吳幸美、曾展望、徐榮、鄧凱文、曾錦燊、吳香倫參與演出，以輕鬆手法向強積金計劃的持分者，介紹當局網上平台「積金易」等與強積金相關的實用資訊及注意事項。</desc>
+  </programme>
+  <programme start="20260705132000 +0000" stop="20260705152000 +0000" channel="翡翠台"><title lang="zh">初入職場·中醫季[粵/普]</title><desc lang="zh">《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過"潮養生活"與"中醫歷練"，開啟一場年輕態的中醫文化科普之旅。</desc>
+  </programme>
+  <programme start="20260705152000 +0000" stop="20260705155500 +0000" channel="翡翠台"><title lang="zh">甜心先生[粵]</title><desc lang="zh">香港貴為國際美食天堂，各式各樣甜品包羅萬有，其中以造型精美、形象百變的西式甜品，最能贏得年輕人歡心。甜品誕生過程引人入勝，製作趣味無窮。節目請來甜品界享譽盛名、獲獎無數的「朱古力魔法師」古嘉俊（阿古）擔任主持，聯同藝人嘉賓李施嬅、高海寧、湯洛雯、黃智雯、譚嘉儀、賴慰玲、呂慧儀、陳敏之、羅孝勇、林欣彤、劉溫馨、黃心穎，一起發揮豐富創意，運用各種意想不到的食材配搭，為觀眾變出源源不絕的甜美驚喜。</desc>
+  </programme>
+  <programme start="20260705155500 +0000" stop="20260705160000 +0000" channel="翡翠台"><title lang="zh">勁歌推介[粵]</title>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705163000 +0000" channel="翡翠台"><title lang="zh">新幹線戰士 改變世界[粵/日]</title><desc lang="zh">眾人不敵比娜，危急之際，零時駕駛混沌新幹線戰士前來助陣。太晴被敵人困住，比娜化身黑色E5與他戰鬥。最後清醒過來的比娜要求太晴將她消滅，太晴含淚使用光速能量炮，為戰鬥劃上句號。</desc>
+  </programme>
+  <programme start="20260705163000 +0000" stop="20260705170000 +0000" channel="翡翠台"><title lang="zh">Hands Up[粵]</title><desc lang="zh">兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！</desc>
+  </programme>
+  <programme start="20260705170000 +0000" stop="20260705173000 +0000" channel="翡翠台"><title lang="zh">屁屁偵探[粵/日]</title><desc lang="zh">改編自人氣繪本。各位小朋友快跟著無人不知的名偵探屁屁偵探全面出擊，透過細心觀察及推理，偵破各類案件吧！</desc>
+  </programme>
+  <programme start="20260705173000 +0000" stop="20260705175500 +0000" channel="翡翠台"><title lang="zh">櫻桃小丸子[粵/日]</title><desc lang="zh">因為一些小事，觸發到藤木感慨世間不公平，並且幻想假若自己生在花輪家。社區舉辦七夕活動。小丸子原本說好與媽媽及姐姐一起前往，但之後小丸子因為對媽媽有一些不滿，而自己一個人去了和小玉匯合。</desc>
+  </programme>
+  <programme start="20260705175500 +0000" stop="20260705180000 +0000" channel="翡翠台"><title lang="zh">好嘢港多啲[粵]</title><desc lang="zh">香港特區政府帶領各個部門及單位，適時推出不同的政策措施，為本港市民、到訪旅客、來自外地的投資者提供便捷服務。香港這麼好，當然要多說一些讓大家知道。《好嘢港多啲》以輕鬆有趣的拍攝手法，配合陳豪、高海寧、張振朗、劉佩玥、周嘉洛、羅子溢、馬國明、陳懿德、陳展鵬、劉穎鏇等一眾星級藝員，透過不同角色、形象，生動地表達香港的各樣美好和優勢。</desc>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="翡翠台"><title lang="zh">財經透視[粵]</title><desc lang="zh">《財經透視》緊貼大市，回顧每周港股走勢外，並關注樓市狀況，透過業界人士專訪、市場分析等，深入淺出探討本港、國際財經金融熱門話題，更以專題形式報道不同行業發展面對的問題。</desc>
+  </programme>
+  <programme start="20260705183000 +0000" stop="20260705185500 +0000" channel="翡翠台"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+  </programme>
+  <programme start="20260705185500 +0000" stop="20260705190000 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705193000 +0000" channel="翡翠台"><title lang="zh">星期日檔案[粵]</title><desc lang="zh">《星期日檔案》，每周聚焦於熱門新聞人物，特寫報道；或以人性化角度，透過走訪社會不同階層，不同界別人士，深入探討大眾關切的政治、社會民生等議題。</desc>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705193500 +0000" channel="翡翠台"><title lang="zh">積金講e啲[粵]</title><desc lang="zh">強積金是僱員退休後的保障之一，跟全港打工仔女息息相關。《積金講e啲》由藝員梁敏巧、吳幸美、曾展望、徐榮、鄧凱文、曾錦燊、吳香倫參與演出，以輕鬆手法向強積金計劃的持分者，介紹當局網上平台「積金易」等與強積金相關的實用資訊及注意事項。</desc>
+  </programme>
+  <programme start="20260705193500 +0000" stop="20260705200000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705220500 +0000" channel="翡翠台"><title lang="zh">保濟丸130 週年呈獻：中年好聲音4[粵]</title><desc lang="zh">《中年好聲音4》宣佈啟航，延續前三季的成功，再次為歌唱愛好者築建逐夢舞台。本季更將招募版圖擴展至北美、澳洲等地，還有TVB多位藝員「蒙面」出戰，讓音樂之火燃遍全球，照亮無數追夢者的心弦。車婉婉繼續主持大局，以溫暖笑容陪伴一眾選手；肥媽、周國豐、張佳添、海兒、谷婭溦亦坐鎮評審席，為參賽者提供專業點評與鼓勵。在新一季的舞台上，大家將以音樂交織出更動人的篇章，續寫屬於《中年好聲音》的真摰故事。</desc>
+  </programme>
+  <programme start="20260705220500 +0000" stop="20260705220800 +0000" channel="翡翠台"><title lang="zh">中年好聲音 4 獨家內幕3分鐘 [粵]</title><desc lang="zh">《中年好聲音4》宣佈啟航，延續前三季的成功，再次為歌唱愛好者築建逐夢舞台。本季更將招募版圖擴展至北美、澳洲等地，還有TVB多位藝員「蒙面」出戰，讓音樂之火燃遍全球，照亮無數追夢者的心弦。車婉婉繼續主持大局，以溫暖笑容陪伴一眾選手；肥媽、周國豐、張佳添、海兒、谷婭溦亦坐鎮評審席，為參賽者提供專業點評與鼓勵。在新一季的舞台上，大家將以音樂交織出更動人的篇章，續寫屬於《中年好聲音》的真摰故事。</desc>
+  </programme>
+  <programme start="20260705220800 +0000" stop="20260705224500 +0000" channel="翡翠台"><title lang="zh">歐洲坊鐘錶呈獻：一周星星[粵]</title><desc lang="zh">訪談節目《一周星星》，每集邀請星級藝人、界別名人，與區永權、許文軒、王鎮泉等娛樂主播，分享新近工作企劃，談論電影、電視、演唱會相關的特別話題，尤其是網民與圈中朋友關心熱議的人和事！周邊訊息如此多，節目特設「Fact Check」核實環節，由嘉賓親自回應各式各樣的傳聞，讓當事人說清楚箇中真相！</desc>
+  </programme>
+  <programme start="20260705224500 +0000" stop="20260705231500 +0000" channel="翡翠台"><title lang="zh">美食新聞周報[粵]</title><desc lang="zh">黃嘉雯、蔡景行、施焯日等主持親往熱搜餐廳試味，推介自駕覓食好去處，發掘各區「掃街」名物，驗證網上「抵食」傳聞；又會相約居港的外國人，到訪經他們認證的家鄉風味食肆。名廚、食評家、美食KOL、各區地膽及的士司機亦會帶路「搵食」，帶來專業推介；識食之人還會細說美食典故。節目精選《美食新聞報道》介紹的多間「人氣」餐廳，力推當中招牌美食，並會速遞美食優惠，讓觀眾即時掌握最滋味、抵食的飲食情報。</desc>
+  </programme>
+  <programme start="20260705231500 +0000" stop="20260705233000 +0000" channel="翡翠台"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+  </programme>
+  <programme start="20260705233000 +0000" stop="20260705233500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260705233500 +0000" stop="20260706003500 +0000" channel="翡翠台"><title lang="zh">廉政狙擊#12[粵][PG]</title><desc lang="zh">屠敏找以凡合作洗黑錢，更揭露自己真正身分。在詩獲保釋後遭廷光恐嚇，情緒激動下失足墮崖。雖有目擊證人舉報，但廷光最終脫罪，繼明推斷警方內部有人與其勾結。廷光直接找蔡先生談合作，屠敏發難，二人矛盾升級。</desc>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705012051 +0800" channel="黑莓电影"><title lang="zh">洛克海特的遗物</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705024000 +0800" channel="CINEMAX"><title lang="zh">King Kong</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705002000 +0800" channel="Discovery科学频道"><title lang="zh">不亂搞實驗室 第1季第10集 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705000200 +0800" channel="HBO家庭"><title lang="zh">魔法少女Juniper 第1季第6集 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705005000 +0800" channel="HBO强档锯献"><title lang="zh">死神來了 血脈</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003000 +0800" channel="HBO原创锯献"><title lang="zh">情迷朱古力</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705012500 +0800" channel="HBO"><title lang="zh">詭屋驚凶實錄4：最後的儀式</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705004000 +0800" channel="HISTORY"><title lang="zh">消失的二戰U艇 第6集 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705004500 +0800" channel="HITS MOVIES"><title lang="zh">黑暗金控</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003000 +0800" channel="NHK World Premium"><title lang="zh">Premium Selections</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003500 +0800" channel="TVB Plus"><title lang="zh">賽後你點睇[粵][馬會]</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003000 +0800" channel="beIN SPORTS 2"><title lang="zh">板式網球超級聯賽2026 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705014500 +0800" channel="beIN SPORTS 3"><title lang="zh">環法單車賽 第1集 -第一階段 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003000 +0800" channel="亚洲剧"><title lang="zh">神啊! 請多給我一點時間 #8 [日]</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705005000 +0800" channel="动物星球"><title lang="zh">全美寵物我最Q 第5季第1集 </title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705001500 +0800" channel="明珠"><title lang="zh">晚間新聞[英]</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705005500 +0800" channel="粤语片"><title lang="zh">仙鶴神針二集</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705002000 +0800" channel="黄金翡翠"><title lang="zh">優皮幹探 #17 [粵]</title>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705004000 +0800" channel="黄金华剧"><title lang="zh">��見愛人 #25 [普/粵]</title>
+  </programme>
+</tv>

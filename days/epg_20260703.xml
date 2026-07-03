@@ -23,6 +23,8 @@
   </channel>
   <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
   </channel>
+  <channel id="招远综合"><display-name lang="zh">招远综合</display-name><display-name lang="zh">招远综合</display-name><display-name lang="zh">CHANNEL00001113</display-name>
+  </channel>
   <channel id="精彩影视"><display-name lang="zh">精彩影视</display-name><display-name lang="zh">精彩影视</display-name><display-name lang="zh">CHANNEL00002012</display-name>
   </channel>
   <channel id="菏泽-1"><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽-1</display-name><display-name lang="zh">菏泽1</display-name><display-name lang="zh">CHANNEL00000232</display-name>
@@ -110,6 +112,8 @@
   <channel id="潍坊科教文化"><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">潍坊科教文化</display-name><display-name lang="zh">CHANNEL00000218</display-name>
   </channel>
   <channel id="禹城综合"><display-name lang="zh">禹城综合</display-name><display-name lang="zh">禹城综合</display-name><display-name lang="zh">CHANNEL00001061</display-name>
+  </channel>
+  <channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">CHANNEL00000648</display-name>
   </channel>
   <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
   </channel>
@@ -584,6 +588,8 @@
   <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
   </channel>
   <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
+  </channel>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <channel id="金色学堂"><display-name lang="zh">金色学堂</display-name><display-name lang="zh">金色学堂</display-name><display-name lang="zh">CHANNEL00002018</display-name>
   </channel>
@@ -24450,5 +24456,207 @@
   <programme start="20260703230800 +0800" stop="20260703233800 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260703233800 +0800" stop="20260703235959 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260703000000 +0800" stop="20260703004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260703004000 +0800" stop="20260703012000 +0800" channel="三沙卫视"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260703012000 +0800" stop="20260703020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260703020000 +0800" stop="20260703025000 +0800" channel="三沙卫视"><title lang="zh">精编节目</title><desc>电视台将往期节目精华内容进行重新剪辑编排的特别版本，通过主题化整合、节奏优化和亮点提炼，为观众呈现浓缩升级的视听体验。</desc>
+  </programme>
+  <programme start="20260703025000 +0800" stop="20260703033000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  </programme>
+  <programme start="20260703033000 +0800" stop="20260703040000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260703040000 +0800" stop="20260703043000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703043000 +0800" stop="20260703050000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703050000 +0800" stop="20260703054000 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260703054000 +0800" stop="20260703062000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260703062000 +0800" stop="20260703072000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260703072000 +0800" stop="20260703080000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703080000 +0800" stop="20260703082800 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260703082800 +0800" stop="20260703084300 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260703084300 +0800" stop="20260703084500 +0800" channel="三沙卫视"><title lang="zh">滨海旅游环境预报</title><desc>国家海洋环境预报中心发布的滨海旅游专项预报产品，为海水浴场、滨海度假区等旅游目的地提供海浪、海温、海面视程等环境要素预报，服务公众滨海休闲旅游需求。</desc>
+  </programme>
+  <programme start="20260703084500 +0800" stop="20260703090000 +0800" channel="三沙卫视"><title lang="zh">海洋音乐厅</title><desc>以海洋为主题的实景音乐节目，在海岸线、海岛等自然景观中录制音乐会，融合海浪、海风等环境音与音乐演奏，打造沉浸式视听体验。</desc>
+  </programme>
+  <programme start="20260703090000 +0800" stop="20260703105200 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260703105200 +0800" stop="20260703111000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260703111000 +0800" stop="20260703114800 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260703114800 +0800" stop="20260703115000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260703115000 +0800" stop="20260703120000 +0800" channel="三沙卫视"><title lang="zh">中国海岛环境预报</title><desc>国家海洋环境预报中心发布的专业预报产品，针对我国沿海主要海岛提供海浪、海温、潮汐及未来天气趋势预报，服务海岛旅游、渔业生产及海上交通。</desc>
+  </programme>
+  <programme start="20260703120000 +0800" stop="20260703122500 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  </programme>
+  <programme start="20260703122500 +0800" stop="20260703125000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703125000 +0800" stop="20260703131000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703131000 +0800" stop="20260703133000 +0800" channel="三沙卫视"><title lang="zh">诗意海洋</title><desc>海洋纪录片集合。</desc>
+  </programme>
+  <programme start="20260703133000 +0800" stop="20260703143000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260703143000 +0800" stop="20260703150000 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc>三沙卫视人物访谈栏目，聚焦海南自贸港建设中的先行者与奋斗者，记录他们在改革开放最前沿的创新实践与追梦故事，展现敢闯敢试、敢为人先的特区精神。</desc>
+  </programme>
+  <programme start="20260703150000 +0800" stop="20260703165200 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260703165200 +0800" stop="20260703170000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260703170000 +0800" stop="20260703173000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703173000 +0800" stop="20260703175700 +0800" channel="三沙卫视"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260703175700 +0800" stop="20260703180000 +0800" channel="三沙卫视"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  </programme>
+  <programme start="20260703180000 +0800" stop="20260703182000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  </programme>
+  <programme start="20260703182000 +0800" stop="20260703182500 +0800" channel="三沙卫视"><title lang="zh">海洋音乐厅</title><desc>以海洋为主题的实景音乐节目，在海岸线、海岛等自然景观中录制音乐会，融合海浪、海风等环境音与音乐演奏，打造沉浸式视听体验。</desc>
+  </programme>
+  <programme start="20260703182500 +0800" stop="20260703185500 +0800" channel="三沙卫视"><title lang="zh">精编节目</title><desc>电视台将往期节目精华内容进行重新剪辑编排的特别版本，通过主题化整合、节奏优化和亮点提炼，为观众呈现浓缩升级的视听体验。</desc>
+  </programme>
+  <programme start="20260703185500 +0800" stop="20260703185700 +0800" channel="三沙卫视"><title lang="zh">丝绸之路环境预报</title><desc>国家海洋环境预报中心为“21世纪海上丝绸之路”建设的专业服务产品，覆盖沿线海域的海浪、风暴潮、海温等海洋环境要素预报，为海上贸易通道和航运安全提供保障。</desc>
+  </programme>
+  <programme start="20260703185700 +0800" stop="20260703190000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260703190000 +0800" stop="20260703193500 +0800" channel="三沙卫视"><title lang="zh">新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260703193500 +0800" stop="20260703200000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703200000 +0800" stop="20260703203000 +0800" channel="三沙卫视"><title lang="zh">海南新闻联播</title><desc>海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
+  </programme>
+  <programme start="20260703203000 +0800" stop="20260703220500 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260703220500 +0800" stop="20260703223000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc>电视台宣传推广内容的统称，包括频道形象片、节目预告、品牌活动推介等，用于提升频道影响力和节目关注度。</desc>
+  </programme>
+  <programme start="20260703223000 +0800" stop="20260703225500 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703225500 +0800" stop="20260703232000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703232000 +0800" stop="20260704000000 +0800" channel="三沙卫视"><title lang="zh">精编节目</title><desc>电视台将往期节目精华内容进行重新剪辑编排的特别版本，通过主题化整合、节奏优化和亮点提炼，为观众呈现浓缩升级的视听体验。</desc>
+  </programme>
+  <programme start="20260703020000 +0800" stop="20260703031000 +0800" channel="快乐垂钓"><title lang="zh">钓鱼赛事</title>
+  </programme>
+  <programme start="20260703031000 +0800" stop="20260703033000 +0800" channel="快乐垂钓"><title lang="zh">钓鱼的人</title>
+  </programme>
+  <programme start="20260703033000 +0800" stop="20260703040000 +0800" channel="快乐垂钓"><title lang="zh">钓趣无境</title>
+  </programme>
+  <programme start="20260703040000 +0800" stop="20260703060000 +0800" channel="快乐垂钓"><title lang="zh">沃行天下</title>
+  </programme>
+  <programme start="20260703060000 +0800" stop="20260703080000 +0800" channel="快乐垂钓"><title lang="zh">寰宇钓客</title>
+  </programme>
+  <programme start="20260703080000 +0800" stop="20260703083000 +0800" channel="快乐垂钓"><title lang="zh">猎手</title>
+  </programme>
+  <programme start="20260703083000 +0800" stop="20260703090000 +0800" channel="快乐垂钓"><title lang="zh">自游去钓</title>
+  </programme>
+  <programme start="20260703090000 +0800" stop="20260703095500 +0800" channel="快乐垂钓"><title lang="zh">钓赛大事件</title>
+  </programme>
+  <programme start="20260703095500 +0800" stop="20260703100000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260703100000 +0800" stop="20260703110000 +0800" channel="快乐垂钓"><title lang="zh">沃行天下</title>
+  </programme>
+  <programme start="20260703110000 +0800" stop="20260703113000 +0800" channel="快乐垂钓"><title lang="zh">钓趣无境</title>
+  </programme>
+  <programme start="20260703113000 +0800" stop="20260703120000 +0800" channel="快乐垂钓"><title lang="zh">钓鱼学院视频课</title><desc>中央电视台纪录频道（CCTV-9）融媒体短视频时段，2019年10月21日随频道改版推出，每集时长15分钟。以“轻松有趣、精巧灵动”为调性，充分调动纪录片创作优势，打造风格化短纪录片形态。内容涵盖社会现实、科技人文、自然生态等多元题材，记录时代脉动，实现跨电视端、移动端、PC端的全媒体传播。代表作品包括《跑者的世界》《二宝来了》《AI梦想曲》等。</desc>
+  </programme>
+  <programme start="20260703120000 +0800" stop="20260703123000 +0800" channel="快乐垂钓"><title lang="zh">千寿在线</title>
+  </programme>
+  <programme start="20260703123000 +0800" stop="20260703145500 +0800" channel="快乐垂钓"><title lang="zh">奇域寻鲲</title>
+  </programme>
+  <programme start="20260703145500 +0800" stop="20260703150000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260703150000 +0800" stop="20260703160000 +0800" channel="快乐垂钓"><title lang="zh">寻找巨物</title>
+  </programme>
+  <programme start="20260703160000 +0800" stop="20260703163000 +0800" channel="快乐垂钓"><title lang="zh">涉钓英雄传</title>
+  </programme>
+  <programme start="20260703163000 +0800" stop="20260703164500 +0800" channel="快乐垂钓"><title lang="zh">钓鱼的人</title>
+  </programme>
+  <programme start="20260703164500 +0800" stop="20260703170000 +0800" channel="快乐垂钓"><title lang="zh">老贾说配件</title>
+  </programme>
+  <programme start="20260703170000 +0800" stop="20260703180000 +0800" channel="快乐垂钓"><title lang="zh">开沃百分百</title>
+  </programme>
+  <programme start="20260703180000 +0800" stop="20260703181500 +0800" channel="快乐垂钓"><title lang="zh">钓具首测</title>
+  </programme>
+  <programme start="20260703181500 +0800" stop="20260703182000 +0800" channel="快乐垂钓"><title lang="zh">金龙心选</title>
+  </programme>
+  <programme start="20260703182000 +0800" stop="20260703183000 +0800" channel="快乐垂钓"><title lang="zh">钓具首测</title>
+  </programme>
+  <programme start="20260703183000 +0800" stop="20260703185300 +0800" channel="快乐垂钓"><title lang="zh">鱼资渔味</title>
+  </programme>
+  <programme start="20260703185300 +0800" stop="20260703190000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260703190000 +0800" stop="20260703193000 +0800" channel="快乐垂钓"><title lang="zh">钩尖上的美食</title><desc>快乐垂钓频道推出的自然水域垂钓系列专题片，以“精准用饵”为核心，每期探访一处特色钓场，由垂钓高手实地演示不同鱼情、水情下的饵料搭配与作钓策略。节目将钓鱼技巧与美食文化融合，在记录渔获的同时也呈现当地风物与烹饪之道，体现“鱼与美食皆不可辜负”的垂钓乐趣。</desc>
+  </programme>
+  <programme start="20260703193000 +0800" stop="20260703200000 +0800" channel="快乐垂钓"><title lang="zh">水下观察</title><desc>中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
+  </programme>
+  <programme start="20260703200000 +0800" stop="20260703203000 +0800" channel="快乐垂钓"><title lang="zh">就这样钓鱼</title><desc>快乐垂钓频道推出的竞技钓鱼教学栏目，以“抛竿问路，技战江湖”为核心理念，聚焦竞技池、黑坑、野钓三大实战场景。每期由资深钓手带队，通过第一视角跟拍与战术复盘，解析鱼情研判、装备选用、饵料搭配及临场应变等实战技巧，将高手过招的精彩瞬间转化为钓友可学的实战经验。</desc>
+  </programme>
+  <programme start="20260703203000 +0800" stop="20260703213000 +0800" channel="快乐垂钓"><title lang="zh">大咖小课</title>
+  </programme>
+  <programme start="20260703213000 +0800" stop="20260703220000 +0800" channel="快乐垂钓"><title lang="zh">猎手</title>
+  </programme>
+  <programme start="20260703220000 +0800" stop="20260703225500 +0800" channel="快乐垂钓"><title lang="zh">Fishing全攻略</title>
+  </programme>
+  <programme start="20260703225500 +0800" stop="20260703230000 +0800" channel="快乐垂钓"><title lang="zh">饵目一新</title>
+  </programme>
+  <programme start="20260703230000 +0800" stop="20260703233000 +0800" channel="快乐垂钓"><title lang="zh">江湖行</title>
+  </programme>
+  <programme start="20260703233000 +0800" stop="20260704000000 +0800" channel="快乐垂钓"><title lang="zh">鱼资渔味</title>
+  </programme>
+  <programme start="20260703002000 +0800" stop="20260703060000 +0800" channel="招远综合"><title lang="zh">转播央视综合频道</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260703070000 +0800" stop="20260703070100 +0800" channel="招远综合"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260703070100 +0800" stop="20260703072000 +0800" channel="招远综合"><title lang="zh">招远新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703072000 +0800" stop="20260703073000 +0800" channel="招远综合"><title lang="zh">文化里的招远</title>
+  </programme>
+  <programme start="20260703073000 +0800" stop="20260703074000 +0800" channel="招远综合"><title lang="zh">健康招远</title>
+  </programme>
+  <programme start="20260703120000 +0800" stop="20260703122000 +0800" channel="招远综合"><title lang="zh">招远新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703122000 +0800" stop="20260703123000 +0800" channel="招远综合"><title lang="zh">文化里的招远</title>
+  </programme>
+  <programme start="20260703123000 +0800" stop="20260703124000 +0800" channel="招远综合"><title lang="zh">健康招远</title>
+  </programme>
+  <programme start="20260703181000 +0800" stop="20260703183000 +0800" channel="招远综合"><title lang="zh">转播山东卫视</title>
+  </programme>
+  <programme start="20260703183000 +0800" stop="20260703190000 +0800" channel="招远综合"><title lang="zh">转播山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260703190000 +0800" stop="20260703193500 +0800" channel="招远综合"><title lang="zh">转播央视综合频道新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260703193500 +0800" stop="20260703195500 +0800" channel="招远综合"><title lang="zh">招远新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703195500 +0800" stop="20260703200500 +0800" channel="招远综合"><title lang="zh">文化里的招远</title>
+  </programme>
+  <programme start="20260703200500 +0800" stop="20260703201500 +0800" channel="招远综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260703220000 +0800" stop="20260703222000 +0800" channel="招远综合"><title lang="zh">招远新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260703222000 +0800" stop="20260703223500 +0800" channel="招远综合"><title lang="zh">文化里的招远</title>
   </programme>
 </tv>

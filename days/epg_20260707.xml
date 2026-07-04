@@ -1,6 +1,10 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
   </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
   <programme start="20260707000001 +0800" stop="20260707014059 +0800" channel="黑莓电影"><title lang="zh">变形金刚5：最后的骑士</title>
+  </programme>
+  <programme start="20260707000001 +0800" stop="20260707001955 +0800" channel="精品大剧"><title lang="zh">35_兰陵王</title>
   </programme>
 </tv>

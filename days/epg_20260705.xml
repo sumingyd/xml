@@ -215,6 +215,10 @@
   </channel>
   <channel id="军事评论"><display-name lang="zh">军事评论</display-name>
   </channel>
+  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
+  </channel>
+  <channel id="茂名综合"><display-name lang="zh">茂名综合</display-name>
+  </channel>
   <channel id="文物宝库"><display-name lang="zh">文物宝库</display-name><display-name lang="zh">文物宝库</display-name><display-name lang="zh">CHANNEL00000658</display-name>
   </channel>
   <channel id="广西卫视"><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西</display-name><display-name lang="zh">CHANNEL00000368</display-name>
@@ -269,7 +273,11 @@
   </channel>
   <channel id="青岛QTV-1"><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV-1</display-name><display-name lang="zh">青岛QTV1</display-name><display-name lang="zh">CHANNEL00000500</display-name>
   </channel>
+  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
+  </channel>
   <channel id="桓台综合"><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓综合</display-name><display-name lang="zh">CHANNEL00001020</display-name>
+  </channel>
+  <channel id="韶关综合"><display-name lang="zh">韶关综合</display-name><display-name lang="zh">韶关新闻综合</display-name><display-name lang="zh">韶关新闻</display-name>
   </channel>
   <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name>
   </channel>
@@ -374,6 +382,8 @@
   <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
   </channel>
   <channel id="睛彩广场舞"><display-name lang="zh">睛彩广场舞</display-name>
+  </channel>
+  <channel id="岭南戏曲"><display-name lang="zh">岭南戏曲</display-name>
   </channel>
   <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
   </channel>
@@ -15916,5 +15926,355 @@
   <programme start="20260705225829 +0800" stop="20260705234442 +0800" channel="黑莓影视"><title lang="zh">19_庆余年</title>
   </programme>
   <programme start="20260705234442 +0800" stop="20260706000000 +0800" channel="黑莓影视"><title lang="zh">20_庆余年</title>
+  </programme>
+  <programme start="20260705002600 +0800" stop="20260705011200 +0800" channel="北京卫视"><title lang="zh">档案纯享版（196）</title>
+  </programme>
+  <programme start="20260705011200 +0800" stop="20260705015800 +0800" channel="北京卫视"><title lang="zh">西北岁月（29）</title>
+  </programme>
+  <programme start="20260705015800 +0800" stop="20260705024300 +0800" channel="北京卫视"><title lang="zh">西北岁月（30）</title>
+  </programme>
+  <programme start="20260705024300 +0800" stop="20260705032900 +0800" channel="北京卫视"><title lang="zh">西北岁月（31）</title>
+  </programme>
+  <programme start="20260705032900 +0800" stop="20260705041400 +0800" channel="北京卫视"><title lang="zh">西北岁月（32）</title>
+  </programme>
+  <programme start="20260705041400 +0800" stop="20260705041900 +0800" channel="北京卫视"><title lang="zh">2025最美北京我的家：古都、新城</title><desc>北京城市主题宣传节目，展现北京古都文脉传承与新城建设发展，记录城市变迁与人文风貌，彰显首都历史底蕴与时代活力。</desc>
+  </programme>
+  <programme start="20260705041900 +0800" stop="20260705050500 +0800" channel="北京卫视"><title lang="zh">档案纯享版（196）</title>
+  </programme>
+  <programme start="20260705050500 +0800" stop="20260705051000 +0800" channel="北京卫视"><title lang="zh">2025最美北京我的家：古都、新城</title><desc>北京城市主题宣传节目，展现北京古都文脉传承与新城建设发展，记录城市变迁与人文风貌，彰显首都历史底蕴与时代活力。</desc>
+  </programme>
+  <programme start="20260705051000 +0800" stop="20260705053300 +0800" channel="北京卫视"><title lang="zh">法治进行时</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260705053300 +0800" stop="20260705055500 +0800" channel="北京卫视"><title lang="zh">法治进行时</title><desc>《法治进行时》是一档以法治为主题的节目，周末版聚焦庭审纪实。通过真实的庭审过程，向观众展示法律程序和司法实践，普及法律知识，增强法治意识，为观众提供有价值的法治教育。</desc>
+  </programme>
+  <programme start="20260705055500 +0800" stop="20260705070000 +0800" channel="北京卫视"><title lang="zh">养生堂</title><desc>北京卫视健康养生栏目，采用演播室访谈结合专题片的形式，以“传播养生之道、传授养生之术”为宗旨，系统介绍中国传统养生文化及实用养生方法。节目秉持“看得懂、学得会、用得上”的制作理念，汇集国医大师、两院院士及三甲医院专家，将精深医学知识转化为通俗易懂的生活智慧。每期围绕疾病防治、饮食调理、中医经典理论等主题展开，由刘洪悦、刘婧担任主持人。</desc>
+  </programme>
+  <programme start="20260705070000 +0800" stop="20260705070100 +0800" channel="北京卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260705070100 +0800" stop="20260705083400 +0800" channel="北京卫视"><title lang="zh">北京您早</title><desc>北京卫视大型晨间新闻资讯栏目，每日早晨播出，以“报道北京、服务北京、宣传北京”为宗旨，网罗昨夜今晨国内外重大新闻，聚焦首都时事热点、民生服务信息、天气出行提示及文娱体育资讯，为北京市民提供权威及时的新闻早餐。栏目注重现场报道与深度解读，设有“北京调查”“今日关注”等板块，是了解北京城市动态的重要窗口。</desc>
+  </programme>
+  <programme start="20260705083400 +0800" stop="20260705090800 +0800" channel="北京卫视"><title lang="zh">味道掌门</title>
+  </programme>
+  <programme start="20260705090800 +0800" stop="20260705111200 +0800" channel="北京卫视"><title lang="zh">2026明文化论坛</title>
+  </programme>
+  <programme start="20260705111200 +0800" stop="20260705112700 +0800" channel="北京卫视"><title lang="zh">沸腾吧火锅（1）</title>
+  </programme>
+  <programme start="20260705112700 +0800" stop="20260705114200 +0800" channel="北京卫视"><title lang="zh">沸腾吧火锅（2）</title>
+  </programme>
+  <programme start="20260705114200 +0800" stop="20260705120000 +0800" channel="北京卫视"><title lang="zh">沸腾吧火锅（3）</title>
+  </programme>
+  <programme start="20260705120000 +0800" stop="20260705130400 +0800" channel="北京卫视"><title lang="zh">特别关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  </programme>
+  <programme start="20260705130400 +0800" stop="20260705135100 +0800" channel="北京卫视"><title lang="zh">南来北往（2）</title>
+  </programme>
+  <programme start="20260705135100 +0800" stop="20260705143800 +0800" channel="北京卫视"><title lang="zh">南来北往（3）</title>
+  </programme>
+  <programme start="20260705143800 +0800" stop="20260705152500 +0800" channel="北京卫视"><title lang="zh">南来北往（4）</title>
+  </programme>
+  <programme start="20260705152500 +0800" stop="20260705161300 +0800" channel="北京卫视"><title lang="zh">南来北往（5）</title>
+  </programme>
+  <programme start="20260705161300 +0800" stop="20260705165500 +0800" channel="北京卫视"><title lang="zh">南来北往（6）</title>
+  </programme>
+  <programme start="20260705165500 +0800" stop="20260705170800 +0800" channel="北京卫视"><title lang="zh">《南来北往》预告版</title>
+  </programme>
+  <programme start="20260705170800 +0800" stop="20260705172500 +0800" channel="北京卫视"><title lang="zh">暖暖的味道精华版</title><desc>中央电视台科教频道（CCTV-10）首档美食文化探索类全媒体栏目，前身为品牌特别节目《味道》。由主持人组成“味道调查团”，以调查美食悬念任务为主要形式，深入全国各地探寻特色美食与民风民俗，围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”思维传播中华美食文化，口号为“让生活更有味”。</desc>
+  </programme>
+  <programme start="20260705172500 +0800" stop="20260705183000 +0800" channel="北京卫视"><title lang="zh">养生堂</title><desc>北京卫视健康养生栏目，采用演播室访谈结合专题片的形式，以“传播养生之道、传授养生之术”为宗旨，系统介绍中国传统养生文化及实用养生方法。节目秉持“看得懂、学得会、用得上”的制作理念，汇集国医大师、两院院士及三甲医院专家，将精深医学知识转化为通俗易懂的生活智慧。每期围绕疾病防治、饮食调理、中医经典理论等主题展开，由刘洪悦、刘婧担任主持人。</desc>
+  </programme>
+  <programme start="20260705183000 +0800" stop="20260705185500 +0800" channel="北京卫视"><title lang="zh">北京新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260705185500 +0800" stop="20260705190000 +0800" channel="北京卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705190000 +0800" stop="20260705193000 +0800" channel="北京卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260705193000 +0800" stop="20260705201400 +0800" channel="北京卫视"><title lang="zh">扁豆爱焖面（5）</title>
+  </programme>
+  <programme start="20260705201400 +0800" stop="20260705205600 +0800" channel="北京卫视"><title lang="zh">扁豆爱焖面（6）</title>
+  </programme>
+  <programme start="20260705205600 +0800" stop="20260705210500 +0800" channel="北京卫视"><title lang="zh">《扁豆爱焖面》预告</title>
+  </programme>
+  <programme start="20260705210500 +0800" stop="20260705210900 +0800" channel="北京卫视"><title lang="zh">《春风习习的地方Ⅱ》MV</title>
+  </programme>
+  <programme start="20260705210900 +0800" stop="20260705215400 +0800" channel="北京卫视"><title lang="zh">向前一步</title><desc>《向前一步》设置代表平等、分界、对抗的分歧线 。通过由城市规划师、律师、心理学家、作家、媒体评论员组成的城市沟通团与被沟通者进行对话，以被沟通者能否向前一步跨过分歧线做为最终悬念，寓意少数人的向前的一小步，汇聚成整个社会民众公共意识向前跨越的一大步 。</desc>
+  </programme>
+  <programme start="20260705215400 +0800" stop="20260705220000 +0800" channel="北京卫视"><title lang="zh">《春风习习的地方Ⅱ》MV</title>
+  </programme>
+  <programme start="20260705220000 +0800" stop="20260705224300 +0800" channel="北京卫视"><title lang="zh">主角（48）</title>
+  </programme>
+  <programme start="20260705224300 +0800" stop="20260705233000 +0800" channel="北京卫视"><title lang="zh">生命树（1）</title><desc>电视剧《生命树》
+
+国家广电总局重点指导项目，由中央广播电视总台、正午阳光、爱奇艺等出品，李雪执导，杨紫领衔主演、胡歌特别出演，2026年1月30日在CCTV-8开播。该剧以青海可可西里反盗猎英雄杰桑·索南达杰和奇卡·扎巴多杰的真实事迹为原型，讲述上世纪90年代至今三十余年间，副县长多杰（胡歌 饰）组建巡山队打击盗猎、守护藏羚羊，青年女警白菊（杨紫 饰）加入巡山队推动建立自然保护区，并在多杰失踪多年后追查真相、还英雄以清名的故事。全剧历时七年打磨，在青海海拔4800米以上无人区完成90%以上实景拍摄，以双时空叙事交织生态守护与悬疑追凶，塑造了一群心怀理想、扎根高原的守护者群像，深刻诠释“绿水青山就是金山银山”的生态文明理念。
+
+纪录片《生命树》
+
+8集生态人文纪录片，与电视剧《生命树》同题共答、同步播出，由中央广播电视总台影视剧纪录片中心与青海省广电局联合出品，2026年2月7日在CCTV-9纪录频道首播。该片以电视剧的生态保护主线为叙事锚点，由胡歌、杨紫、张哲华等剧中演员分集引领，深入青海三江源核心区，围绕水源地守护、藏羚羊保护、盐湖资源保育、暗夜星空保护等议题，记录科研队员、巡山队员、生态管护员、可可西里公安等平凡守护者的真实故事。全片以真实视角呈现雪豹、藏羚羊等高原生灵的生存图景，展现三江源大地的生态韧性与守护力量，被观众称为“献给大地、英雄与人民的深情告白”。</desc>
+  </programme>
+  <programme start="20260705233000 +0800" stop="20260705234200 +0800" channel="北京卫视"><title lang="zh">风味原产地：湖北（1）</title>
+  </programme>
+  <programme start="20260705234200 +0800" stop="20260705235500 +0800" channel="北京卫视"><title lang="zh">风味原产地：湖北（2）</title>
+  </programme>
+  <programme start="20260705235500 +0800" stop="20260706000600 +0800" channel="北京卫视"><title lang="zh">档案纯享版（197）</title>
+  </programme>
+  <programme start="20260705021300 +0800" stop="20260705023700 +0800" channel="江西卫视"><title lang="zh">非遗美食：火锅</title><desc>江西卫视原创中国饮食文化节目，在全国各地寻找“非遗美食”传承人，真实记录传承人制作非遗美食的过程，讲述非遗美食的历史典故，还原地道的烹饪技艺，让一个个非遗美食项目从“纸上名录”中活起来，变成色香味俱全的餐桌上的美食。</desc>
+  </programme>
+  <programme start="20260705023700 +0800" stop="20260705032000 +0800" channel="江西卫视"><title lang="zh">侦察英雄（1）</title>
+  </programme>
+  <programme start="20260705032000 +0800" stop="20260705040900 +0800" channel="江西卫视"><title lang="zh">侦察英雄（2）</title>
+  </programme>
+  <programme start="20260705040900 +0800" stop="20260705045800 +0800" channel="江西卫视"><title lang="zh">侦察英雄（3）</title>
+  </programme>
+  <programme start="20260705045800 +0800" stop="20260705055700 +0800" channel="江西卫视"><title lang="zh">侦察英雄（4）</title>
+  </programme>
+  <programme start="20260705055700 +0800" stop="20260705065000 +0800" channel="江西卫视"><title lang="zh">侦察英雄（5）</title>
+  </programme>
+  <programme start="20260705065000 +0800" stop="20260705070000 +0800" channel="江西卫视"><title lang="zh">非遗美食</title><desc>江西卫视原创中国饮食文化节目，在全国各地寻找“非遗美食”传承人，真实记录传承人制作非遗美食的过程，讲述非遗美食的历史典故，还原地道的烹饪技艺，让一个个非遗美食项目从“纸上名录”中活起来，变成色香味俱全的餐桌上的美食。</desc>
+  </programme>
+  <programme start="20260705070000 +0800" stop="20260705070100 +0800" channel="江西卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  </programme>
+  <programme start="20260705070100 +0800" stop="20260705072200 +0800" channel="江西卫视"><title lang="zh">江西新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260705072200 +0800" stop="20260705072800 +0800" channel="江西卫视"><title lang="zh">江西天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260705072800 +0800" stop="20260705074000 +0800" channel="江西卫视"><title lang="zh">奇迹先锋（17）</title>
+  </programme>
+  <programme start="20260705074000 +0800" stop="20260705075200 +0800" channel="江西卫视"><title lang="zh">奇迹先锋（18）</title>
+  </programme>
+  <programme start="20260705075200 +0800" stop="20260705082600 +0800" channel="江西卫视"><title lang="zh">美味人生</title><desc>江西卫视美食文化节目。</desc>
+  </programme>
+  <programme start="20260705082600 +0800" stop="20260705091200 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（10）</title>
+  </programme>
+  <programme start="20260705091200 +0800" stop="20260705100100 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（11）</title>
+  </programme>
+  <programme start="20260705100100 +0800" stop="20260705105800 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（12）</title>
+  </programme>
+  <programme start="20260705105800 +0800" stop="20260705115600 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（13）</title>
+  </programme>
+  <programme start="20260705115600 +0800" stop="20260705120100 +0800" channel="江西卫视"><title lang="zh">午间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260705122800 +0800" stop="20260705125800 +0800" channel="江西卫视"><title lang="zh">食不相瞒</title><desc>江西卫视美食科普节目。</desc>
+  </programme>
+  <programme start="20260705125800 +0800" stop="20260705135100 +0800" channel="江西卫视"><title lang="zh">金牌调解</title><desc>全国省级卫视首档电视调解类栏目，聚焦中国人真实情感和现实生活，调和百姓面临的棘手矛盾。节目集室内剧、真人秀、泛法制类节目、公开法庭式、娱乐节目为一体，主持人和人民调解员现场为当事人排忧解难，融和法庭辩驳元素，给普通民众的情感提供诉求平台。</desc>
+  </programme>
+  <programme start="20260705135100 +0800" stop="20260705144400 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（14）</title>
+  </programme>
+  <programme start="20260705144400 +0800" stop="20260705153200 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（15）</title>
+  </programme>
+  <programme start="20260705153200 +0800" stop="20260705162800 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（16）</title>
+  </programme>
+  <programme start="20260705162800 +0800" stop="20260705172300 +0800" channel="江西卫视"><title lang="zh">黑狐之风影（17）</title>
+  </programme>
+  <programme start="20260705172300 +0800" stop="20260705181800 +0800" channel="江西卫视"><title lang="zh">黑狐之风影</title>
+  </programme>
+  <programme start="20260705181800 +0800" stop="20260705183000 +0800" channel="江西卫视"><title lang="zh">社会传真</title><desc>《社会传真》是一档以社会新闻为主题的节目，本集聚焦一线调研。通过深入基层、实地采访，向观众报道社会热点问题和民生故事，传递真实的社会声音和民生关切，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20260705183000 +0800" stop="20260705185000 +0800" channel="江西卫视"><title lang="zh">江西新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260705185000 +0800" stop="20260705190000 +0800" channel="江西卫视"><title lang="zh">江西天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20260705190000 +0800" stop="20260705193500 +0800" channel="江西卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260705193500 +0800" stop="20260705202600 +0800" channel="江西卫视"><title lang="zh">大生意人（5）</title>
+  </programme>
+  <programme start="20260705202600 +0800" stop="20260705212900 +0800" channel="江西卫视"><title lang="zh">大生意人（6）</title>
+  </programme>
+  <programme start="20260705212900 +0800" stop="20260705215400 +0800" channel="江西卫视"><title lang="zh">跨越时空的追寻</title>
+  </programme>
+  <programme start="20260705215400 +0800" stop="20260705222700 +0800" channel="江西卫视"><title lang="zh">金牌调解</title><desc>全国省级卫视首档电视调解类栏目，聚焦中国人真实情感和现实生活，调和百姓面临的棘手矛盾。节目集室内剧、真人秀、泛法制类节目、公开法庭式、娱乐节目为一体，主持人和人民调解员现场为当事人排忧解难，融和法庭辩驳元素，给普通民众的情感提供诉求平台。</desc>
+  </programme>
+  <programme start="20260705222700 +0800" stop="20260705223700 +0800" channel="江西卫视"><title lang="zh">非遗美食</title><desc>江西卫视原创中国饮食文化节目，在全国各地寻找“非遗美食”传承人，真实记录传承人制作非遗美食的过程，讲述非遗美食的历史典故，还原地道的烹饪技艺，让一个个非遗美食项目从“纸上名录”中活起来，变成色香味俱全的餐桌上的美食。</desc>
+  </programme>
+  <programme start="20260705223700 +0800" stop="20260705230800 +0800" channel="江西卫视"><title lang="zh">新闻夜航</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260705000001 +0800" stop="20260705003000 +0800" channel="岭南戏曲"><title lang="zh">高手在民间风腔粤曲演唱大赛</title>
+  </programme>
+  <programme start="20260705003000 +0800" stop="20260705020000 +0800" channel="岭南戏曲"><title lang="zh">剧场连线:火种(1)</title>
+  </programme>
+  <programme start="20260705020000 +0800" stop="20260705060000 +0800" channel="岭南戏曲"><title lang="zh">测试卡</title>
+  </programme>
+  <programme start="20260705060000 +0800" stop="20260705073600 +0800" channel="岭南戏曲"><title lang="zh">剧场连线:火种(1)</title>
+  </programme>
+  <programme start="20260705073600 +0800" stop="20260705074100 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705074100 +0800" stop="20260705074600 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1929)</title>
+  </programme>
+  <programme start="20260705074600 +0800" stop="20260705085400 +0800" channel="岭南戏曲"><title lang="zh">风雅潮韵:许包野(1)</title>
+  </programme>
+  <programme start="20260705085400 +0800" stop="20260705094000 +0800" channel="岭南戏曲"><title lang="zh">粤剧有我地:李伟骢</title>
+  </programme>
+  <programme start="20260705094000 +0800" stop="20260705103700 +0800" channel="岭南戏曲"><title lang="zh">老倌学堂:郭凤女荔枝颂</title>
+  </programme>
+  <programme start="20260705103700 +0800" stop="20260705121500 +0800" channel="岭南戏曲"><title lang="zh">剧场连线:火种(1)</title>
+  </programme>
+  <programme start="20260705121500 +0800" stop="20260705122000 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705122000 +0800" stop="20260705122400 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1930)</title>
+  </programme>
+  <programme start="20260705122400 +0800" stop="20260705134200 +0800" channel="岭南戏曲"><title lang="zh">高手在民间风腔粤曲演唱大赛</title>
+  </programme>
+  <programme start="20260705134200 +0800" stop="20260705140900 +0800" channel="岭南戏曲"><title lang="zh">红梅飘香:冯刚毅</title>
+  </programme>
+  <programme start="20260705140900 +0800" stop="20260705141400 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705141400 +0800" stop="20260705141800 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1929)</title>
+  </programme>
+  <programme start="20260705141800 +0800" stop="20260705155500 +0800" channel="岭南戏曲"><title lang="zh">剧场连线:火种(1)</title>
+  </programme>
+  <programme start="20260705155500 +0800" stop="20260705160000 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705160000 +0800" stop="20260705160400 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1930)</title>
+  </programme>
+  <programme start="20260705160400 +0800" stop="20260705164800 +0800" channel="岭南戏曲"><title lang="zh">粤剧有我地:李伟骢</title>
+  </programme>
+  <programme start="20260705164800 +0800" stop="20260705173900 +0800" channel="岭南戏曲"><title lang="zh">老倌学堂:郭凤女荔枝颂</title>
+  </programme>
+  <programme start="20260705173900 +0800" stop="20260705174700 +0800" channel="岭南戏曲"><title lang="zh">高手在民间首月入围选手亮相</title>
+  </programme>
+  <programme start="20260705174700 +0800" stop="20260705185200 +0800" channel="岭南戏曲"><title lang="zh">风雅潮韵:许包野(2)</title>
+  </programme>
+  <programme start="20260705185200 +0800" stop="20260705185700 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705185700 +0800" stop="20260705190000 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1929)</title>
+  </programme>
+  <programme start="20260705190000 +0800" stop="20260705203900 +0800" channel="岭南戏曲"><title lang="zh">剧场连线:火种(2)</title>
+  </programme>
+  <programme start="20260705203900 +0800" stop="20260705204400 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705204400 +0800" stop="20260705204800 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1930)</title>
+  </programme>
+  <programme start="20260705204800 +0800" stop="20260705234900 +0800" channel="岭南戏曲"><title lang="zh">锦绣梨园:第五届广东曲艺大赛</title>
+  </programme>
+  <programme start="20260705234900 +0800" stop="20260705235400 +0800" channel="岭南戏曲"><title lang="zh">岭南大舞台:资讯(902)</title>
+  </programme>
+  <programme start="20260705235400 +0800" stop="20260705235800 +0800" channel="岭南戏曲"><title lang="zh">趣谈广州话(1929)</title>
+  </programme>
+  <programme start="20260705235800 +0800" stop="20260705235959 +0800" channel="岭南戏曲"><title lang="zh">高手在民间风腔粤曲演唱大赛</title>
+  </programme>
+  <programme start="20260705080000 +0800" stop="20260705080100 +0800" channel="茂名综合"><title lang="zh">国歌</title><desc>垫片，播放中华人民共和国国歌。</desc>
+  </programme>
+  <programme start="20260705080100 +0800" stop="20260705082000 +0800" channel="茂名综合"><title lang="zh">重播:茂名新闻</title>
+  </programme>
+  <programme start="20260705082000 +0800" stop="20260705082800 +0800" channel="茂名综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705082800 +0800" stop="20260705085500 +0800" channel="茂名综合"><title lang="zh">重播:一线关注</title>
+  </programme>
+  <programme start="20260705085500 +0800" stop="20260705090800 +0800" channel="茂名综合"><title lang="zh">重播:茂南动态</title>
+  </programme>
+  <programme start="20260705090800 +0800" stop="20260705092800 +0800" channel="茂名综合"><title lang="zh">重播:中国城市报道</title>
+  </programme>
+  <programme start="20260705092800 +0800" stop="20260705110400 +0800" channel="茂名综合"><title lang="zh">早间剧场:欢迎来到麦乐村（5 .6）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705110400 +0800" stop="20260705120000 +0800" channel="茂名综合"><title lang="zh">早间剧场:欢迎来到麦乐村（7）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705120000 +0800" stop="20260705123000 +0800" channel="茂名综合"><title lang="zh">重播:茂名新闻</title>
+  </programme>
+  <programme start="20260705123000 +0800" stop="20260705125200 +0800" channel="茂名综合"><title lang="zh">重播:一线关注</title>
+  </programme>
+  <programme start="20260705125200 +0800" stop="20260705130000 +0800" channel="茂名综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705130000 +0800" stop="20260705131300 +0800" channel="茂名综合"><title lang="zh">重播:茂南动态</title>
+  </programme>
+  <programme start="20260705131300 +0800" stop="20260705133300 +0800" channel="茂名综合"><title lang="zh">重播:中国城市报道</title>
+  </programme>
+  <programme start="20260705133300 +0800" stop="20260705160700 +0800" channel="茂名综合"><title lang="zh">午间剧场:枫叶红了（12 .13 .14）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705160700 +0800" stop="20260705175400 +0800" channel="茂名综合"><title lang="zh">午间剧场:枫叶红了（15 .16）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260705175400 +0800" stop="20260705182900 +0800" channel="茂名综合"><title lang="zh">动漫天地:咖宝车神之燃兽风暴（12 . 13）</title>
+  </programme>
+  <programme start="20260705182900 +0800" stop="20260705190000 +0800" channel="茂名综合"><title lang="zh">少儿节目:超能少儿派</title>
+  </programme>
+  <programme start="20260705190000 +0800" stop="20260705193200 +0800" channel="茂名综合"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260705193200 +0800" stop="20260705195200 +0800" channel="茂名综合"><title lang="zh">茂名新闻</title>
+  </programme>
+  <programme start="20260705195200 +0800" stop="20260705200000 +0800" channel="茂名综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705200000 +0800" stop="20260705202200 +0800" channel="茂名综合"><title lang="zh">一线关注</title>
+  </programme>
+  <programme start="20260705202200 +0800" stop="20260705204000 +0800" channel="茂名综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705204000 +0800" stop="20260705210000 +0800" channel="茂名综合"><title lang="zh">中国城市报道</title>
+  </programme>
+  <programme start="20260705210000 +0800" stop="20260705220000 +0800" channel="茂名综合"><title lang="zh">绿野中国</title>
+  </programme>
+  <programme start="20260705220000 +0800" stop="20260705230000 +0800" channel="茂名综合"><title lang="zh">重播:一线关注</title>
+  </programme>
+  <programme start="20260705230000 +0800" stop="20260705232000 +0800" channel="茂名综合"><title lang="zh">重播:茂名新闻</title>
+  </programme>
+  <programme start="20260705232000 +0800" stop="20260705232500 +0800" channel="茂名综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705232500 +0800" stop="20260705233500 +0800" channel="茂名综合"><title lang="zh">重播:茂南动态</title>
+  </programme>
+  <programme start="20260705233500 +0800" stop="20260705235959 +0800" channel="茂名综合"><title lang="zh">绿野中国</title>
+  </programme>
+  <programme start="20260705081000 +0800" stop="20260705083500 +0800" channel="韶关综合"><title lang="zh">重播韶关新闻联播</title>
+  </programme>
+  <programme start="20260705083500 +0800" stop="20260705084000 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705084000 +0800" stop="20260705090300 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705090300 +0800" stop="20260705093300 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705093300 +0800" stop="20260705102100 +0800" channel="韶关综合"><title lang="zh">系列短剧:外来媳妇本地郎（3827、3828)</title>
+  </programme>
+  <programme start="20260705102100 +0800" stop="20260705115700 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705115700 +0800" stop="20260705123000 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705123000 +0800" stop="20260705125500 +0800" channel="韶关综合"><title lang="zh">重播韶关新闻联播</title>
+  </programme>
+  <programme start="20260705125500 +0800" stop="20260705130000 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705130000 +0800" stop="20260705132300 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705132300 +0800" stop="20260705140000 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705140000 +0800" stop="20260705160100 +0800" channel="韶关综合"><title lang="zh">飞阅韶关</title>
+  </programme>
+  <programme start="20260705160100 +0800" stop="20260705162100 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705162100 +0800" stop="20260705165100 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705165100 +0800" stop="20260705172100 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705172100 +0800" stop="20260705175400 +0800" channel="韶关综合"><title lang="zh">动画乐园:爆炫星陀（11、12）</title><desc>中央电视台综合频道的《第一动画乐园》栏目，以启蒙和激发亿万少年儿童的想象潜能为目的，营造一个学习、娱乐和幻想的空间，打造一档集创造、想象和亲身参与为一体的大型儿童节目。金龟子以其原创性、独特性的符号标志，融入了每一个孩子心中，让他们都拥有自己的充满奇幻绚丽景象的想象世界，让无法复制的童年生活成为孩子一生可回忆的财富。节目定位打造一台面向中国三亿少年儿童，融合知识性、趣味性、竞技性、公益性、国际化的精品节目。向中国及世界各国少年儿童传递友谊、尊重、交流、信心，立足北京，放眼世界，尊崇神圣，解读神秘。《第一动画乐园》面向0-14岁的孩子，是一档播出国内外优秀动画片的节目。上午版以播出国外优秀动画片为主，下午版播出国产优秀动画片并第一时间推出国产新片。栏目打造奇幻乐园，带领孩子进入梦想世界。</desc>
+  </programme>
+  <programme start="20260705175400 +0800" stop="20260705180600 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705180600 +0800" stop="20260705190000 +0800" channel="韶关综合"><title lang="zh">系列短剧:外来媳妇本地郎（3757、3758)</title>
+  </programme>
+  <programme start="20260705190000 +0800" stop="20260705193300 +0800" channel="韶关综合"><title lang="zh">新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260705193300 +0800" stop="20260705195500 +0800" channel="韶关综合"><title lang="zh">韶关新闻联播</title>
+  </programme>
+  <programme start="20260705195500 +0800" stop="20260705200000 +0800" channel="韶关综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260705200000 +0800" stop="20260705203600 +0800" channel="韶关综合"><title lang="zh">民声热线</title>
+  </programme>
+  <programme start="20260705203600 +0800" stop="20260705211100 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705211100 +0800" stop="20260705213700 +0800" channel="韶关综合"><title lang="zh">重播韶关新闻联播</title>
+  </programme>
+  <programme start="20260705213700 +0800" stop="20260705220700 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705220700 +0800" stop="20260705223800 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705223800 +0800" stop="20260705230800 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
+  </programme>
+  <programme start="20260705230800 +0800" stop="20260705233800 +0800" channel="韶关综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260705233800 +0800" stop="20260705235959 +0800" channel="韶关综合"><title lang="zh">善美韶关</title>
   </programme>
 </tv>

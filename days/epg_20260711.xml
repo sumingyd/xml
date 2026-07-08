@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="康巴卫视"><display-name lang="zh">康巴卫视</display-name>
   </channel>
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
+  </channel>
   <channel id="旅游卫视"><display-name lang="zh">旅游卫视</display-name>
   </channel>
   <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
@@ -572,5 +574,7 @@
   <programme start="20260711233000 +0000" stop="20260711233500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
   </programme>
   <programme start="20260711233500 +0000" stop="20260712003500 +0000" channel="翡翠台"><title lang="zh">廉政狙擊#13[粵][PG]</title><desc lang="zh">廷光殺死余瑞忠，屠敏對廷光更為痛恨，原來自從屠敏十年前得知西環塌樓不是意外，而是廷光故意所為時，便與眾多受害者組成團隊，伺機向卓廷光報復。卓廷光得知有傳媒正在搜集其多年來非法收樓的黑材料，動了殺機</desc>
+  </programme>
+  <programme start="20260711000001 +0800" stop="20260711003356 +0800" channel="潮妈辣婆"><title lang="zh">09_辣妈正传</title>
   </programme>
 </tv>

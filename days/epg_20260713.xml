@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
   </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
   <programme start="20260713003500 +0000" stop="20260713011000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
   </programme>
   <programme start="20260713011000 +0000" stop="20260713024000 +0000" channel="翡翠台"><title lang="zh">初入職場·中醫季[粵/普]</title><desc lang="zh">《初入職場·中醫季》深度聚焦中醫文化，攜手中醫專業人才及中醫助力團一起，通過"潮養生活"與"中醫歷練"，開啟一場年輕態的中醫文化科普之旅。</desc>
@@ -90,5 +92,7 @@
   <programme start="20260713235000 +0000" stop="20260713235500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵] 及 卓正醫療呈獻：全家健康攻略[粵]</title>
   </programme>
   <programme start="20260713235500 +0000" stop="20260714010000 +0000" channel="翡翠台"><title lang="zh">獵鷹#19[粵][PG]</title><desc lang="zh">一帆到機場欲離港，但已被劉Sir佈下之天羅地網所擒。劉Sir以調查祥旺之死為名，隨即扣留一帆之證件。大偉聽劉Sir之命調查崔福所在，崔福亦命國基打聽大偉及陳水消息，大偉不知底蘊欲問國基崔福之所在，國基即知大偉乃崔福欲殺的其中一人。一帆命張錦替之找船潛逃他方。戚幹不知大偉行蹤，十分擔心，遂著同袍加以留意。陳水暗持搶械欲殺大偉，豈料戚幹到來，見陳水不懷好意，不顧一切上前撲救，不幸被陳水槍傷。</desc>
+  </programme>
+  <programme start="20260713000001 +0800" stop="20260713002807 +0800" channel="精品大剧"><title lang="zh">09_乔家的儿女</title>
   </programme>
 </tv>

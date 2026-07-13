@@ -1,9 +1,13 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="CNC英文"><display-name lang="zh">CNC英文</display-name>
+  </channel>
+  <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
+  </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
-  </channel>
-  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
   </channel>
   <programme start="20260716000000 +0000" stop="20260716010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
   </programme>
@@ -286,5 +290,357 @@
   <programme start="20260716233100 +0000" stop="20260716235500 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20260716235500 +0000" stop="20260717004500 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
+  </programme>
+  <programme start="20260716000001 +0800" stop="20260716003500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716003500 +0800" stop="20260716010000 +0800" channel="CNC中文"><title lang="zh">环球精选</title>
+  </programme>
+  <programme start="20260716010000 +0800" stop="20260716013500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716013500 +0800" stop="20260716014500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  </programme>
+  <programme start="20260716014500 +0800" stop="20260716015700 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716015700 +0800" stop="20260716022700 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  </programme>
+  <programme start="20260716022700 +0800" stop="20260716030000 +0800" channel="CNC中文"><title lang="zh">环球财经</title>
+  </programme>
+  <programme start="20260716030000 +0800" stop="20260716033000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716033000 +0800" stop="20260716040000 +0800" channel="CNC中文"><title lang="zh">环球百科</title>
+  </programme>
+  <programme start="20260716040000 +0800" stop="20260716043000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716043000 +0800" stop="20260716044200 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716044200 +0800" stop="20260716045500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  </programme>
+  <programme start="20260716045500 +0800" stop="20260716052500 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  </programme>
+  <programme start="20260716052500 +0800" stop="20260716060000 +0800" channel="CNC中文"><title lang="zh">环球财经</title>
+  </programme>
+  <programme start="20260716060000 +0800" stop="20260716063000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716063000 +0800" stop="20260716070000 +0800" channel="CNC中文"><title lang="zh">环球精选</title>
+  </programme>
+  <programme start="20260716070000 +0800" stop="20260716073000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716073000 +0800" stop="20260716080000 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  </programme>
+  <programme start="20260716080000 +0800" stop="20260716083000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716083000 +0800" stop="20260716085000 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  </programme>
+  <programme start="20260716085000 +0800" stop="20260716090000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716090000 +0800" stop="20260716093200 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716093200 +0800" stop="20260716094200 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  </programme>
+  <programme start="20260716094200 +0800" stop="20260716094500 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  </programme>
+  <programme start="20260716094500 +0800" stop="20260716100000 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  </programme>
+  <programme start="20260716100000 +0800" stop="20260716103200 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716103200 +0800" stop="20260716104400 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716104400 +0800" stop="20260716105600 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  </programme>
+  <programme start="20260716105600 +0800" stop="20260716110000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716110000 +0800" stop="20260716113000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716113000 +0800" stop="20260716120000 +0800" channel="CNC中文"><title lang="zh">环球精选</title>
+  </programme>
+  <programme start="20260716120000 +0800" stop="20260716123000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716123000 +0800" stop="20260716130000 +0800" channel="CNC中文"><title lang="zh">环球财经</title>
+  </programme>
+  <programme start="20260716130000 +0800" stop="20260716133000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716133000 +0800" stop="20260716140000 +0800" channel="CNC中文"><title lang="zh">环球百科</title>
+  </programme>
+  <programme start="20260716140000 +0800" stop="20260716142500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716142500 +0800" stop="20260716144000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716144000 +0800" stop="20260716145200 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  </programme>
+  <programme start="20260716145200 +0800" stop="20260716150000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716150000 +0800" stop="20260716152000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716152000 +0800" stop="20260716152500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716152500 +0800" stop="20260716153000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716153000 +0800" stop="20260716160000 +0800" channel="CNC中文"><title lang="zh">环球财经</title>
+  </programme>
+  <programme start="20260716160000 +0800" stop="20260716162500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716162500 +0800" stop="20260716170000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716170000 +0800" stop="20260716172000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716172000 +0800" stop="20260716172300 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  </programme>
+  <programme start="20260716172300 +0800" stop="20260716174000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716174000 +0800" stop="20260716175000 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  </programme>
+  <programme start="20260716175000 +0800" stop="20260716175500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716175500 +0800" stop="20260716180000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716180000 +0800" stop="20260716183000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716183000 +0800" stop="20260716183800 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  </programme>
+  <programme start="20260716183800 +0800" stop="20260716185000 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  </programme>
+  <programme start="20260716185000 +0800" stop="20260716185500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716185500 +0800" stop="20260716190000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716190000 +0800" stop="20260716193000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716193000 +0800" stop="20260716194000 +0800" channel="CNC中文"><title lang="zh">人文天下</title>
+  </programme>
+  <programme start="20260716194000 +0800" stop="20260716195000 +0800" channel="CNC中文"><title lang="zh">镜头记忆</title>
+  </programme>
+  <programme start="20260716195000 +0800" stop="20260716200000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716200000 +0800" stop="20260716203000 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  </programme>
+  <programme start="20260716203000 +0800" stop="20260716210000 +0800" channel="CNC中文"><title lang="zh">你所不知道的中国</title>
+  </programme>
+  <programme start="20260716210000 +0800" stop="20260716213500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716213500 +0800" stop="20260716215500 +0800" channel="CNC中文"><title lang="zh">镜头记忆</title>
+  </programme>
+  <programme start="20260716215500 +0800" stop="20260716220000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716220000 +0800" stop="20260716223500 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  </programme>
+  <programme start="20260716223500 +0800" stop="20260716224500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  </programme>
+  <programme start="20260716224500 +0800" stop="20260716230000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716230000 +0800" stop="20260716233000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  </programme>
+  <programme start="20260716233000 +0800" stop="20260716234300 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  </programme>
+  <programme start="20260716234300 +0800" stop="20260716234400 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  </programme>
+  <programme start="20260716234400 +0800" stop="20260716235600 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  </programme>
+  <programme start="20260716235600 +0800" stop="20260717000000 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  </programme>
+  <programme start="20260716000001 +0800" stop="20260716002500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716002500 +0800" stop="20260716003000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716003000 +0800" stop="20260716005500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716005500 +0800" stop="20260716010000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
+  </programme>
+  <programme start="20260716010000 +0800" stop="20260716012500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716012500 +0800" stop="20260716013000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716013000 +0800" stop="20260716015500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716015500 +0800" stop="20260716020000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716020000 +0800" stop="20260716022500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716022500 +0800" stop="20260716023000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716023000 +0800" stop="20260716025500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716025500 +0800" stop="20260716030000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716030000 +0800" stop="20260716032500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716032500 +0800" stop="20260716033000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716033000 +0800" stop="20260716040000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716040000 +0800" stop="20260716042500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716042500 +0800" stop="20260716043000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716043000 +0800" stop="20260716045500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716045500 +0800" stop="20260716050000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716050000 +0800" stop="20260716052500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716052500 +0800" stop="20260716053000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716053000 +0800" stop="20260716060000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716060000 +0800" stop="20260716062500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716062500 +0800" stop="20260716063000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716063000 +0800" stop="20260716065500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716065500 +0800" stop="20260716070000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716070000 +0800" stop="20260716072500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716072500 +0800" stop="20260716073000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716073000 +0800" stop="20260716080000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716080000 +0800" stop="20260716082500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716082500 +0800" stop="20260716083000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716083000 +0800" stop="20260716090000 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716090000 +0800" stop="20260716092500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716092500 +0800" stop="20260716093000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716093000 +0800" stop="20260716095500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716095500 +0800" stop="20260716100000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716100000 +0800" stop="20260716102500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716102500 +0800" stop="20260716103000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716103000 +0800" stop="20260716105500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716105500 +0800" stop="20260716110000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
+  </programme>
+  <programme start="20260716110000 +0800" stop="20260716112500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716112500 +0800" stop="20260716113000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716113000 +0800" stop="20260716120000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716120000 +0800" stop="20260716121000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716121000 +0800" stop="20260716123500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716123500 +0800" stop="20260716130000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716130000 +0800" stop="20260716132500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716132500 +0800" stop="20260716133500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716133500 +0800" stop="20260716140000 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716140000 +0800" stop="20260716141000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716141000 +0800" stop="20260716141500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716141500 +0800" stop="20260716142000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716142000 +0800" stop="20260716144500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716144500 +0800" stop="20260716145000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716145000 +0800" stop="20260716150000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716150000 +0800" stop="20260716150500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716150500 +0800" stop="20260716153000 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716153000 +0800" stop="20260716153500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716153500 +0800" stop="20260716154000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716154000 +0800" stop="20260716155000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716155000 +0800" stop="20260716161500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716161500 +0800" stop="20260716162000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716162000 +0800" stop="20260716163000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716163000 +0800" stop="20260716164000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716164000 +0800" stop="20260716164500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716164500 +0800" stop="20260716165500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716165500 +0800" stop="20260716170000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716170000 +0800" stop="20260716171500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716171500 +0800" stop="20260716172500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716172500 +0800" stop="20260716173000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716173000 +0800" stop="20260716173500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716173500 +0800" stop="20260716175000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716175000 +0800" stop="20260716180000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716180000 +0800" stop="20260716181500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716181500 +0800" stop="20260716182500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716182500 +0800" stop="20260716183000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716183000 +0800" stop="20260716190000 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716190000 +0800" stop="20260716191500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716191500 +0800" stop="20260716192000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
+  </programme>
+  <programme start="20260716192000 +0800" stop="20260716192500 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716192500 +0800" stop="20260716193000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716193000 +0800" stop="20260716195500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716195500 +0800" stop="20260716200000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716200000 +0800" stop="20260716201500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716201500 +0800" stop="20260716202500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716202500 +0800" stop="20260716203000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716203000 +0800" stop="20260716205500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716205500 +0800" stop="20260716210000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716210000 +0800" stop="20260716211000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716211000 +0800" stop="20260716212500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716212500 +0800" stop="20260716213000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716213000 +0800" stop="20260716215500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716215500 +0800" stop="20260716220000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716220000 +0800" stop="20260716221500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  </programme>
+  <programme start="20260716221500 +0800" stop="20260716222000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716222000 +0800" stop="20260716222500 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716222500 +0800" stop="20260716223000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716223000 +0800" stop="20260716225500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  </programme>
+  <programme start="20260716225500 +0800" stop="20260716230000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260716230000 +0800" stop="20260716232500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  </programme>
+  <programme start="20260716232500 +0800" stop="20260716233000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  </programme>
+  <programme start="20260716233000 +0800" stop="20260716235500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  </programme>
+  <programme start="20260716235500 +0800" stop="20260717000000 +0800" channel="CNC英文"><title lang="zh">片花</title>
   </programme>
 </tv>

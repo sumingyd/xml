@@ -125,6 +125,8 @@
   </channel>
   <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
   </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
   <channel id="江苏体育"><display-name lang="zh">江苏体育</display-name><display-name lang="zh">江苏体育休闲</display-name>
   </channel>
   <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
@@ -174,6 +176,8 @@
   <channel id="精品萌宠"><display-name lang="zh">精品萌宠</display-name>
   </channel>
   <channel id="粤语片"><display-name lang="zh">粤语片</display-name><display-name lang="zh">粤语片台</display-name>
+  </channel>
+  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
   </channel>
   <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
   </channel>
@@ -226,6 +230,8 @@
   <channel id="昌乐综合"><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">昌乐综合</display-name><display-name lang="zh">CHANNEL00001033</display-name>
   </channel>
   <channel id="南京文旅"><display-name lang="zh">南京文旅</display-name><display-name lang="zh">南京文旅纪录</display-name>
+  </channel>
+  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
   </channel>
   <channel id="乐游"><display-name lang="zh">乐游</display-name><display-name lang="zh">乐游</display-name><display-name lang="zh">CHANNEL00002016</display-name>
   </channel>
@@ -289,6 +295,8 @@
   </channel>
   <channel id="天津教育"><display-name lang="zh">天津教育</display-name><display-name lang="zh">天津教育</display-name>
   </channel>
+  <channel id="东营综合"><display-name lang="zh">东营综合</display-name><display-name lang="zh">东营新闻综合</display-name><display-name lang="zh">东营新闻</display-name><display-name lang="zh">CHANNEL00000226</display-name><display-name lang="zh">东营综合频道</display-name><display-name lang="zh">DYTV-1</display-name>
+  </channel>
   <channel id="明珠"><display-name lang="zh">明珠</display-name><display-name lang="zh">明珠台</display-name>
   </channel>
   <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
@@ -326,6 +334,8 @@
   <channel id="睛彩广场舞"><display-name lang="zh">睛彩广场舞</display-name>
   </channel>
   <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
+  </channel>
+  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
   </channel>
   <channel id="齐河综合"><display-name lang="zh">齐河综合</display-name><display-name lang="zh">齐河综合</display-name><display-name lang="zh">CHANNEL00001056</display-name>
   </channel>
@@ -380,6 +390,8 @@
   <channel id="CGTN西语"><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CHANNEL00000354</display-name>
   </channel>
   <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
+  </channel>
+  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name>
   </channel>
   <channel id="浙江卫视"><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江</display-name><display-name lang="zh">浙江卫视-4K</display-name><display-name lang="zh">浙江卫视4K</display-name><display-name lang="zh">CHANNEL00000305</display-name>
   </channel>
@@ -14198,5 +14210,417 @@
   <programme start="20260714225000 +0800" stop="20260714231500 +0800" channel="南通公共"><title lang="zh">江海联播</title><desc>南通广播电视台日播时政新闻栏目，与《南通新闻》并列为两档拳头新闻节目。围绕市委、市政府中心工作，发布权威政策信息，全面记录南通经济、社会、文化发展成就，是覆盖全市的权威新闻资讯平台。</desc>
   </programme>
   <programme start="20260714231500 +0800" stop="20260715000000 +0800" channel="南通公共"><title lang="zh">深夜影院</title><desc>电视台深夜时段开设的电影栏目，通常在23:00以后播出。以经典老片、文艺片、获奖影片为主，营造安静纯粹的观影氛围，满足夜班族、夜猫子等深夜收视群体的观剧需求。多采用单片播映形式，偶有主题策划或导演专题展映。</desc>
+  </programme>
+  <programme start="20260714084300 +0800" stop="20260714091000 +0800" channel="海洋频道"><title lang="zh">中华养生</title>
+  </programme>
+  <programme start="20260714091000 +0800" stop="20260714102700 +0800" channel="海洋频道"><title lang="zh">合欢树下</title>
+  </programme>
+  <programme start="20260714102700 +0800" stop="20260714140000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714140000 +0800" stop="20260714173000 +0800" channel="海洋频道"><title lang="zh">古文明探秘</title>
+  </programme>
+  <programme start="20260714173000 +0800" stop="20260714184000 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260714184000 +0800" stop="20260714192000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714192000 +0800" stop="20260714202700 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20260714202700 +0800" stop="20260714210200 +0800" channel="海洋频道"><title lang="zh">咱老百姓的故事</title>
+  </programme>
+  <programme start="20260714210200 +0800" stop="20260715000000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714085000 +0800" stop="20260714130000 +0800" channel="聊城民生"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260714130000 +0800" stop="20260714175200 +0800" channel="聊城民生"><title lang="zh">纯情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260714175200 +0800" stop="20260714200000 +0800" channel="聊城民生"><title lang="zh">真情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260714200000 +0800" stop="20260714203000 +0800" channel="聊城民生"><title lang="zh">民生面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20260714203000 +0800" stop="20260714204500 +0800" channel="聊城民生"><title lang="zh">今日开发区</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20260714204500 +0800" stop="20260714231000 +0800" channel="聊城民生"><title lang="zh">激情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260714231000 +0800" stop="20260714234000 +0800" channel="聊城民生"><title lang="zh">影视风云榜</title>
+  </programme>
+  <programme start="20260714234000 +0800" stop="20260715000000 +0800" channel="聊城民生"><title lang="zh">人间故事</title>
+  </programme>
+  <programme start="20260714070000 +0800" stop="20260714074000 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260714074000 +0800" stop="20260714082000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260714082000 +0800" stop="20260714091000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260714091000 +0800" stop="20260714101500 +0800" channel="东营综合"><title lang="zh">第一集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714101500 +0800" stop="20260714105000 +0800" channel="东营综合"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260714105000 +0800" stop="20260714120000 +0800" channel="东营综合"><title lang="zh">第二集电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714120000 +0800" stop="20260714121500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260714121500 +0800" stop="20260714123000 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260714123000 +0800" stop="20260714130500 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260714130500 +0800" stop="20260714134000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260714134000 +0800" stop="20260714141000 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714141000 +0800" stop="20260714144500 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260714144500 +0800" stop="20260714174600 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714174600 +0800" stop="20260714180800 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260714180800 +0800" stop="20260714190000 +0800" channel="东营综合"><title lang="zh">伟伟道来</title>
+  </programme>
+  <programme start="20260714190000 +0800" stop="20260714193800 +0800" channel="东营综合"><title lang="zh">转播中央新闻联播</title><desc>转播中央电视台的新闻节目，包括《新闻联播》等重要新闻内容，及时传递国内外重大新闻事件和政策信息，为观众提供权威、全面的新闻资讯。</desc>
+  </programme>
+  <programme start="20260714193800 +0800" stop="20260714195500 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260714195500 +0800" stop="20260714200000 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260714200000 +0800" stop="20260714201800 +0800" channel="东营综合"><title lang="zh">联播东营</title>
+  </programme>
+  <programme start="20260714201800 +0800" stop="20260714205000 +0800" channel="东营综合"><title lang="zh">民生零距离</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  </programme>
+  <programme start="20260714205000 +0800" stop="20260714211300 +0800" channel="东营综合"><title lang="zh">第一消费</title>
+  </programme>
+  <programme start="20260714211300 +0800" stop="20260714213200 +0800" channel="东营综合"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714213200 +0800" stop="20260714220000 +0800" channel="东营综合"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260714220000 +0800" stop="20260714221800 +0800" channel="东营综合"><title lang="zh">东营新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260714221800 +0800" stop="20260714222300 +0800" channel="东营综合"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260714222300 +0800" stop="20260714224100 +0800" channel="东营综合"><title lang="zh">联播东营(重播)</title>
+  </programme>
+  <programme start="20260714224100 +0800" stop="20260715000000 +0800" channel="东营综合"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714070000 +0800" stop="20260714090200 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714090200 +0800" stop="20260714093200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260714093200 +0800" stop="20260714100300 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714100300 +0800" stop="20260714103900 +0800" channel="东营公共"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20260714103900 +0800" stop="20260714111000 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260714111000 +0800" stop="20260714114000 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260714114000 +0800" stop="20260714121100 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714121100 +0800" stop="20260714132200 +0800" channel="东营公共"><title lang="zh">幸福鉴定团</title>
+  </programme>
+  <programme start="20260714132200 +0800" stop="20260714142300 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260714142300 +0800" stop="20260714152400 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260714152400 +0800" stop="20260714162100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260714162100 +0800" stop="20260714165400 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260714165400 +0800" stop="20260714173000 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714173000 +0800" stop="20260714193000 +0800" channel="东营公共"><title lang="zh">经典影城</title>
+  </programme>
+  <programme start="20260714193000 +0800" stop="20260714195000 +0800" channel="东营公共"><title lang="zh">快乐宝贝</title>
+  </programme>
+  <programme start="20260714195000 +0800" stop="20260714202200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260714202200 +0800" stop="20260714202800 +0800" channel="东营公共"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260714202800 +0800" stop="20260714204500 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20260714204500 +0800" stop="20260714210200 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20260714210200 +0800" stop="20260714215900 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260714215900 +0800" stop="20260714224100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20260714224100 +0800" stop="20260715000000 +0800" channel="东营公共"><title lang="zh">天天影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
+  </programme>
+  <programme start="20260714000000 +0000" stop="20260714005700 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
+  </programme>
+  <programme start="20260714005700 +0000" stop="20260714010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714010000 +0000" stop="20260714013000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260714013000 +0000" stop="20260714020000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260714020000 +0000" stop="20260714023000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260714023000 +0000" stop="20260714030000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260714030000 +0000" stop="20260714033000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260714033000 +0000" stop="20260714040000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260714040000 +0000" stop="20260714043000 +0000" channel="凤凰卫视"><title lang="zh">空间观策</title>
+  </programme>
+  <programme start="20260714043000 +0000" stop="20260714050000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260714050000 +0000" stop="20260714053000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260714053000 +0000" stop="20260714060000 +0000" channel="凤凰卫视"><title lang="zh">凤凰冲击播:口子窖</title>
+  </programme>
+  <programme start="20260714060000 +0000" stop="20260714063000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260714063000 +0000" stop="20260714070000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260714070000 +0000" stop="20260714075700 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260714075700 +0000" stop="20260714080000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714080000 +0000" stop="20260714085700 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260714085700 +0000" stop="20260714090000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714090000 +0000" stop="20260714093000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260714093000 +0000" stop="20260714100000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260714100000 +0000" stop="20260714105700 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260714105700 +0000" stop="20260714110000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714110000 +0000" stop="20260714113000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260714113000 +0000" stop="20260714120000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260714120000 +0000" stop="20260714125500 +0000" channel="凤凰卫视"><title lang="zh">凤凰午间专列</title>
+  </programme>
+  <programme start="20260714125500 +0000" stop="20260714130000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714130000 +0000" stop="20260714133000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260714133000 +0000" stop="20260714134500 +0000" channel="凤凰卫视"><title lang="zh">我的香港故事</title>
+  </programme>
+  <programme start="20260714134500 +0000" stop="20260714143000 +0000" channel="凤凰卫视"><title lang="zh">笑逐言开</title>
+  </programme>
+  <programme start="20260714143000 +0000" stop="20260714150000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260714150000 +0000" stop="20260714155700 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260714155700 +0000" stop="20260714160000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714160000 +0000" stop="20260714163000 +0000" channel="凤凰卫视"><title lang="zh">凤凰冲击播:口子窖</title>
+  </programme>
+  <programme start="20260714163000 +0000" stop="20260714170000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260714170000 +0000" stop="20260714173000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
+  </programme>
+  <programme start="20260714173000 +0000" stop="20260714180000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260714180000 +0000" stop="20260714182700 +0000" channel="凤凰卫视"><title lang="zh">凤凰焦点新闻</title>
+  </programme>
+  <programme start="20260714182700 +0000" stop="20260714183000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714183000 +0000" stop="20260714190000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260714190000 +0000" stop="20260714193000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260714193000 +0000" stop="20260714200000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260714200000 +0000" stop="20260714203000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260714203000 +0000" stop="20260714210000 +0000" channel="凤凰卫视"><title lang="zh">时事亮亮点</title>
+  </programme>
+  <programme start="20260714210000 +0000" stop="20260714215500 +0000" channel="凤凰卫视"><title lang="zh">时事直通车</title>
+  </programme>
+  <programme start="20260714215500 +0000" stop="20260714220000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260714220000 +0000" stop="20260714223000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260714223000 +0000" stop="20260714230000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260714230000 +0000" stop="20260714233000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260714233000 +0000" stop="20260715000000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260714004700 +0000" stop="20260714005700 +0000" channel="南方卫视"><title lang="zh">笑口组:秘书唔易做</title>
+  </programme>
+  <programme start="20260714005700 +0000" stop="20260714011700 +0000" channel="南方卫视"><title lang="zh">我爱返寻味:云南菇菌美味鲜</title>
+  </programme>
+  <programme start="20260714011700 +0000" stop="20260714020000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260714020000 +0000" stop="20260714024800 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
+  </programme>
+  <programme start="20260714024800 +0000" stop="20260714030900 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ65</title>
+  </programme>
+  <programme start="20260714030900 +0000" stop="20260714033000 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ66</title>
+  </programme>
+  <programme start="20260714033000 +0000" stop="20260714035100 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ67</title>
+  </programme>
+  <programme start="20260714035100 +0000" stop="20260714041300 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ68</title>
+  </programme>
+  <programme start="20260714041300 +0000" stop="20260714043300 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ69</title>
+  </programme>
+  <programme start="20260714043300 +0000" stop="20260714045400 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ70</title>
+  </programme>
+  <programme start="20260714045400 +0000" stop="20260714051500 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ71</title>
+  </programme>
+  <programme start="20260714051500 +0000" stop="20260714053600 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ72</title>
+  </programme>
+  <programme start="20260714053600 +0000" stop="20260714060000 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ73</title>
+  </programme>
+  <programme start="20260714060000 +0000" stop="20260714065100 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
+  </programme>
+  <programme start="20260714065100 +0000" stop="20260714065600 +0000" channel="南方卫视"><title lang="zh">每日运动派:女性塑形(1)</title>
+  </programme>
+  <programme start="20260714065600 +0000" stop="20260714071600 +0000" channel="南方卫视"><title lang="zh">我爱返寻味:猪油捞面</title>
+  </programme>
+  <programme start="20260714071600 +0000" stop="20260714080600 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260714080600 +0000" stop="20260714082900 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ76</title>
+  </programme>
+  <programme start="20260714082900 +0000" stop="20260714084100 +0000" channel="南方卫视"><title lang="zh">笑口组:秘书唔易做</title>
+  </programme>
+  <programme start="20260714084100 +0000" stop="20260714090200 +0000" channel="南方卫视"><title lang="zh">我爱返寻味:云南菇菌美味鲜</title>
+  </programme>
+  <programme start="20260714090200 +0000" stop="20260714092700 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ77</title>
+  </programme>
+  <programme start="20260714092700 +0000" stop="20260714101200 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ78</title>
+  </programme>
+  <programme start="20260714101200 +0000" stop="20260714103500 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ79</title>
+  </programme>
+  <programme start="20260714103500 +0000" stop="20260714112300 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ80</title>
+  </programme>
+  <programme start="20260714112300 +0000" stop="20260714115100 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ81</title>
+  </programme>
+  <programme start="20260714115100 +0000" stop="20260714121700 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ82</title>
+  </programme>
+  <programme start="20260714121700 +0000" stop="20260714124700 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ83</title>
+  </programme>
+  <programme start="20260714124700 +0000" stop="20260714131400 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ84</title>
+  </programme>
+  <programme start="20260714131400 +0000" stop="20260714133900 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ85</title>
+  </programme>
+  <programme start="20260714133900 +0000" stop="20260714140500 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ86</title>
+  </programme>
+  <programme start="20260714140500 +0000" stop="20260714142900 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ87</title>
+  </programme>
+  <programme start="20260714142900 +0000" stop="20260714151000 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ88</title>
+  </programme>
+  <programme start="20260714151000 +0000" stop="20260714152100 +0000" channel="南方卫视"><title lang="zh">笑口组:秘书唔易做</title>
+  </programme>
+  <programme start="20260714152100 +0000" stop="20260714152700 +0000" channel="南方卫视"><title lang="zh">每日运动派:女性塑形(2)</title>
+  </programme>
+  <programme start="20260714152700 +0000" stop="20260714161200 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ89</title>
+  </programme>
+  <programme start="20260714161200 +0000" stop="20260714163800 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ90</title>
+  </programme>
+  <programme start="20260714163800 +0000" stop="20260714170400 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ91</title>
+  </programme>
+  <programme start="20260714170400 +0000" stop="20260714174500 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ92</title>
+  </programme>
+  <programme start="20260714174500 +0000" stop="20260714175000 +0000" channel="南方卫视"><title lang="zh">每日运动派:女性塑形(1)</title>
+  </programme>
+  <programme start="20260714175000 +0000" stop="20260714180200 +0000" channel="南方卫视"><title lang="zh">每日运动派:女性塑形(2)</title>
+  </programme>
+  <programme start="20260714180200 +0000" stop="20260714182800 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ93</title>
+  </programme>
+  <programme start="20260714182800 +0000" stop="20260714184000 +0000" channel="南方卫视"><title lang="zh">笑口组:悲情业主</title>
+  </programme>
+  <programme start="20260714184000 +0000" stop="20260714192700 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260714192700 +0000" stop="20260714200000 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260714200000 +0000" stop="20260714210000 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
+  </programme>
+  <programme start="20260714210000 +0000" stop="20260714212400 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ107</title>
+  </programme>
+  <programme start="20260714212400 +0000" stop="20260714214700 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ108</title>
+  </programme>
+  <programme start="20260714214700 +0000" stop="20260714220700 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ76</title>
+  </programme>
+  <programme start="20260714220700 +0000" stop="20260714222800 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ77</title>
+  </programme>
+  <programme start="20260714222800 +0000" stop="20260714224900 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ78</title>
+  </programme>
+  <programme start="20260714224900 +0000" stop="20260714231000 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ79</title>
+  </programme>
+  <programme start="20260714231000 +0000" stop="20260714233000 +0000" channel="南方卫视"><title lang="zh">湾区文化坊:詹天佑故居</title>
+  </programme>
+  <programme start="20260714233000 +0000" stop="20260714235500 +0000" channel="南方卫视"><title lang="zh">七十二家房客ⅩⅣ80</title>
+  </programme>
+  <programme start="20260714235500 +0000" stop="20260715004400 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
+  </programme>
+  <programme start="20260714003935 +0800" stop="20260714012553 +0800" channel="黑莓影视"><title lang="zh">40_庆余年</title>
+  </programme>
+  <programme start="20260714012553 +0800" stop="20260714021215 +0800" channel="黑莓影视"><title lang="zh">41_庆余年</title>
+  </programme>
+  <programme start="20260714021215 +0800" stop="20260714025831 +0800" channel="黑莓影视"><title lang="zh">42_庆余年</title>
+  </programme>
+  <programme start="20260714025831 +0800" stop="20260714034440 +0800" channel="黑莓影视"><title lang="zh">43_庆余年</title>
+  </programme>
+  <programme start="20260714034440 +0800" stop="20260714043216 +0800" channel="黑莓影视"><title lang="zh">44_庆余年</title>
+  </programme>
+  <programme start="20260714043216 +0800" stop="20260714051925 +0800" channel="黑莓影视"><title lang="zh">45_庆余年</title>
+  </programme>
+  <programme start="20260714051925 +0800" stop="20260714060623 +0800" channel="黑莓影视"><title lang="zh">46_庆余年</title>
+  </programme>
+  <programme start="20260714060623 +0800" stop="20260714065125 +0800" channel="黑莓影视"><title lang="zh">01_庆余年</title>
+  </programme>
+  <programme start="20260714065125 +0800" stop="20260714073748 +0800" channel="黑莓影视"><title lang="zh">02_庆余年</title>
+  </programme>
+  <programme start="20260714073748 +0800" stop="20260714082332 +0800" channel="黑莓影视"><title lang="zh">03_庆余年</title>
+  </programme>
+  <programme start="20260714082332 +0800" stop="20260714090942 +0800" channel="黑莓影视"><title lang="zh">04_庆余年</title>
+  </programme>
+  <programme start="20260714090942 +0800" stop="20260714095600 +0800" channel="黑莓影视"><title lang="zh">05_庆余年</title>
+  </programme>
+  <programme start="20260714095600 +0800" stop="20260714104216 +0800" channel="黑莓影视"><title lang="zh">06_庆余年</title>
+  </programme>
+  <programme start="20260714104216 +0800" stop="20260714112829 +0800" channel="黑莓影视"><title lang="zh">07_庆余年</title>
+  </programme>
+  <programme start="20260714112829 +0800" stop="20260714121438 +0800" channel="黑莓影视"><title lang="zh">08_庆余年</title>
+  </programme>
+  <programme start="20260714121438 +0800" stop="20260714130027 +0800" channel="黑莓影视"><title lang="zh">09_庆余年</title>
+  </programme>
+  <programme start="20260714130027 +0800" stop="20260714134629 +0800" channel="黑莓影视"><title lang="zh">10_庆余年</title>
+  </programme>
+  <programme start="20260714134629 +0800" stop="20260714143250 +0800" channel="黑莓影视"><title lang="zh">11_庆余年</title>
+  </programme>
+  <programme start="20260714143250 +0800" stop="20260714151921 +0800" channel="黑莓影视"><title lang="zh">12_庆余年</title>
+  </programme>
+  <programme start="20260714151921 +0800" stop="20260714160512 +0800" channel="黑莓影视"><title lang="zh">13_庆余年</title>
+  </programme>
+  <programme start="20260714160512 +0800" stop="20260714165140 +0800" channel="黑莓影视"><title lang="zh">14_庆余年</title>
+  </programme>
+  <programme start="20260714165140 +0800" stop="20260714173803 +0800" channel="黑莓影视"><title lang="zh">15_庆余年</title>
+  </programme>
+  <programme start="20260714173803 +0800" stop="20260714182439 +0800" channel="黑莓影视"><title lang="zh">16_庆余年</title>
+  </programme>
+  <programme start="20260714182439 +0800" stop="20260714191108 +0800" channel="黑莓影视"><title lang="zh">17_庆余年</title>
+  </programme>
+  <programme start="20260714191108 +0800" stop="20260714195741 +0800" channel="黑莓影视"><title lang="zh">18_庆余年</title>
+  </programme>
+  <programme start="20260714195741 +0800" stop="20260714204354 +0800" channel="黑莓影视"><title lang="zh">19_庆余年</title>
+  </programme>
+  <programme start="20260714204354 +0800" stop="20260714213023 +0800" channel="黑莓影视"><title lang="zh">20_庆余年</title>
+  </programme>
+  <programme start="20260714213023 +0800" stop="20260714221630 +0800" channel="黑莓影视"><title lang="zh">21_庆余年</title>
+  </programme>
+  <programme start="20260714221630 +0800" stop="20260714230246 +0800" channel="黑莓影视"><title lang="zh">22_庆余年</title>
+  </programme>
+  <programme start="20260714230246 +0800" stop="20260714234912 +0800" channel="黑莓影视"><title lang="zh">23_庆余年</title>
+  </programme>
+  <programme start="20260714234912 +0800" stop="20260715000000 +0800" channel="黑莓影视"><title lang="zh">24_庆余年</title>
   </programme>
 </tv>

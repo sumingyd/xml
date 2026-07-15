@@ -1,21 +1,61 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
-  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
-  </channel>
   <channel id="CNC英文"><display-name lang="zh">CNC英文</display-name>
   </channel>
-  <channel id="旅游卫视"><display-name lang="zh">旅游卫视</display-name>
+  <channel id="精品综合"><display-name lang="zh">精品综合</display-name>
   </channel>
-  <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
+  <channel id="南京文旅"><display-name lang="zh">南京文旅</display-name><display-name lang="zh">南京文旅纪录</display-name>
   </channel>
   <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
   </channel>
+  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
+  </channel>
+  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
+  </channel>
+  <channel id="烽烟剧场"><display-name lang="zh">烽烟剧场</display-name>
+  </channel>
+  <channel id="哒啵电竞"><display-name lang="zh">哒啵电竞</display-name>
+  </channel>
+  <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
+  </channel>
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
   </channel>
-  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
+  <channel id="黑莓动画"><display-name lang="zh">黑莓动画</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
   </channel>
   <channel id="海峡卫视"><display-name lang="zh">海峡卫视</display-name><display-name lang="zh">海峡卫视</display-name>
+  </channel>
+  <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
+  </channel>
+  <channel id="谍战大剧"><display-name lang="zh">谍战大剧</display-name>
+  </channel>
+  <channel id="康巴卫视"><display-name lang="zh">康巴卫视</display-name>
+  </channel>
+  <channel id="旅游卫视"><display-name lang="zh">旅游卫视</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
+  <channel id="热播精选"><display-name lang="zh">热播精选</display-name>
+  </channel>
+  <channel id="军事评论"><display-name lang="zh">军事评论</display-name>
+  </channel>
+  <channel id="南京教科"><display-name lang="zh">南京教科</display-name>
+  </channel>
+  <channel id="南京十八"><display-name lang="zh">南京十八</display-name>
+  </channel>
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
+  </channel>
+  <channel id="精品体育"><display-name lang="zh">精品体育</display-name>
+  </channel>
+  <channel id="黑莓影视"><display-name lang="zh">黑莓影视</display-name>
+  </channel>
+  <channel id="哒啵赛事"><display-name lang="zh">哒啵赛事</display-name>
+  </channel>
+  <channel id="宿迁综合"><display-name lang="zh">宿迁综合</display-name>
+  </channel>
+  <channel id="爱情喜剧"><display-name lang="zh">爱情喜剧</display-name>
+  </channel>
+  <channel id="中国功夫"><display-name lang="zh">中国功夫</display-name>
   </channel>
   <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
   </programme>
@@ -870,5 +910,129 @@
   <programme start="20260717233000 +0800" stop="20260717235500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
   </programme>
   <programme start="20260717235500 +0800" stop="20260718000000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260717000000 +0000" stop="20260717001500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260717001500 +0000" stop="20260717015000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260717015000 +0000" stop="20260717022000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇英文版</title>
+  </programme>
+  <programme start="20260717022000 +0000" stop="20260717024500 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260717024500 +0000" stop="20260717025000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260717025000 +0000" stop="20260717032000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260717032000 +0000" stop="20260717033500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260717033500 +0000" stop="20260717034000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717034000 +0000" stop="20260717041000 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260717041000 +0000" stop="20260717043500 +0000" channel="康巴卫视"><title lang="zh">雪域高原(双语)</title>
+  </programme>
+  <programme start="20260717043500 +0000" stop="20260717060000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260717060000 +0000" stop="20260717062500 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260717062500 +0000" stop="20260717063000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717063000 +0000" stop="20260717065500 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260717065500 +0000" stop="20260717070000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260717070000 +0000" stop="20260717073000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260717073000 +0000" stop="20260717074500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260717074500 +0000" stop="20260717074900 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717074900 +0000" stop="20260717082100 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260717082100 +0000" stop="20260717102000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260717102000 +0000" stop="20260717103200 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260717103200 +0000" stop="20260717105700 +0000" channel="康巴卫视"><title lang="zh">雪域高原(藏语汉文)</title>
+  </programme>
+  <programme start="20260717105700 +0000" stop="20260717115200 +0000" channel="康巴卫视"><title lang="zh">周末大舞台</title>
+  </programme>
+  <programme start="20260717115200 +0000" stop="20260717120000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260717120000 +0000" stop="20260717123000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260717123000 +0000" stop="20260717125000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260717125000 +0000" stop="20260717132000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语版)</title>
+  </programme>
+  <programme start="20260717132000 +0000" stop="20260717172700 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260717172700 +0000" stop="20260717175700 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260717175700 +0000" stop="20260717182700 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260717182700 +0000" stop="20260717185700 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260717185700 +0000" stop="20260717190500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717190500 +0000" stop="20260717193300 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语)</title>
+  </programme>
+  <programme start="20260717193300 +0000" stop="20260717194300 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260717194300 +0000" stop="20260717195000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260717195000 +0000" stop="20260717213000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260717213000 +0000" stop="20260717220000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717222000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260717222000 +0000" stop="20260717222500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717222500 +0000" stop="20260717225100 +0000" channel="康巴卫视"><title lang="zh">康巴讲坛(藏语汉文)</title>
+  </programme>
+  <programme start="20260717225100 +0000" stop="20260717231900 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260717231900 +0000" stop="20260717233000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260717233000 +0000" stop="20260718000000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717004009 +0800" channel="精品大剧"><title lang="zh">24_乔家的儿女</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000129 +0800" channel="热播精选"><title lang="zh">11_淬火丹心</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717014208 +0800" channel="爱情喜剧"><title lang="zh">重返中世纪</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717001641 +0800" channel="精品综合"><title lang="zh">怪兽：黑暗世界</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717011657 +0800" channel="惊悚悬疑"><title lang="zh">狂怒之阿登战役</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000942 +0800" channel="黑莓电影"><title lang="zh">足球少年</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717004523 +0800" channel="谍战大剧"><title lang="zh">08_勇敢的心2</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717011214 +0800" channel="精品体育"><title lang="zh">25-26赛季NBA常规赛3月22日：雄鹿VS太阳</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717004350 +0800" channel="中国功夫"><title lang="zh">黄飞鸿之武神林世荣</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717010147 +0800" channel="黑莓动画"><title lang="zh">大闹天宫</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000053 +0800" channel="哒啵赛事"><title lang="zh">游戏人生-巨兽传说【方舟】</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000127 +0800" channel="哒啵电竞"><title lang="zh">橘猫-花园危机【植物大战僵尸】</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717002930 +0800" channel="烽烟剧场"><title lang="zh">白水杜康好物推荐</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000221 +0800" channel="军事评论"><title lang="zh">四渡赤水·长路漫漫</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717003000 +0800" channel="南京十八"><title lang="zh">标点</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717000800 +0800" channel="南京教科"><title lang="zh">消费向导</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717085500 +0800" channel="南京文旅"><title lang="zh">欢乐点点</title>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717070000 +0800" channel="宿迁综合"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260717000001 +0800" stop="20260717002537 +0800" channel="黑莓影视"><title lang="zh">40_庆余年</title>
   </programme>
 </tv>

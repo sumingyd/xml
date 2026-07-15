@@ -1,11 +1,15 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="康巴卫视"><display-name lang="zh">康巴卫视</display-name>
+  </channel>
   <channel id="旅游卫视"><display-name lang="zh">旅游卫视</display-name>
+  </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
   </channel>
   <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
   </channel>
   <channel id="海峡卫视"><display-name lang="zh">海峡卫视</display-name><display-name lang="zh">海峡卫视</display-name>
-  </channel>
-  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
   </channel>
   <programme start="20260718000000 +0000" stop="20260718004200 +0000" channel="海峡卫视"><title lang="zh">今日海峡</title>
   </programme>
@@ -402,5 +406,173 @@
   <programme start="20260718231700 +0000" stop="20260718233800 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20260718233800 +0000" stop="20260719000500 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718001500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260718001500 +0000" stop="20260718015000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260718015000 +0000" stop="20260718022000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇英文版</title>
+  </programme>
+  <programme start="20260718022000 +0000" stop="20260718024500 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260718024500 +0000" stop="20260718025000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260718025000 +0000" stop="20260718032000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260718032000 +0000" stop="20260718033500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260718033500 +0000" stop="20260718034000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718034000 +0000" stop="20260718041000 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260718041000 +0000" stop="20260718043500 +0000" channel="康巴卫视"><title lang="zh">雪域高原(双语)</title>
+  </programme>
+  <programme start="20260718043500 +0000" stop="20260718060000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260718060000 +0000" stop="20260718062500 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260718062500 +0000" stop="20260718063000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718063000 +0000" stop="20260718065500 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260718065500 +0000" stop="20260718070000 +0000" channel="康巴卫视"><title lang="zh">频道主题曲</title>
+  </programme>
+  <programme start="20260718070000 +0000" stop="20260718073000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260718073000 +0000" stop="20260718074500 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260718074500 +0000" stop="20260718074900 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718074900 +0000" stop="20260718082100 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260718082100 +0000" stop="20260718102000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260718102000 +0000" stop="20260718103200 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260718103200 +0000" stop="20260718105700 +0000" channel="康巴卫视"><title lang="zh">雪域高原(藏语汉文)</title>
+  </programme>
+  <programme start="20260718105700 +0000" stop="20260718115200 +0000" channel="康巴卫视"><title lang="zh">周末大舞台</title>
+  </programme>
+  <programme start="20260718115200 +0000" stop="20260718120000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260718120000 +0000" stop="20260718123000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260718123000 +0000" stop="20260718125000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260718125000 +0000" stop="20260718132000 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语版)</title>
+  </programme>
+  <programme start="20260718132000 +0000" stop="20260718172700 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260718172700 +0000" stop="20260718175700 +0000" channel="康巴卫视"><title lang="zh">启米时间(双语)</title>
+  </programme>
+  <programme start="20260718175700 +0000" stop="20260718182700 +0000" channel="康巴卫视"><title lang="zh">科普文化专题</title>
+  </programme>
+  <programme start="20260718182700 +0000" stop="20260718185700 +0000" channel="康巴卫视"><title lang="zh">动画城</title><desc>南通广播电视台自办日播少儿栏目，设“糖豆点点名”“声入童心”“创意我最棒”“气象小主播”等子版块，通过童谣律动、故事讲述、手工制作等形式陪伴儿童成长。节目多次被评为省市“优秀少儿电视社教栏目”，并策划“消防小卫士”等少儿主题活动。</desc>
+  </programme>
+  <programme start="20260718185700 +0000" stop="20260718190500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718190500 +0000" stop="20260718193300 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(藏语)</title>
+  </programme>
+  <programme start="20260718193300 +0000" stop="20260718194300 +0000" channel="康巴卫视"><title lang="zh">快乐汉藏语</title>
+  </programme>
+  <programme start="20260718194300 +0000" stop="20260718195000 +0000" channel="康巴卫视"><title lang="zh">藏歌金曲</title>
+  </programme>
+  <programme start="20260718195000 +0000" stop="20260718213000 +0000" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20260718213000 +0000" stop="20260718220000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260718220000 +0000" stop="20260718222000 +0000" channel="康巴卫视"><title lang="zh">康巴卫视新闻</title>
+  </programme>
+  <programme start="20260718222000 +0000" stop="20260718222500 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718222500 +0000" stop="20260718225100 +0000" channel="康巴卫视"><title lang="zh">康巴讲坛(藏语汉文)</title>
+  </programme>
+  <programme start="20260718225100 +0000" stop="20260718231900 +0000" channel="康巴卫视"><title lang="zh">康巴欢乐汇(汉语)</title>
+  </programme>
+  <programme start="20260718231900 +0000" stop="20260718233000 +0000" channel="康巴卫视"><title lang="zh">拉姆报天气</title>
+  </programme>
+  <programme start="20260718233000 +0000" stop="20260719000000 +0000" channel="康巴卫视"><title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718013500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260718013500 +0000" stop="20260718022000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  </programme>
+  <programme start="20260718022000 +0000" stop="20260718025000 +0000" channel="翡翠台"><title lang="zh">大灣區美味好玩攻略[粵]</title><desc lang="zh">郭柏姸、港姐師妹鄧凱文參加新一趟灣區之旅。來到惠州，麥包、美儀於太平洋相伴下淺嚐輕食，好寫意。四人在無敵海景旁享用海產，更是倍添鮮味。置身仿似歐洲小鎮的景區，主持們分途學造朱古力、玻璃杯，再牽手漫步玻璃橋。在盛大場景體驗劇本殺，又是甚麼玩法？生態園區內「自駕遊」，除了欣賞花卉美景之外，也可親親動物。入夜後，坐船觀看光影秀，讓眾人目不暇給。柏姸、凱文相約換上泳裝暢玩溫泉樂園，怎料衣著風格卻大不同？</desc>
+  </programme>
+  <programme start="20260718025000 +0000" stop="20260718034500 +0000" channel="翡翠台"><title lang="zh">東坡家事#5[粵][PG]</title><desc lang="zh">少游拜會東坡，東坡贈他錢糧卻被拒。大妹暗中取豬肉榮還給蘇家的錢作扇子店頂讓費，東窗事發，大妹揚言三日內交還……東坡以為蘇邁作弄閏之而責備他；蘇邁離家出走被街童欺負，幸少游出現制止，故對少游言聽計從……</desc>
+  </programme>
+  <programme start="20260718034500 +0000" stop="20260718041000 +0000" channel="翡翠台"><title lang="zh">高朋滿座#143[粵]</title><desc lang="zh">婚紗店前僱主慫恿情接手她的店來創業，情答應，更向保險公司辭職。情向家人宣布此事，但眾人擔心有情受騙，更發現該舖位處於好位置。眾人商議的結果是由根、溢及義輪流在該舖位進行創業比賽，可是三人皆以慘蝕收場。</desc>
+  </programme>
+  <programme start="20260718041000 +0000" stop="20260718050500 +0000" channel="翡翠台"><title lang="zh">命轉皇后#18[粵/普][PG]</title><desc lang="zh">張遮引黃潛、三娘子和馮明宇大打出手，並隨薛定非趁亂逃走。馮明宇欲引爆山上炸藥，看到謝危拉弓射向張遮，雪寧以身相護。薛遠聽到刀琴喊薛定非名字，派人暗中打探。雪寧請求張遮不要上報對謝危的懷疑，張遮應允。</desc>
+  </programme>
+  <programme start="20260718050500 +0000" stop="20260718053500 +0000" channel="翡翠台"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">主持們化身「橋王之王」、「扭計師爺」、「烏利」後人，前往廣東新會博物館尋寶，蕭欣浩博士並講解多個「烏」字開首的俗語。果皮又稱陳皮，有何典故？以陳皮浸泡普洱茶，「茶三酒四」更有味道！男士們因對聯大打出手被叫「收皮」，粗俗說法源於「番攤」賭博？智堅、文軒「陸榮廷睇相」，專家施志明亦會講述江湖術士「搵丁」的歷史。火水哥重遇舊同學李佳芯，「零腐皮」女神竟向他示愛……他更英雄救美，讓二世祖「抽水抽着火水」！</desc>
+  </programme>
+  <programme start="20260718053500 +0000" stop="20260718060000 +0000" channel="翡翠台"><title lang="zh">粵講粵㜺鬼[粵]</title><desc lang="zh">新會洪聖始祖館暗藏「反清復明」，蕭博士解說館內的藏字詩。眾人還向蔡李佛拳後人學習「穿、撓、插」各種招式。「陳德貴」常在童謠歌詞中出現，到底何方神聖？&lt;氹氹轉菊花園&gt;又為何有多個版本？「桄榔樹」火水哥意外中獎，獲彭慧中上門服侍24小時，網民得悉後即「有請小鳳姐」！二人的感情可會是「大笪地賣粥」？除了時、分、秒外，「一個骨」、「晏啲」亦用作表示時間，廖Sir細說箇中詞義；「過一牌」竟源於宋朝衙牌制度？</desc>
+  </programme>
+  <programme start="20260718060000 +0000" stop="20260718074500 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 環球新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260718074500 +0000" stop="20260718090000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵]</title>
+  </programme>
+  <programme start="20260718090000 +0000" stop="20260718100000 +0000" channel="翡翠台"><title lang="zh">隆行天下之重走八千里路雲和月[普]</title>
+  </programme>
+  <programme start="20260718100000 +0000" stop="20260718103000 +0000" channel="翡翠台"><title lang="zh">手匠傳承[粵/韓]</title><desc lang="zh">本節目將帶您走進亞洲文化的手工藝術世界，彰顯不同國家的美學。工匠們用心地透過藝術和耐心的加工，創造出了精工細作的文化遺產。工藝及其藝術表現形式作為傳統文化的遺產，為文化多樣性提供了豐富的內容。</desc>
+  </programme>
+  <programme start="20260718103000 +0000" stop="20260718113000 +0000" channel="翡翠台"><title lang="zh">海藻掌門人[粵/英]</title><desc lang="zh">海藻越來越受歡迎，其多樣性不斷給美食家帶來驚喜。無論它們是因為營養特性、碘化風味還是美觀而受到追捧，它們都注定會征服世界。我們將踏上一段旅程，追尋這些特殊海藻的足跡。</desc>
+  </programme>
+  <programme start="20260718113000 +0000" stop="20260718120000 +0000" channel="翡翠台"><title lang="zh">仨心友行 3[粵]</title><desc lang="zh">花繩是懷舊玩意，穎鏇首次體驗那些年的趣味。「高手」佳芯為怕曝露年齡，欲隱藏實力？三女都曾擔任「是非精」，這次接受嘉賓黃子恆的戶外濾水考驗，竟越濾越深色……動腦筋後，眾人隨頌缽導師感受音療力量。藝人難以交朋友，眾人有何看法？女主持各自寫下三大好友名單，佳芯因拍劇與諾懿成為「家人」，穎鏇則與伍允龍結「兄妹緣」；美恩亦會分享和駱胤鳴、吳若希的友誼。四人分隊玩猜猜畫畫，輸家受罰，為何卻見美恩躺於子恆懷抱？</desc>
+  </programme>
+  <programme start="20260718120000 +0000" stop="20260718123000 +0000" channel="翡翠台"><title lang="zh">約埋班Friend遊香港[粵]</title><desc lang="zh">浚霆帶隊，竟然去商場、返將軍澳？兩處同有驚喜，商場內也能打高爾夫、玩懷舊攤位遊戲；將軍澳則可在跨灣大橋踩單車，浚霆亦會訴說入行前被明星使喚之苦……阿滕另邊廂約同麥包，乘搭第六代的山頂纜車上山頂，還於藝術館內瘋狂打卡，望着維港靚景更趁機各自大讚另一半。齊人去Glamping，營內互選最mean、最麻煩之人，即管看看大家如何為自己的選擇打圓場。圍爐談及拍攝結緣節目《街市遊樂團》的起源，最初竟沒美儀份？</desc>
+  </programme>
+  <programme start="20260718123000 +0000" stop="20260718130000 +0000" channel="翡翠台"><title lang="zh">周六聊Teen谷[粵]</title><desc lang="zh">年輕人潮流觸角敏銳，愛好探索新事物、新資訊。踏入科技年代，青少年對新興電子產品、網絡流行媒體尤感興趣，追上時代步伐，已成新世代指標！主持開設《周六聊Teen谷》，會用盡所能搜羅世界各地至潮、至新情報，上至世界盛事、醫學百科、文藝與科技；下至日常生活、網絡熱搜，在每個星期六跟觀眾一一分享。論盡天南地北，暢談人氣熱話，「谷友」緊貼節目，便可輕鬆掌握全球脈搏動向。</desc>
+  </programme>
+  <programme start="20260718130000 +0000" stop="20260718131500 +0000" channel="翡翠台"><title lang="zh">午間新聞[粵]</title>
+  </programme>
+  <programme start="20260718131500 +0000" stop="20260718142000 +0000" channel="翡翠台"><title lang="zh">開心大綜藝之暑假玩到盡[粵][PG]</title><desc lang="zh">主持Bob、區永權以遊戲為十一位藝人分隊，壓軸的蔚雨芯由隊長上演浮台對決爭奪，「康豪隊」憑郭子豪的勇猛表現搶人成功。從水上滑梯滑下再射龍門，看似容易，「控球」才是最難，「威潮隊」翟威廉更因莽撞行為被扣分！「日落西山下」玩法簡單，過程卻揭示游嘉欣的古怪思想，還見證波波太聰明，慘變豬隊友！轉戰陸上，全隊要排成直線，再跳過滾動的呼拉圈，黃美棋的身高竟成負累？玩盡多個回合，今集敗方要接受甚麼「火辣」懲罰？</desc>
+  </programme>
+  <programme start="20260718142000 +0000" stop="20260718145500 +0000" channel="翡翠台"><title lang="zh">尋找世界另一個我 台灣篇[粵]</title><desc lang="zh">郭柏妍(Rosita)赴高雄與同名同姓之人「相認」，先聽聽其錄音，按形容畫下樣貌，再往火車站尋人。誰知另一位郭柏妍(Ann)已跟她擦身幾次！Ann帶Rosita到公園暢談讀書時代及家人周邊事，竟發現二人童年生活有很多近似點！Rosita來台灣前提出了兩個「夢想」，其一是進夜店。節目組要兩位柏妍為對方選購「戰衣」，登上夜店，她們連番「被嚇」？翌日，另一個同在高雄長大的郭柏妍(Betty)已在等候……</desc>
+  </programme>
+  <programme start="20260718145500 +0000" stop="20260718152500 +0000" channel="翡翠台"><title lang="zh">尋找世界另一個我 台灣篇[粵]</title><desc lang="zh">玩過旋轉木馬，三位郭柏妍分享少女心事，Rosita稱讀書時沒拍拖是遺憾，其實她曾向心儀男生示愛？三人還在螢幕前談論可會接受婚前親密行為。Betty一直在高雄生活，夢想是「台中一日遊」，Rosita和Ann牽手相伴，為她圓夢。其中一站到Betty想考進的大學參觀，跟室內設計系主任先打個招呼。相處時光尾聲，兩位高雄柏妍細訴這趟旅程的感受，令Rosita不斷流淚，還要她閉起眼睛，以「熟悉」歌聲送上驚喜！</desc>
+  </programme>
+  <programme start="20260718152500 +0000" stop="20260718155500 +0000" channel="翡翠台"><title lang="zh">地球大神秘[粵]</title><desc lang="zh">今年是人類充滿惶恐不安的一年，網絡上流傳不少大災難的預言：中東戰火、日本超級大地震等，我們的明天究竟會怎樣呢？很多人想預知未來，研究它的真假，在網絡資訊爆炸的時代，越講越真，越知道反而越驚，就好像聖經一早預言：『人想起將要臨到世界的事，就嚇得魂不附體』這一刻，站在文明懸崖上的我們，是否正要見證這古老預言成為現實？在全新一輯的地球大神秘，我們會繼續從世界各地神秘事件，探討各種預言的真確，還會同被稱為最準確重要的預言書《聖經》作對比，在末世中得到真正的平安保障。</desc>
+  </programme>
+  <programme start="20260718155500 +0000" stop="20260718160000 +0000" channel="翡翠台"><title lang="zh">勁歌推介[粵]</title>
+  </programme>
+  <programme start="20260718160000 +0000" stop="20260718163000 +0000" channel="翡翠台"><title lang="zh">魔神創造傳[粵/日]</title><desc lang="zh">御富良院希望助救世主一臂之力，但苦無魔神可用，一行人遇到龍神使者龍龍，在其帶領下抵達新區域，誰知馬上遇到炎上達手下之一的完蛋師傅，御富良院的額頭因他而大幅變長，連走路也走不穩。</desc>
+  </programme>
+  <programme start="20260718163000 +0000" stop="20260718170000 +0000" channel="翡翠台"><title lang="zh">Hands Up[粵]</title><desc lang="zh">兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！</desc>
+  </programme>
+  <programme start="20260718170000 +0000" stop="20260718171500 +0000" channel="翡翠台"><title lang="zh">查查林部隊[粵/英]</title><desc lang="zh">森林裡神秘怪事頻生。巨大陷阱出現，栗子消失，昆蟲失蹤，橡實從天而降！要交由大偵探Peet和朋友Baba和Molly組成的查查林部隊調查。牠們未必是最能幹的偵探隊，但往往能夠迎刃而解，揭開大自然奧秘。</desc>
+  </programme>
+  <programme start="20260718171500 +0000" stop="20260718173000 +0000" channel="翡翠台"><title lang="zh">查查林部隊[粵/英]</title><desc lang="zh">森林裡神秘怪事頻生。巨大陷阱出現，栗子消失，昆蟲失蹤，橡實從天而降！要交由大偵探Peet和朋友Baba和Molly組成的查查林部隊調查。牠們未必是最能幹的偵探隊，但往往能夠迎刃而解，揭開大自然奧秘。</desc>
+  </programme>
+  <programme start="20260718173000 +0000" stop="20260718180000 +0000" channel="翡翠台"><title lang="zh">安妮的童話[粵/日]</title><desc lang="zh">安妮與朋友玩「命令遊戲」，不慎從屋頂摔下跌斷腿骨，需要休養六星期。新來的教師史黛絲年輕貌美，教學方式生動，更提議舉辦聖誕節音樂會，獲得學生支持。安妮表演朗誦詩歌，令台下觀眾驚豔。</desc>
+  </programme>
+  <programme start="20260718180000 +0000" stop="20260718183000 +0000" channel="翡翠台"><title lang="zh">野性四季：珍稀野生動物在中國[粵]</title><desc lang="zh">《野性四季：珍稀野生動物在中國》聯合世界頂尖野生動物拍攝團隊，透過以年為週期的野外追蹤拍攝，為動物國寶留存具有歷史意義和科學價值的珍貴影像檔案。</desc>
+  </programme>
+  <programme start="20260718183000 +0000" stop="20260718185500 +0000" channel="翡翠台"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+  </programme>
+  <programme start="20260718185500 +0000" stop="20260718190000 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260718190000 +0000" stop="20260718193000 +0000" channel="翡翠台"><title lang="zh">新聞透視[粵]</title><desc lang="zh">《新聞透視》，每周專題報道多段香港以至國際的矚目新聞，聚焦港人最關心的民生話題，並邀請各界人士、學者、專家，一同深入探討箇中來龍去脈。</desc>
+  </programme>
+  <programme start="20260718193000 +0000" stop="20260718193500 +0000" channel="翡翠台"><title lang="zh">好嘢港多啲[粵]</title><desc lang="zh">香港特區政府帶領各個部門及單位，適時推出不同的政策措施，為本港市民、到訪旅客、來自外地的投資者提供便捷服務。香港這麼好，當然要多說一些讓大家知道。《好嘢港多啲》以輕鬆有趣的拍攝手法，配合陳豪、高海寧、張振朗、劉佩玥、周嘉洛、羅子溢、馬國明、陳懿德、陳展鵬、劉穎鏇等一眾星級藝員，透過不同角色、形象，生動地表達香港的各樣美好和優勢。</desc>
+  </programme>
+  <programme start="20260718193500 +0000" stop="20260718200000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260718200000 +0000" stop="20260718203000 +0000" channel="翡翠台"><title lang="zh">渣打夥拍保誠攜手傳承：家傳之「保」2[粵]</title>
+  </programme>
+  <programme start="20260718203000 +0000" stop="20260718213000 +0000" channel="翡翠台"><title lang="zh">AlipayHK 呈獻：唱錢[粵]</title><desc lang="zh">挑戰音域的極限、拍子的精準，全新互動音樂遊戲節目《唱錢》由森美、Eric Kwok、李茵彤任主持，以專業音準分析系統考驗參賽者。九宮格代表九個難度等級，參賽者每當連成一線「過三關」，可選擇提款離場、繼續挑戰，甚至是最難的Monster關卡。一旦過關失敗，獎金即歸零！素人版獨自闖關，力爭最高十萬元獎金。明星版為觀眾謀福利，而觀眾參與直播間互動，狂撳Emoji為參賽歌手打氣，同時有機會贏取獎金、禮品。</desc>
+  </programme>
+  <programme start="20260718213000 +0000" stop="20260718221500 +0000" channel="翡翠台"><title lang="zh">伯樂音樂學院20週年呈獻：J Music[粵]</title><desc lang="zh">《J Music》致力打造高質音樂平台，一眾歌手有展示音樂實力的機會之餘，也可讓樂迷更深入了解歌手的音樂故事。節目邀請「人氣」歌手擔任嘉賓，由嘉賓親自挑選其喜歡的新舊作品，並即場演唱，分享喜愛曲目。而一些樂壇新面孔亦會亮相，透過互動交流，展現音樂潛力。此外，每集緊貼「勁歌金榜」最新形勢，還會帶來不同歌手、創作人或製作人的訪問，跟觀眾暢談作品，以至音樂業界的人和事。</desc>
+  </programme>
+  <programme start="20260718221500 +0000" stop="20260718224500 +0000" channel="翡翠台"><title lang="zh">風味人間 第2季[粵]</title><desc lang="zh">食物的處理方式，因地理環境、文明歷程、物產差異等而千變萬化。不過，食慾始終是人類跨越疆域的原動力，推動着全球的飲食文化互相交融，並在碰撞中孕育出更多智慧。《風味人間2》承接首季，再次開啟一趟趟味蕾與文化的旅程。鏡頭走訪中國大地與世界各地，深入廚房與市井，探尋食物背後的故事與情感。從色澤到香氣，從滋味到工藝，攝製團隊以細膩的畫面捕捉每一瞬間，令觀眾如臨其境，同享人間風味。</desc>
+  </programme>
+  <programme start="20260718224500 +0000" stop="20260718231500 +0000" channel="翡翠台"><title lang="zh">J Sport[粵]</title><desc lang="zh">雜誌式體育資訊節目《J Sport》由鄭衍峰、何振然、何泳芍、曾文心等「星級」運動愛好者擔任主持，每星期搜羅最熱門的香港體壇情報。由萬眾矚目的國際體育盛事、本地賽事焦點，以至最貼地的學界、地區康體活動，都一網打盡！節目邀請專業運動員細訴踏進體壇、走過高山低谷的心路歷程，以及背後鮮為人知的故事，還會緊貼健兒們的最新動向。</desc>
+  </programme>
+  <programme start="20260718231500 +0000" stop="20260718233000 +0000" channel="翡翠台"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+  </programme>
+  <programme start="20260718233000 +0000" stop="20260718233500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260718233500 +0000" stop="20260719003500 +0000" channel="翡翠台"><title lang="zh">廉政狙擊#15[粵][PG]</title><desc lang="zh">曉山認為正鈿有意針對，掀起父女恩怨，子峰的開解讓她心動不已。寶群得知屠敏是子欣，前往相認，卻被拒絕。家晴也找屠敏相認，屠敏口硬心軟，被她的率真融化。家晴獨自往歌廳期間，遇上色魔意圖侵犯，陷入險境。</desc>
   </programme>
 </tv>

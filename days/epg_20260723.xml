@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
   </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
   <programme start="20260723010000 +0000" stop="20260723013500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
   </programme>
   <programme start="20260723013500 +0000" stop="20260723022000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
@@ -90,5 +92,89 @@
   <programme start="20260723235000 +0000" stop="20260723235500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
   </programme>
   <programme start="20260723235500 +0000" stop="20260724010000 +0000" channel="翡翠台"><title lang="zh">再創世紀#7[粵]</title><desc lang="zh">啟堂心臟病發未脫離危險期，定垚大受打擊，天生假意相助扶持。學禮得到一山的股份，打算加入傲堂董事局，天生心裏卻另有打算。程凱與戰友朱小慧為創業比賽尋找靈感，小慧為趕製按摩背心雛型，過勞而暈倒街頭；澤雨責怪程凱，令他靈機一觸，想到研發「隨身師傅」手機應用程式。傲堂董事會投選臨時主席，天生的關鍵一票讓定垚成為主席，學禮因未能進入董事局而不滿。在彼列工作十年的高哲成為亞太區代表，回港首個吞併目標就是傲堂。</desc>
+  </programme>
+  <programme start="20260723000000 +0000" stop="20260723010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
+  </programme>
+  <programme start="20260723010000 +0000" stop="20260723013000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260723013000 +0000" stop="20260723020000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723023000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260723023000 +0000" stop="20260723030000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260723030000 +0000" stop="20260723033000 +0000" channel="凤凰卫视"><title lang="zh">军情观察室</title>
+  </programme>
+  <programme start="20260723033000 +0000" stop="20260723040000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260723040000 +0000" stop="20260723043000 +0000" channel="凤凰卫视"><title lang="zh">新闻鉴证组</title>
+  </programme>
+  <programme start="20260723043000 +0000" stop="20260723050000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260723050000 +0000" stop="20260723053000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260723053000 +0000" stop="20260723060000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
+  </programme>
+  <programme start="20260723060000 +0000" stop="20260723063000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260723063000 +0000" stop="20260723070000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260723070000 +0000" stop="20260723090000 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
+  </programme>
+  <programme start="20260723090000 +0000" stop="20260723093000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260723093000 +0000" stop="20260723100000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260723100000 +0000" stop="20260723110000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260723110000 +0000" stop="20260723113000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260723113000 +0000" stop="20260723120000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260723120000 +0000" stop="20260723125500 +0000" channel="凤凰卫视"><title lang="zh">凤凰午间专列</title>
+  </programme>
+  <programme start="20260723125500 +0000" stop="20260723130000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260723130000 +0000" stop="20260723133000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
+  </programme>
+  <programme start="20260723133000 +0000" stop="20260723140000 +0000" channel="凤凰卫视"><title lang="zh">名人面对面</title>
+  </programme>
+  <programme start="20260723140000 +0000" stop="20260723143000 +0000" channel="凤凰卫视"><title lang="zh">文化大观园</title>
+  </programme>
+  <programme start="20260723143000 +0000" stop="20260723150000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260723150000 +0000" stop="20260723160000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
+  </programme>
+  <programme start="20260723160000 +0000" stop="20260723163000 +0000" channel="凤凰卫视"><title lang="zh">军情观察室</title>
+  </programme>
+  <programme start="20260723163000 +0000" stop="20260723170000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
+  </programme>
+  <programme start="20260723170000 +0000" stop="20260723173000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
+  </programme>
+  <programme start="20260723173000 +0000" stop="20260723180000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
+  </programme>
+  <programme start="20260723180000 +0000" stop="20260723183000 +0000" channel="凤凰卫视"><title lang="zh">凤凰焦点新闻</title>
+  </programme>
+  <programme start="20260723183000 +0000" stop="20260723190000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
+  </programme>
+  <programme start="20260723190000 +0000" stop="20260723193000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260723193000 +0000" stop="20260723200000 +0000" channel="凤凰卫视"><title lang="zh">石评天下</title>
+  </programme>
+  <programme start="20260723200000 +0000" stop="20260723203000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
+  </programme>
+  <programme start="20260723203000 +0000" stop="20260723210000 +0000" channel="凤凰卫视"><title lang="zh">风云对话</title>
+  </programme>
+  <programme start="20260723210000 +0000" stop="20260723215500 +0000" channel="凤凰卫视"><title lang="zh">时事直通车</title>
+  </programme>
+  <programme start="20260723215500 +0000" stop="20260723220000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
+  </programme>
+  <programme start="20260723220000 +0000" stop="20260723223000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
+  </programme>
+  <programme start="20260723223000 +0000" stop="20260723230000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
+  </programme>
+  <programme start="20260723230000 +0000" stop="20260723233000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
+  </programme>
+  <programme start="20260723233000 +0000" stop="20260724000000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
   </programme>
 </tv>

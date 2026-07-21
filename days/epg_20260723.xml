@@ -1,11 +1,55 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="CNC英文"><display-name lang="zh">CNC英文</display-name>
   </channel>
-  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  <channel id="南京文旅"><display-name lang="zh">南京文旅</display-name><display-name lang="zh">南京文旅纪录</display-name>
+  </channel>
+  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  </channel>
+  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
+  </channel>
+  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
+  </channel>
+  <channel id="烽烟剧场"><display-name lang="zh">烽烟剧场</display-name>
+  </channel>
+  <channel id="哒啵电竞"><display-name lang="zh">哒啵电竞</display-name>
   </channel>
   <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
   </channel>
-  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="黑莓动画"><display-name lang="zh">黑莓动画</display-name>
+  </channel>
+  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
+  </channel>
+  <channel id="精品萌宠"><display-name lang="zh">精品萌宠</display-name>
+  </channel>
+  <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
+  </channel>
+  <channel id="谍战大剧"><display-name lang="zh">谍战大剧</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
+  <channel id="热播精选"><display-name lang="zh">热播精选</display-name>
+  </channel>
+  <channel id="军事评论"><display-name lang="zh">军事评论</display-name>
+  </channel>
+  <channel id="南京教科"><display-name lang="zh">南京教科</display-name>
+  </channel>
+  <channel id="南京十八"><display-name lang="zh">南京十八</display-name>
+  </channel>
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
+  </channel>
+  <channel id="精品体育"><display-name lang="zh">精品体育</display-name>
+  </channel>
+  <channel id="黑莓影视"><display-name lang="zh">黑莓影视</display-name>
+  </channel>
+  <channel id="哒啵赛事"><display-name lang="zh">哒啵赛事</display-name>
+  </channel>
+  <channel id="宿迁综合"><display-name lang="zh">宿迁综合</display-name>
+  </channel>
+  <channel id="爱情喜剧"><display-name lang="zh">爱情喜剧</display-name>
+  </channel>
+  <channel id="中国功夫"><display-name lang="zh">中国功夫</display-name>
   </channel>
   <programme start="20260723010000 +0000" stop="20260723013500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
   </programme>
@@ -532,5 +576,155 @@
   <programme start="20260723233000 +0800" stop="20260723235500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
   </programme>
   <programme start="20260723235500 +0800" stop="20260724000000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  </programme>
+  <programme start="20260723004500 +0000" stop="20260723005500 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20260723005500 +0000" stop="20260723011600 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260723011600 +0000" stop="20260723020000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260723020000 +0000" stop="20260723024800 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
+  </programme>
+  <programme start="20260723024800 +0000" stop="20260723030900 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723030900 +0000" stop="20260723033000 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723033000 +0000" stop="20260723035200 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723035200 +0000" stop="20260723041200 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723041200 +0000" stop="20260723043200 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723043200 +0000" stop="20260723045300 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723045300 +0000" stop="20260723051500 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723051500 +0000" stop="20260723053600 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723053600 +0000" stop="20260723060000 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723060000 +0000" stop="20260723065000 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
+  </programme>
+  <programme start="20260723065000 +0000" stop="20260723065800 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
+  </programme>
+  <programme start="20260723065800 +0000" stop="20260723071800 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260723071800 +0000" stop="20260723080900 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260723080900 +0000" stop="20260723083200 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723083200 +0000" stop="20260723084300 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20260723084300 +0000" stop="20260723090400 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260723090400 +0000" stop="20260723092700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723092700 +0000" stop="20260723101600 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723101600 +0000" stop="20260723105800 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723105800 +0000" stop="20260723112300 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723112300 +0000" stop="20260723115100 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723115100 +0000" stop="20260723121700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723121700 +0000" stop="20260723124300 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723124300 +0000" stop="20260723131200 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723131200 +0000" stop="20260723133700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723133700 +0000" stop="20260723140100 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723140100 +0000" stop="20260723144300 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723144300 +0000" stop="20260723145500 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20260723145500 +0000" stop="20260723152100 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723152100 +0000" stop="20260723152800 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
+  </programme>
+  <programme start="20260723152800 +0000" stop="20260723161100 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723161100 +0000" stop="20260723163700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723163700 +0000" stop="20260723170400 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723170400 +0000" stop="20260723174500 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723174500 +0000" stop="20260723175000 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
+  </programme>
+  <programme start="20260723175000 +0000" stop="20260723180200 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
+  </programme>
+  <programme start="20260723180200 +0000" stop="20260723182800 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723182800 +0000" stop="20260723184000 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
+  </programme>
+  <programme start="20260723184000 +0000" stop="20260723193000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
+  </programme>
+  <programme start="20260723193000 +0000" stop="20260723200000 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
+  </programme>
+  <programme start="20260723200000 +0000" stop="20260723210000 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
+  </programme>
+  <programme start="20260723210000 +0000" stop="20260723212400 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723212400 +0000" stop="20260723214700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723214700 +0000" stop="20260723220700 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723220700 +0000" stop="20260723222800 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723222800 +0000" stop="20260723224900 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723224900 +0000" stop="20260723231000 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723231000 +0000" stop="20260723233100 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723233100 +0000" stop="20260723235500 +0000" channel="南方卫视"><title lang="zh"> 剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260723235500 +0000" stop="20260724004500 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723002339 +0800" channel="精品大剧"><title lang="zh">12_四喜</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723001436 +0800" channel="军旅剧场"><title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723002612 +0800" channel="热播精选"><title lang="zh">05_我和我的儿女们</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723011740 +0800" channel="爱情喜剧"><title lang="zh">警察故事2013</title><desc>讲述了淞北市当地出现了一个新兴犯罪组织，他们通过搭建线上网络赌场，诱骗当地百姓参与赌博非法获利，并用威胁、恐吓等方式，迫使当地企业家成为他们线上赌场代理人。百姓深陷网络赌博的荼毒并欠下高额赌债，倾家荡产却敢怒不敢言。刑警李红旗陪女友回老家过年，意外发现岳父老陶卷入了这场涉黑案件中，正义感爆棚的李红旗毅然决定放弃休假，联手当地警方展开侦查。在调查过程中，李红旗不断遭受来自犯罪分子的对抗与胁迫，但他靠着自己丰富的经验和超强的行动力，最终挫败这场黑色风暴！</desc>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723005511 +0800" channel="惊悚悬疑"><title lang="zh">神偷谍影</title><desc>陈小春、金城武、杨采妮主演。香港警方胁迫高科技商业间谍组织盗取英镑伪钞电模版，成功后却被设局灭口，众人发现幕后黑手竟是警方高层。</desc>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723011410 +0800" channel="黑莓电影"><title lang="zh">超级风暴</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723000647 +0800" channel="谍战大剧"><title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723002128 +0800" channel="精品体育"><title lang="zh">25-26赛季NBA常规赛4月4日：凯尔特人VS雄鹿</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723001818 +0800" channel="精品萌宠"><title lang="zh">猫咪大追踪</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723005234 +0800" channel="中国功夫"><title lang="zh">鹿鼎记</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723010657 +0800" channel="黑莓动画"><title lang="zh">间谍过家家 代号：白（普通话版）</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723002942 +0800" channel="潮妈辣婆"><title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723000343 +0800" channel="哒啵赛事"><title lang="zh">追梦小温 远古恐龙【方舟】</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723001109 +0800" channel="哒啵电竞"><title lang="zh">游星-荒岛历险记【方舟】</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723000506 +0800" channel="烽烟剧场"><title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723001053 +0800" channel="军事评论"><title lang="zh">抗战烽火·地雷战</title><desc>抗战剧，由焦晓雨执导，吴樾、何翯主演。讲述胶东半岛海阳地区村民赵化龙在八路军指导下，从战斗中总结经验，研究发明不同地雷，制造出神出鬼没的地雷战场，与日军排雷专家斗智斗勇的传奇故事。</desc>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723003000 +0800" channel="南京十八"><title lang="zh">标点</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723000800 +0800" channel="南京教科"><title lang="zh">消费向导</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723085500 +0800" channel="南京文旅"><title lang="zh">欢乐点点</title>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723070000 +0800" channel="宿迁综合"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260723000001 +0800" stop="20260723004352 +0800" channel="黑莓影视"><title lang="zh">43_庆余年</title>
   </programme>
 </tv>

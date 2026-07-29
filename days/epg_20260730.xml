@@ -3,6 +3,8 @@
   </channel>
   <channel id="建党105周年巡礼"><display-name lang="zh">建党105周年巡礼</display-name>
   </channel>
+  <channel id="镇江2"><display-name lang="zh">镇江2</display-name>
+  </channel>
   <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
   </channel>
   <channel id="黑莓影视"><display-name lang="zh">黑莓影视</display-name>
@@ -600,6 +602,8 @@
   <channel id="济宁综合"><display-name lang="zh">济宁综合</display-name><display-name lang="zh">济宁综合</display-name><display-name lang="zh">CHANNEL00000240</display-name><display-name lang="zh">济宁综合频道</display-name>
   </channel>
   <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
+  </channel>
+  <channel id="镇江1"><display-name lang="zh">镇江1</display-name>
   </channel>
   <channel id="河北少儿"><display-name lang="zh">河北少儿</display-name><display-name lang="zh">河北科教</display-name><display-name lang="zh">河北少儿科教</display-name>
   </channel>
@@ -7239,17 +7243,19 @@
   </programme>
   <programme start="20260730232500 +0800" stop="20260731000000 +0800" channel="TVBJADE"><title lang="zh">News Roundup Ep30</title><desc lang="zh">Daily breaking news on Hong Kong and beyond.</desc>
   </programme>
-  <programme start="20260730000800 +0800" stop="20260730005000 +0800" channel="TVBS新闻"><title lang="zh">红绿灯</title><desc lang="zh">北京地区唯一一档专业交通资讯类日播节目。随着北京城市现代化的迅速发展，交通已成为上至中央政府、下到平民百姓共同关注的焦点话题。《红绿灯》节目正顺应了这种大环境，成为服务百姓出行的权威交通类品牌节目。</desc>
+  <programme start="20260730000000 +0800" stop="20260730010000 +0800" channel="TVBS新闻"><title lang="zh">新聞夜視界</title>
   </programme>
-  <programme start="20260730005000 +0800" stop="20260730012000 +0800" channel="TVBS新闻"><title lang="zh">锐观察</title><desc lang="zh">《锐观察》是一档观点鲜明具有独立媒体视角的调查式谈话类评论栏目。栏目强调调查的公共参与性与延续性。整合原《晚间观察》及《锐周刊》的评论基调和专家评论员团队。对当日本地舆论热度中的事件、现象进行个性化评论并实现延伸影响，所发评论基于记者真实调查为切入点，所依观点皆有权威调查机构舆情统计数据支持；所涉专业领域均有相关专家解读论证；所期舆论传播影响均能与网媒形成良性互动。</desc>
+  <programme start="20260730010000 +0800" stop="20260730020000 +0800" channel="TVBS新闻"><title lang="zh">十點不一樣</title>
   </programme>
-  <programme start="20260730012000 +0800" stop="20260730020500 +0800" channel="TVBS新闻"><title lang="zh">晚间新闻报道</title><desc lang="zh">《晚间新闻报道》是一档晚间综合新闻节目，报道当日北京、中国和世界发生的各种新闻。节目以自采新闻为主，同时整合北京电视台、中央电视台以及新华社、中国国际广播电台及其他各大媒体的重要新闻。是一档内容实在、讲求节奏和韵律的、硬朗的新闻栏目。</desc>
+  <programme start="20260730020000 +0800" stop="20260730030000 +0800" channel="TVBS新闻"><title lang="zh">新聞夜視界</title>
   </programme>
-  <programme start="20260730020500 +0800" stop="20260730054500 +0800" channel="TVBS新闻"><title lang="zh">频道无节目</title><desc lang="zh">此阶段没有电视节目播放。</desc>
+  <programme start="20260730030000 +0800" stop="20260730040000 +0800" channel="TVBS新闻"><title lang="zh">九點熱話題</title>
   </programme>
-  <programme start="20260730054500 +0800" stop="20260730060200 +0800" channel="TVBS新闻"><title lang="zh">播前乐</title><desc lang="zh">一天节目播出前播放的音乐。</desc>
+  <programme start="20260730040000 +0800" stop="20260730050000 +0800" channel="TVBS新闻"><title lang="zh">九點熱話題</title>
   </programme>
-  <programme start="20260730060200 +0800" stop="20260730070000 +0800" channel="TVBS新闻"><title lang="zh">特别关注</title><desc lang="zh">《特别关注》是一档以民生新闻为定位的新闻栏目。始终坚持“关注社会发展、贴近百姓生活”的栏目宗旨。力求用特快的速度、特别的视角、特色的电视手段，突出平民化、地域性、服务性的特点，致力于真实客观的诠释新闻事件，理性细致的关注点滴生活。倾听百姓心声、报道百姓关心的事、身边的事、困难的事、烦心的事。为百姓排忧解难，为政府上传下达搭建沟通理解的桥梁。《特别关注》自从2000年11月16日开播以来，在北京一直拥有非常高的收视率。</desc>
+  <programme start="20260730050000 +0800" stop="20260730060000 +0800" channel="TVBS新闻"><title lang="zh">十點不一樣</title>
+  </programme>
+  <programme start="20260730060000 +0800" stop="20260730070000 +0800" channel="TVBS新闻"><title lang="zh">早安台灣</title>
   </programme>
   <programme start="20260730070000 +0800" stop="20260730080000 +0800" channel="TVBS新闻"><title lang="zh">早安台灣</title>
   </programme>
@@ -9757,39 +9763,23 @@
   </programme>
   <programme start="20260730230000 +0800" stop="20260731050000 +0800" channel="乳山综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
-  <programme start="20260730000001 +0800" stop="20260730003300 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:面具33</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260730021200 +0800" stop="20260730024300 +0800" channel="云南卫视"><title lang="zh">楼市风云</title><desc lang="zh">楼市风云，提供楼市的资讯信息。</desc>
   </programme>
-  <programme start="20260730003300 +0800" stop="20260730011700 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:面具34</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260730024300 +0800" stop="20260730035400 +0800" channel="云南卫视"><title lang="zh">都市条形码</title><desc lang="zh">都市频道的王牌民生新闻栏目《都市条形码》是一档真正为民说话的栏目，“新闻为人民服务，新闻从昆明说起”娓娓道来的街头巷尾事，真实再现昆明百姓的每天生活，轻松而具有思考，平实而不乏犀利，自开播以来，其市场占有率在昆明市所能接收频道节目中也持续走高，已然建立起了稳定的观众群。在昆明本土“民生新闻”栏目中是当之无愧的收视冠军，成为大众关注热点，频频创收视奇迹，其市场份额占到78%。</desc>
   </programme>
-  <programme start="20260730011700 +0800" stop="20260730020100 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:面具35</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260730035400 +0800" stop="20260730060200 +0800" channel="云南卫视"><title lang="zh">大口马牙</title><desc lang="zh">滇味第一脱口秀,新闻类节目的王者.关注市井新闻,扯皮纠纷,不说大事,无关精英.由操着和市民同样方言的&amp;quot;邻家男女&amp;quot;引出话头,恢复普通人讲故事的原生语态,运用民间话语的鲜活,趣味,口语化表达让观众人感到随和,亲近,心领神会.节目来自于地域文化和市民文化的需求,是民生新闻在形式上又一次向平民化贴近.</desc>
   </programme>
-  <programme start="20260730020100 +0800" stop="20260730024500 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:面具36</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260730060200 +0800" stop="20260730062800 +0800" channel="云南卫视"><title lang="zh">都市大舞台</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260730024500 +0800" stop="20260730042000 +0800" channel="云南卫视"><title lang="zh">宗师列传·大唐诗人传-初唐四杰</title>
+  <programme start="20260730062800 +0800" stop="20260730071300 +0800" channel="云南卫视"><title lang="zh">第一剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260730042000 +0800" stop="20260730042200 +0800" channel="云南卫视"><title lang="zh">泱泱中华</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  <programme start="20260730071300 +0800" stop="20260730084500 +0800" channel="云南卫视"><title lang="zh">第一剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260730042200 +0800" stop="20260730045300 +0800" channel="云南卫视"><title lang="zh">今日说法</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260730084500 +0800" stop="20260730092900 +0800" channel="云南卫视"><title lang="zh">第一剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260730045300 +0800" stop="20260730052700 +0800" channel="云南卫视"><title lang="zh">新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
-
-节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
-
-节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  <programme start="20260730092900 +0800" stop="20260730110700 +0800" channel="云南卫视"><title lang="zh">大口马牙</title><desc lang="zh">滇味第一脱口秀,新闻类节目的王者.关注市井新闻,扯皮纠纷,不说大事,无关精英.由操着和市民同样方言的&amp;quot;邻家男女&amp;quot;引出话头,恢复普通人讲故事的原生语态,运用民间话语的鲜活,趣味,口语化表达让观众人感到随和,亲近,心领神会.节目来自于地域文化和市民文化的需求,是民生新闻在形式上又一次向平民化贴近.</desc>
   </programme>
-  <programme start="20260730052700 +0800" stop="20260730060000 +0800" channel="云南卫视"><title lang="zh">寻古中国剧情介绍</title>
-  </programme>
-  <programme start="20260730060000 +0800" stop="20260730083500 +0800" channel="云南卫视"><title lang="zh">朝闻天下</title><desc>朝闻天下 是 中国中央电视台 的一个 早间新闻 节目，由 中国中央电视台新闻频道 与 综合频道 并机直播 [ 1 ] 。自2006年开播至今 [ 2 ] 。</desc>
-  </programme>
-  <programme start="20260730083500 +0800" stop="20260730092000 +0800" channel="云南卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
-  </programme>
-  <programme start="20260730092000 +0800" stop="20260730101200 +0800" channel="云南卫视"><title lang="zh">生命树剧情介绍</title>
-  </programme>
-  <programme start="20260730101200 +0800" stop="20260730110200 +0800" channel="云南卫视"><title lang="zh">生命树剧情介绍</title>
-  </programme>
-  <programme start="20260730110200 +0800" stop="20260730115000 +0800" channel="云南卫视"><title lang="zh">生命树剧情介绍</title>
-  </programme>
-  <programme start="20260730115000 +0800" stop="20260730115400 +0800" channel="云南卫视"><title lang="zh">非遗里的中国</title><desc>《非遗里的中国》是中央广播电视总台与文化和旅游部联合摄制的大型文化节目。节目以省份分期，前往全国11个省份的非遗街区录制，以互动体验方式呈现当地多项非遗项目。节目致敬传承匠心，聚焦非遗创新应用，通过非遗展现新时代面貌。节目开启非遗赋能的新文旅样态，在全国掀起阵阵“非遗热”。</desc>
+  <programme start="20260730110700 +0800" stop="20260730115400 +0800" channel="云南卫视"><title lang="zh">条形码·望远近</title><desc lang="zh">视线决定角度， 眼界决定高度。“条形码·望远近”：打开城市的宽度《条形码·望远近》节目将一以贯之的传承云南电视台都市频道的创新理念，依托云南电视台都市频道多年来积累的丰富的新闻资源，精心烹调，尽心筛选，以我为主，贴近观众，全力打造一档网络天下事的大型串烧民生新闻直播节目。</desc>
   </programme>
   <programme start="20260730115400 +0800" stop="20260731000000 +0800" channel="云南卫视"><title lang="zh">秘境之眼</title><desc>中央广播电视总台综合频道自然生态纪录片栏目，以“不被打扰的相逢”为理念，通过布设在国家公园、自然保护地中的红外相机与远程摄像头，记录中国珍稀野生动物的生态行为，呈现绿尾虹雉、东北虎、亚洲象、金丝猴等物种的原始影像，展现生态文明建设成果。</desc>
   </programme>
@@ -13638,6 +13628,10 @@
   <programme start="20260730230000 +0800" stop="20260730233000 +0800" channel="南通社教"><title lang="zh">人文纪录</title><desc>一档从人文、历史、自然、旅游、经济、美食、艺术等多个维度，呈现中国锦绣山河与悠久文明的大型日播栏目。秉持“纪录中国品质，弘扬华夏风貌”的理念，通过“地方志”、“人物志”、“美食志”、“非遗志”、“历史志”等系列节目，多角度展现真实、优美、富有传奇色彩的中国故事。</desc>
   </programme>
   <programme start="20260730233000 +0800" stop="20260731000000 +0800" channel="南通社教"><title lang="zh">口述中国</title><desc>《口述中国》是一档以口述历史为主题的节目，通过采访亲历者和见证人，记录和讲述中国近现代历史中的重要事件和人物。该节目通过真实的口述资料，还原历史真相，让观众更加深入地了解中国的历史发展和社会变迁。</desc>
+  </programme>
+  <programme start="20260730003000 +0800" stop="20260730011000 +0800" channel="南通综合"><title lang="zh">城市日历</title><desc>南通广播电视台创办于1999年的民生新闻栏目，以“打开城市日历，记录明天历史”为口号。聚焦百姓冷暖、透视社会热点、传递生活资讯、帮扶弱势群体，是南通地区收视率最高、美誉度最好的电视节目之一。</desc>
+  </programme>
+  <programme start="20260730011000 +0800" stop="20260730063000 +0800" channel="南通综合"><title lang="zh">静屏</title><desc>电视台播出信号中断或节目切换间隙出现的静态画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出空档、确保信号不中断。在数字化播出系统中，静屏也被用作设备调试、信号测试或应急备播画面。</desc>
   </programme>
   <programme start="20260730063000 +0800" stop="20260730070000 +0800" channel="南通综合"><title lang="zh">人文纪录</title><desc>一档从人文、历史、自然、旅游、经济、美食、艺术等多个维度，呈现中国锦绣山河与悠久文明的大型日播栏目。秉持“纪录中国品质，弘扬华夏风貌”的理念，通过“地方志”、“人物志”、“美食志”、“非遗志”、“历史志”等系列节目，多角度展现真实、优美、富有传奇色彩的中国故事。</desc>
   </programme>
@@ -21255,6 +21249,8 @@
   </programme>
   <programme start="20260730235000 +0800" stop="20260731000000 +0800" channel="武术世界"><title lang="zh">科星太极</title>
   </programme>
+  <programme start="20260730000000 +0800" stop="20260730003000 +0800" channel="民视"><title lang="zh">精彩节目</title>
+  </programme>
   <programme start="20260730003000 +0800" stop="20260730013000 +0800" channel="民视"><title lang="zh">阿松與阿暖【普】(E38)</title>
   </programme>
   <programme start="20260730013000 +0800" stop="20260730020000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E3064)</title>
@@ -28707,6 +28703,62 @@
   </programme>
   <programme start="20260730000001 +0800" stop="20260730000440 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（4）相守一生</title>
   </programme>
+  <programme start="20260730000440 +0800" stop="20260730005324 +0800" channel="精品萌宠"><title lang="zh">雪橇犬勇士</title>
+  </programme>
+  <programme start="20260730005324 +0800" stop="20260730013830 +0800" channel="精品萌宠"><title lang="zh">01_与动物重逢</title>
+  </programme>
+  <programme start="20260730013830 +0800" stop="20260730022245 +0800" channel="精品萌宠"><title lang="zh">02_与动物重逢</title>
+  </programme>
+  <programme start="20260730022245 +0800" stop="20260730030725 +0800" channel="精品萌宠"><title lang="zh">03_与动物重逢</title>
+  </programme>
+  <programme start="20260730030725 +0800" stop="20260730035014 +0800" channel="精品萌宠"><title lang="zh">不可思议的狗狗</title>
+  </programme>
+  <programme start="20260730035014 +0800" stop="20260730043600 +0800" channel="精品萌宠"><title lang="zh">妙犬当家</title>
+  </programme>
+  <programme start="20260730043600 +0800" stop="20260730052549 +0800" channel="精品萌宠"><title lang="zh">猫咪大追踪</title>
+  </programme>
+  <programme start="20260730052549 +0800" stop="20260730061538 +0800" channel="精品萌宠"><title lang="zh">家里的狮子</title>
+  </programme>
+  <programme start="20260730061538 +0800" stop="20260730070143 +0800" channel="精品萌宠"><title lang="zh">狗狗的秘密生活（3）</title>
+  </programme>
+  <programme start="20260730070143 +0800" stop="20260730074812 +0800" channel="精品萌宠"><title lang="zh">狗狗的秘密生活（4）</title>
+  </programme>
+  <programme start="20260730074812 +0800" stop="20260730093452 +0800" channel="精品萌宠"><title lang="zh">土拨鼠和狗的故事</title>
+  </programme>
+  <programme start="20260730093452 +0800" stop="20260730100451 +0800" channel="精品萌宠"><title lang="zh">动物天才·狗狗数学家</title>
+  </programme>
+  <programme start="20260730100451 +0800" stop="20260730103449 +0800" channel="精品萌宠"><title lang="zh">非凡动物·狗狗搜救队</title>
+  </programme>
+  <programme start="20260730103449 +0800" stop="20260730111428 +0800" channel="精品萌宠"><title lang="zh">狗狗向前冲</title>
+  </programme>
+  <programme start="20260730111428 +0800" stop="20260730122808 +0800" channel="精品萌宠"><title lang="zh">问题狗狗</title>
+  </programme>
+  <programme start="20260730122808 +0800" stop="20260730131609 +0800" channel="精品萌宠"><title lang="zh">格陵兰犬的故事</title>
+  </programme>
+  <programme start="20260730131609 +0800" stop="20260730140558 +0800" channel="精品萌宠"><title lang="zh">猫咪的隐秘生活</title>
+  </programme>
+  <programme start="20260730140558 +0800" stop="20260730143557 +0800" channel="精品萌宠"><title lang="zh">萌猪救主记</title>
+  </programme>
+  <programme start="20260730153045 +0800" stop="20260730161958 +0800" channel="精品萌宠"><title lang="zh">01_狗狗秘闻</title>
+  </programme>
+  <programme start="20260730161958 +0800" stop="20260730170916 +0800" channel="精品萌宠"><title lang="zh">02_狗狗秘闻</title>
+  </programme>
+  <programme start="20260730170916 +0800" stop="20260730183415 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（1）萌宠大变身</title>
+  </programme>
+  <programme start="20260730183415 +0800" stop="20260730190915 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（2）警花与警犬</title>
+  </programme>
+  <programme start="20260730190915 +0800" stop="20260730194414 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（3）驯犬那些事儿</title>
+  </programme>
+  <programme start="20260730194414 +0800" stop="20260730210913 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（4）相守一生</title>
+  </programme>
+  <programme start="20260730210913 +0800" stop="20260730214413 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（5）飘洋过海遇见你</title>
+  </programme>
+  <programme start="20260730214413 +0800" stop="20260730231256 +0800" channel="精品萌宠"><title lang="zh">雪橇犬勇士</title>
+  </programme>
+  <programme start="20260730231256 +0800" stop="20260730235802 +0800" channel="精品萌宠"><title lang="zh">01_与动物重逢</title>
+  </programme>
+  <programme start="20260730235802 +0800" stop="20260731000000 +0800" channel="精品萌宠"><title lang="zh">02_与动物重逢</title>
+  </programme>
   <programme start="20260730000100 +0800" stop="20260730013400 +0800" channel="精彩影视"><title lang="zh">经典影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
   <programme start="20260730013400 +0800" stop="20260730034700 +0800" channel="精彩影视"><title lang="zh">经典影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
@@ -32615,6 +32667,30 @@
   </programme>
   <programme start="20260730220000 +0800" stop="20260731000000 +0800" channel="铜山3"><title lang="zh">电视节目</title>
   </programme>
+  <programme start="20260730000001 +0800" stop="20260730070000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730070000 +0800" stop="20260730090000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730090000 +0800" stop="20260730140000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730140000 +0800" stop="20260730180000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730180000 +0800" stop="20260730200000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730200000 +0800" stop="20260731000000 +0800" channel="镇江1"><title lang="zh">镇江新闻综合</title>
+  </programme>
+  <programme start="20260730000001 +0800" stop="20260730070000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
+  <programme start="20260730070000 +0800" stop="20260730090000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
+  <programme start="20260730090000 +0800" stop="20260730140000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
+  <programme start="20260730140000 +0800" stop="20260730180000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
+  <programme start="20260730180000 +0800" stop="20260730200000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
+  <programme start="20260730200000 +0800" stop="20260731000000 +0800" channel="镇江2"><title lang="zh">镇江二套</title>
+  </programme>
   <programme start="20260730073000 +0800" stop="20260730073500 +0800" channel="镇海电视台"><title lang="zh">第九套广播操</title>
   </programme>
   <programme start="20260730073500 +0800" stop="20260730075000 +0800" channel="镇海电视台"><title lang="zh">镇海新闻</title>
@@ -33558,6 +33634,68 @@
   <programme start="20260730225250 +0800" stop="20260731000000 +0800" channel="黑莓动画"><title lang="zh">火影忍者剧场版：终章</title>
   </programme>
   <programme start="20260730000001 +0800" stop="20260730001124 +0800" channel="黑莓影视"><title lang="zh">30_庆余年</title>
+  </programme>
+  <programme start="20260730001124 +0800" stop="20260730005752 +0800" channel="黑莓影视"><title lang="zh">31_庆余年</title>
+  </programme>
+  <programme start="20260730005752 +0800" stop="20260730014410 +0800" channel="黑莓影视"><title lang="zh">32_庆余年</title>
+  </programme>
+  <programme start="20260730014410 +0800" stop="20260730023036 +0800" channel="黑莓影视"><title lang="zh">33_庆余年</title>
+  </programme>
+  <programme start="20260730023036 +0800" stop="20260730031648 +0800" channel="黑莓影视"><title lang="zh">34_庆余年</title>
+  </programme>
+  <programme start="20260730031648 +0800" stop="20260730040305 +0800" channel="黑莓影视"><title lang="zh">35_庆余年</title>
+  </programme>
+  <programme start="20260730040305 +0800" stop="20260730044919 +0800" channel="黑莓影视"><title lang="zh">36_庆余年</title>
+  </programme>
+  <programme start="20260730044919 +0800" stop="20260730053534 +0800" channel="黑莓影视"><title lang="zh">37_庆余年</title>
+  </programme>
+  <programme start="20260730053534 +0800" stop="20260730062155 +0800" channel="黑莓影视"><title lang="zh">38_庆余年</title>
+  </programme>
+  <programme start="20260730062155 +0800" stop="20260730070807 +0800" channel="黑莓影视"><title lang="zh">39_庆余年</title>
+  </programme>
+  <programme start="20260730070807 +0800" stop="20260730075425 +0800" channel="黑莓影视"><title lang="zh">40_庆余年</title>
+  </programme>
+  <programme start="20260730075425 +0800" stop="20260730084047 +0800" channel="黑莓影视"><title lang="zh">41_庆余年</title>
+  </programme>
+  <programme start="20260730084047 +0800" stop="20260730092703 +0800" channel="黑莓影视"><title lang="zh">42_庆余年</title>
+  </programme>
+  <programme start="20260730092703 +0800" stop="20260730101312 +0800" channel="黑莓影视"><title lang="zh">43_庆余年</title>
+  </programme>
+  <programme start="20260730101312 +0800" stop="20260730110048 +0800" channel="黑莓影视"><title lang="zh">44_庆余年</title>
+  </programme>
+  <programme start="20260730110048 +0800" stop="20260730114757 +0800" channel="黑莓影视"><title lang="zh">45_庆余年</title>
+  </programme>
+  <programme start="20260730114757 +0800" stop="20260730123455 +0800" channel="黑莓影视"><title lang="zh">46_庆余年</title>
+  </programme>
+  <programme start="20260730123455 +0800" stop="20260730131957 +0800" channel="黑莓影视"><title lang="zh">01_庆余年</title>
+  </programme>
+  <programme start="20260730131957 +0800" stop="20260730140620 +0800" channel="黑莓影视"><title lang="zh">02_庆余年</title>
+  </programme>
+  <programme start="20260730140620 +0800" stop="20260730145204 +0800" channel="黑莓影视"><title lang="zh">03_庆余年</title>
+  </programme>
+  <programme start="20260730145204 +0800" stop="20260730153814 +0800" channel="黑莓影视"><title lang="zh">04_庆余年</title>
+  </programme>
+  <programme start="20260730153814 +0800" stop="20260730162432 +0800" channel="黑莓影视"><title lang="zh">05_庆余年</title>
+  </programme>
+  <programme start="20260730162432 +0800" stop="20260730171048 +0800" channel="黑莓影视"><title lang="zh">06_庆余年</title>
+  </programme>
+  <programme start="20260730171048 +0800" stop="20260730175701 +0800" channel="黑莓影视"><title lang="zh">07_庆余年</title>
+  </programme>
+  <programme start="20260730175701 +0800" stop="20260730184310 +0800" channel="黑莓影视"><title lang="zh">08_庆余年</title>
+  </programme>
+  <programme start="20260730184310 +0800" stop="20260730192859 +0800" channel="黑莓影视"><title lang="zh">09_庆余年</title>
+  </programme>
+  <programme start="20260730192859 +0800" stop="20260730201501 +0800" channel="黑莓影视"><title lang="zh">10_庆余年</title>
+  </programme>
+  <programme start="20260730201501 +0800" stop="20260730210122 +0800" channel="黑莓影视"><title lang="zh">11_庆余年</title>
+  </programme>
+  <programme start="20260730210122 +0800" stop="20260730214753 +0800" channel="黑莓影视"><title lang="zh">12_庆余年</title>
+  </programme>
+  <programme start="20260730214753 +0800" stop="20260730223344 +0800" channel="黑莓影视"><title lang="zh">13_庆余年</title>
+  </programme>
+  <programme start="20260730223344 +0800" stop="20260730232012 +0800" channel="黑莓影视"><title lang="zh">14_庆余年</title>
+  </programme>
+  <programme start="20260730232012 +0800" stop="20260731000000 +0800" channel="黑莓影视"><title lang="zh">15_庆余年</title>
   </programme>
   <programme start="20260730000001 +0800" stop="20260730003450 +0800" channel="黑莓电影"><title lang="zh">碟中谍5：神秘国度</title>
   </programme>

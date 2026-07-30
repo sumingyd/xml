@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="CGTN西语"><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CGTN西班牙语</display-name><display-name lang="zh">CHANNEL00000354</display-name>
   </channel>
+  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
+  </channel>
   <channel id="山东文旅"><display-name lang="zh">山东文旅</display-name><display-name lang="zh">山东文旅</display-name><display-name lang="zh">CHANNEL00000337</display-name>
   </channel>
   <channel id="禹城综艺"><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">CHANNEL00001062</display-name>
@@ -285,6 +287,10 @@
   </channel>
   <channel id="烟台综合"><display-name lang="zh">烟台综合</display-name><display-name lang="zh">烟台新闻综合</display-name><display-name lang="zh">烟台新闻</display-name><display-name lang="zh">CHANNEL00000280</display-name>
   </channel>
+  <channel id="福建综合"><display-name lang="zh">福建综合</display-name>
+  </channel>
+  <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">CETV-1</display-name><display-name lang="zh">CETV1</display-name>
+  </channel>
   <channel id="西藏卫视"><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏</display-name><display-name lang="zh">CHANNEL00000392</display-name>
   </channel>
   <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
@@ -389,6 +395,8 @@
   </channel>
   <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name>
   </channel>
+  <channel id="五星体育"><display-name lang="zh">五星体育</display-name><display-name lang="zh">五星体育频道</display-name>
+  </channel>
   <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
   </channel>
   <channel id="动作影院"><display-name lang="zh">动作影院</display-name><display-name lang="zh">动作电影</display-name>
@@ -414,6 +422,8 @@
   <channel id="央广购物"><display-name lang="zh">央广购物</display-name><display-name lang="zh">央广购物</display-name><display-name lang="zh">CHANNEL00000704</display-name>
   </channel>
   <channel id="福州3"><display-name lang="zh">福州3</display-name>
+  </channel>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <channel id="崂山综合"><display-name lang="zh">崂山综合</display-name><display-name lang="zh">崂山综合</display-name><display-name lang="zh">CHANNEL00001022</display-name>
   </channel>
@@ -485,6 +495,8 @@
   </channel>
   <channel id="山东新闻"><display-name lang="zh">山东新闻</display-name><display-name lang="zh">山东综合</display-name><display-name lang="zh">CHANNEL10000314</display-name>
   </channel>
+  <channel id="福建教育"><display-name lang="zh">福建教育</display-name>
+  </channel>
   <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
   </channel>
   <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
@@ -510,6 +522,8 @@
   <channel id="天津购物"><display-name lang="zh">天津购物</display-name><display-name lang="zh">天津购物</display-name>
   </channel>
   <channel id="泉州3"><display-name lang="zh">泉州3</display-name>
+  </channel>
+  <channel id="福建少儿"><display-name lang="zh">福建少儿</display-name>
   </channel>
   <channel id="任城生活"><display-name lang="zh">任城生活</display-name><display-name lang="zh">任城生活</display-name><display-name lang="zh">CHANNEL00001112</display-name>
   </channel>
@@ -741,7 +755,7 @@
   </programme>
   <programme start="20260802235900 +0800" stop="20260803012100 +0800" channel="CCTV1"><title lang="zh">田野欢歌-2025-27</title><desc>全新推出《田野欢歌》，打造文化IP，非遗绝技加民俗歌舞加乡村达人秀，每期一个主题村。</desc>
   </programme>
-  <programme start="20260802000500 +0800" stop="20260802002500 +0800" channel="CCTV10"><title lang="zh">人物故事</title><desc>中央电视台科教频道专题栏目，2019年10月开播，由石琼璘、李征主持。采用“虚拟演播室+主持人+短片”形式，聚焦新时代各领域奋斗者，从细节故事入手，以小见大，既讲述共和国勋章获得者等“大人物的小故事”，也记录普通岗位劳动者的“小人物的大情怀”，彰显“奋斗的人生最幸福”的核心价值。每周一至周五20:30首播，单期20分钟。</desc>
+  <programme start="20260802000001 +0800" stop="20260802000530 +0800" channel="CCTV10"><title lang="zh">科幻地带</title><desc>中央电视台科教频道科幻科普栏目，2019年10月开播，由丁苑苑主持。以国内外科幻作品为线索，从《流浪地球》《三体》等经典作品切入，邀请科学家、科普专家解读氦闪、引力弹弓、洛希极限、人工智能、仿生机器人等科学原理，将科幻想象与现实科技前沿结合，激发公众对科学的热情与想象力。首播时间每周日16:39，每集约40分钟。</desc>
   </programme>
   <programme start="20260802002500 +0800" stop="20260802005500 +0800" channel="CCTV10"><title lang="zh">味道</title><desc>中央电视台科教频道（CCTV-10）首档美食文化探索类全媒体栏目，前身为品牌特别节目《味道》。由主持人组成“味道调查团”，以调查美食悬念任务为主要形式，深入全国各地探寻特色美食与民风民俗，围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”思维传播中华美食文化，口号为“让生活更有味”。</desc>
   </programme>
@@ -813,7 +827,7 @@
   </programme>
   <programme start="20260802235030 +0800" stop="20260802235900 +0800" channel="CCTV10"><title lang="zh">地理·中国-2026-214</title><desc>中央电视台科教频道科普栏目，2010年12月1日开播。以地质科考为线索，通过“行进式”实地拍摄，展现华夏大地的自然奇观与地质构造，普及地理科学知识。节目揭示自然地理奥秘，剖析地质现象成因，传播人与自然和谐共生的理念。首播时间每日17:27，重播次日09:17。口号：“行进中的科学考察，未知中的探索发现。”</desc>
   </programme>
-  <programme start="20260802002700 +0800" stop="20260802060600 +0800" channel="CCTV11"><title lang="zh">青春戏苑</title><desc>《青春戏苑》栏目以大胆创新的风格力推梨园新星,借青春时尚的形式传承古典厚重的戏曲文化艺术。节目以综艺戏曲晚会、新人新秀演绎的形式每周呈现一期,内容主要涵盖京剧、昆曲、越剧、豫剧、黄梅戏、评剧等中国几大</desc>
+  <programme start="20260802000001 +0800" stop="20260802002750 +0800" channel="CCTV11"><title lang="zh">小满生活26</title>
   </programme>
   <programme start="20260802060600 +0800" stop="20260802071700 +0800" channel="CCTV11"><title lang="zh">五月的鲜花</title>
   </programme>
@@ -850,6 +864,8 @@
   <programme start="20260802225620 +0800" stop="20260802234650 +0800" channel="CCTV11"><title lang="zh">小满生活27/38</title>
   </programme>
   <programme start="20260802234650 +0800" stop="20260802235900 +0800" channel="CCTV11"><title lang="zh">小满生活28/38</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802004200 +0800" channel="CCTV12"><title lang="zh">大河之水16</title>
   </programme>
   <programme start="20260802004200 +0800" stop="20260802012800 +0800" channel="CCTV12"><title lang="zh">2026社会与法电视剧精选-大河之水-17/36</title>
   </programme>
@@ -989,6 +1005,8 @@
   </programme>
   <programme start="20260802230000 +0800" stop="20260802235900 +0800" channel="CCTV13"><title lang="zh">24小时</title><desc>中央电视台新闻频道夜间新闻资讯栏目，2009年8月10日开播，由原23点《晚间新闻》改版而来。每晚23:00首播，时长60分钟，以“为您梳理全天重要新闻”为宗旨，回顾当日国内外重大新闻，设有“主播关注”“声音”“今日面孔”“图说今天”等板块，集纳财经、体育、文化、国际等各类资讯，采用“说新闻”的口语化表达方式，让观众对全天新闻有清晰全面的了解。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802055500 +0800" channel="CCTV14"><title lang="zh">电影:万水千山</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
   <programme start="20260802055500 +0800" stop="20260802060000 +0800" channel="CCTV14"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
   <programme start="20260802060000 +0800" stop="20260802074500 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末早间版）-2026-65</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
@@ -1016,6 +1034,8 @@
   <programme start="20260802223800 +0800" stop="20260802232800 +0800" channel="CCTV14"><title lang="zh">大道薪火-4/33</title>
   </programme>
   <programme start="20260802232800 +0800" stop="20260802235900 +0800" channel="CCTV14"><title lang="zh">电影-赵一曼</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802004315 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-国风经典-系列音乐会(一)</title>
   </programme>
   <programme start="20260802004315 +0800" stop="20260802060000 +0800" channel="CCTV15"><title lang="zh">风华国乐-2026-217</title><desc>央视音乐频道《风华国乐》是全国唯一一档专注中国民乐的音乐节目，自中央电视台音乐频道2004年开播以来延续至今。栏目秉承传承民族音乐精髓，推广民乐新理念，推出了大量的民乐新人新秀。 栏目为以介绍中华民族传统音乐文化，展示民族音乐艺术家魅力为主要内容，集中展示了国内外知名的民乐演奏家及年轻一代民乐新秀。</desc>
   </programme>
@@ -1048,6 +1068,8 @@
   <programme start="20260802222930 +0800" stop="20260802232715 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-2026-141-名团华章-西安交响乐团系列音乐会</title><desc>经典中穿行，在永恒中聆听。舒缓、激越、浪漫、凝重，在绚烂的灯光下，旋律在流淌，感情在激荡。从维也纳的金色大厅到澳洲的悉尼大剧院，北京音乐厅，上海音乐厅，星海音乐厅，无数的经典演绎汇聚到CCTV音乐厅。</desc>
   </programme>
   <programme start="20260802232715 +0800" stop="20260802235900 +0800" channel="CCTV15"><title lang="zh">风华国乐-2026-218</title><desc>央视音乐频道《风华国乐》是全国唯一一档专注中国民乐的音乐节目，自中央电视台音乐频道2004年开播以来延续至今。栏目秉承传承民族音乐精髓，推广民乐新理念，推出了大量的民乐新人新秀。 栏目为以介绍中华民族传统音乐文化，展示民族音乐艺术家魅力为主要内容，集中展示了国内外知名的民乐演奏家及年轻一代民乐新秀。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802003000 +0800" channel="CCTV16"><title lang="zh">世界女排联赛总决赛-1/4决赛</title>
   </programme>
   <programme start="20260802003000 +0800" stop="20260802010000 +0800" channel="CCTV16"><title lang="zh">实况录像（奥林匹克）-2026年国际篮联三人篮球世界杯 男子决赛</title><desc>冬奥会是‌冬季奥林匹克运动会‌的简称，由国际奥林匹克委员会主办，是世界规模最大的冬季综合性运动会。‌</desc>
   </programme>
@@ -1099,6 +1121,8 @@
   <programme start="20260802232000 +0800" stop="20260802235000 +0800" channel="CCTV16"><title lang="zh">2026年三对三篮球世界巡回赛-法国站</title>
   </programme>
   <programme start="20260802235000 +0800" stop="20260802235900 +0800" channel="CCTV16"><title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802012000 +0800" channel="CCTV17"><title lang="zh">田野欢歌</title><desc>全新推出《田野欢歌》，打造文化IP，非遗绝技加民俗歌舞加乡村达人秀，每期一个主题村。</desc>
   </programme>
   <programme start="20260802012000 +0800" stop="20260802055745 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-255</title><desc>集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
   </programme>
@@ -1162,29 +1186,27 @@
   </programme>
   <programme start="20260802235900 +0800" stop="20260803002100 +0800" channel="CCTV17"><title lang="zh">田野欢歌</title><desc>全新推出《田野欢歌》，打造文化IP，非遗绝技加民俗歌舞加乡村达人秀，每期一个主题村。</desc>
   </programme>
-  <programme start="20260802002400 +0800" stop="20260802011100 +0800" channel="CCTV2"><title lang="zh">对话</title><desc>中央电视台财经频道高端品牌谈话节目，创立于2000年。每期邀请国内外政要、商业领袖、经济专家，围绕热点经济事件与前沿思想展开深度对话，突出思想的交锋与智慧的碰撞，被誉为中国最具影响力的主流谈话节目。</desc>
+  <programme start="20260802000001 +0800" stop="20260802003330 +0800" channel="CCTV2"><title lang="zh">职场健康课</title><desc>中央电视台财经频道演播室互动访谈节目，聚焦职场人群高发的亚健康状态与职业病，每期邀请三甲医院专家以案例解析、互动实验等方式科普健康知识，倡导“健康工作、快乐生活”的理念。</desc>
   </programme>
-  <programme start="20260802011100 +0800" stop="20260802011500 +0800" channel="CCTV2"><title lang="zh">祁连山1</title>
+  <programme start="20260802003330 +0800" stop="20260802012010 +0800" channel="CCTV2"><title lang="zh">对话-2026-29</title><desc>中央电视台财经频道高端品牌谈话节目，创立于2000年。每期邀请国内外政要、商业领袖、经济专家，围绕热点经济事件与前沿思想展开深度对话，突出思想的交锋与智慧的碰撞，被誉为中国最具影响力的主流谈话节目。</desc>
   </programme>
-  <programme start="20260802011500 +0800" stop="20260802020000 +0800" channel="CCTV2"><title lang="zh">梧桐树下老房子2</title>
+  <programme start="20260802012010 +0800" stop="20260802020510 +0800" channel="CCTV2"><title lang="zh">梧桐树下老房子-1</title><desc>《梧桐树下老房子》是一档以老房子为主题的纪录片，通过讲述老房子的历史、建筑特色和人文故事，展现城市的历史变迁和文化传承。第6集继续讲述老房子的故事，通过精美的画面和生动的讲述，传递历史文化的魅力和保护意识。</desc>
   </programme>
-  <programme start="20260802020000 +0800" stop="20260802022200 +0800" channel="CCTV2"><title lang="zh">中国民居第三季3</title>
+  <programme start="20260802020510 +0800" stop="20260802025510 +0800" channel="CCTV2"><title lang="zh">2022精品财经纪录-青海我们的国家公园-1</title>
   </programme>
-  <programme start="20260802022200 +0800" stop="20260802024400 +0800" channel="CCTV2"><title lang="zh">中国民居第三季4</title>
+  <programme start="20260802025510 +0800" stop="20260802030410 +0800" channel="CCTV2"><title lang="zh">周末特供2023-青海我们的国家公园第二集1-9分版</title>
   </programme>
-  <programme start="20260802024400 +0800" stop="20260802031400 +0800" channel="CCTV2"><title lang="zh">沃野千里2</title>
+  <programme start="20260802030410 +0800" stop="20260802033410 +0800" channel="CCTV2"><title lang="zh">2024精品财经纪录-万物之生贵州篇-1</title><desc>《万物之生·贵州篇》将锁定山野、丛林、溪谷、洞天、风物五个视角展示贵州的生态景观、地质地貌和珍稀动植物等资源禀赋，以“文化+科技”的方式打造贵州文旅传播新名片。</desc>
   </programme>
-  <programme start="20260802031400 +0800" stop="20260802041200 +0800" channel="CCTV2"><title lang="zh">职场健康课</title><desc>中央电视台财经频道演播室互动访谈节目，聚焦职场人群高发的亚健康状态与职业病，每期邀请三甲医院专家以案例解析、互动实验等方式科普健康知识，倡导“健康工作、快乐生活”的理念。</desc>
+  <programme start="20260802033410 +0800" stop="20260802041910 +0800" channel="CCTV2"><title lang="zh">2022精品财经纪录-中国传统建筑的智慧-10</title>
   </programme>
-  <programme start="20260802041200 +0800" stop="20260802044700 +0800" channel="CCTV2"><title lang="zh">大泰山4</title>
+  <programme start="20260802041910 +0800" stop="20260802044610 +0800" channel="CCTV2"><title lang="zh">2024精品财经纪录-人类记忆中国的世界遗产-2</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
   </programme>
-  <programme start="20260802044700 +0800" stop="20260802053200 +0800" channel="CCTV2"><title lang="zh">中国经济大讲堂</title><desc>中央电视台财经频道高端财经访谈节目，每期邀请经济学家、企业家、政府官员，聚焦中国经济运行中的热点、难点问题，以深入浅出的方式解读宏观经济政策、产业趋势与市场机遇，服务中国经济高质量发展。</desc>
+  <programme start="20260802044610 +0800" stop="20260802053140 +0800" channel="CCTV2"><title lang="zh">中国经济大讲堂-2026-28</title><desc>中央电视台财经频道高端财经访谈节目，每期邀请经济学家、企业家、政府官员，聚焦中国经济运行中的热点、难点问题，以深入浅出的方式解读宏观经济政策、产业趋势与市场机遇，服务中国经济高质量发展。</desc>
   </programme>
-  <programme start="20260802053200 +0800" stop="20260802055800 +0800" channel="CCTV2"><title lang="zh">回家吃饭</title><desc>中央电视台财经频道日播美食节目，以“回家吃饭”为核心理念，每期邀请一位民间烹饪达人与一位专业大厨同台竞技，用家常食材做出美味菜肴，倡导“好好吃饭、用心生活”的健康饮食观，传递家的温暖与烟火气。</desc>
+  <programme start="20260802053140 +0800" stop="20260802055930 +0800" channel="CCTV2"><title lang="zh">回家吃饭-2026-155</title><desc>中央电视台财经频道日播美食节目，以“回家吃饭”为核心理念，每期邀请一位民间烹饪达人与一位专业大厨同台竞技，用家常食材做出美味菜肴，倡导“好好吃饭、用心生活”的健康饮食观，传递家的温暖与烟火气。</desc>
   </programme>
-  <programme start="20260802055800 +0800" stop="20260802055900 +0800" channel="CCTV2"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
-  </programme>
-  <programme start="20260802055900 +0800" stop="20260802070000 +0800" channel="CCTV2"><title lang="zh">经济信息联播</title><desc>中央电视台财经频道龙头旗舰栏目，每晚20:30播出。以“给你有用的新闻”为口号，聚焦国内外重大财经事件，发布并权威解读经济政策，捕捉资本市场与产业动态，是经济领域的“新闻联播”。</desc>
+  <programme start="20260802055930 +0800" stop="20260802070000 +0800" channel="CCTV2"><title lang="zh">经济信息联播</title><desc>中央电视台财经频道龙头旗舰栏目，每晚20:30播出。以“给你有用的新闻”为口号，聚焦国内外重大财经事件，发布并权威解读经济政策，捕捉资本市场与产业动态，是经济领域的“新闻联播”。</desc>
   </programme>
   <programme start="20260802070000 +0800" stop="20260802090130 +0800" channel="CCTV2"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
   </programme>
@@ -1238,23 +1260,31 @@
   </programme>
   <programme start="20260802230430 +0800" stop="20260802235900 +0800" channel="CCTV2"><title lang="zh">一槌定音-2026-31</title><desc>中央电视台财经频道大型艺术品投资鉴赏节目，每期展示多件艺术藏品，由夺宝人通过竞猜价格的方式进行争夺。节目将艺术品收藏与投资知识融入游戏环节，通过专家现场点评，普及艺术品鉴赏技巧与市场行情，倡导“以物会友、以藏养趣”的收藏理念。</desc>
   </programme>
-  <programme start="20260802001500 +0800" stop="20260802010100 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-808 我的后半生18/36</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
+  <programme start="20260802000001 +0800" stop="20260802001915 +0800" channel="CCTV3"><title lang="zh">我的后半生25</title>
   </programme>
-  <programme start="20260802010100 +0800" stop="20260802030300 +0800" channel="CCTV3"><title lang="zh">影视留声机-2025-67-经典电影欣赏《洪湖赤卫队》</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  <programme start="20260802001915 +0800" stop="20260802010515 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-816 我的后半生26/36</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
   </programme>
-  <programme start="20260802030300 +0800" stop="20260802043300 +0800" channel="CCTV3"><title lang="zh">味你而来-2</title>
+  <programme start="20260802010515 +0800" stop="20260802015115 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-817 我的后半生27/36</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
   </programme>
-  <programme start="20260802043300 +0800" stop="20260802051100 +0800" channel="CCTV3"><title lang="zh">衣锦天下丝路季-7</title><desc>《衣锦天下》节目联合中国丝绸博物馆，共同举办“中法时尚之约”活动，邀请中法两国服装设计师，聚焦丝绸之路上传承千年的中国传统纹样，设计四个系列的新中式时尚服饰，在吉美博物馆举办专场时装发布秀，展现中国传统文化与东方时尚的魅力。</desc>
+  <programme start="20260802015115 +0800" stop="20260802035115 +0800" channel="CCTV3"><title lang="zh">影视留声机-2025-72-经典电影欣赏《红色娘子军》</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
   </programme>
-  <programme start="20260802051100 +0800" stop="20260802062800 +0800" channel="CCTV3"><title lang="zh">全民畅舞-11</title><desc>江苏卫视推出的大型群众舞蹈互动秀节目，由薛之谦、王心凌、刘维、刘宇组成“夺金合伙人”。节目将舞蹈赛道细分流行风格、街头风格、异域风格和国风为四大“舞种圈层”，上演不同舞种间的同台对决，挖掘全民舞蹈“民间王者”，让不同代际和背景的舞者尽情释放对舞蹈的热爱与激情。播出后收视多次位列同时段前茅，开分获豆瓣9.0高分。</desc>
+  <programme start="20260802035115 +0800" stop="20260802052215 +0800" channel="CCTV3"><title lang="zh">味你而来-5</title>
   </programme>
-  <programme start="20260802062800 +0800" stop="20260802064800 +0800" channel="CCTV3"><title lang="zh">文化十分-2026-152</title><desc>中央广播电视总台新闻中心文化资讯栏目，以“引领时代文化风尚，繁荣社会主义文艺”为宗旨。每期聚焦文化热点事件、文艺创作动态、文化遗产保护等，用新闻视角解读文化现象，传播主流文化价值。</desc>
+  <programme start="20260802052215 +0800" stop="20260802060630 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-41 马上开心年-3</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
   </programme>
-  <programme start="20260802064800 +0800" stop="20260802080100 +0800" channel="CCTV3"><title lang="zh">沧海运河谣-2</title><desc>在文化传承与交流的使命驱动下，《沧海运河谣》节目自筹备起便承载着传播沧州特色文化、搭建国际文化交流桥梁的重任。经过几个多月的精心筹备与紧张录制，节目第一期——杂技主题即将于9月13日与观众见面。这不仅是对沧州杂技这一非遗瑰宝的一次深度呈现，更是一次以国际视角探索和传播本土文化的大胆尝试。</desc>
+  <programme start="20260802060630 +0800" stop="20260802065630 +0800" channel="CCTV3"><title lang="zh">远山之约（蜀山篇）-3</title>
   </programme>
-  <programme start="20260802080100 +0800" stop="20260802090500 +0800" channel="CCTV3"><title lang="zh">精彩音乐汇-我的爱对你说-2026-190</title><desc>央视首档互动点歌节目，以“经典+流行”为主线，汇聚最好听的经典老歌与热门流行金曲，通过卡拉OK字幕与观众点歌TOP榜增强互动性，让观众在歌声中感受时光里的温暖印记。</desc>
+  <programme start="20260802065630 +0800" stop="20260802080000 +0800" channel="CCTV3"><title lang="zh">精彩音乐汇-我的爱对你说-2026-200</title><desc>央视首档互动点歌节目，以“经典+流行”为主线，汇聚最好听的经典老歌与热门流行金曲，通过卡拉OK字幕与观众点歌TOP榜增强互动性，让观众在歌声中感受时光里的温暖印记。</desc>
   </programme>
-  <programme start="20260802090500 +0800" stop="20260802100500 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-610</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
+  <programme start="20260802080000 +0800" stop="20260802080240 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-1123 我们走在大路上</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
+  </programme>
+  <programme start="20260802080240 +0800" stop="20260802091910 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-1068 此生要去的100个地方 2</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
+  </programme>
+  <programme start="20260802091910 +0800" stop="20260802092455 +0800" channel="CCTV3"><title lang="zh">综艺喜乐汇-2026-1032 咏春</title><desc>中央电视台综艺频道推出的主题化编辑性栏目，2010年9月3日首播。节目精选小品、相声、歌舞、杂技、魔术等文艺节目，以“精品综艺展播”模式进行创新编排，风格轻松活泼、寓教于乐。</desc>
+  </programme>
+  <programme start="20260802092455 +0800" stop="20260802100000 +0800" channel="CCTV3"><title lang="zh">非常6+1-2025-20多彩少年暑期集锦2</title>
+  </programme>
+  <programme start="20260802100000 +0800" stop="20260802100500 +0800" channel="CCTV3"><title lang="zh">中国文艺报道-2024-5外卖诗人</title>
   </programme>
   <programme start="20260802100500 +0800" stop="20260802113000 +0800" channel="CCTV3"><title lang="zh">全民畅舞-2</title><desc>江苏卫视推出的大型群众舞蹈互动秀节目，由薛之谦、王心凌、刘维、刘宇组成“夺金合伙人”。节目将舞蹈赛道细分流行风格、街头风格、异域风格和国风为四大“舞种圈层”，上演不同舞种间的同台对决，挖掘全民舞蹈“民间王者”，让不同代际和背景的舞者尽情释放对舞蹈的热爱与激情。播出后收视多次位列同时段前茅，开分获豆瓣9.0高分。</desc>
   </programme>
@@ -1415,6 +1445,8 @@
   <programme start="20260802235542 +0800" stop="20260802235925 +0800" channel="CCTV4"><title lang="zh">4K垫播节目-丝绸之旅2025</title><desc>电视台为填补节目播出空档而临时安排的垫片内容，通常为短片、预告片、音乐或信息画面，确保播出信号不中断。</desc>
   </programme>
   <programme start="20260802235925 +0800" stop="20260803000000 +0800" channel="CCTV4"><title lang="zh">4K超清视野-2018-1-标识演绎-1/3</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802035500 +0800" channel="CCTV4K"><title lang="zh">丝绸之旅20251</title>
   </programme>
   <programme start="20260802060000 +0800" stop="20260802060100 +0800" channel="CCTV4K"><title lang="zh">4K频道宣传片-标识演绎4</title><desc>该节目邀观众继续探访一省两城，领略全国各地丰饶物产，走进健康丰富的百姓餐桌，感受满满的人间烟火气和热气腾腾的美好生活。一餐一饭，浓缩地域精华；一城一味，承载文化记忆。</desc>
   </programme>
@@ -1688,6 +1720,8 @@
   </programme>
   <programme start="20260802235000 +0800" stop="20260802235900 +0800" channel="CCTV4美洲"><title lang="zh">海峡两岸-2026-213</title><desc>《海峡两岸》栏目的前身——《海峡两岸关系论坛》在央视四套开播。经过多次改版，现在的《海峡两岸》逐步摆脱了咨询服务等综合性功能的定位，定格为涉台时事新闻评论类栏目，形成“跟踪海峡热点，反映两岸民情”的栏目宗旨。也是中央电视台惟一的涉台时事新闻评论栏目，节目宗旨是“跟踪海峡热点，反映两岸民意”。节目分为两个版块：第一个是“热点扫描”，主要报道当日和近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。《海峡两岸》是中央电视台惟一的涉台时事新闻评论栏目，是中国电视媒体报道、反映台湾问题的权威节目。节目将新闻速报、时事评论、热点评说等形式融合为一体。 『节目板块』热点扫描——主要报道当日和近期台湾岛内的热点新闻； 热点透视——邀请政府官员、专家学者就当天海峡两岸关系中的时事要点进行分析评述，传递国家意志，体现两岸民心，并开通热线与台湾岛内观众进行交流。 『收视前景』2005年，台海局势错综复杂，中国政府扩大军事开支，大陆对两岸关系的政策和决策都成为年度世界最关注的话题。《海峡两岸》栏目作为国内报道台海问题最权威的</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802010600 +0800" channel="CCTV5"><title lang="zh">温布尔登网球锦标赛-男单半决赛</title>
+  </programme>
   <programme start="20260802010600 +0800" stop="20260802023600 +0800" channel="CCTV5"><title lang="zh">实况录像-2026世界杯 1/4决赛 挪威队-英格兰队</title><desc>亚足联女子亚洲杯（AFC Women's Asian Cup，简称“女足亚洲杯”），是由亚洲足球联合会举行洲际女足国家队赛事，每四年举办一届；原名亚足联女子锦标赛 (AFC Women's Championship) ，2006年改为现名。</desc>
   </programme>
   <programme start="20260802023600 +0800" stop="20260802040000 +0800" channel="CCTV5"><title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  半决赛 8</title><desc>中国男子篮球职业联赛（Chinese Basketball Association），简称中职篮（CBA），是由中国篮球协会所主办的跨年度主客场制篮球联赛，中国最高等级的篮球联赛，其中诞生了如姚明、王治郅、易建联、朱芳雨等球星。</desc>
@@ -1730,7 +1764,7 @@
   </programme>
   <programme start="20260802230500 +0800" stop="20260802235900 +0800" channel="CCTV5"><title lang="zh">2026年温布尔登网球锦标赛-男单决赛（4K）</title>
   </programme>
-  <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="CCTV5+"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
+  <programme start="20260802000001 +0800" stop="20260802010100 +0800" channel="CCTV5+"><title lang="zh">世界斯诺克锦标赛</title>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="CCTV5+"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
   </programme>
@@ -1781,6 +1815,8 @@
   <programme start="20260802230500 +0800" stop="20260802233500 +0800" channel="CCTV5+"><title lang="zh">实况录像-精品赛事记录-2026年世界泳联跳水世界杯总决赛 中国队金牌</title>
   </programme>
   <programme start="20260802233500 +0800" stop="20260802235900 +0800" channel="CCTV5+"><title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 决赛</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802011400 +0800" channel="CCTV6"><title lang="zh">被解救的姜戈(下)</title>
   </programme>
   <programme start="20260802011400 +0800" stop="20260802012100 +0800" channel="CCTV6"><title lang="zh">光影星播客</title><desc>中央电视台电影频道电影资讯推介栏目，由频道当家花旦瑶淼、李蜜、经纬等轮番主持。每期邀请当期热点影片主创或知名演员担任“星播客”，以脱口秀形式推荐即将上映的院线新片、频道首播电影，穿插幕后花絮、拍摄秘闻，营造轻松活泼的电影推介氛围。</desc>
   </programme>
@@ -1840,7 +1876,7 @@
   </programme>
   <programme start="20260802230200 +0800" stop="20260803000000 +0800" channel="CCTV6"><title lang="zh">角斗士</title><desc>马克西蒙斯是罗马帝国战功显赫，受人拥戴的大将军。老国王马库斯·奥利利乌斯对大将军赏识有加，有意加冕于他。老国王对将军这种超越亲情的宠爱自然招来太子康莫迪乌斯的妒忌与不安，太子伺机杀害父亲，抢先登上王位，并马上下令诛杀大将军一家。马克西蒙斯死里逃生躲过暴君的魔爪，可是他所有的家人都未能幸免于难，返回家园，他只看到满目疮痍的破败景象。走投无路的马克西蒙斯只能投身为奴，从昔日的大将军沦为一名角斗士，在血腥厮杀中苟且求生。凭借英勇的气魄和高超的武艺，马克西蒙斯渐渐脱颖而出，晋级到罗马的大角斗场。这一次，他的剑直指暴君康莫迪乌斯，失去亲人的痛苦，沦为奴隶的屈辱，在马克西蒙斯的内心燃起了熊熊怒火。</desc>
   </programme>
-  <programme start="20260802001800 +0800" stop="20260802011500 +0800" channel="CCTV7"><title lang="zh">冰雪尖刀连</title>
+  <programme start="20260802000001 +0800" stop="20260802001855 +0800" channel="CCTV7"><title lang="zh">冰雪尖刀连17</title>
   </programme>
   <programme start="20260802011500 +0800" stop="20260802060300 +0800" channel="CCTV7"><title lang="zh">第二战场</title><desc>中央电视台国防军事频道演播室军事访谈节目，每期邀请军事专家围绕热点军事话题，通过武器装备推演、战例复盘等形式，深度解读战略博弈与国防建设，普及现代军事知识。</desc>
   </programme>
@@ -1898,7 +1934,7 @@
   </programme>
   <programme start="20260802234015 +0800" stop="20260802235900 +0800" channel="CCTV7"><title lang="zh">兵器面面观-环球兵器大事件-2026-31</title><desc>中央电视台国防军事频道兵器科技栏目《兵器面面观》特别策划，以“聚焦全球兵器动态，解析国防科技前沿”为宗旨，追踪报道近期全球范围内新型武器装备亮相、重大军事演习、国防科技突破等热点事件，通过演播室解读与动画演示相结合的形式，深入解析兵器性能与战术应用，普及现代军事科技知识。周一至周五18:09首播，每集约25分钟。口号：“知兵器，知和平。”</desc>
   </programme>
-  <programme start="20260802000400 +0800" stop="20260802005000 +0800" channel="CCTV8"><title lang="zh">星辰大海</title>
+  <programme start="20260802000001 +0800" stop="20260802000450 +0800" channel="CCTV8"><title lang="zh">星推荐</title><desc>中央电视台电视剧频道原创互动导视类栏目，2014年1月14日开播。每期邀请一位电视剧界热点人物作为推介人，以“明星推荐+每日换题”模式，向观众介绍CCTV-8热播剧目信息，突出服务性与互动感。每日07:45、11:23、13:10、15:52、18:45、22:29在CCTV-8滚动播出六次。</desc>
   </programme>
   <programme start="20260802005000 +0800" stop="20260802013600 +0800" channel="CCTV8"><title lang="zh">星辰大海</title>
   </programme>
@@ -2383,6 +2419,8 @@
   <programme start="20260802224600 +0800" stop="20260802225300 +0800" channel="CCTV8K"><title lang="zh">2025重阳特别节目-霞光满天山河颂(8K)-3</title>
   </programme>
   <programme start="20260802225300 +0800" stop="20260803000000 +0800" channel="CCTV8K"><title lang="zh">2025重阳特别节目-霞光满天山河颂(8K)-10</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802003100 +0800" channel="CCTV9"><title lang="zh">寰宇视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260802003100 +0800" stop="20260802012700 +0800" channel="CCTV9"><title lang="zh">全景自然2026-213</title>
   </programme>
@@ -5350,6 +5388,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802200000 +0800" stop="20260803040000 +0800" channel="beIN SPORTS 5"><title lang="zh">請留意下場播映賽事</title>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802004000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  </programme>
   <programme start="20260802000001 +0800" stop="20260802001000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
   <programme start="20260802000300 +0800" stop="20260802005800 +0800" channel="东南卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
@@ -5426,7 +5466,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802232100 +0800" stop="20260803005400 +0800" channel="东南卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="东方卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
+  <programme start="20260802000001 +0800" stop="20260802005100 +0800" channel="东方卫视"><title lang="zh">国色芳华33</title>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="东方卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
   </programme>
@@ -5803,6 +5843,84 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802234000 +0800" stop="20260802235900 +0800" channel="中华特产"><title lang="zh">走进原产地</title>
   </programme>
   <programme start="20260802235900 +0800" stop="20260803000000 +0800" channel="中华特产"><title lang="zh">结束</title><desc>电视台播出时段结束的标识画面，通常用于节目与节目之间的过渡或全天播出结束后的休台时段。</desc>
+  </programme>
+  <programme start="20260802000000 +0800" stop="20260802003000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Tengah Malam</title><desc lang="zh">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802003000 +0800" stop="20260802013000 +0800" channel="中国教育1"><title lang="zh">Diagnosis Cinta Ep1</title><desc lang="zh">Drama ini mengangkat realiti dunia perubatan di hospital yang sarat dengan cabaran, kemanusiaan dan harapan.</desc>
+  </programme>
+  <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="中国教育1"><title lang="zh">Singgah Sini Ep12</title><desc lang="zh">Rancangan berasaskan travelog membawa kita mengenali dengan lebih dekat beberapa inap desa menarik dan unik yang terdapat di Malaysia serta melihat keindahan yang ada di sekitar tempat tersebut</desc>
+  </programme>
+  <programme start="20260802020000 +0800" stop="20260802023000 +0800" channel="中国教育1"><title lang="zh">Wanita Ikon Ep2</title><desc lang="zh">Program ini menampilkan kisahkejayaan ikon-ikon Wanita Malaysia yang cemerlang dalam bidang masing-masing. Ia mengangkat inspirasi, cabaran dan pencapaian mereka sebagai contoh kepada masyarakat.</desc>
+  </programme>
+  <programme start="20260802023000 +0800" stop="20260802030000 +0800" channel="中国教育1"><title lang="zh">Hello Suri Ep10</title><desc lang="zh">Sebuah majalah yang memaparkan tips pengurusan rumah tangga, susun atur dan hiasan di dalam dan di luar rumah serta pengurusan kewangan.</desc>
+  </programme>
+  <programme start="20260802030000 +0800" stop="20260802033000 +0800" channel="中国教育1"><title lang="zh">Portal Neksu Ep3</title><desc lang="zh">Mengisahkan pengembaraan Nek Su bersama Rayyan, Ashwin, Yi Ling dan haiwan peliharaannya Kiki melalui portal Ajaib dalam mempelajari pelbagai pengetahuan mengenai sains dan alam sekitar.</desc>
+  </programme>
+  <programme start="20260802033000 +0800" stop="20260802052500 +0800" channel="中国教育1"><title lang="zh">Apabila Kau Tersenyum</title><desc lang="zh">Danial dan Shasha berdepan konflik rumah tangga akibat salah faham dan cemburu. Akhirnya, mereka menyedari pentingnya kepercayaan, pengorbanan dan saling menghargai demi mempertahankan perkahwinan.</desc>
+  </programme>
+  <programme start="20260802052500 +0800" stop="20260802053000 +0800" channel="中国教育1"><title lang="zh">Promo / PSA / Kapsul</title><desc lang="zh">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20260802053000 +0800" stop="20260802060000 +0800" channel="中国教育1"><title lang="zh">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title><desc lang="zh">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</desc>
+  </programme>
+  <programme start="20260802060000 +0800" stop="20260802065500 +0800" channel="中国教育1"><title lang="zh">Kalam Wahyu (MTHQK) Hafazan 2025</title><desc lang="zh">Saksikan kompilasi bacaan peserta-peserta hafazan dalam pertandingan Majlis Tilawah and Hafazan Al-Quran Peringkat Kebangsaan. Hayati bacaan Al-Quran.</desc>
+  </programme>
+  <programme start="20260802065500 +0800" stop="20260802070000 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran</title><desc lang="zh">Kapsul Jiran</desc>
+  </programme>
+  <programme start="20260802070000 +0800" stop="20260802074400 +0800" channel="中国教育1"><title lang="zh">(L) Berita Pagi</title><desc lang="zh">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+  </programme>
+  <programme start="20260802074400 +0800" stop="20260802080000 +0800" channel="中国教育1"><title lang="zh">(L) Kanta 744</title><desc lang="zh">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20260802080000 +0800" stop="20260802100000 +0800" channel="中国教育1"><title lang="zh">(L) Selamat Pagi Malaysia</title><desc lang="zh">Program bual bicara secara langsung memaparkan segmen perbincangan bersama panel jemputan seperti topik semasa, info semasa, kesihatan, pendidikan, filem kita dan wanita.</desc>
+  </programme>
+  <programme start="20260802100000 +0800" stop="20260802100500 +0800" channel="中国教育1"><title lang="zh">(L) Dunia 10</title><desc lang="zh">Berita dalam dan luar Negara</desc>
+  </programme>
+  <programme start="20260802100500 +0800" stop="20260802103000 +0800" channel="中国教育1"><title lang="zh">Ready Steady Wiggle Ep23</title><desc lang="zh">&amp;quot;Ready, Steady, Wiggle!&amp;quot; menggabungkan hiburan dan pendidikan melalui segmen-segmen ceria yang membantu kanak-kanak mengembangkan kemahiran bahasa, literasi, dan numerasi, sambil memupuk rasa.</desc>
+  </programme>
+  <programme start="20260802103000 +0800" stop="20260802110000 +0800" channel="中国教育1"><title lang="zh">Pocoyo Ep8</title><desc lang="zh">Program animasi kanak-kanak berbahasa Inggeris tentang Pocoyo, kanak-kanak ingin tahu yang berpakaian biru, bersama rakan-rakannya Pato, Elly, Loula dan Sleepy yang belajar perkara baru sambil berseronok.</desc>
+  </programme>
+  <programme start="20260802110000 +0800" stop="20260802120000 +0800" channel="中国教育1"><title lang="zh">Cuit Sikit Jangan Sentap 2026</title><desc lang="zh">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
+  </programme>
+  <programme start="20260802120000 +0800" stop="20260802120500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802120500 +0800" stop="20260802123000 +0800" channel="中国教育1"><title lang="zh">Tumit Tinggi 2025</title><desc lang="zh">Tumit Tinggi memaparkan kejayaan dan kehebatan wanita-wanita di Malaysia dalam pelbagai bidang dan kerjaya.</desc>
+  </programme>
+  <programme start="20260802123000 +0800" stop="20260802130000 +0800" channel="中国教育1"><title lang="zh">Cerita Rasa Anis Nabilah Ep7</title><desc lang="zh">Cef Anis berkongsi pelbagai resipi tempatan dan antarabangsa bersama personaliti terkenal Malaysia. Program ini turut menampilkan suasana santai dan perkongsian menarik di dapur</desc>
+  </programme>
+  <programme start="20260802130000 +0800" stop="20260802133000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Tengah Hari</title><desc lang="zh">Perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802133000 +0800" stop="20260802150000 +0800" channel="中国教育1"><title lang="zh">Istimewa Lejen</title><desc lang="zh">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20260802150000 +0800" stop="20260802150500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802150500 +0800" stop="20260802153000 +0800" channel="中国教育1"><title lang="zh">Simfoni Alam</title><desc lang="zh">Dokumentari memaparkan isu hidupan liar dan alam semulajadi.</desc>
+  </programme>
+  <programme start="20260802160000 +0800" stop="20260802160500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802160500 +0800" stop="20260802163000 +0800" channel="中国教育1"><title lang="zh">Sinei Kita Tok 2026 Ep1</title><desc lang="zh">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20260802163000 +0800" stop="20260802170000 +0800" channel="中国教育1"><title lang="zh">Geng Cakap Bahasa Ep10</title><desc lang="zh">Program citrawara ini mengetengahkan kemahiran Bahasa Melayu dalam kalangan pelajar antarabangsa dari pelbagai negara. Setiap episode membawa tema berbeza.</desc>
+  </programme>
+  <programme start="20260802170000 +0800" stop="20260802180000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Wilayah</title><desc lang="zh">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260802180000 +0800" stop="20260802183000 +0800" channel="中国教育1"><title lang="zh">Agrotek 2026</title><desc lang="zh">Rancangan menarik untuk tontonan anda.</desc>
+  </programme>
+  <programme start="20260802183000 +0800" stop="20260802184500 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran / Promo / PSA / Kapsul</title><desc lang="zh">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20260802184500 +0800" stop="20260802194400 +0800" channel="中国教育1"><title lang="zh">Diagnosis Cinta Ep2</title><desc lang="zh">Drama ini mengangkat realiti dunia perubatan di hospital yang sarat dengan cabaran, kemanusiaan dan harapan.</desc>
+  </programme>
+  <programme start="20260802194400 +0800" stop="20260802200000 +0800" channel="中国教育1"><title lang="zh">(L) Kanta 744</title><desc lang="zh">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20260802200000 +0800" stop="20260802203000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Perdana</title><desc lang="zh">Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260802203000 +0800" stop="20260802210000 +0800" channel="中国教育1"><title lang="zh">(L) Malaysia Tonight</title><desc lang="zh">Berita Bahasa Inggeris yang berkonsepkan berita dunia korporat, bisnes dan isu-isu semasa</desc>
+  </programme>
+  <programme start="20260802210000 +0800" stop="20260802213000 +0800" channel="中国教育1"><title lang="zh">Panorama 2026</title><desc lang="zh">Rancangan berbentuk kemasyarakatan.</desc>
+  </programme>
+  <programme start="20260802213000 +0800" stop="20260802220000 +0800" channel="中国教育1"><title lang="zh">Rona Sabah</title><desc lang="zh">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
+  </programme>
+  <programme start="20260802220000 +0800" stop="20260802235700 +0800" channel="中国教育1"><title lang="zh">Khilaf Terakhir</title><desc lang="zh">Salmi diceraikan oleh Manaf lalu membawa anaknya, Syafiq, memulakan kehidupan baharu di KL sebelum kehilangan penglihatannya akibat kemalangan. Selepas 20 tahun, Manaf kembali untuk mencari mereka.</desc>
+  </programme>
+  <programme start="20260802235700 +0800" stop="20260803000000 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran</title><desc lang="zh">Kapsul Jiran</desc>
   </programme>
   <programme start="20260802000000 +0800" stop="20260802004500 +0800" channel="中国教育2"><title lang="zh">纪录中国</title><desc>大型纪录片日播栏目，由中央电视台纪录频道联合全国省、市级电视台共同开办，2013年11月11日起在全国70家省市电视台同步开播，被业界称为“目前我国传播范围最广、参与电视台最多的纪录片栏目”。栏目以播出自然类、社会类、人文类、文献类等国内外优秀纪录片为主，涵盖《美丽中国》《舌尖上的中国》《国家宝藏》《复活的军团》等精品国产纪录片，以及《花豹女王》《鳄鱼争霸战》等海外引进经典。</desc>
   </programme>
@@ -6454,6 +6572,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802230000 +0800" stop="20260803000000 +0800" channel="乳山综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802003100 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:王牌部队16</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="云南卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="云南卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
@@ -6489,6 +6609,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802115000 +0800" stop="20260802115400 +0800" channel="云南卫视"><title lang="zh">非遗里的中国</title><desc>《非遗里的中国》是中央广播电视总台与文化和旅游部联合摄制的大型文化节目。节目以省份分期，前往全国11个省份的非遗街区录制，以互动体验方式呈现当地多项非遗项目。节目致敬传承匠心，聚焦非遗创新应用，通过非遗展现新时代面貌。节目开启非遗赋能的新文旅样态，在全国掀起阵阵“非遗热”。</desc>
   </programme>
   <programme start="20260802115400 +0800" stop="20260803000000 +0800" channel="云南卫视"><title lang="zh">秘境之眼</title><desc>中央广播电视总台综合频道自然生态纪录片栏目，以“不被打扰的相逢”为理念，通过布设在国家公园、自然保护地中的红外相机与远程摄像头，记录中国珍稀野生动物的生态行为，呈现绿尾虹雉、东北虎、亚洲象、金丝猴等物种的原始影像，展现生态文明建设成果。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802020000 +0800" channel="五星体育"><title lang="zh">健身时代 精选30分钟</title>
   </programme>
   <programme start="20260802001000 +0800" stop="20260802063000 +0800" channel="五莲综合"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
@@ -7053,6 +7175,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802234500 +0800" stop="20260802235000 +0800" channel="兵团卫视"><title lang="zh">奋进的兵团</title><desc>新疆生产建设兵团成立七十周年主题宣传片，生动展现70年来兵团人不忘初心、牢记使命，以热爱祖国、无私奉献、艰苦创业、开拓进取的精神，在沙漠中披绿衣、将荒野变良田、让戈壁起新城的辉煌历程。呈现“生在井冈山，长在南泥湾，转战数万里，屯垦在天山”的伟大征程</desc>
   </programme>
   <programme start="20260802235000 +0800" stop="20260803005500 +0800" channel="兵团卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802003400 +0800" channel="内蒙古卫视"><title lang="zh">星光剧场一:李卫当官33</title>
   </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="内蒙古卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
@@ -7746,6 +7870,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802000001 +0800" stop="20260802005800 +0800" channel="北京体育"><title lang="zh">重播:健康无双</title>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802001200 +0800" channel="北京卫视"><title lang="zh">4K里的中国</title><desc>4K超高清航拍纪录片，以“俯瞰大美中国”为理念，运用4K超高清航拍技术，全景记录中国大地上的自然奇观与人文胜迹。从东部繁华都市到西部雪域高原，从江南水乡到北国林海，节目以极致画质呈现山川河流的壮美、城市地标的宏伟、古建遗存的精妙，在云端之上铺展一幅山河锦绣、物华天宝的当代中国画卷。</desc>
+  </programme>
   <programme start="20260802002600 +0800" stop="20260802003100 +0800" channel="北京卫视"><title lang="zh">晚间气象服务</title>
   </programme>
   <programme start="20260802003100 +0800" stop="20260802013600 +0800" channel="北京卫视"><title lang="zh">中国</title>
@@ -8130,6 +8256,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802225500 +0800" stop="20260803000000 +0800" channel="南通综合"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802002600 +0800" channel="卡酷少儿"><title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+  </programme>
   <programme start="20260802002600 +0800" stop="20260802004600 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
   </programme>
   <programme start="20260802004600 +0800" stop="20260802010600 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
@@ -8380,7 +8508,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802235100 +0800" stop="20260803004400 +0800" channel="厦门卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
-  <programme start="20260802002200 +0800" stop="20260802005200 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260802000001 +0800" stop="20260802003200 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
   <programme start="20260802005200 +0800" stop="20260802012200 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
@@ -8732,6 +8860,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802235800 +0800" stop="20260803000100 +0800" channel="嘉佳卡通"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802002800 +0800" channel="四川卫视"><title lang="zh">午夜剧场:追风者20</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="四川卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="四川卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
@@ -8927,8 +9057,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802040000 +0800" stop="20260802065500 +0800" channel="天津体育"><title lang="zh">体育赛事</title>
   </programme>
   <programme start="20260802065500 +0800" stop="20260803000000 +0800" channel="天津体育"><title lang="zh">连接下一天</title>
-  </programme>
-  <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="天津卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="天津卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
   </programme>
@@ -9238,6 +9366,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802233000 +0800" stop="20260803003000 +0800" channel="娱乐新闻"><title lang="zh">娛樂新聞報道[粵]</title><desc lang="zh">每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802000500 +0800" channel="宁夏卫视"><title lang="zh">次黄金档剧场:小巷人家21</title>
+  </programme>
   <programme start="20260802003800 +0800" stop="20260802013800 +0800" channel="宁夏卫视"><title lang="zh">百年巨匠</title><desc>我国第一部大规模、全方位拍摄制作的关于20世纪画坛巨匠、艺苑大师、文坛泰斗的大型人物传记纪录片。系统记录齐白石、黄宾虹、徐悲鸿、张大千等数十位文学艺术领域杰出代表的人生历程，分为美术篇、书法篇、文学篇、京剧篇、话剧篇、音乐篇等多个篇章，通过大量原作、原物、原址的全方位拍摄和亲友、当事人的叙述，还原巨匠本色与大师形象。</desc>
   </programme>
   <programme start="20260802013800 +0800" stop="20260802022300 +0800" channel="宁夏卫视"><title lang="zh">猎鹰1949</title><desc>谍战剧，“燕双鹰”系列作品之一，讲述解放初期侦察英雄燕双鹰潜入敌人内部，与潜伏特务展开殊死较量的故事。</desc>
@@ -9500,7 +9630,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802230000 +0800" stop="20260803000000 +0800" channel="居家购物"><title lang="zh">居家购物</title>
   </programme>
-  <programme start="20260802003000 +0800" stop="20260802012900 +0800" channel="山东卫视"><title lang="zh">万家灯火</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20260802000001 +0800" stop="20260802010100 +0800" channel="山东卫视"><title lang="zh">戏宇宙第二季</title>
   </programme>
   <programme start="20260802012900 +0800" stop="20260802021500 +0800" channel="山东卫视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
@@ -9631,6 +9761,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802221600 +0800" stop="20260802232000 +0800" channel="山东少儿"><title lang="zh">快乐向前冲</title>
   </programme>
   <programme start="20260802232000 +0800" stop="20260803000000 +0800" channel="山东少儿"><title lang="zh">唱响你的歌</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802004700 +0800" channel="山东教育"><title lang="zh">静屏</title><desc>电视台播出信号中断或节目切换间隙出现的静态画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出空档、确保信号不中断。在数字化播出系统中，静屏也被用作设备调试、信号测试或应急备播画面。</desc>
   </programme>
   <programme start="20260802004700 +0800" stop="20260802013000 +0800" channel="山东教育"><title lang="zh">红高粱</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -12350,6 +12482,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802233000 +0800" stop="20260803055500 +0800" channel="沂源综合"><title lang="zh">结束</title><desc>电视台播出时段结束的标识画面，通常用于节目与节目之间的过渡或全天播出结束后的休台时段。</desc>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802001800 +0800" channel="河北卫视"><title lang="zh">晚间剧场二:黄雀31</title>
+  </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="河北卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="河北卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
@@ -13844,6 +13978,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802233000 +0800" stop="20260803000000 +0800" channel="环球旅游"><title lang="zh">乡间物语</title>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802000100 +0800" channel="甘肃卫视"><title lang="zh">晚间剧场:上甘岭36</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
   <programme start="20260802001300 +0800" stop="20260802003900 +0800" channel="生活时尚"><title lang="zh">原味记忆</title>
   </programme>
   <programme start="20260802003900 +0800" stop="20260802004000 +0800" channel="生活时尚"><title lang="zh">荧屏直通车(第1期)</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
@@ -14093,6 +14229,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802000001 +0800" stop="20260802070000 +0800" channel="福州2"><title lang="zh">爱琴海 剧场 (重)</title>
   </programme>
   <programme start="20260802000001 +0800" stop="20260802002000 +0800" channel="福州3"><title lang="zh">攀讲 (重)</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802000400 +0800" channel="福建少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802034700 +0800" channel="福建教育"><title lang="zh">空中课堂1</title>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802002500 +0800" channel="福建综合"><title lang="zh">精选剧场</title>
   </programme>
   <programme start="20260802110000 +0800" stop="20260802111500 +0800" channel="禹城综合"><title lang="zh">教育天天看</title><desc>《教育天天看》是一档以教育为主题的资讯节目，通过报道教育新闻、教育政策和教育改革动态，为观众提供最新的教育信息。该节目通过深入的报道和专家解读，帮助观众了解教育领域的发展和变化。</desc>
   </programme>
@@ -14922,6 +15064,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802000001 +0800" stop="20260802002500 +0800" channel="足球"><title lang="zh">赛场实况</title>
   </programme>
+  <programme start="20260802000001 +0800" stop="20260802003600 +0800" channel="辽宁卫视"><title lang="zh">欢乐点点</title>
+  </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="辽宁卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
   <programme start="20260802013000 +0800" stop="20260802020000 +0800" channel="辽宁卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
@@ -15109,6 +15253,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802234700 +0800" stop="20260802235500 +0800" channel="都市剧场"><title lang="zh">黎明决战</title><desc>“天狼舟”杀手雷霆救走老大苍穹赖以换心续命的少女小洁，帮内顶级高手博士、银狐追杀而至。犹如荒漠孤岛的钢铁城中，生死决战一触即发，雷霆面对“铁甲狂猴”家族维护末世正义的使命，重新做出了选择....</desc>
   </programme>
   <programme start="20260802235500 +0800" stop="20260803000000 +0800" channel="都市剧场"><title lang="zh">护宝风云</title><desc>1900年，镖头何志恒劫下八国联军中日军抢走的清宫珍宝。32年后，当年侥幸逃脱的日本军官犬养弘率人将何家灭门，何志恒临终前让女儿何蝉影前往天津投奔挚友张济琛。何蝉影被张家公子张兰庭救下，得知父亲已将宝物托付给张济琛，并为二人定下婚约。犬养弘紧追而至，张家由此陷入危机，张兰庭的弟弟、弟媳相继惨死。在揪出潜伏特务及叛徒三合后，张济琛为保护国宝牺牲。继承父亲遗志的张兰庭与何蝉影在地下党的指引下，与犬养等人斗智斗勇，最终成功守护国宝。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802000300 +0800" channel="重庆卫视"><title lang="zh">深夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260802004600 +0800" stop="20260802013000 +0800" channel="重庆卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
@@ -15302,7 +15448,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802225000 +0800" stop="20260803000000 +0800" channel="金鹰卡通"><title lang="zh">英雄儿女</title>
   </programme>
-  <programme start="20260802003000 +0800" stop="20260802010000 +0800" channel="金鹰纪实"><title lang="zh">新闻当事人</title>
+  <programme start="20260802000001 +0800" stop="20260802003800 +0800" channel="金鹰纪实"><title lang="zh">看世界</title>
   </programme>
   <programme start="20260802010000 +0800" stop="20260802015000 +0800" channel="金鹰纪实"><title lang="zh">点赞中国</title><desc>金鹰纪实频道播出的网络正能量精品展播特别节目，围绕成长、记忆、信念、力量、复兴、引领等关键词，集中展示在重大活动、重大主题中积极发声、传递正能量的榜样及作品。</desc>
   </programme>
@@ -15450,7 +15596,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260802225500 +0800" stop="20260802230800 +0800" channel="陵城综合"><title lang="zh">健康有约</title>
   </programme>
-  <programme start="20260802001600 +0800" stop="20260802021200 +0800" channel="青海卫视"><title lang="zh">龙斗之UFC</title><desc>为了争夺一年一度的《大家乐表演赛》的金牌。洋娃娃、小熊等驾着小飞机红汽车赶往赛场，路上惊险紧张，十分有趣，会上他们表演了“洋娃娃和小熊跳舞”“一个鸟仔”“铃儿响叮当”等精彩节目。最后，表演赛谁是冠军呢？节目主持人请小朋友们来评定。</desc>
+  <programme start="20260802000001 +0800" stop="20260802021000 +0800" channel="青海卫视"><title lang="zh">龙斗之ONE冠军赛</title><desc>为了争夺一年一度的《大家乐表演赛》的金牌。洋娃娃、小熊等驾着小飞机红汽车赶往赛场，路上惊险紧张，十分有趣，会上他们表演了“洋娃娃和小熊跳舞”“一个鸟仔”“铃儿响叮当”等精彩节目。最后，表演赛谁是冠军呢？节目主持人请小朋友们来评定。</desc>
   </programme>
   <programme start="20260802021200 +0800" stop="20260802024500 +0800" channel="青海卫视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
@@ -15781,6 +15927,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20260802224000 +0800" stop="20260802233000 +0800" channel="黄金翡翠"><title lang="zh">錯愛 #11 [粵]</title><desc lang="zh">梁木向賀老大取得藥丸給啟華服下，啟華終痊癒。若秋巧遇惠心，惠心怒斥敬山惡行，秋、貞驚聞龔家已遭敬山所害，半信半疑，敬山極力否認此事。賀老大命眾囚犯抽籤作生死鬥，啟光被抽中，為自保性命，終將對手殺死。子菁終接受啟光已死，重新振奮做人。啟光對賀老大草管人命看不過眼，斥責之，賀老大命啟光啟華決鬥。啟華怕死，忍心刺傷啟光，啟光自動認輸，求賀老大殺他，梁木伺機偷襲獄卒，煽動眾囚犯反抗，殺死賀老大，乘機逃獄。途中梁木為救光、華而死，啟光兩兄弟千辛萬苦，終脫離險境。</desc>
   </programme>
   <programme start="20260802233000 +0800" stop="20260803000000 +0800" channel="黄金翡翠"><title lang="zh">婆媽女婿 #3 [粵]</title><desc lang="zh">穎茵再次賴床而遲到，慧中吩咐她三日內走遍港九親界完成環保問卷調查。穎茵外出工作時重遇舊同學娟，得知她已嫁工廠太子爺，回家向父母提及婚事，時志信剛巧至，國邦等追問禮金一事，惟志信蒙在鼓裡，只把加薪之所得交給未來外父外母，細談下才驚訝得知婚事。志信用兄長座駕載穎茵走遍新界完成工作，得上司賞識而升為採訪主任。志信正惆悵如何拒絕婚事，喜聞穎茵再次專注工作，帶同演唱會門票找她，豈料穎茵重提月底結婚。</desc>
+  </programme>
+  <programme start="20260802000001 +0800" stop="20260802002000 +0800" channel="黑龙江卫视"><title lang="zh">午夜剧场:伪装者31</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260802005000 +0800" stop="20260802012500 +0800" channel="黑龙江卫视"><title lang="zh">幸福驿站</title><desc>黑龙江卫视人文情感类节目，以“讲好中国故事、传播中国价值、传递中国精神”为宗旨，每期邀请一位平凡人物走进演播室，通过真情讲述和情感互动，挖掘主人公追寻幸福、坚守信念的感人故事。节目曾记录援非医生的仁爱担当、花甲老人的环球探险、三代完达山人的垦荒坚守、消防员护航亚冬的幕后奉献等真实故事，以“小成本、大情怀、正能量”的创作理念，传递“奋斗出来的幸福”的价值追求。</desc>
   </programme>

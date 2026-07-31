@@ -1,744 +1,346 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
-  <channel id="南京教科"><display-name lang="zh">南京教科</display-name>
+  <channel id="NHK World"><display-name lang="zh">NHK World</display-name><display-name lang="zh">NewsWorld</display-name>
   </channel>
-  <channel id="黑莓影视"><display-name lang="zh">黑莓影视</display-name>
+  <channel id="阳江-1"><display-name lang="zh">阳江-1</display-name>
   </channel>
-  <channel id="凤凰卫视"><display-name lang="zh">凤凰卫视</display-name>
+  <channel id="靖天电影"><display-name lang="zh">靖天电影</display-name><display-name lang="zh">靖天电影台</display-name>
   </channel>
-  <channel id="军事评论"><display-name lang="zh">军事评论</display-name>
+  <channel id="采昌影剧"><display-name lang="zh">采昌影剧</display-name><display-name lang="zh">采昌影剧台</display-name>
   </channel>
-  <channel id="CNC英文"><display-name lang="zh">CNC英文</display-name>
+  <channel id="深圳龙岗"><display-name lang="zh">深圳龙岗</display-name>
   </channel>
-  <channel id="精品综合"><display-name lang="zh">精品综合</display-name>
+  <channel id="深圳都市"><display-name lang="zh">深圳都市</display-name>
   </channel>
-  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
+  <channel id="惠州综合"><display-name lang="zh">惠州综合</display-name>
   </channel>
-  <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
+  <channel id="深圳少儿"><display-name lang="zh">深圳少儿</display-name>
   </channel>
-  <channel id="中国功夫"><display-name lang="zh">中国功夫</display-name>
-  </channel>
-  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
-  </channel>
-  <channel id="黑莓动画"><display-name lang="zh">黑莓动画</display-name>
-  </channel>
-  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
-  </channel>
-  <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
-  </channel>
-  <channel id="南京十八"><display-name lang="zh">南京十八</display-name>
-  </channel>
-  <channel id="南京文旅"><display-name lang="zh">南京文旅</display-name><display-name lang="zh">南京文旅纪录</display-name>
-  </channel>
-  <channel id="谍战大剧"><display-name lang="zh">谍战大剧</display-name>
-  </channel>
-  <channel id="热播精选"><display-name lang="zh">热播精选</display-name>
-  </channel>
-  <channel id="精品体育"><display-name lang="zh">精品体育</display-name>
-  </channel>
-  <channel id="宿迁综合"><display-name lang="zh">宿迁综合</display-name>
-  </channel>
-  <channel id="精品萌宠"><display-name lang="zh">精品萌宠</display-name>
-  </channel>
-  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
-  </channel>
-  <channel id="黑莓电影"><display-name lang="zh">黑莓电影</display-name>
-  </channel>
-  <channel id="哒啵赛事"><display-name lang="zh">哒啵赛事</display-name>
-  </channel>
-  <channel id="哒啵电竞"><display-name lang="zh">哒啵电竞</display-name>
-  </channel>
-  <channel id="烽烟剧场"><display-name lang="zh">烽烟剧场</display-name>
-  </channel>
-  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
-  </channel>
-  <channel id="爱情喜剧"><display-name lang="zh">爱情喜剧</display-name>
-  </channel>
-  <programme start="20260729000000 +0000" stop="20260729010000 +0000" channel="翡翠台"><title lang="zh">再創世紀#10[粵]</title><desc lang="zh">上海山西商場停工多月，定垚問責嘉菲，嘉菲稱項目由內地發展部負責。定垚親自找該部門主管余德輝，怎料不被理睬還遭耍弄。部門秘書王子琳看不過眼，暗中送上相關文件，定垚決定親到山西。程凱發明的應用程式登上排行榜，澤雨還帶來入圍比賽一百強的好消息。明晞目睹思琪故意親近天生，決定調她往菲律賓工作。定垚向請長假的德輝斟茶認錯，他仍不領情，大感委屈。天生及高哲分別找過德輝，高哲還故意讓定垚看到自己跟德輝碰面。</desc>
+  <programme start="20260729000001 +0800" stop="20260729003000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
-  <programme start="20260729010000 +0000" stop="20260729013500 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  <programme start="20260729003000 +0800" stop="20260729010000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
-  <programme start="20260729013500 +0000" stop="20260729022000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  <programme start="20260729010000 +0800" stop="20260729013000 +0800" channel="NHK World"><title lang="zh">News Hour</title>
   </programme>
-  <programme start="20260729022000 +0000" stop="20260729025000 +0000" channel="翡翠台"><title lang="zh">吃貨橫掃深圳[粵]</title><desc lang="zh">星級中菜館供應多款精緻美點，蝦餃滲出淡淡藤椒麻味、菠蘿包可吃到新鮮菠蘿蓉，脆叉燒口感一絕！鐵板燒包含十一道菜，「團購價」只需三百多元人民幣，即可嚐味和牛、鵝肝等，食得精明。火鍋餐廳讓大家實現「海鮮自由」，鮑魚、蟹、蝦等任撈任食。主持大讚價格實惠，到底收費如何？「吃貨」轉戰人氣連鎖超市即買即試，草莓、榴槤千層蛋糕等大熱貨品，全都無伏？慧中、凱晴寬衣享受椰子熱油Spa；而在深圳還可覓得泰式Cafe。</desc>
+  <programme start="20260729013000 +0800" stop="20260729020000 +0800" channel="NHK World"><title lang="zh">News Hour</title>
   </programme>
-  <programme start="20260729025000 +0000" stop="20260729034500 +0000" channel="翡翠台"><title lang="zh">東坡家事#12[粵][PG]</title><desc lang="zh">季常被坊眾指指點點；大妹帶他回蘇家暫住。少游入贅蘇家，小妹三難新郎。解決小妹的難題時，突聞月娥咆哮，眾趕到發現季常衣衫不整，大妹瑟縮在床。東坡要季常休妻再娶，月娥狀告東坡教唆親妹勾引季常，驚動聖駕……</desc>
+  <programme start="20260729020000 +0800" stop="20260729023000 +0800" channel="NHK World"><title lang="zh">The Debate</title>
   </programme>
-  <programme start="20260729034500 +0000" stop="20260729041000 +0000" channel="翡翠台"><title lang="zh">高朋滿座#150[粵]</title><desc lang="zh">悅利用驗孕棒，得知懷孕。高家紛紛獻計安胎，亦多照顧悅。滿載幸福的悅獲美容集團的主席馬太看上，要她成為瘦身代言人。除付上百萬酬金外，更安排悅得非凡照顧和享受。但一次意外，眾人竟發現身孕之事只是一場誤會。</desc>
+  <programme start="20260729023000 +0800" stop="20260729030000 +0800" channel="NHK World"><title lang="zh">The Debate</title>
   </programme>
-  <programme start="20260729041000 +0000" stop="20260729050500 +0000" channel="翡翠台"><title lang="zh">命轉皇后#25[粵/普][PG]</title><desc lang="zh">謝危夢到當年之事，雪寧從謝危的夢囈猜到其身分，又為了保護謝危而驅趕闖入的野貓，謝危醒來後吻雪寧；謝危矯詔讓燕牧父子接管燕家軍，在邊城與他們相認；大月行為反常，謝危懷疑他們與人勾結，獨自赴約見大月王子。</desc>
+  <programme start="20260729030000 +0800" stop="20260729033000 +0800" channel="NHK World"><title lang="zh">The World</title>
   </programme>
-  <programme start="20260729050500 +0000" stop="20260729060000 +0000" channel="翡翠台"><title lang="zh">我係小廚神3[粵]</title><desc lang="zh">小廚神6強憑創意意粉菜式爭奪決賽入場券！他們先向廚藝顧問請教意粉的學問，還嘗試從零開始做出獨一無二的意式薄餅。比賽要求小廚神加添創意元素，星級評判黃智雯得知作品有：意粉春卷、意粉蛋糕、炸意粉、蜆殼船等，即抱有期待，可是有人頻頻請她吃檸檬……有小廚神未能把握時間，緊張得哭了出來；有人的作品賞心悅目，卻慘被Mandy破壞；最後哪兩位能發揮創意及廚藝，獲得評判讚賞及頒發星章，晉身決賽！</desc>
+  <programme start="20260729033000 +0800" stop="20260729040000 +0800" channel="NHK World"><title lang="zh">The World</title>
   </programme>
-  <programme start="20260729060000 +0000" stop="20260729074000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  <programme start="20260729040000 +0800" stop="20260729043000 +0800" channel="NHK World"><title lang="zh">News Hour</title>
   </programme>
-  <programme start="20260729074000 +0000" stop="20260729074500 +0000" channel="翡翠台"><title lang="zh">環球新聞檔案[粵]</title>
+  <programme start="20260729043000 +0800" stop="20260729050000 +0800" channel="NHK World"><title lang="zh">News Hour</title>
   </programme>
-  <programme start="20260729074500 +0000" stop="20260729081000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  <programme start="20260729050000 +0800" stop="20260729053000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
-  <programme start="20260729081000 +0000" stop="20260729084000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  <programme start="20260729053000 +0800" stop="20260729063000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
-  <programme start="20260729084000 +0000" stop="20260729090000 +0000" channel="翡翠台"><title lang="zh">香港早晨[粵]</title>
+  <programme start="20260729000001 +0800" stop="20260729000200 +0800" channel="惠州综合"><title lang="zh">第一剧场</title><desc>优秀电视剧展播</desc>
   </programme>
-  <programme start="20260729090000 +0000" stop="20260729100000 +0000" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  <programme start="20260729000001 +0800" stop="20260729003400 +0800" channel="深圳少儿"><title lang="zh">青春之城(20)</title>
   </programme>
-  <programme start="20260729100000 +0000" stop="20260729100500 +0000" channel="翡翠台"><title lang="zh">勁歌推介[粵]</title>
+  <programme start="20260729003400 +0800" stop="20260729065800 +0800" channel="深圳少儿"><title lang="zh">闭台礼貌片</title>
   </programme>
-  <programme start="20260729100500 +0000" stop="20260729103500 +0000" channel="翡翠台"><title lang="zh">高朋滿座#151[粵]</title><desc lang="zh">悅如承認誤傳懷孕，要付千萬違約金。拍攝宣傳照時，朋與悅出盡計謀才不致令真相曝光。眾欲公開事實，並作出賠償，卻又發覺款項遠遠不夠，更以為麗帶來的鈔票是偽鈔。根最後兵行險著，決定帶兩人偷渡至馬達加斯加。</desc>
+  <programme start="20260729065800 +0800" stop="20260729070000 +0800" channel="深圳少儿"><title lang="zh">开台礼貌片、宣传</title>
   </programme>
-  <programme start="20260729103500 +0000" stop="20260729114000 +0000" channel="翡翠台"><title lang="zh">命轉皇后#26[粵/普][PG]</title><desc lang="zh">大月士兵被一網打盡，謝危與燕臨父子將芷衣平安帶回。薛國公將謝危矯詔一事告訴聖上，要定謝危和燕家謀反叛國之罪，聖上說此事事關重大，要再查證。芷衣認為謝危對雪寧必有別的心思，又問雪寧隨他過來又是什麼心意。</desc>
+  <programme start="20260729070000 +0800" stop="20260729070700 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(4)</title>
   </programme>
-  <programme start="20260729114000 +0000" stop="20260729121500 +0000" channel="翡翠台"><title lang="zh">交易現場[粵] 及 卓正醫療呈獻：全家健康攻略[粵]</title>
+  <programme start="20260729070700 +0800" stop="20260729071500 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(5)</title>
   </programme>
-  <programme start="20260729121500 +0000" stop="20260729130000 +0000" channel="翡翠台"><title lang="zh">食平3D[粵]</title><desc lang="zh">六號喉乾帶咳，肥媽以青欖、螺頭煲湯，為他清熱補腎。兩人在街市買即打即搓的鯪魚肉，不釀青椒、豆腐、茄子，還可以釀甚麼？蕎菜有「拜山菜」之稱，肥媽示範「蕎菜炒火腩」。六號幫忙煮「京蔥炒肥牛」換來自取其辱？</desc>
+  <programme start="20260729071500 +0800" stop="20260729072200 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(6)</title>
   </programme>
-  <programme start="20260729130000 +0000" stop="20260729132000 +0000" channel="翡翠台"><title lang="zh">午間新聞[粵]</title>
+  <programme start="20260729072200 +0800" stop="20260729073000 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(7)</title>
   </programme>
-  <programme start="20260729132000 +0000" stop="20260729141000 +0000" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  <programme start="20260729073000 +0800" stop="20260729073700 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(8)</title>
   </programme>
-  <programme start="20260729141000 +0000" stop="20260729145000 +0000" channel="翡翠台"><title lang="zh">吃貨橫掃深圳[粵]</title><desc lang="zh">眾吃貨走進蛇口市場掃平海鮮，購入北寄貝、鮑魚、蟶子等，然後往餐廳加工，再加點乳鴿、南瓜包等，埋單約一千元人民幣。品嚐香滑「薑撞奶」，凱晴、慧中還親手試做。到超市買海鮮加工吃是遊深圳熱門行程，可會有伏？享用星級素菜，除用上多款矜貴菇菌外，菜式的精緻造型亦令人不自覺要相機食先！一探被笑稱是被卡拉OK耽誤的美食餐廳，K房內竟吃到「黑松露蒸水蛋」？美顏養生火鍋，將多種野生菇菌與土雞共冶一爐，女主持們大愛。</desc>
+  <programme start="20260729073700 +0800" stop="20260729074500 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(9)</title>
   </programme>
-  <programme start="20260729145000 +0000" stop="20260729155000 +0000" channel="翡翠台"><title lang="zh">東坡家事#13[粵][PG]</title><desc lang="zh">東坡走訪刑部追查洩題事件。小妹遇劫，徐淑眉為救小妹受傷昏迷，甦醒後失憶。晚上淑眉找小妹相伴，小妹展示送少游的簪花，其後遍尋不獲。東坡喬裝追查洩題事件；行雷閃電晚上，淑眉潛入東坡書房，驚見他站在門外……</desc>
+  <programme start="20260729074500 +0800" stop="20260729075200 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(10)</title>
   </programme>
-  <programme start="20260729155000 +0000" stop="20260729162000 +0000" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  <programme start="20260729075200 +0800" stop="20260729080000 +0800" channel="深圳少儿"><title lang="zh">毛毛镇Ⅴ(11)</title>
   </programme>
-  <programme start="20260729162000 +0000" stop="20260729165000 +0000" channel="翡翠台"><title lang="zh">科學×冒險 絕境求生手冊[粵/日]</title><desc lang="zh">絕境求生專家智悟在凱伊的照應下，與皮皮、米奇和金寶一起到滑雪場遊玩。前往民宿途中，汽車竟耗盡燃油，令智悟一行要冒雪抵達民宿。民宿由能源研究所前研究員沈武經營，他對能源節約甚為嘮叨，令智悟等人無所適從。</desc>
+  <programme start="20260729080000 +0800" stop="20260729083500 +0800" channel="深圳少儿"><title lang="zh">长青空中课堂(7)</title>
   </programme>
-  <programme start="20260729165000 +0000" stop="20260729172000 +0000" channel="翡翠台"><title lang="zh">Hands Up[粵]</title><desc lang="zh">兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！</desc>
+  <programme start="20260729083500 +0800" stop="20260729084000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(66)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729172000 +0000" stop="20260729175000 +0000" channel="翡翠台"><title lang="zh">麵包超人[粵/日]</title><desc lang="zh">細菌人做壞事時被燈籠捕快阻止了。心有不甘的細菌人，設計陷害燈籠捕快。細菌人偷聽到果Jam叔叔他們正準備前往芝士鍋小姐的家。細菌人及紅精靈因為想吃芝士鍋，於是搶先一步前往芝士鍋小姐的家。</desc>
+  <programme start="20260729084000 +0800" stop="20260729084600 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(67)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729175000 +0000" stop="20260729180000 +0000" channel="翡翠台"><title lang="zh">財經新聞[粵]</title><desc lang="zh">緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。</desc>
+  <programme start="20260729084600 +0800" stop="20260729085100 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(68)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729180000 +0000" stop="20260729182500 +0000" channel="翡翠台"><title lang="zh">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 卓正醫療呈獻：全家健康攻略[粵]</title><desc lang="zh">住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。</desc>
+  <programme start="20260729085100 +0800" stop="20260729085700 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(69)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729182500 +0000" stop="20260729183000 +0000" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  <programme start="20260729085700 +0800" stop="20260729090200 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(70)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729183000 +0000" stop="20260729191500 +0000" channel="翡翠台"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+  <programme start="20260729090200 +0800" stop="20260729090800 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(71)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729191500 +0000" stop="20260729192500 +0000" channel="翡翠台"><title lang="zh">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  <programme start="20260729090800 +0800" stop="20260729091300 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(72)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729192500 +0000" stop="20260729193000 +0000" channel="翡翠台"><title lang="zh">有理說得清[粵]</title>
+  <programme start="20260729091300 +0800" stop="20260729091900 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(73)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729193000 +0000" stop="20260729200000 +0000" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  <programme start="20260729091900 +0800" stop="20260729092500 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(74)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729200000 +0000" stop="20260729203000 +0000" channel="翡翠台"><title lang="zh">黃道益活絡油呈獻：愛． 回家之開心速遞#2861[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵]</title><desc lang="zh">熊樹根是小型運輸公司東主，為人慳儉，與次女若水、三女心如，以及長女的兒子金城安同住舊樓，惟心如與若水經常為瑣碎事爭吵不休，教樹根哭笑不得。樹根無視眾人反對，力邀不修邊幅的親弟樹仁搬來同住，怎料樹仁竟無意間招惹了因交通意外身亡的鬼魂龍璟風，令熊家出現翻天覆地的轉變！與此同時，若水在百貨公司工作多年，以為可如願獲晉升，卻見高栢菲空降成為其上司，戰火一觸即發；而栢菲原來更與樹仁有段耐人尋味的往事……</desc>
+  <programme start="20260729092500 +0800" stop="20260729093000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(75)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729203000 +0000" stop="20260729213000 +0000" channel="翡翠台"><title lang="zh">森下仁丹Bifina Si 益生菌呈獻：非份之罪#23[粵][PG]</title><desc lang="zh">人類的欲望，可驅使我們超越自我，然而，當欲望失控，過份貪圖金錢與權勢、追求不屬於自己的愛，非份之想被無限放大，一不經意，便陷入道德矛盾的深淵，犯下種種「非份之罪」……新界東重案組接連調查幾宗案件，包括「無臉女屍」、「石棺禁戀」、「一億殺機」、「危險遊戲」、「骯髒的子彈」、「恐怖情人」，錯綜複雜的線索、纏繞不清的關係，構成一樁樁匪夷所思的迷案，揭露觸摸不透的人性黑暗面。</desc>
+  <programme start="20260729093000 +0800" stop="20260729093600 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(76)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729213000 +0000" stop="20260729213300 +0000" channel="翡翠台"><title lang="zh">非份之罪 - 獨家三分鐘 [粵]</title><desc lang="zh">人類的欲望，可驅使我們超越自我，然而，當欲望失控，過份貪圖金錢與權勢、追求不屬於自己的愛，非份之想被無限放大，一不經意，便陷入道德矛盾的深淵，犯下種種「非份之罪」……新界東重案組接連調查幾宗案件，包括「無臉女屍」、「石棺禁戀」、「一億殺機」、「危險遊戲」、「骯髒的子彈」、「恐怖情人」，錯綜複雜的線索、纏繞不清的關係，構成一樁樁匪夷所思的迷案，揭露觸摸不透的人性黑暗面。</desc>
+  <programme start="20260729093600 +0800" stop="20260729094200 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(77)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729213300 +0000" stop="20260729220000 +0000" channel="翡翠台"><title lang="zh">宏利保險呈獻：重症解密[粵]</title><desc lang="zh">節目鎖定不同重症，以深入淺出的方式道出頑疾成因、病理機制、最新治療方案和預防方法。譚俊彥、陳曉華、林秀怡、梁凱晴化身「重症調查科」調查員，四出搜羅線索、證物、證人，務求解開各種致命危疾的重重疑團。來自香港各大公立與私家醫院，及本地大學醫學院的資深醫生與學者，結合真實病例、醫療影像，令複雜的醫學知識變得貼地，讓大眾更全面認知重症的診治過程，減少誤解與恐懼，也鼓勵港人及早檢查、及時治療，守護健康未來。</desc>
+  <programme start="20260729094200 +0800" stop="20260729094800 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(78)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729220000 +0000" stop="20260729230000 +0000" channel="翡翠台"><title lang="zh">翻身蜜語#3[粵/普]</title>
+  <programme start="20260729094800 +0800" stop="20260729095400 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(79)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729230000 +0000" stop="20260729231500 +0000" channel="翡翠台"><title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title><desc lang="zh">節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。</desc>
+  <programme start="20260729095400 +0800" stop="20260729100000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(80)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729231500 +0000" stop="20260729234500 +0000" channel="翡翠台"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+  <programme start="20260729100000 +0800" stop="20260729100500 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(81)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729234500 +0000" stop="20260729235000 +0000" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  <programme start="20260729100500 +0800" stop="20260729101100 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(82)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729235000 +0000" stop="20260729235500 +0000" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  <programme start="20260729101100 +0800" stop="20260729101700 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(83)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729235500 +0000" stop="20260730000000 +0000" channel="翡翠台"><title lang="zh">嘉里世界劍擊錦標賽2026 中國香港[粵] 及 卓正醫療呈獻：全家健康攻略[粵]</title>
+  <programme start="20260729101700 +0800" stop="20260729102300 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(84)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729000001 +0800" stop="20260729003500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729102300 +0800" stop="20260729102900 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(85)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729003500 +0800" stop="20260729010000 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729102900 +0800" stop="20260729103500 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(86)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729010000 +0800" stop="20260729013500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729103500 +0800" stop="20260729104000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(87)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729013500 +0800" stop="20260729014500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729104000 +0800" stop="20260729104600 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(88)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729014500 +0800" stop="20260729015700 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729104600 +0800" stop="20260729105200 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(89)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729015700 +0800" stop="20260729022700 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  <programme start="20260729105200 +0800" stop="20260729105800 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(90)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729022700 +0800" stop="20260729023000 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  <programme start="20260729105800 +0800" stop="20260729110400 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(91)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729023000 +0800" stop="20260729030000 +0800" channel="CNC中文"><title lang="zh">瞭望评辩天下</title>
+  <programme start="20260729110400 +0800" stop="20260729111000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(92)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729030000 +0800" stop="20260729033000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729111000 +0800" stop="20260729111600 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(93)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729033000 +0800" stop="20260729040000 +0800" channel="CNC中文"><title lang="zh">环球百科</title>
+  <programme start="20260729111600 +0800" stop="20260729112200 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(94)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729040000 +0800" stop="20260729043000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729112200 +0800" stop="20260729112800 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(95)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729043000 +0800" stop="20260729044200 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729112800 +0800" stop="20260729113400 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(96)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729044200 +0800" stop="20260729045500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729113400 +0800" stop="20260729114000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(97)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729045500 +0800" stop="20260729052500 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  <programme start="20260729114000 +0800" stop="20260729114500 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(98)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729052500 +0800" stop="20260729053000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729114500 +0800" stop="20260729115100 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(99)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729053000 +0800" stop="20260729060000 +0800" channel="CNC中文"><title lang="zh">瞭望评辩天下</title>
+  <programme start="20260729115100 +0800" stop="20260729115700 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(100)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729060000 +0800" stop="20260729063000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729115700 +0800" stop="20260729120200 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(101)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729063000 +0800" stop="20260729065000 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  <programme start="20260729120200 +0800" stop="20260729120800 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(102)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729065000 +0800" stop="20260729070000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729120800 +0800" stop="20260729121400 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(103)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729070000 +0800" stop="20260729073000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729121400 +0800" stop="20260729122000 +0800" channel="深圳少儿"><title lang="zh">奇奇和努娜Ⅱ(104)</title><desc>儿童情感教育题材动画片，塑造六个可爱的小动物角色，讲述它们在成长过程中的情感与心理故事。片中融入互动环节，教会小朋友解决问题、与伙伴和睦相处，片尾儿歌为故事锦上添花。</desc>
   </programme>
-  <programme start="20260729073000 +0800" stop="20260729080000 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  <programme start="20260729122000 +0800" stop="20260729123000 +0800" channel="深圳少儿"><title lang="zh">霸王龙雷奇Ⅱ(1)</title>
   </programme>
-  <programme start="20260729080000 +0800" stop="20260729083000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729123000 +0800" stop="20260729124400 +0800" channel="深圳少儿"><title lang="zh">读书(19)</title><desc>中央电视台科教频道日播文化栏目，前身为《子午书简》，2011年正式更名，由李潘主持。以“读好书、好读书”为宗旨，采用访谈、朗读、讲述等多种形式，邀请爱书人士分享阅读心得，解读和推荐好书，带动民众阅读风尚。设有《李潘会客厅》《四季榜单》《总编荐书》等特色板块，定期发布“央视读书精选”年度好书榜单。播出时间每日约14:40，时长约10分钟。</desc>
   </programme>
-  <programme start="20260729083000 +0800" stop="20260729085000 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  <programme start="20260729124400 +0800" stop="20260729130800 +0800" channel="深圳少儿"><title lang="zh">安全圳少年:台风安全</title>
   </programme>
-  <programme start="20260729085000 +0800" stop="20260729090000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729130800 +0800" stop="20260729132100 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(19)</title>
   </programme>
-  <programme start="20260729090000 +0800" stop="20260729093200 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729132100 +0800" stop="20260729133500 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(20)</title>
   </programme>
-  <programme start="20260729093200 +0800" stop="20260729094200 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729133500 +0800" stop="20260729134800 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(21)</title>
   </programme>
-  <programme start="20260729094200 +0800" stop="20260729094500 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  <programme start="20260729134800 +0800" stop="20260729140200 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(22)</title>
   </programme>
-  <programme start="20260729094500 +0800" stop="20260729100000 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  <programme start="20260729140200 +0800" stop="20260729141500 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(23)</title>
   </programme>
-  <programme start="20260729100000 +0800" stop="20260729103200 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729141500 +0800" stop="20260729142900 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(24)</title>
   </programme>
-  <programme start="20260729103200 +0800" stop="20260729104400 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729142900 +0800" stop="20260729144200 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(25)</title>
   </programme>
-  <programme start="20260729104400 +0800" stop="20260729105600 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  <programme start="20260729144200 +0800" stop="20260729145600 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之时空守护(26)</title>
   </programme>
-  <programme start="20260729105600 +0800" stop="20260729110000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729145600 +0800" stop="20260729150900 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(1)</title>
   </programme>
-  <programme start="20260729110000 +0800" stop="20260729113000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729150900 +0800" stop="20260729152300 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(2)</title>
   </programme>
-  <programme start="20260729113000 +0800" stop="20260729120000 +0800" channel="CNC中文"><title lang="zh">瞭望评辩天下</title>
+  <programme start="20260729152300 +0800" stop="20260729153700 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(3)</title>
   </programme>
-  <programme start="20260729120000 +0800" stop="20260729123000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729153700 +0800" stop="20260729155100 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(4)</title>
   </programme>
-  <programme start="20260729123000 +0800" stop="20260729125000 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  <programme start="20260729155100 +0800" stop="20260729160500 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(5)</title>
   </programme>
-  <programme start="20260729125000 +0800" stop="20260729130000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729160500 +0800" stop="20260729161900 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(6)</title>
   </programme>
-  <programme start="20260729130000 +0800" stop="20260729133000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729161900 +0800" stop="20260729163300 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(7)</title>
   </programme>
-  <programme start="20260729133000 +0800" stop="20260729140000 +0800" channel="CNC中文"><title lang="zh">环球百科</title>
+  <programme start="20260729163300 +0800" stop="20260729164700 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(8)</title>
   </programme>
-  <programme start="20260729140000 +0800" stop="20260729142500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729164700 +0800" stop="20260729170300 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(9)</title>
   </programme>
-  <programme start="20260729142500 +0800" stop="20260729144000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729170300 +0800" stop="20260729171700 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(10)</title>
   </programme>
-  <programme start="20260729144000 +0800" stop="20260729145200 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  <programme start="20260729171700 +0800" stop="20260729173100 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(11)</title>
   </programme>
-  <programme start="20260729145200 +0800" stop="20260729150000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729173100 +0800" stop="20260729174500 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(12)</title>
   </programme>
-  <programme start="20260729150000 +0800" stop="20260729152000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729174500 +0800" stop="20260729180000 +0800" channel="深圳少儿"><title lang="zh">咖宝车神之炫舞战队(13)</title>
   </programme>
-  <programme start="20260729152000 +0800" stop="20260729152500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729180000 +0800" stop="20260729181400 +0800" channel="深圳少儿"><title lang="zh">行走亦课堂Ⅱ(2)</title>
   </programme>
-  <programme start="20260729152500 +0800" stop="20260729153000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729181400 +0800" stop="20260729182300 +0800" channel="深圳少儿"><title lang="zh">教育局微短剧:父爱总动员</title>
   </programme>
-  <programme start="20260729153000 +0800" stop="20260729160000 +0800" channel="CNC中文"><title lang="zh">你所不知道的中国</title>
+  <programme start="20260729182300 +0800" stop="20260729183500 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(1)</title>
   </programme>
-  <programme start="20260729160000 +0800" stop="20260729162500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729183500 +0800" stop="20260729184700 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(2)</title>
   </programme>
-  <programme start="20260729162500 +0800" stop="20260729163000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729184700 +0800" stop="20260729190000 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(3)</title>
   </programme>
-  <programme start="20260729163000 +0800" stop="20260729165000 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  <programme start="20260729190000 +0800" stop="20260729191100 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(4)</title>
   </programme>
-  <programme start="20260729165000 +0800" stop="20260729170000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729191100 +0800" stop="20260729192300 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(5)</title>
   </programme>
-  <programme start="20260729170000 +0800" stop="20260729172000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729192300 +0800" stop="20260729193500 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(6)</title>
   </programme>
-  <programme start="20260729172000 +0800" stop="20260729172300 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  <programme start="20260729193500 +0800" stop="20260729194700 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(7)</title>
   </programme>
-  <programme start="20260729172300 +0800" stop="20260729174000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729194700 +0800" stop="20260729200000 +0800" channel="深圳少儿"><title lang="zh">李哪吒上学记Ⅰ(8)</title>
   </programme>
-  <programme start="20260729174000 +0800" stop="20260729175000 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729200000 +0800" stop="20260729201100 +0800" channel="深圳少儿"><title lang="zh">聪明的顺溜之雄鹰小子Ⅰ(44)</title>
   </programme>
-  <programme start="20260729175000 +0800" stop="20260729175500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729201100 +0800" stop="20260729202200 +0800" channel="深圳少儿"><title lang="zh">聪明的顺溜之雄鹰小子Ⅰ(45)</title>
   </programme>
-  <programme start="20260729175500 +0800" stop="20260729180000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729000001 +0800" stop="20260729001000 +0800" channel="深圳都市"><title lang="zh">无忧渡(25)</title>
   </programme>
-  <programme start="20260729180000 +0800" stop="20260729183000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729001000 +0800" stop="20260729011000 +0800" channel="深圳都市"><title lang="zh">第一现场</title>
   </programme>
-  <programme start="20260729183000 +0800" stop="20260729183800 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  <programme start="20260729011000 +0800" stop="20260729013000 +0800" channel="深圳都市"><title lang="zh">第1时评</title>
   </programme>
-  <programme start="20260729183800 +0800" stop="20260729185000 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  <programme start="20260729013000 +0800" stop="20260729020000 +0800" channel="深圳都市"><title lang="zh">都市路路通</title>
   </programme>
-  <programme start="20260729185000 +0800" stop="20260729185500 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729020000 +0800" stop="20260729022000 +0800" channel="深圳都市"><title lang="zh">直播深圳</title>
   </programme>
-  <programme start="20260729185500 +0800" stop="20260729190000 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729022000 +0800" stop="20260729054500 +0800" channel="深圳都市"><title lang="zh">闭台</title>
   </programme>
-  <programme start="20260729190000 +0800" stop="20260729193000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729054500 +0800" stop="20260729061500 +0800" channel="深圳都市"><title lang="zh">开台、法观天下</title>
   </programme>
-  <programme start="20260729193000 +0800" stop="20260729200000 +0800" channel="CNC中文"><title lang="zh">环球财经</title>
+  <programme start="20260729061500 +0800" stop="20260729062800 +0800" channel="深圳都市"><title lang="zh">第1时评</title>
   </programme>
-  <programme start="20260729200000 +0800" stop="20260729203000 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  <programme start="20260729062800 +0800" stop="20260729070000 +0800" channel="深圳都市"><title lang="zh">都市路路通</title>
   </programme>
-  <programme start="20260729203000 +0800" stop="20260729210000 +0800" channel="CNC中文"><title lang="zh">环球精选</title>
+  <programme start="20260729070000 +0800" stop="20260729070100 +0800" channel="深圳都市"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
-  <programme start="20260729210000 +0800" stop="20260729213500 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729070100 +0800" stop="20260729080000 +0800" channel="深圳都市"><title lang="zh">第一现场</title>
   </programme>
-  <programme start="20260729213500 +0800" stop="20260729215500 +0800" channel="CNC中文"><title lang="zh">环境</title>
+  <programme start="20260729080000 +0800" stop="20260729082000 +0800" channel="深圳都市"><title lang="zh">直播深圳</title>
   </programme>
-  <programme start="20260729215500 +0800" stop="20260729220000 +0800" channel="CNC中文"><title lang="zh">天气新闻</title>
+  <programme start="20260729082000 +0800" stop="20260729091500 +0800" channel="深圳都市"><title lang="zh">生命树(32)</title><desc>电视剧《生命树》
+
+国家广电总局重点指导项目，由中央广播电视总台、正午阳光、爱奇艺等出品，李雪执导，杨紫领衔主演、胡歌特别出演，2026年1月30日在CCTV-8开播。该剧以青海可可西里反盗猎英雄杰桑·索南达杰和奇卡·扎巴多杰的真实事迹为原型，讲述上世纪90年代至今三十余年间，副县长多杰（胡歌 饰）组建巡山队打击盗猎、守护藏羚羊，青年女警白菊（杨紫 饰）加入巡山队推动建立自然保护区，并在多杰失踪多年后追查真相、还英雄以清名的故事。全剧历时七年打磨，在青海海拔4800米以上无人区完成90%以上实景拍摄，以双时空叙事交织生态守护与悬疑追凶，塑造了一群心怀理想、扎根高原的守护者群像，深刻诠释“绿水青山就是金山银山”的生态文明理念。
+
+纪录片《生命树》
+
+8集生态人文纪录片，与电视剧《生命树》同题共答、同步播出，由中央广播电视总台影视剧纪录片中心与青海省广电局联合出品，2026年2月7日在CCTV-9纪录频道首播。该片以电视剧的生态保护主线为叙事锚点，由胡歌、杨紫、张哲华等剧中演员分集引领，深入青海三江源核心区，围绕水源地守护、藏羚羊保护、盐湖资源保育、暗夜星空保护等议题，记录科研队员、巡山队员、生态管护员、可可西里公安等平凡守护者的真实故事。全片以真实视角呈现雪豹、藏羚羊等高原生灵的生存图景，展现三江源大地的生态韧性与守护力量，被观众称为“献给大地、英雄与人民的深情告白”。</desc>
   </programme>
-  <programme start="20260729220000 +0800" stop="20260729223500 +0800" channel="CNC中文"><title lang="zh">中国时间</title>
+  <programme start="20260729091500 +0800" stop="20260729101000 +0800" channel="深圳都市"><title lang="zh">生命树(33)</title><desc>电视剧《生命树》
+
+国家广电总局重点指导项目，由中央广播电视总台、正午阳光、爱奇艺等出品，李雪执导，杨紫领衔主演、胡歌特别出演，2026年1月30日在CCTV-8开播。该剧以青海可可西里反盗猎英雄杰桑·索南达杰和奇卡·扎巴多杰的真实事迹为原型，讲述上世纪90年代至今三十余年间，副县长多杰（胡歌 饰）组建巡山队打击盗猎、守护藏羚羊，青年女警白菊（杨紫 饰）加入巡山队推动建立自然保护区，并在多杰失踪多年后追查真相、还英雄以清名的故事。全剧历时七年打磨，在青海海拔4800米以上无人区完成90%以上实景拍摄，以双时空叙事交织生态守护与悬疑追凶，塑造了一群心怀理想、扎根高原的守护者群像，深刻诠释“绿水青山就是金山银山”的生态文明理念。
+
+纪录片《生命树》
+
+8集生态人文纪录片，与电视剧《生命树》同题共答、同步播出，由中央广播电视总台影视剧纪录片中心与青海省广电局联合出品，2026年2月7日在CCTV-9纪录频道首播。该片以电视剧的生态保护主线为叙事锚点，由胡歌、杨紫、张哲华等剧中演员分集引领，深入青海三江源核心区，围绕水源地守护、藏羚羊保护、盐湖资源保育、暗夜星空保护等议题，记录科研队员、巡山队员、生态管护员、可可西里公安等平凡守护者的真实故事。全片以真实视角呈现雪豹、藏羚羊等高原生灵的生存图景，展现三江源大地的生态韧性与守护力量，被观众称为“献给大地、英雄与人民的深情告白”。</desc>
   </programme>
-  <programme start="20260729223500 +0800" stop="20260729224500 +0800" channel="CNC中文"><title lang="zh">新华视点</title>
+  <programme start="20260729101000 +0800" stop="20260729110000 +0800" channel="深圳都市"><title lang="zh">生命树(34)</title><desc>电视剧《生命树》
+
+国家广电总局重点指导项目，由中央广播电视总台、正午阳光、爱奇艺等出品，李雪执导，杨紫领衔主演、胡歌特别出演，2026年1月30日在CCTV-8开播。该剧以青海可可西里反盗猎英雄杰桑·索南达杰和奇卡·扎巴多杰的真实事迹为原型，讲述上世纪90年代至今三十余年间，副县长多杰（胡歌 饰）组建巡山队打击盗猎、守护藏羚羊，青年女警白菊（杨紫 饰）加入巡山队推动建立自然保护区，并在多杰失踪多年后追查真相、还英雄以清名的故事。全剧历时七年打磨，在青海海拔4800米以上无人区完成90%以上实景拍摄，以双时空叙事交织生态守护与悬疑追凶，塑造了一群心怀理想、扎根高原的守护者群像，深刻诠释“绿水青山就是金山银山”的生态文明理念。
+
+纪录片《生命树》
+
+8集生态人文纪录片，与电视剧《生命树》同题共答、同步播出，由中央广播电视总台影视剧纪录片中心与青海省广电局联合出品，2026年2月7日在CCTV-9纪录频道首播。该片以电视剧的生态保护主线为叙事锚点，由胡歌、杨紫、张哲华等剧中演员分集引领，深入青海三江源核心区，围绕水源地守护、藏羚羊保护、盐湖资源保育、暗夜星空保护等议题，记录科研队员、巡山队员、生态管护员、可可西里公安等平凡守护者的真实故事。全片以真实视角呈现雪豹、藏羚羊等高原生灵的生存图景，展现三江源大地的生态韧性与守护力量，被观众称为“献给大地、英雄与人民的深情告白”。</desc>
   </programme>
-  <programme start="20260729224500 +0800" stop="20260729230000 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729110000 +0800" stop="20260729120000 +0800" channel="深圳都市"><title lang="zh">生命树(35)</title><desc>电视剧《生命树》
+
+国家广电总局重点指导项目，由中央广播电视总台、正午阳光、爱奇艺等出品，李雪执导，杨紫领衔主演、胡歌特别出演，2026年1月30日在CCTV-8开播。该剧以青海可可西里反盗猎英雄杰桑·索南达杰和奇卡·扎巴多杰的真实事迹为原型，讲述上世纪90年代至今三十余年间，副县长多杰（胡歌 饰）组建巡山队打击盗猎、守护藏羚羊，青年女警白菊（杨紫 饰）加入巡山队推动建立自然保护区，并在多杰失踪多年后追查真相、还英雄以清名的故事。全剧历时七年打磨，在青海海拔4800米以上无人区完成90%以上实景拍摄，以双时空叙事交织生态守护与悬疑追凶，塑造了一群心怀理想、扎根高原的守护者群像，深刻诠释“绿水青山就是金山银山”的生态文明理念。
+
+纪录片《生命树》
+
+8集生态人文纪录片，与电视剧《生命树》同题共答、同步播出，由中央广播电视总台影视剧纪录片中心与青海省广电局联合出品，2026年2月7日在CCTV-9纪录频道首播。该片以电视剧的生态保护主线为叙事锚点，由胡歌、杨紫、张哲华等剧中演员分集引领，深入青海三江源核心区，围绕水源地守护、藏羚羊保护、盐湖资源保育、暗夜星空保护等议题，记录科研队员、巡山队员、生态管护员、可可西里公安等平凡守护者的真实故事。全片以真实视角呈现雪豹、藏羚羊等高原生灵的生存图景，展现三江源大地的生态韧性与守护力量，被观众称为“献给大地、英雄与人民的深情告白”。</desc>
   </programme>
-  <programme start="20260729230000 +0800" stop="20260729233000 +0800" channel="CNC中文"><title lang="zh">最新播报</title>
+  <programme start="20260729120000 +0800" stop="20260729121500 +0800" channel="深圳都市"><title lang="zh">第1时评</title>
   </programme>
-  <programme start="20260729233000 +0800" stop="20260729234300 +0800" channel="CNC中文"><title lang="zh">环球行走</title>
+  <programme start="20260729121500 +0800" stop="20260729130000 +0800" channel="深圳都市"><title lang="zh">法观天下</title>
   </programme>
-  <programme start="20260729234300 +0800" stop="20260729234400 +0800" channel="CNC中文"><title lang="zh">瞬间60秒</title>
+  <programme start="20260729130000 +0800" stop="20260729140000 +0800" channel="深圳都市"><title lang="zh">破冰行动(43)</title>
   </programme>
-  <programme start="20260729234400 +0800" stop="20260729235600 +0800" channel="CNC中文"><title lang="zh">纪实</title>
+  <programme start="20260729140000 +0800" stop="20260729150000 +0800" channel="深圳都市"><title lang="zh">破冰行动(44)</title>
   </programme>
-  <programme start="20260729235600 +0800" stop="20260730000000 +0800" channel="CNC中文"><title lang="zh">城市天气</title>
+  <programme start="20260729150000 +0800" stop="20260729155000 +0800" channel="深圳都市"><title lang="zh">破冰行动(45)</title>
   </programme>
-  <programme start="20260729000001 +0800" stop="20260729002500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  <programme start="20260729155000 +0800" stop="20260729164000 +0800" channel="深圳都市"><title lang="zh">破冰行动(46)</title>
   </programme>
-  <programme start="20260729002500 +0800" stop="20260729003000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729164000 +0800" stop="20260729173700 +0800" channel="深圳都市"><title lang="zh">破冰行动(47)</title>
   </programme>
-  <programme start="20260729003000 +0800" stop="20260729005500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729173700 +0800" stop="20260729174700 +0800" channel="深圳都市"><title lang="zh">广告专题</title>
   </programme>
-  <programme start="20260729005500 +0800" stop="20260729010000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
+  <programme start="20260729174700 +0800" stop="20260729182000 +0800" channel="深圳都市"><title lang="zh">都市路路通</title>
   </programme>
-  <programme start="20260729010000 +0800" stop="20260729012500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  <programme start="20260729182000 +0800" stop="20260729191500 +0800" channel="深圳都市"><title lang="zh">第一现场</title>
   </programme>
-  <programme start="20260729012500 +0800" stop="20260729013000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729191500 +0800" stop="20260729193000 +0800" channel="深圳都市"><title lang="zh">第1时评</title>
   </programme>
-  <programme start="20260729013000 +0800" stop="20260729015500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729193000 +0800" stop="20260729200000 +0800" channel="深圳都市"><title lang="zh">女人帮</title>
   </programme>
-  <programme start="20260729015500 +0800" stop="20260729020000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  <programme start="20260729200000 +0800" stop="20260729202000 +0800" channel="深圳都市"><title lang="zh">直播深圳</title>
   </programme>
-  <programme start="20260729020000 +0800" stop="20260729022500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  <programme start="20260729000001 +0800" stop="20260729070000 +0800" channel="深圳龙岗"><title lang="zh">闭台</title>
   </programme>
-  <programme start="20260729022500 +0800" stop="20260729023000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729070000 +0800" stop="20260729073700 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729023000 +0800" stop="20260729025500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729073700 +0800" stop="20260729084900 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729025500 +0800" stop="20260729030000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  <programme start="20260729084900 +0800" stop="20260729092200 +0800" channel="深圳龙岗"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
-  <programme start="20260729030000 +0800" stop="20260729032500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  <programme start="20260729092200 +0800" stop="20260729100100 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729032500 +0800" stop="20260729033000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729100100 +0800" stop="20260729110900 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729033000 +0800" stop="20260729040000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  <programme start="20260729110900 +0800" stop="20260729113800 +0800" channel="深圳龙岗"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
-  <programme start="20260729040000 +0800" stop="20260729042500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  <programme start="20260729113800 +0800" stop="20260729121500 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729042500 +0800" stop="20260729043000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729121500 +0800" stop="20260729131400 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729043000 +0800" stop="20260729045500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729131400 +0800" stop="20260729135000 +0800" channel="深圳龙岗"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
-  <programme start="20260729045500 +0800" stop="20260729050000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  <programme start="20260729135000 +0800" stop="20260729142400 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729050000 +0800" stop="20260729052500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  <programme start="20260729142400 +0800" stop="20260729152300 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729052500 +0800" stop="20260729053000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729152300 +0800" stop="20260729155400 +0800" channel="深圳龙岗"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
-  <programme start="20260729053000 +0800" stop="20260729060000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  <programme start="20260729155400 +0800" stop="20260729163000 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729060000 +0800" stop="20260729062500 +0800" channel="CNC英文"><title lang="zh">社文</title>
+  <programme start="20260729163000 +0800" stop="20260729172700 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729062500 +0800" stop="20260729063000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
+  <programme start="20260729172700 +0800" stop="20260729175800 +0800" channel="深圳龙岗"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
-  <programme start="20260729063000 +0800" stop="20260729065500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729175800 +0800" stop="20260729183100 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729065500 +0800" stop="20260729070000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  <programme start="20260729183100 +0800" stop="20260729193000 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
   </programme>
-  <programme start="20260729070000 +0800" stop="20260729072500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
+  <programme start="20260729193000 +0800" stop="20260729195200 +0800" channel="深圳龙岗"><title lang="zh">龙岗新闻</title>
   </programme>
-  <programme start="20260729072500 +0800" stop="20260729073000 +0800" channel="CNC英文"><title lang="zh">片花</title>
+  <programme start="20260729195200 +0800" stop="20260729202500 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
-  <programme start="20260729073000 +0800" stop="20260729080000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
+  <programme start="20260729000001 +0800" stop="20260729010000 +0800" channel="采昌影剧"><title lang="zh">醉後的浪漫 Crazy Romance</title>
   </programme>
-  <programme start="20260729080000 +0800" stop="20260729082500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
+  <programme start="20260729000001 +0800" stop="20260729000900 +0800" channel="阳江-1"><title lang="zh">阳江新闻</title>
   </programme>
-  <programme start="20260729082500 +0800" stop="20260729083000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729083000 +0800" stop="20260729090000 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729090000 +0800" stop="20260729092500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729092500 +0800" stop="20260729093000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729093000 +0800" stop="20260729095500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729095500 +0800" stop="20260729100000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729100000 +0800" stop="20260729102500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
-  </programme>
-  <programme start="20260729102500 +0800" stop="20260729103000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729103000 +0800" stop="20260729105500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729105500 +0800" stop="20260729110000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
-  </programme>
-  <programme start="20260729110000 +0800" stop="20260729112500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729112500 +0800" stop="20260729113000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729113000 +0800" stop="20260729120000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729120000 +0800" stop="20260729121000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729121000 +0800" stop="20260729123500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729123500 +0800" stop="20260729130000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729130000 +0800" stop="20260729132500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729132500 +0800" stop="20260729133500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729133500 +0800" stop="20260729140000 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729140000 +0800" stop="20260729141000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729141000 +0800" stop="20260729141500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729141500 +0800" stop="20260729142000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729142000 +0800" stop="20260729144500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729144500 +0800" stop="20260729145000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729145000 +0800" stop="20260729150000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729150000 +0800" stop="20260729150500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729150500 +0800" stop="20260729153000 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
-  </programme>
-  <programme start="20260729153000 +0800" stop="20260729153500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729153500 +0800" stop="20260729154000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729154000 +0800" stop="20260729155000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729155000 +0800" stop="20260729161500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729161500 +0800" stop="20260729162000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729162000 +0800" stop="20260729163000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729163000 +0800" stop="20260729164000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729164000 +0800" stop="20260729164500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729164500 +0800" stop="20260729165500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729165500 +0800" stop="20260729170000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729170000 +0800" stop="20260729171500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729171500 +0800" stop="20260729172500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729172500 +0800" stop="20260729173000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729173000 +0800" stop="20260729173500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729173500 +0800" stop="20260729175000 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729175000 +0800" stop="20260729180000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729180000 +0800" stop="20260729181500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729181500 +0800" stop="20260729182500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729182500 +0800" stop="20260729183000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729183000 +0800" stop="20260729190000 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729190000 +0800" stop="20260729191500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729191500 +0800" stop="20260729192000 +0800" channel="CNC英文"><title lang="zh">下三档预告</title>
-  </programme>
-  <programme start="20260729192000 +0800" stop="20260729192500 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729192500 +0800" stop="20260729193000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729193000 +0800" stop="20260729195500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729195500 +0800" stop="20260729200000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729200000 +0800" stop="20260729201500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729201500 +0800" stop="20260729202500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729202500 +0800" stop="20260729203000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729203000 +0800" stop="20260729205500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729205500 +0800" stop="20260729210000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729210000 +0800" stop="20260729211000 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729211000 +0800" stop="20260729212500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729212500 +0800" stop="20260729213000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729213000 +0800" stop="20260729215500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
-  </programme>
-  <programme start="20260729215500 +0800" stop="20260729220000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729220000 +0800" stop="20260729221500 +0800" channel="CNC英文"><title lang="zh">世界新闻</title>
-  </programme>
-  <programme start="20260729221500 +0800" stop="20260729222000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729222000 +0800" stop="20260729222500 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729222500 +0800" stop="20260729223000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729223000 +0800" stop="20260729225500 +0800" channel="CNC英文"><title lang="zh">中国新闻</title><desc>《中国新闻》创办于1992年10月1日，是CCTV-4中文国际频道最重要的新闻节目品牌之一，多次获得中央电视台年度十大名牌节目称号。《中国新闻》的栏目宗旨是向全球华人传递最新、最快、最权威的新闻资讯。</desc>
-  </programme>
-  <programme start="20260729225500 +0800" stop="20260729230000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729230000 +0800" stop="20260729232500 +0800" channel="CNC英文"><title lang="zh">社文</title>
-  </programme>
-  <programme start="20260729232500 +0800" stop="20260729233000 +0800" channel="CNC英文"><title lang="zh">天气新闻</title>
-  </programme>
-  <programme start="20260729233000 +0800" stop="20260729235500 +0800" channel="CNC英文"><title lang="zh">经济新闻</title>
-  </programme>
-  <programme start="20260729235500 +0800" stop="20260730000000 +0800" channel="CNC英文"><title lang="zh">片花</title>
-  </programme>
-  <programme start="20260729000000 +0000" stop="20260729010000 +0000" channel="凤凰卫视"><title lang="zh">凤凰洲际快车</title>
-  </programme>
-  <programme start="20260729010000 +0000" stop="20260729013000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
-  </programme>
-  <programme start="20260729013000 +0000" stop="20260729020000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
-  </programme>
-  <programme start="20260729020000 +0000" stop="20260729023000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
-  </programme>
-  <programme start="20260729023000 +0000" stop="20260729030000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
-  </programme>
-  <programme start="20260729030000 +0000" stop="20260729033000 +0000" channel="凤凰卫视"><title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20260729033000 +0000" stop="20260729040000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
-  </programme>
-  <programme start="20260729040000 +0000" stop="20260729043000 +0000" channel="凤凰卫视"><title lang="zh">我们和它们</title>
-  </programme>
-  <programme start="20260729043000 +0000" stop="20260729050000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
-  </programme>
-  <programme start="20260729050000 +0000" stop="20260729053000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
-  </programme>
-  <programme start="20260729053000 +0000" stop="20260729060000 +0000" channel="凤凰卫视"><title lang="zh">香港热厨房</title>
-  </programme>
-  <programme start="20260729060000 +0000" stop="20260729063000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
-  </programme>
-  <programme start="20260729063000 +0000" stop="20260729070000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
-  </programme>
-  <programme start="20260729070000 +0000" stop="20260729090000 +0000" channel="凤凰卫视"><title lang="zh">凤凰早班车</title>
-  </programme>
-  <programme start="20260729090000 +0000" stop="20260729093000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
-  </programme>
-  <programme start="20260729093000 +0000" stop="20260729100000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
-  </programme>
-  <programme start="20260729100000 +0000" stop="20260729110000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
-  </programme>
-  <programme start="20260729110000 +0000" stop="20260729113000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
-  </programme>
-  <programme start="20260729113000 +0000" stop="20260729120000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
-  </programme>
-  <programme start="20260729120000 +0000" stop="20260729125500 +0000" channel="凤凰卫视"><title lang="zh">凤凰午间专列</title>
-  </programme>
-  <programme start="20260729125500 +0000" stop="20260729130000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
-  </programme>
-  <programme start="20260729130000 +0000" stop="20260729133000 +0000" channel="凤凰卫视"><title lang="zh">总编辑时间</title>
-  </programme>
-  <programme start="20260729133000 +0000" stop="20260729140000 +0000" channel="凤凰卫视"><title lang="zh">近观中国</title>
-  </programme>
-  <programme start="20260729140000 +0000" stop="20260729143000 +0000" channel="凤凰卫视"><title lang="zh">新闻鉴证组</title>
-  </programme>
-  <programme start="20260729143000 +0000" stop="20260729150000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
-  </programme>
-  <programme start="20260729150000 +0000" stop="20260729160000 +0000" channel="凤凰卫视"><title lang="zh">凤凰正点播报</title>
-  </programme>
-  <programme start="20260729160000 +0000" stop="20260729163000 +0000" channel="凤凰卫视"><title lang="zh">冷暖人生</title>
-  </programme>
-  <programme start="20260729163000 +0000" stop="20260729170000 +0000" channel="凤凰卫视"><title lang="zh">纪录大时代</title>
-  </programme>
-  <programme start="20260729170000 +0000" stop="20260729173000 +0000" channel="凤凰卫视"><title lang="zh">香港热厨房</title>
-  </programme>
-  <programme start="20260729173000 +0000" stop="20260729180000 +0000" channel="凤凰卫视"><title lang="zh">有报天天读</title>
-  </programme>
-  <programme start="20260729180000 +0000" stop="20260729183000 +0000" channel="凤凰卫视"><title lang="zh">凤凰焦点新闻</title>
-  </programme>
-  <programme start="20260729183000 +0000" stop="20260729190000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
-  </programme>
-  <programme start="20260729190000 +0000" stop="20260729193000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
-  </programme>
-  <programme start="20260729193000 +0000" stop="20260729200000 +0000" channel="凤凰卫视"><title lang="zh">发现大湾区</title>
-  </programme>
-  <programme start="20260729200000 +0000" stop="20260729203000 +0000" channel="凤凰卫视"><title lang="zh">凤凰大视野</title>
-  </programme>
-  <programme start="20260729203000 +0000" stop="20260729210000 +0000" channel="凤凰卫视"><title lang="zh">军情观察室</title>
-  </programme>
-  <programme start="20260729210000 +0000" stop="20260729215500 +0000" channel="凤凰卫视"><title lang="zh">时事直通车</title>
-  </programme>
-  <programme start="20260729215500 +0000" stop="20260729220000 +0000" channel="凤凰卫视"><title lang="zh">凤凰气象站</title>
-  </programme>
-  <programme start="20260729220000 +0000" stop="20260729223000 +0000" channel="凤凰卫视"><title lang="zh">凤凰聚焦</title>
-  </programme>
-  <programme start="20260729223000 +0000" stop="20260729230000 +0000" channel="凤凰卫视"><title lang="zh">凤凰全球连线</title>
-  </programme>
-  <programme start="20260729230000 +0000" stop="20260729233000 +0000" channel="凤凰卫视"><title lang="zh">亚洲财经透视</title>
-  </programme>
-  <programme start="20260729233000 +0000" stop="20260730000000 +0000" channel="凤凰卫视"><title lang="zh">新闻今日谈</title>
-  </programme>
-  <programme start="20260729004400 +0000" stop="20260729005500 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20260729005500 +0000" stop="20260729011600 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
-  </programme>
-  <programme start="20260729011600 +0000" stop="20260729020000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
-  </programme>
-  <programme start="20260729020000 +0000" stop="20260729024800 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
-  </programme>
-  <programme start="20260729024800 +0000" stop="20260729030900 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729030900 +0000" stop="20260729033000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729033000 +0000" stop="20260729035100 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729035100 +0000" stop="20260729041300 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729041300 +0000" stop="20260729043400 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729043400 +0000" stop="20260729045500 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729045500 +0000" stop="20260729051500 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729051500 +0000" stop="20260729053600 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729053600 +0000" stop="20260729060000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729060000 +0000" stop="20260729065100 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
-  </programme>
-  <programme start="20260729065100 +0000" stop="20260729065800 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729065800 +0000" stop="20260729071800 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
-  </programme>
-  <programme start="20260729071800 +0000" stop="20260729080900 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
-  </programme>
-  <programme start="20260729080900 +0000" stop="20260729083300 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729083300 +0000" stop="20260729084300 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20260729084300 +0000" stop="20260729090500 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
-  </programme>
-  <programme start="20260729090500 +0000" stop="20260729092800 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729092800 +0000" stop="20260729101700 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729101700 +0000" stop="20260729110000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729110000 +0000" stop="20260729112400 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729112400 +0000" stop="20260729115100 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729115100 +0000" stop="20260729121800 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729121800 +0000" stop="20260729124400 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729124400 +0000" stop="20260729131200 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729131200 +0000" stop="20260729133700 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729133700 +0000" stop="20260729140000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729140000 +0000" stop="20260729144200 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729144200 +0000" stop="20260729145400 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20260729145400 +0000" stop="20260729152000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729152000 +0000" stop="20260729152700 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729152700 +0000" stop="20260729161100 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729161100 +0000" stop="20260729163700 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729163700 +0000" stop="20260729170400 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729170400 +0000" stop="20260729174500 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729174500 +0000" stop="20260729175000 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729175000 +0000" stop="20260729180100 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729180100 +0000" stop="20260729182800 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729182800 +0000" stop="20260729184000 +0000" channel="南方卫视"><title lang="zh">笑口组</title>
-  </programme>
-  <programme start="20260729184000 +0000" stop="20260729193000 +0000" channel="南方卫视"><title lang="zh">城事特搜</title>
-  </programme>
-  <programme start="20260729193000 +0000" stop="20260729200000 +0000" channel="南方卫视"><title lang="zh">我爱返寻味</title>
-  </programme>
-  <programme start="20260729200000 +0000" stop="20260729210000 +0000" channel="南方卫视"><title lang="zh">湾区最新闻</title>
-  </programme>
-  <programme start="20260729210000 +0000" stop="20260729212400 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729212400 +0000" stop="20260729214600 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729214600 +0000" stop="20260729220700 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729220700 +0000" stop="20260729222900 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729222900 +0000" stop="20260729224900 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729224900 +0000" stop="20260729231000 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729231000 +0000" stop="20260729232100 +0000" channel="南方卫视"><title lang="zh">纪录·在路上</title>
-  </programme>
-  <programme start="20260729232100 +0000" stop="20260729234200 +0000" channel="南方卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
-  </programme>
-  <programme start="20260729234200 +0000" stop="20260729234600 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729234600 +0000" stop="20260729235500 +0000" channel="南方卫视"><title lang="zh">每日运动派</title>
-  </programme>
-  <programme start="20260729235500 +0000" stop="20260730004500 +0000" channel="南方卫视"><title lang="zh">湾区文化坊</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729001434 +0800" channel="精品大剧"><title lang="zh">34_四喜</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729001209 +0800" channel="军旅剧场"><title lang="zh">鲁韵梁山酒好物推荐</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000809 +0800" channel="热播精选"><title lang="zh">35_我和我的儿女们</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729003649 +0800" channel="爱情喜剧"><title lang="zh">红毯先生</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729001646 +0800" channel="精品综合"><title lang="zh">傀儡门之惊天魔局</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729002819 +0800" channel="惊悚悬疑"><title lang="zh">异形寄生：起源</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729014142 +0800" channel="黑莓电影"><title lang="zh">变形金刚4 绝迹重生</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729002537 +0800" channel="谍战大剧"><title lang="zh">鲁韵梁山酒好物推荐</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729002938 +0800" channel="精品体育"><title lang="zh">25-26赛季NBA季后赛5月29日：雷霆VS马刺</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000733 +0800" channel="精品萌宠"><title lang="zh">警犬成长记（4）相守一生</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729011848 +0800" channel="中国功夫"><title lang="zh">隐天子之大话江湖</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729003836 +0800" channel="黑莓动画"><title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729002138 +0800" channel="潮妈辣婆"><title lang="zh">鲁韵梁山酒好物推荐</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000131 +0800" channel="哒啵赛事"><title lang="zh">哒啵-勇闯小西天【黑神话悟空】</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000716 +0800" channel="哒啵电竞"><title lang="zh">小波-激烈对决【猛兽派对】</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000604 +0800" channel="烽烟剧场"><title lang="zh">鲁韵梁山酒好物推荐</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729002020 +0800" channel="军事评论"><title lang="zh">鹰击长空 第1集 飞向东方</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729003000 +0800" channel="南京十八"><title lang="zh">标点</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000800 +0800" channel="南京教科"><title lang="zh">消费向导</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729085500 +0800" channel="南京文旅"><title lang="zh">欢乐点点</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729070000 +0800" channel="宿迁综合"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729001805 +0800" channel="黑莓影视"><title lang="zh">45_庆余年</title>
+  <programme start="20260729000001 +0800" stop="20260729003500 +0800" channel="靖天电影"><title lang="zh">死亡突擊</title>
   </programme>
 </tv>

@@ -1,22 +1,12 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="NHK World"><display-name lang="zh">NHK World</display-name><display-name lang="zh">NewsWorld</display-name>
   </channel>
-  <channel id="阳江-1"><display-name lang="zh">阳江-1</display-name>
-  </channel>
-  <channel id="靖天电影"><display-name lang="zh">靖天电影</display-name><display-name lang="zh">靖天电影台</display-name>
-  </channel>
-  <channel id="采昌影剧"><display-name lang="zh">采昌影剧</display-name><display-name lang="zh">采昌影剧台</display-name>
-  </channel>
   <channel id="深圳龙岗"><display-name lang="zh">深圳龙岗</display-name>
-  </channel>
-  <channel id="深圳都市"><display-name lang="zh">深圳都市</display-name>
-  </channel>
-  <channel id="惠州综合"><display-name lang="zh">惠州综合</display-name>
   </channel>
   <channel id="深圳少儿"><display-name lang="zh">深圳少儿</display-name>
   </channel>
-  <programme start="20260729000001 +0800" stop="20260729003000 +0800" channel="NHK World"><title lang="zh">The News</title>
-  </programme>
+  <channel id="深圳都市"><display-name lang="zh">深圳都市</display-name>
+  </channel>
   <programme start="20260729003000 +0800" stop="20260729010000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
   <programme start="20260729010000 +0800" stop="20260729013000 +0800" channel="NHK World"><title lang="zh">News Hour</title>
@@ -38,10 +28,6 @@
   <programme start="20260729050000 +0800" stop="20260729053000 +0800" channel="NHK World"><title lang="zh">The News</title>
   </programme>
   <programme start="20260729053000 +0800" stop="20260729063000 +0800" channel="NHK World"><title lang="zh">The News</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000200 +0800" channel="惠州综合"><title lang="zh">第一剧场</title><desc>优秀电视剧展播</desc>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729003400 +0800" channel="深圳少儿"><title lang="zh">青春之城(20)</title>
   </programme>
   <programme start="20260729003400 +0800" stop="20260729065800 +0800" channel="深圳少儿"><title lang="zh">闭台礼貌片</title>
   </programme>
@@ -215,8 +201,6 @@
   </programme>
   <programme start="20260729201100 +0800" stop="20260729202200 +0800" channel="深圳少儿"><title lang="zh">聪明的顺溜之雄鹰小子Ⅰ(45)</title>
   </programme>
-  <programme start="20260729000001 +0800" stop="20260729001000 +0800" channel="深圳都市"><title lang="zh">无忧渡(25)</title>
-  </programme>
   <programme start="20260729001000 +0800" stop="20260729011000 +0800" channel="深圳都市"><title lang="zh">第一现场</title>
   </programme>
   <programme start="20260729011000 +0800" stop="20260729013000 +0800" channel="深圳都市"><title lang="zh">第1时评</title>
@@ -297,8 +281,6 @@
   </programme>
   <programme start="20260729200000 +0800" stop="20260729202000 +0800" channel="深圳都市"><title lang="zh">直播深圳</title>
   </programme>
-  <programme start="20260729000001 +0800" stop="20260729070000 +0800" channel="深圳龙岗"><title lang="zh">闭台</title>
-  </programme>
   <programme start="20260729070000 +0800" stop="20260729073700 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
   </programme>
   <programme start="20260729073700 +0800" stop="20260729084900 +0800" channel="深圳龙岗"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
@@ -336,11 +318,5 @@
   <programme start="20260729193000 +0800" stop="20260729195200 +0800" channel="深圳龙岗"><title lang="zh">龙岗新闻</title>
   </programme>
   <programme start="20260729195200 +0800" stop="20260729202500 +0800" channel="深圳龙岗"><title lang="zh">新短秀新生活</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729010000 +0800" channel="采昌影剧"><title lang="zh">醉後的浪漫 Crazy Romance</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729000900 +0800" channel="阳江-1"><title lang="zh">阳江新闻</title>
-  </programme>
-  <programme start="20260729000001 +0800" stop="20260729003500 +0800" channel="靖天电影"><title lang="zh">死亡突擊</title>
   </programme>
 </tv>

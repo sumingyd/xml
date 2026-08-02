@@ -1,0 +1,980 @@
+<tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
+  <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV-14</display-name><display-name lang="zh">CCTV-14少儿</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV-14 高清</display-name><display-name lang="zh">CCTV14 高清</display-name>
+  </channel>
+  <channel id="大湾区卫视"><display-name lang="zh">大湾区卫视</display-name>
+  </channel>
+  <channel id="CCTV4K"><display-name lang="zh">CCTV-4K 超高清</display-name><display-name lang="zh">CCTV-4K</display-name>
+  </channel>
+  <channel id="中国教育2"><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育-2</display-name><display-name lang="zh">中国教育2</display-name><display-name lang="zh">CHANNEL00000077</display-name><display-name lang="zh">CETV-2</display-name><display-name lang="zh">CETV2</display-name>
+  </channel>
+  <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
+  </channel>
+  <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
+  </channel>
+  <channel id="CCTV7"><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV7国防军事</display-name><display-name lang="zh">CHANNEL00000318</display-name><display-name lang="zh">CCTV-7</display-name><display-name lang="zh">CCTV-7国防军事</display-name><display-name lang="zh">CCTV 7</display-name><display-name lang="zh">CCTV-7 高清</display-name><display-name lang="zh">CCTV7 高清</display-name>
+  </channel>
+  <channel id="天津教育"><display-name lang="zh">天津教育</display-name><display-name lang="zh">天津教育</display-name>
+  </channel>
+  <channel id="纪实科教"><display-name lang="zh">纪实科教</display-name><display-name lang="zh">北京纪实科教</display-name><display-name lang="zh">CHANNEL00000332</display-name>
+  </channel>
+  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
+  </channel>
+  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
+  </channel>
+  <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
+  </channel>
+  <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
+  </channel>
+  <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">CHANNEL00000334</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
+  <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
+  </channel>
+  <channel id="山东卫视"><display-name lang="zh">山东卫视</display-name><display-name lang="zh">山东卫视</display-name><display-name lang="zh">山东</display-name><display-name lang="zh">山东卫视-4K</display-name><display-name lang="zh">山东卫视4K</display-name><display-name lang="zh">CHANNEL10000301</display-name>
+  </channel>
+  <channel id="河北卫视"><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北</display-name><display-name lang="zh">CHANNEL00000330</display-name>
+  </channel>
+  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
+  </channel>
+  <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
+  </channel>
+  <channel id="福建少儿"><display-name lang="zh">福建少儿</display-name>
+  </channel>
+  <channel id="CNN"><display-name lang="zh">CNN</display-name><display-name lang="zh">CNNHD</display-name>
+  </channel>
+  <channel id="广西卫视"><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西卫视</display-name><display-name lang="zh">广西</display-name><display-name lang="zh">CHANNEL00000368</display-name>
+  </channel>
+  <channel id="福建综合"><display-name lang="zh">福建综合</display-name>
+  </channel>
+  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
+  </channel>
+  <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南</display-name><display-name lang="zh">CHANNEL00000358</display-name>
+  </channel>
+  <channel id="Discovery科学频道"><display-name lang="zh">Discovery科学频道</display-name><display-name lang="zh">DISCOVERY</display-name><display-name lang="zh">DISCOVERYHD</display-name>
+  </channel>
+  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  </channel>
+  <channel id="四川卫视"><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川</display-name><display-name lang="zh">四川卫视-4K</display-name><display-name lang="zh">四川卫视4K</display-name><display-name lang="zh">CHANNEL00000348</display-name>
+  </channel>
+  <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
+  </channel>
+  <channel id="山西卫视"><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西</display-name><display-name lang="zh">CHANNEL00000032</display-name>
+  </channel>
+  <channel id="浙江卫视"><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江卫视</display-name><display-name lang="zh">浙江</display-name><display-name lang="zh">浙江卫视-4K</display-name><display-name lang="zh">浙江卫视4K</display-name><display-name lang="zh">CHANNEL00000305</display-name>
+  </channel>
+  <channel id="湖南卫视"><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南卫视</display-name><display-name lang="zh">湖南</display-name><display-name lang="zh">湖南卫视-4K</display-name><display-name lang="zh">湖南卫视4K</display-name><display-name lang="zh">CHANNEL00000324</display-name>
+  </channel>
+  <channel id="CCTV8"><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV8电视剧</display-name><display-name lang="zh">CHANNEL00000362</display-name><display-name lang="zh">CCTV-8</display-name><display-name lang="zh">CCTV-8电视剧</display-name><display-name lang="zh">CCTV 8</display-name><display-name lang="zh">CCTV-8 高清</display-name><display-name lang="zh">CCTV8 高清</display-name>
+  </channel>
+  <channel id="CCTV12"><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV12社会与法</display-name><display-name lang="zh">CHANNEL00000322</display-name><display-name lang="zh">CCTV-12</display-name><display-name lang="zh">CCTV-12社会与法</display-name><display-name lang="zh">CCTV 12</display-name><display-name lang="zh">CCTV-12 高清</display-name><display-name lang="zh">CCTV12 高清</display-name>
+  </channel>
+  <channel id="东南卫视"><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南卫视</display-name><display-name lang="zh">东南</display-name><display-name lang="zh">CHANNEL00000310</display-name>
+  </channel>
+  <channel id="France 24"><display-name lang="zh">France 24</display-name>
+  </channel>
+  <channel id="天津影视"><display-name lang="zh">天津影视</display-name><display-name lang="zh">天津影视</display-name>
+  </channel>
+  <channel id="TVBS精采"><display-name lang="zh">TVBS精采</display-name><display-name lang="zh">TVBS精采台</display-name>
+  </channel>
+  <channel id="海南卫视"><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南</display-name><display-name lang="zh">CHANNEL00000347</display-name><display-name lang="zh">海南综合</display-name>
+  </channel>
+  <channel id="吉林卫视"><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林</display-name><display-name lang="zh">CHANNEL00000363</display-name>
+  </channel>
+  <channel id="青海卫视"><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海</display-name><display-name lang="zh">CHANNEL00000366</display-name>
+  </channel>
+  <channel id="福建教育"><display-name lang="zh">福建教育</display-name>
+  </channel>
+  <channel id="CCTV16"><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV16 奥林匹克</display-name><display-name lang="zh">CCTV16奥林匹克</display-name><display-name lang="zh">CCTV奥林匹克</display-name><display-name lang="zh">奥林匹克</display-name>
+  </channel>
+  <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">深圳卫视4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
+  </channel>
+  <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">CETV-1</display-name><display-name lang="zh">CETV1</display-name>
+  </channel>
+  <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
+  </channel>
+  <channel id="CGTN阿语"><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CGTN阿拉伯语</display-name><display-name lang="zh">CHANNEL00000356</display-name>
+  </channel>
+  <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name><display-name lang="zh">HBOSIGNATURE</display-name><display-name lang="zh">LOVENATURE</display-name>
+  </channel>
+  <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
+  </channel>
+  <channel id="江苏卫视"><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏卫视</display-name><display-name lang="zh">江苏</display-name><display-name lang="zh">江苏卫视-4K</display-name><display-name lang="zh">江苏卫视4K</display-name><display-name lang="zh">CHANNEL00000304</display-name>
+  </channel>
+  <channel id="CCTV17"><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV17农业农村</display-name><display-name lang="zh">CHANNEL00000303</display-name><display-name lang="zh">CCTV-17</display-name><display-name lang="zh">CCTV-17农业农村</display-name><display-name lang="zh">CCTV 17</display-name><display-name lang="zh">CCTV-17 高清</display-name><display-name lang="zh">CCTV17 高清</display-name>
+  </channel>
+  <channel id="广东卫视"><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东卫视</display-name><display-name lang="zh">广东</display-name><display-name lang="zh">广东卫视-4K</display-name><display-name lang="zh">广东卫视4K</display-name><display-name lang="zh">CHANNEL00000307</display-name>
+  </channel>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
+  </channel>
+  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
+  </channel>
+  <channel id="CGTN"><display-name lang="zh">CGTN</display-name><display-name lang="zh">CGTN</display-name><display-name lang="zh">CHANNEL00000352</display-name>
+  </channel>
+  <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name>
+  </channel>
+  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
+  </channel>
+  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
+  </channel>
+  <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
+  </channel>
+  <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
+  </channel>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
+  </channel>
+  <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV-11</display-name><display-name lang="zh">CCTV-11戏曲</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV-11 高清</display-name><display-name lang="zh">CCTV11 高清</display-name>
+  </channel>
+  <channel id="江苏新闻"><display-name lang="zh">江苏新闻</display-name>
+  </channel>
+  <channel id="西藏卫视"><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏卫视</display-name><display-name lang="zh">西藏</display-name><display-name lang="zh">CHANNEL00000392</display-name>
+  </channel>
+  <channel id="安徽卫视"><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽</display-name><display-name lang="zh">CHANNEL00000328</display-name>
+  </channel>
+  <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
+  </channel>
+  <programme start="20260805000001 +0800" stop="20260805000300 +0800" channel="CCTV10"><title lang="zh">文脉春秋</title><desc>观一城文脉，知古今春秋。这里有城市发展的营造智慧与奇迹，也有历史文化名城的文化传承故事。央视综合频道（CCTV-1）纪录片《文脉春秋》开播，邀您畅游国家历史文化名城。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001300 +0800" channel="CCTV11"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805005100 +0800" channel="CCTV12"><title lang="zh">方圆剧阵</title><desc>中央电视台社会与法频道（CCTV-12）法制栏目剧，2019年10月14日开播，原名《普法栏目剧》，2021年9月更名。每期以真实案例为原型，通过剧情演绎与主持人串讲形式，再现刑事案件、民事纠纷、社会热点事件，还原事件经过，剖析人物心理，普及法律知识，彰显法律正义。每日19:22首播，时长约45分钟。口号：“方圆之间，正义彰显。”</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003600 +0800" channel="CCTV14"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002400 +0800" channel="CCTV15"><title lang="zh">2024CMG音乐合辑</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000500 +0800" channel="CCTV16"><title lang="zh">体育节目</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001500 +0800" channel="CCTV17"><title lang="zh">三农群英汇</title><desc>集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805035400 +0800" channel="CCTV4K"><title lang="zh">丝绸之旅20251</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000500 +0800" channel="CCTV7"><title lang="zh">军事纪实</title><desc>中央电视台国防军事频道纪实栏目，2006年开播。以纪录片手法记录普通官兵的训练生活、重大演训任务、国防工程建设等国防军事领域真实故事。节目采用跟踪拍摄与深度采访相结合的方式，讲述一线官兵的奋斗与成长，展现新时代人民军队的强军风貌。周一至周五20:45首播，每集约20分钟。口号：“记录强军足迹，讲述军营故事。”</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000450 +0800" channel="CCTV8"><title lang="zh">星推荐</title><desc>中央电视台电视剧频道原创互动导视类栏目，2014年1月14日开播。每期邀请一位电视剧界热点人物作为推介人，以“明星推荐+每日换题”模式，向观众介绍CCTV-8热播剧目信息，突出服务性与互动感。每日07:45、11:23、13:10、15:52、18:45、22:29在CCTV-8滚动播出六次。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000300 +0800" channel="CCTV9"><title lang="zh">寰宇视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260805000000 +0800" stop="20260805010000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805020000 +0800" channel="CGTN"><title lang="zh">Africa Live</title><desc lang="zh">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN&amp;#x27;s Nairobi-based broadcast center produces Africa Live.</desc>
+  </programme>
+  <programme start="20260805020000 +0800" stop="20260805030000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805033000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805033000 +0800" stop="20260805040000 +0800" channel="CGTN"><title lang="zh">World Insight With Tian Wei</title><desc lang="zh">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
+  </programme>
+  <programme start="20260805040000 +0800" stop="20260805043000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805043000 +0800" stop="20260805050000 +0800" channel="CGTN"><title lang="zh">Dialogue</title><desc lang="zh">It is a prime time daily English talk show on CGTN.</desc>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805053000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805053000 +0800" stop="20260805060000 +0800" channel="CGTN"><title lang="zh">The Hub With Wang Guan</title><desc lang="zh">The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what&amp;#x27;s relevant in China and the world.</desc>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805063000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805063000 +0800" stop="20260805070000 +0800" channel="CGTN"><title lang="zh">Rediscovering China</title><desc lang="zh">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country&amp;#x27;s people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805073000 +0800" channel="CGTN"><title lang="zh">The Heat</title><desc lang="zh">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
+  </programme>
+  <programme start="20260805073000 +0800" stop="20260805080000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805090000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805093000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805093000 +0800" stop="20260805100000 +0800" channel="CGTN"><title lang="zh">China 24</title><desc lang="zh">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805103000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805103000 +0800" stop="20260805110000 +0800" channel="CGTN"><title lang="zh">World Insight With Tian Wei</title><desc lang="zh">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805111500 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805111500 +0800" stop="20260805113000 +0800" channel="CGTN"><title lang="zh">Sports Scene</title><desc lang="zh">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China&amp;#x27;s top sports leagues.</desc>
+  </programme>
+  <programme start="20260805113000 +0800" stop="20260805120000 +0800" channel="CGTN"><title lang="zh">The Point With Liu Xin</title><desc lang="zh">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin&amp;#x27;s very own unique perspective.</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805130000 +0800" channel="CGTN"><title lang="zh">Global Watch</title><desc lang="zh">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China&amp;#x27;s perspective, policies and stories.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805131500 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805131500 +0800" stop="20260805133000 +0800" channel="CGTN"><title lang="zh">Sports Scene</title><desc lang="zh">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China&amp;#x27;s top sports leagues.</desc>
+  </programme>
+  <programme start="20260805133000 +0800" stop="20260805140000 +0800" channel="CGTN"><title lang="zh">Rediscovering China</title><desc lang="zh">Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country&amp;#x27;s people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+  </programme>
+  <programme start="20260805140000 +0800" stop="20260805143000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805143000 +0800" stop="20260805150000 +0800" channel="CGTN"><title lang="zh">The Heat</title><desc lang="zh">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally.</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805153000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805153000 +0800" stop="20260805160000 +0800" channel="CGTN"><title lang="zh">Sports Scene</title><desc lang="zh">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China&amp;#x27;s top sports leagues.</desc>
+  </programme>
+  <programme start="20260805160000 +0800" stop="20260805161500 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805161500 +0800" stop="20260805170000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805173000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805173000 +0800" stop="20260805180000 +0800" channel="CGTN"><title lang="zh">The Vibe</title><desc lang="zh">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805181500 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805181500 +0800" stop="20260805190000 +0800" channel="CGTN"><title lang="zh">Africa Live</title><desc lang="zh">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN&amp;#x27;s Nairobi-based broadcast center produces Africa Live.</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805193000 +0800" channel="CGTN"><title lang="zh">Asia Today</title><desc lang="zh">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805200000 +0800" channel="CGTN"><title lang="zh">Dialogue</title><desc lang="zh">It is a prime time daily English talk show on CGTN.</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805201500 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805201500 +0800" stop="20260805210000 +0800" channel="CGTN"><title lang="zh">China 24</title><desc lang="zh">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China.</desc>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805213000 +0800" channel="CGTN"><title lang="zh">Global Business</title><desc lang="zh">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
+  </programme>
+  <programme start="20260805213000 +0800" stop="20260805220000 +0800" channel="CGTN"><title lang="zh">The Point With Liu Xin</title><desc lang="zh">The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin&amp;#x27;s very own unique perspective.</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805223000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805223000 +0800" stop="20260805230000 +0800" channel="CGTN"><title lang="zh">World Insight With Tian Wei</title><desc lang="zh">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260805233000 +0800" channel="CGTN"><title lang="zh">The World Today</title><desc lang="zh">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world&amp;#x27;s top stories as they happen.</desc>
+  </programme>
+  <programme start="20260805233000 +0800" stop="20260806000000 +0800" channel="CGTN"><title lang="zh">The Vibe</title><desc lang="zh">The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001500 +0800" channel="CGTN法语"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001500 +0800" channel="CGTN阿语"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260805000000 +0800" stop="20260805010000 +0800" channel="CNN"><title lang="zh">One World - Tuesday, August 4, 2026 12pm ET</title><desc lang="zh">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805020000 +0800" channel="CNN"><title lang="zh">Amanpour - Tuesday, August 4, 2026 1pm ET</title><desc lang="zh">Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+  </programme>
+  <programme start="20260805020000 +0800" stop="20260805030000 +0800" channel="CNN"><title lang="zh">Isa Soares Tonight - Tuesday, August 4, 2026 2pm ET</title><desc lang="zh">Isa Soares deep dives into today&amp;#x27;s top stories with insightful conversations and reports from around the world.</desc>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805040000 +0800" channel="CNN"><title lang="zh">What We Know with Max Foster - Tuesday, August 4, 2026 3pm ET</title><desc lang="zh">Max Foster has a definitive roundup of the day’s top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
+  </programme>
+  <programme start="20260805040000 +0800" stop="20260805044500 +0800" channel="CNN"><title lang="zh">Quest Means Business - Tuesday, August 4, 2026 4pm ET</title><desc lang="zh">Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+  </programme>
+  <programme start="20260805044500 +0800" stop="20260805050000 +0800" channel="CNN"><title lang="zh">Connecting Africa - Ethiopia's Economic Transformation</title><desc lang="zh">We travel to Ethiopia to explore how one of the continent&amp;#x27;s fastest-growing economies is using its natural resources, and infrastructure.</desc>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805053000 +0800" channel="CNN"><title lang="zh">The Lead with Jake Tapper - Tuesday, August 4, 2026 5PM</title><desc lang="zh">Jake Tapper covers all the day&amp;#x27;s top stories around the country and the globe, from politics to money, and sports to popular culture.</desc>
+  </programme>
+  <programme start="20260805053000 +0800" stop="20260805060000 +0800" channel="CNN"><title lang="zh">World Sport - Tuesday, August 4, 2026 830am ET</title><desc lang="zh">Daily sports show features major stories and issues making news in the world of sports.</desc>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805070000 +0800" channel="CNN"><title lang="zh">The Brief with Jim Sciutto - Tuesday, August 4, 2026 6pm ET</title><desc lang="zh">The best of CNN&amp;#x27;s reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805080000 +0800" channel="CNN"><title lang="zh">Erin Burnett OutFront - Tuesday, August 4, 2026 7PM</title><desc lang="zh">Erin Burnett stays ahead of the headlines, delivering a show that&amp;#x27;s in-depth and informative.</desc>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805090000 +0800" channel="CNN"><title lang="zh">Anderson Cooper 360 - Tuesday, August 4, 2026 8PM</title><desc lang="zh">Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805100000 +0800" channel="CNN"><title lang="zh">The Source with Kaitlan Collins - Tuesday, August 4, 2026 9PM</title><desc lang="zh">Kaitlan Collins goes straight to the source for the best reporting on the day&amp;#x27;s biggest stories.</desc>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805110000 +0800" channel="CNN"><title lang="zh">CNN NewsNight - Tuesday, August 4, 2026 10PM</title><desc lang="zh">Abby Phillip leads a roundtable discussion on the day&amp;#x27;s biggest stories and issues shaping our world.</desc>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805120000 +0800" channel="CNN"><title lang="zh">Laura Coates Live - Tuesday, August 4, 2026 11PM</title><desc lang="zh">Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805130000 +0800" channel="CNN"><title lang="zh">The Story Is With Elex Michaelson - Wednesday, August 5, 2026 12am ET</title><desc lang="zh">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805140000 +0800" channel="CNN"><title lang="zh">The Story Is With Elex Michaelson - Wednesday, August 5, 2026 1am ET</title><desc lang="zh">Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+  </programme>
+  <programme start="20260805140000 +0800" stop="20260805150000 +0800" channel="CNN"><title lang="zh">CNN Newsroom - Wednesday, August 5, 2026 2am ET</title><desc lang="zh">Live context and clarity to the day&amp;#x27;s top stories from around the world.</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805160000 +0800" channel="CNN"><title lang="zh">CNN Newsroom - Tuesday, August 4, 2026 3am ET</title><desc lang="zh">Live context and clarity to the day&amp;#x27;s top stories from around the world.</desc>
+  </programme>
+  <programme start="20260805160000 +0800" stop="20260805170000 +0800" channel="CNN"><title lang="zh">CNN Newsroom - Episode 287</title><desc lang="zh">Live context and clarity to the day’s top stories from around the world.</desc>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805180000 +0800" channel="CNN"><title lang="zh">CNN Headline Express - Wednesday, August 5, 2026 5AM</title><desc lang="zh">The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805190000 +0800" channel="CNN"><title lang="zh">CNN This Morning - Wednesday, August 5, 2026 6AM</title><desc lang="zh">Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805200000 +0800" channel="CNN"><title lang="zh">CNN News Central - Wednesday, August 5, 2026 7am ET</title><desc lang="zh">Stay up to date with John Berman, Kate Bolduan, and Sara Sidner from CNN&amp;#x27;s immersive news hub.</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805203000 +0800" channel="CNN"><title lang="zh">CNN News Central - Wednesday, August 5, 2026 8am ET</title><desc lang="zh">Stay up to date with John Berman, Kate Bolduan, and Sara Sidner from CNN&amp;#x27;s immersive news hub.</desc>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805210000 +0800" channel="CNN"><title lang="zh">World Sport - Wednesday, August 5, 2026 830am ET</title><desc lang="zh">Daily sports show features major stories and issues making news in the world of sports.</desc>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805214500 +0800" channel="CNN"><title lang="zh">Connect the World - Wednesday, Aug. 5, 2026 9am ET</title><desc lang="zh">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+  </programme>
+  <programme start="20260805214500 +0800" stop="20260805220000 +0800" channel="CNN"><title lang="zh">World Sport - Wednesday, August 5, 2026 945am ET</title><desc lang="zh">Daily sports show features major stories and issues making news in the world of sports.</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805224500 +0800" channel="CNN"><title lang="zh">Connect the World - Wednesday, Aug. 5, 2026 10am ET</title><desc lang="zh">Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+  </programme>
+  <programme start="20260805224500 +0800" stop="20260805230000 +0800" channel="CNN"><title lang="zh">Marketplace Middle East - Saudi Giga projects + Orbitworks</title><desc lang="zh">The UAE’s ambitions in space are no longer symbolic; they’re strategic. We sit down with Dr. Mohib of Orbitworks to discuss space sovereignty.</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260806000000 +0800" channel="CNN"><title lang="zh">One World - Wednesday, August 5, 2026 11am ET</title><desc lang="zh">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+  </programme>
+  <programme start="20260805004300 +0800" stop="20260805020300 +0800" channel="Discovery科学频道"><title lang="zh">Exploring the Unknown With Wang Yibo Ep2</title><desc lang="zh">Wang Yibo visits Squamish, a world-class granite climbing destination, taking on aid climbing with different sized plugs on towering rock faces.</desc>
+  </programme>
+  <programme start="20260805020300 +0800" stop="20260805023300 +0800" channel="Discovery科学频道"><title lang="zh">Frontier Borneo Ep3</title><desc lang="zh">When a local fisherman goes missing, the prime suspect is a giant crocodile seen prowling the local waters. But with no proof his family are in limbo.</desc>
+  </programme>
+  <programme start="20260805023300 +0800" stop="20260805032800 +0800" channel="Discovery科学频道"><title lang="zh">River Monsters Ep1</title><desc lang="zh">Extreme angler Jeremy Wade heads to Texas to reveal the truth about the Alligator Gar.</desc>
+  </programme>
+  <programme start="20260805032800 +0800" stop="20260805051300 +0800" channel="Discovery科学频道"><title lang="zh">Alaska: the Last Frontier Ep4</title><desc lang="zh">Kilcher road is threatened by a dangerous flood and Otto must repair the vital road before it&amp;#x27;s washed away.</desc>
+  </programme>
+  <programme start="20260805051300 +0800" stop="20260805060300 +0800" channel="Discovery科学频道"><title lang="zh">Filthy Fortunes Ep7</title><desc lang="zh">Matt hunts for &amp;#x27;Back to the Future&amp;#x27; self-lacing sneakers worth $100,000, limited-edition hip-hop tour jackets, and rare Olympic memorabilia.</desc>
+  </programme>
+  <programme start="20260805060300 +0800" stop="20260805070300 +0800" channel="Discovery科学频道"><title lang="zh">Dual Survival Ep22</title><desc lang="zh">Stranded in the Namib Desert of southern Africa, Grady and Bill rely on the resources of a broken down car for fire, shelter, and to signal for rescue.</desc>
+  </programme>
+  <programme start="20260805070300 +0800" stop="20260805075300 +0800" channel="Discovery科学频道"><title lang="zh">Dual Survival Ep2</title><desc lang="zh">Meet military-trained Dave Canterbury and naturalist Cody Lundin - trained survival experts featured in this series.</desc>
+  </programme>
+  <programme start="20260805075300 +0800" stop="20260805084300 +0800" channel="Discovery科学频道"><title lang="zh">Filthy Fortunes Ep2</title><desc lang="zh">Matt tackles a hoard packed with vintage toys and hidden guns. Matt test-drives a &amp;#x27;60s sports car and test-fires weapons. Total sales top $100,000.</desc>
+  </programme>
+  <programme start="20260805084300 +0800" stop="20260805095800 +0800" channel="Discovery科学频道"><title lang="zh">Exploring the Unknown With Wang Yibo Ep2</title><desc lang="zh">Wang Yibo visits Squamish, a world-class granite climbing destination, taking on aid climbing with different sized plugs on towering rock faces.</desc>
+  </programme>
+  <programme start="20260805095800 +0800" stop="20260805102300 +0800" channel="Discovery科学频道"><title lang="zh">Frontier Borneo Ep3</title><desc lang="zh">When a local fisherman goes missing, the prime suspect is a giant crocodile seen prowling the local waters. But with no proof his family are in limbo.</desc>
+  </programme>
+  <programme start="20260805102300 +0800" stop="20260805111300 +0800" channel="Discovery科学频道"><title lang="zh">Dual Survival Ep27</title><desc lang="zh">Stranded in Chile, Grady and Bill struggle to get fire in the damp rainforest, setting ego and survival protocol on a collision course that tests this new team.</desc>
+  </programme>
+  <programme start="20260805111300 +0800" stop="20260805120300 +0800" channel="Discovery科学频道"><title lang="zh">Dual Survival Ep2</title><desc lang="zh">Meet military-trained Dave Canterbury and naturalist Cody Lundin - trained survival experts featured in this series.</desc>
+  </programme>
+  <programme start="20260805120300 +0800" stop="20260805125300 +0800" channel="Discovery科学频道"><title lang="zh">Filthy Fortunes Ep7</title><desc lang="zh">Matt hunts for &amp;#x27;Back to the Future&amp;#x27; self-lacing sneakers worth $100,000, limited-edition hip-hop tour jackets, and rare Olympic memorabilia.</desc>
+  </programme>
+  <programme start="20260805125300 +0800" stop="20260805134300 +0800" channel="Discovery科学频道"><title lang="zh">Expedition Files Ep2</title><desc lang="zh">What really caused the Salem Witch Trials? There are new questions about UFOs seen by top military, and who&amp;#x27;s responsible for Rasputin&amp;#x27;s murder?</desc>
+  </programme>
+  <programme start="20260805134300 +0800" stop="20260805143800 +0800" channel="Discovery科学频道"><title lang="zh">Expedition Files Ep11</title><desc lang="zh">Josh Gates investigates historic coverups: a secret plot against the Nazis, the crimes of the Knights Templar, and a suspicious royal death.</desc>
+  </programme>
+  <programme start="20260805143800 +0800" stop="20260805153300 +0800" channel="Discovery科学频道"><title lang="zh">Expedition X Ep1</title><desc lang="zh">Phil and Heather explore Spain&amp;#x27;s haunted Belmonte Castle in La Mancha. Inside, they uncover secrets that reveal the truth behind a legendary figure.</desc>
+  </programme>
+  <programme start="20260805153300 +0800" stop="20260805162800 +0800" channel="Discovery科学频道"><title lang="zh">Deadliest Catch Ep19</title><desc lang="zh">The Cornelia Marie crashes into the ice pack when the greenhorn on watch falls asleep at the wheel. Plus, hundreds of seabirds bombard the Saga.</desc>
+  </programme>
+  <programme start="20260805162800 +0800" stop="20260805172300 +0800" channel="Discovery科学频道"><title lang="zh">Deadliest Catch Ep21</title><desc lang="zh">Battered by the ice pack, Sig changes tactics deploying an experimental bait from Norway. On the Time Bandit, frustration boils over as Freddy tests Johnathan.</desc>
+  </programme>
+  <programme start="20260805172300 +0800" stop="20260805181800 +0800" channel="Discovery科学频道"><title lang="zh">Deadliest Catch Ep22</title><desc lang="zh">With intense currents holding back the Arctic ice pack, Keith struggles to retrieve his catch. Jake and Sean face losing everything when ice swallows their gear.</desc>
+  </programme>
+  <programme start="20260805181800 +0800" stop="20260805191300 +0800" channel="Discovery科学频道"><title lang="zh">Filthy Fortunes Ep6</title><desc lang="zh">In a modern-day treasure hunt, Matt Paxton and his team gamble on finding rare, potentially valuable items buried inside cluttered, filthy homes.</desc>
+  </programme>
+  <programme start="20260805191300 +0800" stop="20260805200800 +0800" channel="Discovery科学频道"><title lang="zh">In the Eye of the Storm Ep8</title><desc lang="zh">A rare winter tornado outbreak tears through towns across Tennessee as dozens of eyewitnesses capture the devastating power of nature in real time.</desc>
+  </programme>
+  <programme start="20260805200800 +0800" stop="20260805210300 +0800" channel="Discovery科学频道"><title lang="zh">Conspiracies &amp; Coverups Ep1</title><desc lang="zh">A failed assassination attempt revives mind-control theories. Andrew conducts a shocking experiment to see if a killer really can be programmed.</desc>
+  </programme>
+  <programme start="20260805210300 +0800" stop="20260805215800 +0800" channel="Discovery科学频道"><title lang="zh">Expedition Files Ep12</title><desc lang="zh">Josh Gates explores hidden truths within three cases where answers stayed buried for years: Noah&amp;#x27;s Ark, anthrax attacks, and Bugsy Siegel&amp;#x27;s murder.</desc>
+  </programme>
+  <programme start="20260805215800 +0800" stop="20260805225300 +0800" channel="Discovery科学频道"><title lang="zh">Expedition X Ep18</title><desc lang="zh">The team heads to the site of the bloodiest battle ever on U.S. soil, where witnesses claim to see phantom soldiers roaming the battlefields at night.</desc>
+  </programme>
+  <programme start="20260805225300 +0800" stop="20260805234800 +0800" channel="Discovery科学频道"><title lang="zh">Ghost Adventures Ep2</title><desc lang="zh">The crew heads to Oregon to investigate a historic inn riddled with aggressive negative energy.</desc>
+  </programme>
+  <programme start="20260805234800 +0800" stop="20260806004300 +0800" channel="Discovery科学频道"><title lang="zh">In the Eye of the Storm Ep8</title><desc lang="zh">A rare winter tornado outbreak tears through towns across Tennessee as dozens of eyewitnesses capture the devastating power of nature in real time.</desc>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805013000 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal[直播]</title><desc lang="zh">Les informations qui font la une aux quatre coins du monde sont décryptées à travers des reportages, des analyses approfondies et le travail de correspondants internationaux. Un regard global et complet sur l&amp;#x27;actualité pour mieux comprendre les événements qui façonnent notre époque.</desc>
+  </programme>
+  <programme start="20260805013000 +0800" stop="20260805020000 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal[直播]</title><desc lang="zh">Les informations qui font la une aux quatre coins du monde sont décryptées à travers des reportages, des analyses approfondies et le travail de correspondants internationaux. Un regard global et complet sur l&amp;#x27;actualité pour mieux comprendre les événements qui façonnent notre époque.</desc>
+  </programme>
+  <programme start="20260805020000 +0800" stop="20260805030000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805040000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805040000 +0800" stop="20260805050000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805060000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805061200 +0800" channel="France 24"><title lang="zh">L'essentiel : le journal[直播]</title><desc lang="zh">L&amp;#x27;essentiel de l&amp;#x27;info : grand journal, économie, sport, décryptages et analyses des événements majeurs du moment. Pour tout savoir, pour mieux comprendre.</desc>
+  </programme>
+  <programme start="20260805061200 +0800" stop="20260805063000 +0800" channel="France 24"><title lang="zh">Billet retour</title><desc lang="zh">Les reporters de France 24 reviennent dans des villes oubliées qui ont fait la Une de l&amp;#x27;actualité. Comment vit-on dans les villes traumatisées par une guerre, une catastrophe naturelle ou un désastre industriel ?</desc>
+  </programme>
+  <programme start="20260805063000 +0800" stop="20260805064200 +0800" channel="France 24"><title lang="zh">L'essentiel : le journal[直播]</title><desc lang="zh">L&amp;#x27;essentiel de l&amp;#x27;info : grand journal, économie, sport, décryptages et analyses des événements majeurs du moment. Pour tout savoir, pour mieux comprendre.</desc>
+  </programme>
+  <programme start="20260805064200 +0800" stop="20260805070000 +0800" channel="France 24"><title lang="zh">Légendes urbaines</title><desc lang="zh">Juliette Fievet donne la parole aux actrices et acteurs des cultures urbaines en révélant leur face cachée&amp;#x27; derrière les clichés et les postures.&amp;#x27;</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805080000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805081500 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal[直播]</title><desc lang="zh">L&amp;#x27;actualité ne dort jamais. Un journal complet sur l&amp;#x27;information française et internationale pour rester informé à toute heure, partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805081500 +0800" stop="20260805083000 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique</title><desc lang="zh">Direction l&amp;#x27;Afrique, avec des reportages, des invités de marque et les correspondants de France 24, pour revenir sur toute l&amp;#x27;actualité du continent.</desc>
+  </programme>
+  <programme start="20260805083000 +0800" stop="20260805084500 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal[直播]</title><desc lang="zh">L&amp;#x27;actualité ne dort jamais. Un journal complet sur l&amp;#x27;information française et internationale pour rester informé à toute heure, partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805084500 +0800" stop="20260805090000 +0800" channel="France 24"><title lang="zh">A l'affiche</title><desc lang="zh">Comment les artistes nous racontent-ils le monde ? Nous recevons les cinéastes, les écrivains, les photographes ou encore les musiciens qui font l&amp;#x27;actualité partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805100000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805110000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805120000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805121500 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal[直播]</title><desc lang="zh">L&amp;#x27;actualité ne dort jamais. Un journal complet sur l&amp;#x27;information française et internationale pour rester informé à toute heure, partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805121500 +0800" stop="20260805123000 +0800" channel="France 24"><title lang="zh">A l'affiche</title><desc lang="zh">Comment les artistes nous racontent-ils le monde ? Nous recevons les cinéastes, les écrivains, les photographes ou encore les musiciens qui font l&amp;#x27;actualité partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805123000 +0800" stop="20260805124500 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal[直播]</title><desc lang="zh">L&amp;#x27;actualité ne dort jamais. Un journal complet sur l&amp;#x27;information française et internationale pour rester informé à toute heure, partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805124500 +0800" stop="20260805130000 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique</title><desc lang="zh">Direction l&amp;#x27;Afrique, avec des reportages, des invités de marque et les correspondants de France 24, pour revenir sur toute l&amp;#x27;actualité du continent.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805131500 +0800" channel="France 24"><title lang="zh">A la une : le journal[直播]</title><desc lang="zh">Tout ce qui fait et fera la une de la journée : économie, international, analyses et décryptages, revue de presse et grands temps forts à venir, pour suivre en continu les événements majeurs en France et dans le monde.</desc>
+  </programme>
+  <programme start="20260805131500 +0800" stop="20260805132000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Tous les jours, France 24 propose un tour du monde avec des reportages réalisés par ses correspondants, sur les faits marquants de la semaine.</desc>
+  </programme>
+  <programme start="20260805132000 +0800" stop="20260805132500 +0800" channel="France 24"><title lang="zh">Sports</title><desc lang="zh">Chaque jour, le point sur l&amp;#x27;actualité sportive, de la Ligue des champions, à la NBA, en passant par le tennis, le cyclisme ou encore le cricket.</desc>
+  </programme>
+  <programme start="20260805132500 +0800" stop="20260805135200 +0800" channel="France 24"><title lang="zh">Aux avant-postes</title><desc lang="zh">Dans un monde en pleine mutation, Ali Laïdi décrypte, avec ses invités, les enjeux cachés des conflits économiques, géopolitiques et culturels, afin d&amp;#x27;en comprendre les dynamiques profondes.</desc>
+  </programme>
+  <programme start="20260805135200 +0800" stop="20260805140000 +0800" channel="France 24"><title lang="zh">L'instant mobile</title><desc lang="zh">Une émission d&amp;#x27;information au format court qui traite des sujets les plus captivants venus du monde entier. À travers des reportages dynamiques et un regard incisif, elle propose un condensé de l&amp;#x27;actualité internationale pour rester informé rapidement et efficacement.</desc>
+  </programme>
+  <programme start="20260805140000 +0800" stop="20260805150000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805153000 +0800" channel="France 24"><title lang="zh">A la une : le journal[直播]</title><desc lang="zh">Tout ce qui fait et fera la une de la journée : économie, international, analyses et décryptages, revue de presse et grands temps forts à venir, pour suivre en continu les événements majeurs en France et dans le monde.</desc>
+  </programme>
+  <programme start="20260805153000 +0800" stop="20260805160000 +0800" channel="France 24"><title lang="zh">A la une : le journal[直播]</title><desc lang="zh">Tout ce qui fait et fera la une de la journée : économie, international, analyses et décryptages, revue de presse et grands temps forts à venir, pour suivre en continu les événements majeurs en France et dans le monde.</desc>
+  </programme>
+  <programme start="20260805160000 +0800" stop="20260805170000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805180000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805190000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805191500 +0800" channel="France 24"><title lang="zh">Paris direct : le journal[直播]</title><desc lang="zh">Un flux d&amp;#x27;actualités en continu pour suivre en temps réel les breaking news, les sujets tendances et les analyses sur la culture, la santé, la technologie et l&amp;#x27;environnement. Reste informé de tout ce qui compte, au moment où cela se passe en continu 24/7.</desc>
+  </programme>
+  <programme start="20260805191500 +0800" stop="20260805193000 +0800" channel="France 24"><title lang="zh">A l'affiche</title><desc lang="zh">Comment les artistes nous racontent-ils le monde ? Nous recevons les cinéastes, les écrivains, les photographes ou encore les musiciens qui font l&amp;#x27;actualité partout dans le monde.</desc>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805194500 +0800" channel="France 24"><title lang="zh">Paris direct : le journal[直播]</title><desc lang="zh">Un flux d&amp;#x27;actualités en continu pour suivre en temps réel les breaking news, les sujets tendances et les analyses sur la culture, la santé, la technologie et l&amp;#x27;environnement. Reste informé de tout ce qui compte, au moment où cela se passe en continu 24/7.</desc>
+  </programme>
+  <programme start="20260805194500 +0800" stop="20260805195000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Tous les jours, France 24 propose un tour du monde avec des reportages réalisés par ses correspondants, sur les faits marquants de la semaine.</desc>
+  </programme>
+  <programme start="20260805195000 +0800" stop="20260805200000 +0800" channel="France 24"><title lang="zh">Sports</title><desc lang="zh">Chaque jour, le point sur l&amp;#x27;actualité sportive, de la Ligue des champions, à la NBA, en passant par le tennis, le cyclisme ou encore le cricket.</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805210000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805220000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805230000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260806010000 +0800" channel="France 24"><title lang="zh">France 24 News</title>
+  </programme>
+  <programme start="20260805010500 +0800" stop="20260805025000 +0800" channel="HBO原创锯献"><title lang="zh">鐵血風暴2</title><desc lang="zh">本片獲艾美獎(迷你影集或電影)最佳男主角,敘述邱吉爾從1940到1945年間，帶領英國人民走過戰爭顛沛流離的經歷，縱使其間他的婚姻備受考驗，為了國家他也在所不辭。</desc>
+  </programme>
+  <programme start="20260805025000 +0800" stop="20260805035000 +0800" channel="HBO原创锯献"><title lang="zh">聖路易斯致命交友 第1季第2集 -Snag It</title><desc lang="zh">荷馬與普蘭兩位警探深入調查克拉克與卡蘿的私情，以及佛洛伊德在DTF應用程式上的那些風流韻事。</desc>
+  </programme>
+  <programme start="20260805035000 +0800" stop="20260805054000 +0800" channel="HBO原创锯献"><title lang="zh">巫法闖情關</title><desc lang="zh">歐文家族不同於一般正常家庭，她們除了會施魔法外，這個家族全是女人，只因她們受到前人的詛咒，一旦與她們相愛的男人，終將死於非命。</desc>
+  </programme>
+  <programme start="20260805054000 +0800" stop="20260805070000 +0800" channel="HBO原创锯献"><title lang="zh">帶你回家</title><desc lang="zh">本片是榮獲艾美獎肯定的HBO自製電影,根據真人真事改編,全片紀錄中校麥可負責將不幸戰死於伊拉克的年輕海軍陸戰隊隊員遺體，安全運送回死者位於美國俄懷明州的家鄉之間的漫長旅程。</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805085000 +0800" channel="HBO原创锯献"><title lang="zh">Ralph Lauren的傳奇一生</title><desc lang="zh">關於時尚教主洛夫羅倫的首部紀錄片，片中透露這個創造出時尚界最成功的品牌之一的男子，在偶像光環之下的真實面貌。</desc>
+  </programme>
+  <programme start="20260805085000 +0800" stop="20260805094000 +0800" channel="HBO原创锯献"><title lang="zh">聖路易斯致命交友 第1季第3集 -The Go Getter</title><desc lang="zh">普蘭警探開始懷疑卡蘿可能隱瞞了這段私情中的關鍵細節，而克拉克則進一步說明了他與佛洛伊德之間的友誼關鍵。</desc>
+  </programme>
+  <programme start="20260805094000 +0800" stop="20260805113000 +0800" channel="HBO原创锯献"><title lang="zh">巴利薛爾：飛常任務</title><desc lang="zh">湯姆克魯斯領銜演出這齣改編自美國史上最大規模秘密行動的跨國冒險鉅片。</desc>
+  </programme>
+  <programme start="20260805113000 +0800" stop="20260805130000 +0800" channel="HBO原创锯献"><title lang="zh">海拉細胞的不死傳奇</title><desc lang="zh">這齣改編自同名小說的HBO電影，訴說其細胞被用來製造出第一個不死的人類細胞株的女子的故事。</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805144500 +0800" channel="HBO原创锯献"><title lang="zh">麥凱恩戰地鐘聲</title><desc lang="zh">亞利桑那州參議員約翰麥肯啟發人心的傳記影片。他曾淪為越戰戰俘長達五年以上，並於參議院服務達31年。堅忍不拔的精神在他與癌症的搏鬥中再度體現。</desc>
+  </programme>
+  <programme start="20260805144500 +0800" stop="20260805161500 +0800" channel="HBO原创锯献"><title lang="zh">婚禮的祝福</title><desc lang="zh">瑪歌和兒子去長島拜訪姊姊,因為姊姊寶琳宣佈即將和不怎麼樣的藝術家麥肯結婚。然而姊妹倆對很多事情爭執不斷，加上瑪歌不喜歡麥肯，姊妹倆因此必須對過去彼此的歷史與個人成見達成協議。</desc>
+  </programme>
+  <programme start="20260805161500 +0800" stop="20260805172500 +0800" channel="HBO原创锯献"><title lang="zh">只是近黃昏</title><desc lang="zh">這齣感人的HBO原創電影描寫一名還沒30歲的年輕人因感染愛滋病，決心回到家鄉和疏離的家人共度他剩下的人生。</desc>
+  </programme>
+  <programme start="20260805172500 +0800" stop="20260805190000 +0800" channel="HBO原创锯献"><title lang="zh">毒座椅</title><desc lang="zh">這齣HBO紀錄片探討金錢、政治與權力之間的關係-一群充滿勇氣的市民為了揭發毒害美國的詐騙活動，努力奮戰。</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805204500 +0800" channel="HBO原创锯献"><title lang="zh">巫法闖情關</title><desc lang="zh">歐文家族不同於一般正常家庭，她們除了會施魔法外，這個家族全是女人，只因她們受到前人的詛咒，一旦與她們相愛的男人，終將死於非命。</desc>
+  </programme>
+  <programme start="20260805204500 +0800" stop="20260805220000 +0800" channel="HBO原创锯献"><title lang="zh">自由在門外</title><desc lang="zh">這齣在印第安納州彭德爾頓監獄所拍攝的紀錄片，由監獄裡的13名囚犯共同執導，他們在學習拍片的過程中探索過往的人生，以及被判處數十年監禁的原因。</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260806002500 +0800" channel="HBO原创锯献"><title lang="zh">超人</title><desc lang="zh">本片是克里斯多佛李維主演最經典的超人系列電影.</desc>
+  </programme>
+  <programme start="20260805000000 +0800" stop="20260805020000 +0800" channel="TVBS精采"><title lang="zh">少 康 戰 情 室</title>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805090000 +0800" channel="TVBS精采"><title lang="zh">早安台灣(LIVE)</title>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805093000 +0800" channel="TVBS精采"><title lang="zh">早安台灣</title>
+  </programme>
+  <programme start="20260805093000 +0800" stop="20260805100000 +0800" channel="TVBS精采"><title lang="zh">健康2.0#3218</title>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805140000 +0800" channel="TVBS精采"><title lang="zh">午間12.13整點新聞(LIVE)</title>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805203000 +0800" channel="TVBS精采"><title lang="zh">FOCUS全球新聞#3463</title>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805210000 +0800" channel="TVBS精采"><title lang="zh">絕命法官#10</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805004000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805010900 +0800" channel="东南卫视"><title lang="zh">我们的音乐馆</title><desc>芒果TV出品的音乐综艺节目，由管乐、罗予彤担任馆人顾问，黄誉博担任代理馆长，靳梦佳担任馆人经纪人，唐九洲、李晋晔担任飞行嘉宾。节目以“创业真人秀+LIVE舞台试炼”为形式，邀请阿弗娄、奥斯卡、小白、黄恩昱、连淮伟、林智乐、圣代、王伟男、吴垚滔、许天奇、余宗遥、夜魔知晏等年轻音乐人共同打造专属音乐基地，展现从零开始的成长历程。先导片及正片在芒果TV、东南卫视、海峡卫视联合播出。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001000 +0800" channel="东方卫视"><title lang="zh">电视剧:成长的烦恼第三季23</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260805003000 +0800" stop="20260805013000 +0800" channel="中国教育1"><title lang="zh">Kopi Sentul Mocha Santorini Ep9</title><desc lang="zh">Kisah dilema seorang anak iaitu Alya dan juga Azam yang perlu memilih antara keluarga dan cinta sejati</desc>
+  </programme>
+  <programme start="20260805013000 +0800" stop="20260805020000 +0800" channel="中国教育1"><title lang="zh">Versi Organik Ep2</title><desc lang="zh">Intan Ladyana dan tetamu Rosly Hj. Ya(Pakar Seni Taman), menghias rumah Encik Marzuki dengan menggunakan barang terpakai iaitu kayu hanyut digunakan sebagai bahan untuk mengikut pokok Anggerik/Orkid.</desc>
+  </programme>
+  <programme start="20260805020000 +0800" stop="20260805030000 +0800" channel="中国教育1"><title lang="zh">Pergilah Air Mata Ep14</title><desc lang="zh">Sabrina sangka Badrul mahu menamatkan hubungan mereka tetapi rupanya tidak.</desc>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805033000 +0800" channel="中国教育1"><title lang="zh">Wira Kembara Ep2</title><desc lang="zh">Episod kali ini mengenai peranan Pasukan Tempur Operasi Medan Kastam (COBRA) dan latihan yang diberikan kepada pasukan tersebut.</desc>
+  </programme>
+  <programme start="20260805033000 +0800" stop="20260805043000 +0800" channel="中国教育1"><title lang="zh">Tiga Duda Ep9</title><desc lang="zh">Danny meminta bantuan Sam membantunya memeluk agama Islam. Lydia, bekas isteri Sam berjumpa Sam di kafe. Sam keluar bertemu janji dengan Qistina.</desc>
+  </programme>
+  <programme start="20260805043000 +0800" stop="20260805050000 +0800" channel="中国教育1"><title lang="zh">Puteri Labu Ep11</title><desc lang="zh">Selepas bermain cinta dengan Ika dan Trita, Edry cuba memikat Puteri Ain.</desc>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805052500 +0800" channel="中国教育1"><title lang="zh">Ritma Jiwa Ep2</title><desc lang="zh">Sebuah program majalah memaparkan seni tarian dan muzik di setiap pelusuk negeri.</desc>
+  </programme>
+  <programme start="20260805052500 +0800" stop="20260805053000 +0800" channel="中国教育1"><title lang="zh">Promo / PSA / Kapsul</title><desc lang="zh">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20260805053000 +0800" stop="20260805060000 +0800" channel="中国教育1"><title lang="zh">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</title><desc lang="zh">Bacaan Ar Rahman/ Al Mulk/ Yassin/ Al Waqiah</desc>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805065500 +0800" channel="中国教育1"><title lang="zh">Bismillah</title><desc lang="zh">Saksikan Bismillah menghayati Tilawah &amp;amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
+  </programme>
+  <programme start="20260805065500 +0800" stop="20260805070000 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran</title><desc lang="zh">Kapsul Jiran</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805074400 +0800" channel="中国教育1"><title lang="zh">(L) Berita Pagi</title><desc lang="zh">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+  </programme>
+  <programme start="20260805074400 +0800" stop="20260805080000 +0800" channel="中国教育1"><title lang="zh">(L) Kanta 744</title><desc lang="zh">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805100000 +0800" channel="中国教育1"><title lang="zh">(L) Selamat Pagi Malaysia</title><desc lang="zh">Program bual bicara secara langsung memaparkan segmen perbincangan bersama panel jemputan seperti topik semasa, info semasa, kesihatan, pendidikan, filem kita dan wanita.</desc>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805100500 +0800" channel="中国教育1"><title lang="zh">(L) Dunia 10</title><desc lang="zh">Berita dalam dan luar Negara</desc>
+  </programme>
+  <programme start="20260805100500 +0800" stop="20260805103000 +0800" channel="中国教育1"><title lang="zh">Digital Massa Ep5</title><desc lang="zh">Bersama Cikgu Yaser Perunding laman Sesawang MYNIC mengajar bagaimana membangun laman Sesawang untuk perniagaan</desc>
+  </programme>
+  <programme start="20260805103000 +0800" stop="20260805113000 +0800" channel="中国教育1"><title lang="zh">Peduli Tukun Ep1</title><desc lang="zh">Episod ini mengupas ancaman terhadap terumbu karang, organisma penting ekosistem laut. Aktiviti manusia menjejaskan kelestarian alam marin.</desc>
+  </programme>
+  <programme start="20260805113000 +0800" stop="20260805120000 +0800" channel="中国教育1"><title lang="zh">Eksplorasi Intern Ep3</title><desc lang="zh">Episod kali ini mengenai bidang Kesihatan. Bersama pengacara Kay Khydir dengan tetamu undangan Nurul Alis Najihah (Alumni), Profesor Madya Dr. Shariza (Pensyarah), Fatin Zafira Mohd Yassin (Majikan).</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805120500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805120500 +0800" stop="20260805130000 +0800" channel="中国教育1"><title lang="zh">Orangutan Jungle School Ep13</title><desc lang="zh">Episod ini menampilkan Kesi di pra-kebebasan, detik kebenaran, dan pembebasan dua Orangutan betina serta sepasang beruang matahari di Pulau Bangamat.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805133000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Tengah Hari</title><desc lang="zh">Perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805133000 +0800" stop="20260805143000 +0800" channel="中国教育1"><title lang="zh">Kopi Sentul Mocha Santorini Ep10</title><desc lang="zh">Kisah dilema seorang anak iaitu Alya dan juga Azam yang perlu memilih antara keluarga dan cinta sejati.</desc>
+  </programme>
+  <programme start="20260805143000 +0800" stop="20260805150000 +0800" channel="中国教育1"><title lang="zh">Puteri Labu Ep12</title><desc lang="zh">Apa yang berlaku apabila Ain, Tria dan Ika bertemu di majlis Edry?</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805150500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805150500 +0800" stop="20260805160000 +0800" channel="中国教育1"><title lang="zh">Cuit Sikit Jangan Sentap 2026</title><desc lang="zh">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian.</desc>
+  </programme>
+  <programme start="20260805160000 +0800" stop="20260805160500 +0800" channel="中国教育1"><title lang="zh">(L) Berita Semasa</title><desc lang="zh">Berita terkini yang memaparkan isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805160500 +0800" stop="20260805162700 +0800" channel="中国教育1"><title lang="zh">Prima Facie Ep6</title><desc lang="zh">Episod ini mengupas kesalahan curi dan samun mengikut Seksyen 378, 379A dan 397 Kanun Keseksaan, disertai penjelasan peguam bagi meningkatkan kefahaman penonton tentang implikasi undang-undang.</desc>
+  </programme>
+  <programme start="20260805162700 +0800" stop="20260805163000 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran</title><desc lang="zh">Kapsul Jiran</desc>
+  </programme>
+  <programme start="20260805163000 +0800" stop="20260805170000 +0800" channel="中国教育1"><title lang="zh">(L) Biz Malaysia</title><desc lang="zh">Biz Malaysia bersama pakar-pakar ekonomi dan isu-isu semasa ekonomi dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805180000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Wilayah</title><desc lang="zh">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805184500 +0800" channel="中国教育1"><title lang="zh">(L) Fikrah</title><desc lang="zh">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260805184500 +0800" stop="20260805194400 +0800" channel="中国教育1"><title lang="zh">Tiga Duda Ep10</title><desc lang="zh">Qistina meluahkan perasaannya pada Sam. Sam terkejut kerana ada perempuan suka padanya. Zamarul akan bertunang dan berkahwin dengan Misha tapi ibu bapa Misha menolak pinangan itu.</desc>
+  </programme>
+  <programme start="20260805194400 +0800" stop="20260805200000 +0800" channel="中国教育1"><title lang="zh">(L) Kanta 744</title><desc lang="zh">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805203000 +0800" channel="中国教育1"><title lang="zh">(L) Berita Perdana</title><desc lang="zh">Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805210000 +0800" channel="中国教育1"><title lang="zh">(L) Malaysia Tonight</title><desc lang="zh">Berita Bahasa Inggeris yang berkonsepkan berita dunia korporat, bisnes dan isu-isu semasa</desc>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805220000 +0800" channel="中国教育1"><title lang="zh">Skuad JPJ Ep8</title><desc lang="zh">Hasil siasatan Skuad JPJ terhadap Ghafar membuatkan mereka mula mencari Amir. Mereka berjaya menjejaki Amir berdasarkan lokasi yang diberikan</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805221500 +0800" channel="中国教育1"><title lang="zh">(L) Dunia 10</title><desc lang="zh">Berita dalam dan luar Negara</desc>
+  </programme>
+  <programme start="20260805221500 +0800" stop="20260805223000 +0800" channel="中国教育1"><title lang="zh">Kapsul Jiran / Promo / PSA / Kapsul</title><desc lang="zh">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20260805223000 +0800" stop="20260805233000 +0800" channel="中国教育1"><title lang="zh">Pergilah Air Mata Ep15</title><desc lang="zh">Sabrina mengurung dirinya dan mengelak untuk berjumpa dengan Dayana.</desc>
+  </programme>
+  <programme start="20260805003000 +0800" stop="20260805013000 +0800" channel="中国教育2"><title lang="zh">Hana Ep3</title><desc lang="zh">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan, dan percintaan.</desc>
+  </programme>
+  <programme start="20260805030000 +0800" stop="20260805040000 +0800" channel="中国教育2"><title lang="zh">Lot 9 Ep4</title><desc lang="zh">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
+  </programme>
+  <programme start="20260805040000 +0800" stop="20260805043000 +0800" channel="中国教育2"><title lang="zh">Bale Balle Chakde Ep12</title><desc lang="zh">Rancangan hiburan dan informasi dengan pelbagai segmen mengenai industri hiburan tempatan dan dunia perfileman Bollywood.</desc>
+  </programme>
+  <programme start="20260805043000 +0800" stop="20260805050000 +0800" channel="中国教育2"><title lang="zh">The Taste of Memory Ep1</title><desc lang="zh">Baki Zainal menjelajah beberapa negara di Asia untuk meneroka tempat menarik serta mencuba pelbagai hidangan dan makanan popular tempatan.</desc>
+  </programme>
+  <programme start="20260805050000 +0800" stop="20260805060000 +0800" channel="中国教育2"><title lang="zh">Derhaka Cinta Jebat Ep14</title><desc lang="zh">Jebat cuba mendekati Aishah di tempat kerja isterinya itu, namun tidak dipedulikan. Dalam pada itu, ibu Jebat sempat mengingatkannya agar tidak terlalu berkeras semasa memujuk Aishah.</desc>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805070000 +0800" channel="中国教育2"><title lang="zh">Hanna Raudhah Ep10</title><desc lang="zh">Kisah kehidupan Hanna anak orang kaya yang bebas pergaulannya sementara kedua ibu dan bapanya pula kurang amalan dan pengetahuan agama.</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805073000 +0800" channel="中国教育2"><title lang="zh">Biskut Lemak Ep6</title><desc lang="zh">Animasi tentang penduduk kampung dengan pelbagai ragam dan kisah menarik.</desc>
+  </programme>
+  <programme start="20260805073000 +0800" stop="20260805080000 +0800" channel="中国教育2"><title lang="zh">Arnab Dan Kura-Kura Ep5</title><desc lang="zh">Memaparkan cereka dalam bentuk kartun animasi dan berunsur pendidikan khas bagi kanak-kanak.</desc>
+  </programme>
+  <programme start="20260805080000 +0800" stop="20260805083000 +0800" channel="中国教育2"><title lang="zh">Tulis Ep4</title><desc lang="zh">Animasi bersiri yang membawa cerita kanak-kanak yang dapat memberi pengajaran dengan penggunaan watak-watak alat tulis seperti pensil, pembaris, pen, stapler dan sebagainya.</desc>
+  </programme>
+  <programme start="20260805083000 +0800" stop="20260805090000 +0800" channel="中国教育2"><title lang="zh">Mac &amp; Ted Ep6</title><desc lang="zh">Kisah persahabatan antara budak lelaki bernama Mac bersama rakan-rakan termasuk Hantoo Solo (makhluk asing) dan robot Ted yang telah jatuh ke bumi.</desc>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805100000 +0800" channel="中国教育2"><title lang="zh">Masjid Yang Tak Dirindukan Ep5</title><desc lang="zh">Mengisahkan Malik yang diberi tanggungjawab mengganti ayahnya sebagai imam masjid setelah ayahnya meninggal. Namun Malik berbelah bahagi kerana dia ingin menjalani kehidupan dan kerjayanya sendiri.</desc>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805110000 +0800" channel="中国教育2"><title lang="zh">Kerana Hafsanya Setia Ep20</title><desc lang="zh">Cuba melangkah, hati Delilah masih terikat kisah silam bersama Ali. Saat kenangan menghantui, hadirnya Hud Sulaiman sentiasa di sisi membantu melalui detik-detik sukar.</desc>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805120000 +0800" channel="中国教育2"><title lang="zh">Gadis Kopi Ep1</title><desc lang="zh">Ain kemalangan bersama bapanya Saidin ketika dalam perjalanan menghantar bekalan Kopi Wong di Kota Kinabalu. Ain selamat tapi Saidin dan pemandu, Marius mati. Tauke Wong mengambil Ain sebagai anak angkat</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805123000 +0800" channel="中国教育2"><title lang="zh">Berita Mandarin</title><desc lang="zh">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260805123000 +0800" stop="20260805130000 +0800" channel="中国教育2"><title lang="zh">WORLD TODAY</title><desc lang="zh">World Today, brings you the latest news of national interest and trending international issues.</desc>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805140000 +0800" channel="中国教育2"><title lang="zh">Smile to Life Ep19</title><desc lang="zh">Kisah putaran kehidupan seorang gadis ceria yang menghadapi pelbagai ujian dalam kehidupan dan kerjaya dengan penuh ketabahan.</desc>
+  </programme>
+  <programme start="20260805140000 +0800" stop="20260805150000 +0800" channel="中国教育2"><title lang="zh">A Match by Maid Ep16</title><desc lang="zh">Kisah pakatan huru-hara sekumpulan pembantu rumah daripada dua keluarga kelas atasan yang saling bermusuh sejak turun-temurun.</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805170000 +0800" channel="中国教育2"><title lang="zh">Anbulla Appa</title><desc lang="zh">Mengisahkan tentang ikatan kasih sayang yang mendalam antara seorang bapa dan anak perempuannya.</desc>
+  </programme>
+  <programme start="20260805170000 +0800" stop="20260805180000 +0800" channel="中国教育2"><title lang="zh">Tunggu Dulu Cinta Ep23</title><desc lang="zh">Kamal berjumpa Aivy untuk meminta maaf atas kesalahannya dan cuba menjadi bapa terbaik kepada anaknya Benjamin.</desc>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805200000 +0800" channel="中国教育2"><title lang="zh">Berita Tamil</title><desc lang="zh">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805210000 +0800" channel="中国教育2"><title lang="zh">My Dearest Ep14</title><desc lang="zh">Kisah percintaan tragis antara seorang bangsawan misteri, Lee Jang-hyun, dan seorang wanita bangsawan berani, Yoo Gil-chae, yang berlaku ketika zaman penjajahan Dinasti Qing di Korea.</desc>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805230000 +0800" channel="中国教育2"><title lang="zh">Takdir</title><desc lang="zh">17 tahun kahwin, Sofia syak Aziz curang di kafe. Aziz sebenarnya setia dan sayang keluarga, namun satu rahsia besar yang disimpan olehnya bakal memberi impak dahsyat kepada isteri dan anak mereka, Sasha.</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260806000000 +0800" channel="中国教育2"><title lang="zh">Unbreakable Kimmy Schmidt Ep16</title><desc lang="zh">Diselamatkan bersama tiga mangsa, Kimmy enggan pulang ke Indiana lalu membina hidup baharu di New York. Dia menyewa bilik dengan Titus Andromedon, seorang pelakon Broadway yang gagal.</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002400 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:王牌部队33</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002600 +0800" channel="北京卫视"><title lang="zh">晚间剧场:正阳门下19</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001200 +0800" channel="卡酷少儿"><title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅹ</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805010000 +0800" channel="厦门卫视"><title lang="zh">最佳前男友(闽)41-42</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805004700 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场:小满生活21</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002400 +0800" channel="四川卫视"><title lang="zh">午夜剧场:追风者29</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805020600 +0800" channel="大湾区卫视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805084000 +0800" channel="天津体育"><title lang="zh">世界杯经典回眸：2006年世界杯小组赛  意大利VS加纳</title>
+  </programme>
+  <programme start="20260805084000 +0800" stop="20260805095500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
+  </programme>
+  <programme start="20260805095500 +0800" stop="20260805113500 +0800" channel="天津体育"><title lang="zh">世界杯经典回眸：2006年世界杯小组赛  意大利VS美国</title>
+  </programme>
+  <programme start="20260805113500 +0800" stop="20260805115000 +0800" channel="天津体育"><title lang="zh">少年动起来</title>
+  </programme>
+  <programme start="20260805115000 +0800" stop="20260805121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260805121000 +0800" stop="20260805125500 +0800" channel="天津体育"><title lang="zh">体育欣赏</title><desc>中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
+  </programme>
+  <programme start="20260805125500 +0800" stop="20260806125000 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003600 +0800" channel="天津卫视"><title lang="zh">通宵剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805120000 +0800" channel="天津影视"><title lang="zh">上午剧场：成家立业</title><desc>吉林卫视上午时段电视剧场，播出时间为上午时段。涵盖古装、年代、抗战等多种类型，采用多集连播编排，满足居家观众及中老年群体的观剧需求。</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805173000 +0800" channel="天津影视"><title lang="zh">午后剧场: 尖锋</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805173000 +0800" stop="20260805190000 +0800" channel="天津影视"><title lang="zh">傍晚剧场：和平饭店(18-19)</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805220000 +0800" channel="天津影视"><title lang="zh">强档剧场:虎胆神鹰(28-31)</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260806000800 +0800" channel="天津影视"><title lang="zh">晚间剧场: 大宅院的女人(23-24)</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260805065500 +0800" stop="20260805074000 +0800" channel="天津教育"><title lang="zh">寰宇地理</title><desc>金鹰纪实频道引进的美国国家地理频道纪录片栏目，前身为2000年引入中国的《神奇的地球》。节目涵盖科技探索、历史人文、自然生态等领域，设有《缤纷世界》《科技尖端》《风云盛宴》《狂野周末》等固定板块，周一至周日每日不同主题编排。</desc>
+  </programme>
+  <programme start="20260805074000 +0800" stop="20260805081500 +0800" channel="天津教育"><title lang="zh">二哥说事儿</title>
+  </programme>
+  <programme start="20260805081500 +0800" stop="20260805092500 +0800" channel="天津教育"><title lang="zh">百医百顺</title>
+  </programme>
+  <programme start="20260805092500 +0800" stop="20260805094500 +0800" channel="天津教育"><title lang="zh">生活黑科技</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260805094500 +0800" stop="20260805103000 +0800" channel="天津教育"><title lang="zh">潮天津</title>
+  </programme>
+  <programme start="20260805103000 +0800" stop="20260805110000 +0800" channel="天津教育"><title lang="zh">番茄生活王</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260805110000 +0800" stop="20260805120000 +0800" channel="天津教育"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805125500 +0800" channel="天津教育"><title lang="zh">二哥说事儿</title>
+  </programme>
+  <programme start="20260805125500 +0800" stop="20260805140500 +0800" channel="天津教育"><title lang="zh">法眼大律师</title>
+  </programme>
+  <programme start="20260805140500 +0800" stop="20260805145500 +0800" channel="天津教育"><title lang="zh">百医百顺</title>
+  </programme>
+  <programme start="20260805145500 +0800" stop="20260805152000 +0800" channel="天津教育"><title lang="zh">潮天津</title>
+  </programme>
+  <programme start="20260805152000 +0800" stop="20260805173000 +0800" channel="天津教育"><title lang="zh">动画放映厅</title>
+  </programme>
+  <programme start="20260805173000 +0800" stop="20260805180000 +0800" channel="天津教育"><title lang="zh">动画放映厅</title>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805190000 +0800" channel="天津教育"><title lang="zh">动画连播</title>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805192000 +0800" channel="天津教育"><title lang="zh">番茄生活王</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20260805192000 +0800" stop="20260805201000 +0800" channel="天津教育"><title lang="zh">法眼大律师</title>
+  </programme>
+  <programme start="20260805201000 +0800" stop="20260805210000 +0800" channel="天津教育"><title lang="zh">百医百顺</title>
+  </programme>
+  <programme start="20260805210000 +0800" stop="20260805213000 +0800" channel="天津教育"><title lang="zh">二哥说事儿</title>
+  </programme>
+  <programme start="20260805213000 +0800" stop="20260805215500 +0800" channel="天津教育"><title lang="zh">潮天津</title>
+  </programme>
+  <programme start="20260805215500 +0800" stop="20260805220500 +0800" channel="天津教育"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260805220500 +0800" stop="20260805221000 +0800" channel="天津教育"><title lang="zh">新气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20260805221000 +0800" stop="20260805231000 +0800" channel="天津教育"><title lang="zh">法治中国60分</title><desc>全国首档由多家省级地面频道联合制作播出的日播法治新闻栏目。通过即时报道、专业分析和评论员解读，纵览全国重大法治新闻事件，设有《说说〈民法典〉》《话题》《安全提示》等专栏，以案说法普及法律知识。</desc>
+  </programme>
+  <programme start="20260805231000 +0800" stop="20260806010000 +0800" channel="天津教育"><title lang="zh">法眼精编</title>
+  </programme>
+  <programme start="20260805070000 +0800" stop="20260805071500 +0800" channel="天津都市"><title lang="zh">家居大变身</title>
+  </programme>
+  <programme start="20260805071500 +0800" stop="20260805075000 +0800" channel="天津都市"><title lang="zh">爱情保卫战</title><desc>天津卫视情感调解类节目，由赵川主持，情感专家陆琪、莎娜、阎品红等担任嘉宾。每期邀请一对面临情感危机的恋人或夫妻，通过短片展示、当事人陈述、专家剖析、现场调解等环节，直面双方矛盾根源，帮助当事人理性看待感情问题。节目以“真实、理性、温暖”为基调，不刻意煽情，不预设立场，旨在帮助当事人作出不后悔的选择，传递积极健康的婚恋观。口号：“保卫爱情，守护幸福。”</desc>
+  </programme>
+  <programme start="20260805075000 +0800" stop="20260805101500 +0800" channel="天津都市"><title lang="zh">我的选择</title>
+  </programme>
+  <programme start="20260805101500 +0800" stop="20260805105000 +0800" channel="天津都市"><title lang="zh">财富+访谈</title>
+  </programme>
+  <programme start="20260805105000 +0800" stop="20260805120000 +0800" channel="天津都市"><title lang="zh">消费者</title>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805150000 +0800" channel="天津都市"><title lang="zh">都市阳光剧场: 《娘道》（66、67、68）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805150000 +0800" stop="20260805170500 +0800" channel="天津都市"><title lang="zh">爱情保卫战</title><desc>天津卫视情感调解类节目，由赵川主持，情感专家陆琪、莎娜、阎品红等担任嘉宾。每期邀请一对面临情感危机的恋人或夫妻，通过短片展示、当事人陈述、专家剖析、现场调解等环节，直面双方矛盾根源，帮助当事人理性看待感情问题。节目以“真实、理性、温暖”为基调，不刻意煽情，不预设立场，旨在帮助当事人作出不后悔的选择，传递积极健康的婚恋观。口号：“保卫爱情，守护幸福。”</desc>
+  </programme>
+  <programme start="20260805170500 +0800" stop="20260805180500 +0800" channel="天津都市"><title lang="zh">我的选择</title>
+  </programme>
+  <programme start="20260805180500 +0800" stop="20260805182000 +0800" channel="天津都市"><title lang="zh">家居大变身</title>
+  </programme>
+  <programme start="20260805182000 +0800" stop="20260805185300 +0800" channel="天津都市"><title lang="zh">津津有味</title>
+  </programme>
+  <programme start="20260805185300 +0800" stop="20260805193800 +0800" channel="天津都市"><title lang="zh">消费者</title>
+  </programme>
+  <programme start="20260805193800 +0800" stop="20260805194500 +0800" channel="天津都市"><title lang="zh">家居大变身</title>
+  </programme>
+  <programme start="20260805194500 +0800" stop="20260805200500 +0800" channel="天津都市"><title lang="zh">赶大集</title>
+  </programme>
+  <programme start="20260805200500 +0800" stop="20260805203000 +0800" channel="天津都市"><title lang="zh">财富+故事</title>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805205000 +0800" channel="天津都市"><title lang="zh">畅游八方</title>
+  </programme>
+  <programme start="20260805205000 +0800" stop="20260805230000 +0800" channel="天津都市"><title lang="zh">都市生活剧场：《城中之城》（7、8、9）</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260805233000 +0800" channel="天津都市"><title lang="zh">赶大集</title>
+  </programme>
+  <programme start="20260805233000 +0800" stop="20260806000000 +0800" channel="天津都市"><title lang="zh">消费者</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002600 +0800" channel="宁夏卫视"><title lang="zh">纪录片:百年巨匠</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003000 +0800" channel="安徽卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000600 +0800" channel="山东卫视"><title lang="zh">午夜剧场:五号特工组之偷天换月4</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000400 +0800" channel="山西卫视"><title lang="zh">生活服务</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000800 +0800" channel="广东卫视"><title lang="zh">电视剧:秋蝉16</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001300 +0800" channel="广西卫视"><title lang="zh">传奇剧场:摧毁17</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002900 +0800" channel="新疆卫视"><title lang="zh">真实纪录</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805004300 +0800" channel="江苏卫视"><title lang="zh">夜间剧场:漫长的季节13</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805013000 +0800" channel="江苏国际"><title lang="zh">长江 剧场</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002000 +0800" channel="江苏新闻"><title lang="zh">大师</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003400 +0800" channel="江西卫视"><title lang="zh">精品剧场:东北剿匪记30</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001700 +0800" channel="河北卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000300 +0800" channel="河南卫视"><title lang="zh">万象剧场:孤舟19</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000900 +0800" channel="浙江卫视"><title lang="zh">好戏看浙里</title><desc>浙江卫视娱乐资讯类栏目</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001000 +0800" channel="海南卫视"><title lang="zh">卫视高尔夫</title><desc>国内首屈一指的高尔夫电视节目，拥有20年播出历史，全年超千小时高尔夫日播节目。与世界高尔夫四大满贯、美巡赛、欧巡赛等国际顶级赛事组织长期合作，全程跟踪报道李昊桐、袁也淳、冯珊珊等中国职业球员在世界赛场上的表现，是国内唯一拥有强大自制能力的专业垂直类体育节目。</desc>
+  </programme>
+  <programme start="20260805002500 +0800" stop="20260805005500 +0800" channel="深圳卫视"><title lang="zh">探秘時刻</title><desc lang="zh">一檔探秘類專題節目,視野涵蓋自然與人文、歷史與未來、科技與玄秘等領域。</desc>
+  </programme>
+  <programme start="20260805005500 +0800" stop="20260805052000 +0800" channel="深圳卫视"><title lang="zh">第二劇場</title><desc lang="zh">優秀電視劇展播</desc>
+  </programme>
+  <programme start="20260805052000 +0800" stop="20260805054500 +0800" channel="深圳卫视"><title lang="zh">超級發布會</title><desc lang="zh">超級發布會是一檔知識科普類潮流極客節目, 節目致力于為全球新技術、新成果、新突破提供超級發布窗口, 從聚焦熱點到打造熱點, 為觀眾帶來最新最熱的知識科普與行業洞見。節目立足創新之城、國際視野, 已然成為全球首發、首秀、首演、首店的超級平台。</desc>
+  </programme>
+  <programme start="20260805054500 +0800" stop="20260805055500 +0800" channel="深圳卫视"><title lang="zh">先行</title><desc lang="zh">深圳衛視專題節目《先行》, 充分展示深圳作為中國特色社會主義先行示范區的先行探索、示范擔當, 以微記錄的拍攝手法, 通過人物故事的小切口, 以他們在深圳探索打拼、先行先試的故事, 映射國家高質量發展這一大主題。</desc>
+  </programme>
+  <programme start="20260805055500 +0800" stop="20260805064000 +0800" channel="深圳卫视"><title lang="zh">直播港澳台</title><desc lang="zh">關注港澳台, 緊扣時事熱點, 整合全球資源的一檔新聞評論節目。</desc>
+  </programme>
+  <programme start="20260805064000 +0800" stop="20260805065500 +0800" channel="深圳卫视"><title lang="zh">科創最前沿</title><desc lang="zh">創新0時差, 科創最前沿!《科創最前沿》是中國首檔AIGC榜單資訊解讀節目, 本節目由深圳廣電人工智能聯合實驗室與國內多家知名大模型共同推出。AI觀點、AI作品觸手可及, 新鮮生成式榜單資訊, 伴您一站式領略科創前沿風景。此外, 頂級科學家、知名產經人士、年輕活力的科技博主們組成千人智囊團, 為觀眾帶來深度分析, 一起洞察未來。</desc>
+  </programme>
+  <programme start="20260805065500 +0800" stop="20260805070500 +0800" channel="深圳卫视"><title lang="zh">灣區財經</title><desc lang="zh">《灣區財經》, 深圳衛視每晚10分鐘, 聚焦全球財經熱點, 權威解讀最新經濟趨勢。</desc>
+  </programme>
+  <programme start="20260805070500 +0800" stop="20260805073500 +0800" channel="深圳卫视"><title lang="zh">探秘時刻</title><desc lang="zh">一檔探秘類專題節目,視野涵蓋自然與人文、歷史與未來、科技與玄秘等領域。</desc>
+  </programme>
+  <programme start="20260805073500 +0800" stop="20260805080500 +0800" channel="深圳卫视"><title lang="zh">深視新聞</title><desc lang="zh">是一檔綜合類新聞資訊節目, 以深圳人的視角, 發現中國, 感知世界。</desc>
+  </programme>
+  <programme start="20260805080500 +0800" stop="20260805082000 +0800" channel="深圳卫视"><title lang="zh">科創最前沿</title><desc lang="zh">創新0時差, 科創最前沿!《科創最前沿》是中國首檔AIGC榜單資訊解讀節目, 本節目由深圳廣電人工智能聯合實驗室與國內多家知名大模型共同推出。AI觀點、AI作品觸手可及, 新鮮生成式榜單資訊, 伴您一站式領略科創前沿風景。此外, 頂級科學家、知名產經人士、年輕活力的科技博主們組成千人智囊團, 為觀眾帶來深度分析, 一起洞察未來。</desc>
+  </programme>
+  <programme start="20260805082000 +0800" stop="20260805083000 +0800" channel="深圳卫视"><title lang="zh">灣區財經</title><desc lang="zh">《灣區財經》, 深圳衛視每晚10分鐘, 聚焦全球財經熱點, 權威解讀最新經濟趨勢。</desc>
+  </programme>
+  <programme start="20260805083000 +0800" stop="20260805105000 +0800" channel="深圳卫视"><title lang="zh">第一劇場</title><desc lang="zh">優秀電視劇展播</desc>
+  </programme>
+  <programme start="20260805105000 +0800" stop="20260805113500 +0800" channel="深圳卫视"><title lang="zh">直播港澳台</title><desc lang="zh">關注港澳台, 緊扣時事熱點, 整合全球資源的一檔新聞評論節目。</desc>
+  </programme>
+  <programme start="20260805113500 +0800" stop="20260805115000 +0800" channel="深圳卫视"><title lang="zh">科創最前沿</title><desc lang="zh">創新0時差, 科創最前沿!《科創最前沿》是中國首檔AIGC榜單資訊解讀節目, 本節目由深圳廣電人工智能聯合實驗室與國內多家知名大模型共同推出。AI觀點、AI作品觸手可及, 新鮮生成式榜單資訊, 伴您一站式領略科創前沿風景。此外, 頂級科學家、知名產經人士、年輕活力的科技博主們組成千人智囊團, 為觀眾帶來深度分析, 一起洞察未來。</desc>
+  </programme>
+  <programme start="20260805115000 +0800" stop="20260805120000 +0800" channel="深圳卫视"><title lang="zh">灣區財經</title><desc lang="zh">《灣區財經》, 深圳衛視每晚10分鐘, 聚焦全球財經熱點, 權威解讀最新經濟趨勢。</desc>
+  </programme>
+  <programme start="20260805120000 +0800" stop="20260805122500 +0800" channel="深圳卫视"><title lang="zh">超級發布會</title><desc lang="zh">超級發布會是一檔知識科普類潮流極客節目, 節目致力于為全球新技術、新成果、新突破提供超級發布窗口, 從聚焦熱點到打造熱點, 為觀眾帶來最新最熱的知識科普與行業洞見。節目立足創新之城、國際視野, 已然成為全球首發、首秀、首演、首店的超級平台。</desc>
+  </programme>
+  <programme start="20260805122500 +0800" stop="20260805123500 +0800" channel="深圳卫视"><title lang="zh">先行</title><desc lang="zh">深圳衛視專題節目《先行》, 充分展示深圳作為中國特色社會主義先行示范區的先行探索、示范擔當, 以微記錄的拍攝手法, 通過人物故事的小切口, 以他們在深圳探索打拼、先行先試的故事, 映射國家高質量發展這一大主題。</desc>
+  </programme>
+  <programme start="20260805123500 +0800" stop="20260805130500 +0800" channel="深圳卫视"><title lang="zh">探秘時刻</title><desc lang="zh">一檔探秘類專題節目,視野涵蓋自然與人文、歷史與未來、科技與玄秘等領域。</desc>
+  </programme>
+  <programme start="20260805130500 +0800" stop="20260805174000 +0800" channel="深圳卫视"><title lang="zh">第二劇場</title><desc lang="zh">優秀電視劇展播</desc>
+  </programme>
+  <programme start="20260805174000 +0800" stop="20260805180000 +0800" channel="深圳卫视"><title lang="zh">超級發布會</title><desc lang="zh">超級發布會是一檔知識科普類潮流極客節目, 節目致力于為全球新技術、新成果、新突破提供超級發布窗口, 從聚焦熱點到打造熱點, 為觀眾帶來最新最熱的知識科普與行業洞見。節目立足創新之城、國際視野, 已然成為全球首發、首秀、首演、首店的超級平台。</desc>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805181500 +0800" channel="深圳卫视"><title lang="zh">先行</title><desc lang="zh">深圳衛視專題節目《先行》, 充分展示深圳作為中國特色社會主義先行示范區的先行探索、示范擔當, 以微記錄的拍攝手法, 通過人物故事的小切口, 以他們在深圳探索打拼、先行先試的故事, 映射國家高質量發展這一大主題。</desc>
+  </programme>
+  <programme start="20260805181500 +0800" stop="20260805190000 +0800" channel="深圳卫视"><title lang="zh">直播港澳台</title><desc lang="zh">關注港澳台, 緊扣時事熱點, 整合全球資源的一檔新聞評論節目。</desc>
+  </programme>
+  <programme start="20260805190000 +0800" stop="20260805193000 +0800" channel="深圳卫视"><title lang="zh">新聞聯播</title><desc lang="zh">宣傳黨和政府的聲音, 傳播天下大事。</desc>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805215500 +0800" channel="深圳卫视"><title lang="zh">第一劇場</title><desc lang="zh">優秀電視劇展播</desc>
+  </programme>
+  <programme start="20260805215500 +0800" stop="20260805221200 +0800" channel="深圳卫视"><title lang="zh">科創最前沿</title><desc lang="zh">創新0時差, 科創最前沿!《科創最前沿》是中國首檔AIGC榜單資訊解讀節目, 本節目由深圳廣電人工智能聯合實驗室與國內多家知名大模型共同推出。AI觀點、AI作品觸手可及, 新鮮生成式榜單資訊, 伴您一站式領略科創前沿風景。此外, 頂級科學家、知名產經人士、年輕活力的科技博主們組成千人智囊團, 為觀眾帶來深度分析, 一起洞察未來。</desc>
+  </programme>
+  <programme start="20260805221200 +0800" stop="20260805225500 +0800" channel="深圳卫视"><title lang="zh">直播港澳台</title><desc lang="zh">關注港澳台, 緊扣時事熱點, 整合全球資源的一檔新聞評論節目。</desc>
+  </programme>
+  <programme start="20260805225500 +0800" stop="20260805230500 +0800" channel="深圳卫视"><title lang="zh">灣區財經</title><desc lang="zh">《灣區財經》, 深圳衛視每晚10分鐘, 聚焦全球財經熱點, 權威解讀最新經濟趨勢。</desc>
+  </programme>
+  <programme start="20260805230500 +0800" stop="20260805232000 +0800" channel="深圳卫视"><title lang="zh">科創最前沿</title><desc lang="zh">創新0時差, 科創最前沿!《科創最前沿》是中國首檔AIGC榜單資訊解讀節目, 本節目由深圳廣電人工智能聯合實驗室與國內多家知名大模型共同推出。AI觀點、AI作品觸手可及, 新鮮生成式榜單資訊, 伴您一站式領略科創前沿風景。此外, 頂級科學家、知名產經人士、年輕活力的科技博主們組成千人智囊團, 為觀眾帶來深度分析, 一起洞察未來。</desc>
+  </programme>
+  <programme start="20260805232000 +0800" stop="20260805234500 +0800" channel="深圳卫视"><title lang="zh">超級發布會</title><desc lang="zh">超級發布會是一檔知識科普類潮流極客節目, 節目致力于為全球新技術、新成果、新突破提供超級發布窗口, 從聚焦熱點到打造熱點, 為觀眾帶來最新最熱的知識科普與行業洞見。節目立足創新之城、國際視野, 已然成為全球首發、首秀、首演、首店的超級平台。</desc>
+  </programme>
+  <programme start="20260805234500 +0800" stop="20260805235500 +0800" channel="深圳卫视"><title lang="zh">先行</title><desc lang="zh">深圳衛視專題節目《先行》, 充分展示深圳作為中國特色社會主義先行示范區的先行探索、示范擔當, 以微記錄的拍攝手法, 通過人物故事的小切口, 以他們在深圳探索打拼、先行先試的故事, 映射國家高質量發展這一大主題。</desc>
+  </programme>
+  <programme start="20260805235500 +0800" stop="20260806002500 +0800" channel="深圳卫视"><title lang="zh">深視新聞</title><desc lang="zh">是一檔綜合類新聞資訊節目, 以深圳人的視角, 發現中國, 感知世界。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805004600 +0800" channel="湖北卫视"><title lang="zh">深夜剧场:飞哥大英雄</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805012100 +0800" channel="湖南卫视"><title lang="zh">中餐厅·南洋拾光季</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000100 +0800" channel="甘肃卫视"><title lang="zh">晚间剧场:飞虎神鹰13</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000400 +0800" channel="福建少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805035300 +0800" channel="福建教育"><title lang="zh">空中课堂1</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805000100 +0800" channel="福建综合"><title lang="zh">精选剧场</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003058 +0800" channel="精品大剧"><title lang="zh">23_主角</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002200 +0800" channel="纪实科教"><title lang="zh">纪录时间</title><desc>大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
+  </programme>
+  <programme start="20260805010000 +0800" stop="20260805013500 +0800" channel="翡翠台"><title lang="zh">東張西望[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260805013500 +0800" stop="20260805022000 +0800" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  </programme>
+  <programme start="20260805022000 +0800" stop="20260805025000 +0800" channel="翡翠台"><title lang="zh">玩轉深中懶人包[粵]</title><desc lang="zh">中山蘆兜糉是非物質文化遺產，煒哥與曉華學用蘆兜葉包糉，見識傳統石窯煮法。另一老店主打砂鍋煎焗魚頭、叉燒餐包、家鄉炸香蕉，吃出懷舊滋味。零酒精醉龍咖啡竟散發陣陣酒香？咖啡店融合非遺文化，還設書房共享喜「閱」。置身豪裝酒家享用新派中山菜，果木烤鵝、木薑子蒸魚頭、巨型流沙菠蘿包，驚喜不斷！轉往古樸庭園歎家宴，用茶杯喝陳皮水鴨湯夠特色；私房炒肉蟹鮮甜香脆，楓馨竟連殼食……宵夜來個冬瓜盅粥底火鍋，才算滿足！</desc>
+  </programme>
+  <programme start="20260805025000 +0800" stop="20260805034500 +0800" channel="翡翠台"><title lang="zh">東坡家事#17[粵]</title><desc lang="zh">淑眉在街上遇到父母，藉口帶他們到客棧暫住。大妹因見紅擔心胎兒不保，大夫卻指她非小產而是信期，她與季常不知怎告訴月娥。史密跟蘇轍外出後，按樹葉上的小洞畫出地形。蘇轍開集思會被捉拿。東坡與琴操一見如故……</desc>
+  </programme>
+  <programme start="20260805034500 +0800" stop="20260805041000 +0800" channel="翡翠台"><title lang="zh">高朋滿座#155[粵]</title><desc lang="zh">亨的父親突然來訪，說出近日受索羅斯「狙擊」。亨以為父親將破產，朋發現亨對父親是否破產不在意，亨信憑自己「有學識、人脈廣及有身材」的優點，可令家族重拾昔日光輝。可是，亨目空一切的態度，令他處處碰壁而回。</desc>
+  </programme>
+  <programme start="20260805041000 +0800" stop="20260805050500 +0800" channel="翡翠台"><title lang="zh">命轉皇后#30[粵/普][PG]</title><desc lang="zh">周寅之被刀琴抓了回來，呂顯提將其殺掉為芳吟報仇。張遮給了謝危聖上賜的令牌，拿著它就可以出入皇城調動燕家軍，薛遠卻帶人趕了過來，謝危雖然是他的親兒薛定非，但他沒有一絲一毫情分，父子二人對峙著…</desc>
+  </programme>
+  <programme start="20260805050500 +0800" stop="20260805060000 +0800" channel="翡翠台"><title lang="zh">我係小廚神3[粵]</title><desc lang="zh">小廚神冠軍爭奪戰，兩強連同助廚需煮出前菜、主菜、甜品，事前準備工夫做到足。他們手上還有三張指令牌，隨時召喚支援或要求對手助廚暫停工作。Nicole與Fergus這方意外頻生，她怎樣見招拆招？Timothy不停被激動的Cyrus「投訴」，所為何事？過程中小廚神盡顯真性情，還預先感受「職場陰暗」。兩小時後，法國童話故事主題美食與東南亞套餐上桌，爭取評判手上的金星章，冠軍誰屬，就看星級評判陳展鵬的一票！</desc>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805074000 +0800" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260805074000 +0800" stop="20260805074500 +0800" channel="翡翠台"><title lang="zh">環球新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260805074500 +0800" stop="20260805081000 +0800" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260805081000 +0800" stop="20260805084000 +0800" channel="翡翠台"><title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+  </programme>
+  <programme start="20260805084000 +0800" stop="20260805090000 +0800" channel="翡翠台"><title lang="zh">香港早晨[粵]</title>
+  </programme>
+  <programme start="20260805090000 +0800" stop="20260805100000 +0800" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  </programme>
+  <programme start="20260805100000 +0800" stop="20260805100500 +0800" channel="翡翠台"><title lang="zh">勁歌推介[粵]</title>
+  </programme>
+  <programme start="20260805100500 +0800" stop="20260805103500 +0800" channel="翡翠台"><title lang="zh">高朋滿座#156[粵]</title><desc lang="zh">慈姑突向慶等挑戰乒乓球，可是慶竟發現球拍被人塗花，回藥房問罪。喜直認不諱，指為懲罰他「不務正業」。慶看到「一蚊雞代客整蠱」服務網站，竟訂了整套服務給喜。翌日慶發現喜遇上連場怪事，全應驗了「整蠱服務」。</desc>
+  </programme>
+  <programme start="20260805103500 +0800" stop="20260805114000 +0800" channel="翡翠台"><title lang="zh">射鵰英雄傳之鐵血丹心#1[粵/普][PG]</title><desc lang="zh">大漠上，江南七怪苦尋六年，終通過匕首找到郭靖，並收其為徒。郭靖資質愚鈍，經馬鈺傳授內功心法後，武功突飛猛進。郭靖獨自赴比武之約，巧遇乞丐裝扮的黃蓉。穆家父女比武招親，完顏康佔了便宜卻拒絕與穆念慈成親…</desc>
+  </programme>
+  <programme start="20260805114000 +0800" stop="20260805121500 +0800" channel="翡翠台"><title lang="zh">交易現場[粵] 及 潮流生活誌[粵]</title>
+  </programme>
+  <programme start="20260805121500 +0800" stop="20260805125500 +0800" channel="翡翠台"><title lang="zh">食平3D[粵]</title><desc lang="zh">韓風吹襲下，肥媽開始鑽研韓國料理港式煮法。「韓式炒蓮藕」加入韓式辣醬、泡菜、指天椒、蒜頭，豐富辣味層次。「韓式生牛肉飯」的精髓是平價和牛及一系列韓製醃料。還有炸雞配上自家醬料，加料大豆芽滾湯。</desc>
+  </programme>
+  <programme start="20260805125500 +0800" stop="20260805130000 +0800" channel="翡翠台"><title lang="zh">香港美心月餅呈獻:用心‧家的中秋味道[粵]</title>
+  </programme>
+  <programme start="20260805130000 +0800" stop="20260805132000 +0800" channel="翡翠台"><title lang="zh">午間新聞[粵]</title>
+  </programme>
+  <programme start="20260805132000 +0800" stop="20260805141000 +0800" channel="翡翠台"><title lang="zh">流行都市[粵]</title><desc lang="zh">《流行都市》為觀眾介紹時令產品、健康養生、健體運動、護膚化妝、時尚服飾、嬰幼兒護理、育兒知識、城中美食、飼養寵物等潮流資訊，內容包羅萬有！主持們親身體驗、示範或測試之外，還會邀請嘉賓帶來相關專業知識。烹飪環節方面，多位手勢了得的廚藝專家輪流登場，示範簡單美味的健康美食、家常小菜，替大家解決煮食煩惱。</desc>
+  </programme>
+  <programme start="20260805141000 +0800" stop="20260805145000 +0800" channel="翡翠台"><title lang="zh">玩轉深中懶人包[粵][PG]</title><desc lang="zh">茂名盛產荔枝，團隊深入唐代貢園，一探百年荔枝樹；再到荔枝博覽館，醫肚兼長知識。品嚐荔枝甜食後漫步玻璃棧道，俯瞰美「荔」風光。古色古香的天然溫泉區，可邊浸溫泉邊看表演，四位女主持還換上漢服投入古風情懷。上山探尋世外桃源，在絕美竹海、雲海相伴下，泳裝上陣的煒哥Hea歎天台泳池，靚人靚景！另會一嚐傳統高涼菜特色。遊山過後要「玩水」，眾人擁抱電白海岸與浪漫沙灘，狂擦海鮮燒烤大餐，欣賞煙火綻放，玩得盡興！</desc>
+  </programme>
+  <programme start="20260805145000 +0800" stop="20260805155000 +0800" channel="翡翠台"><title lang="zh">東坡家事#17[粵]</title><desc lang="zh">淑眉在街上遇到父母，藉口帶他們到客棧暫住。大妹因見紅擔心胎兒不保，大夫卻指她非小產而是信期，她與季常不知怎告訴月娥。史密跟蘇轍外出後，按樹葉上的小洞畫出地形。蘇轍開集思會被捉拿。東坡與琴操一見如故……</desc>
+  </programme>
+  <programme start="20260805155000 +0800" stop="20260805162000 +0800" channel="翡翠台"><title lang="zh">交易現場[粵]</title>
+  </programme>
+  <programme start="20260805162000 +0800" stop="20260805165000 +0800" channel="翡翠台"><title lang="zh">櫻桃小丸子[粵/日]</title><desc lang="zh">小丸子弄得房間雜亂，結果引來蟑螂，嚇得她馬上叫爺爺幫手滅蟲。後來蟑螂再度出現，終於迫得媽媽出手，炮製據說可以毒死蟑螂的硼酸丸。小丸子回到學校，驚見中村帶了蟑螂回來，更觸發巨大恐慌。</desc>
+  </programme>
+  <programme start="20260805165000 +0800" stop="20260805172000 +0800" channel="翡翠台"><title lang="zh">Hands Up[粵]</title><desc lang="zh">兒童節目《Hands Up》有「醬汁家族」成員和一眾主持，陪伴大家度過愉快時光。「Kids’ Notes」邀請不同界別人士，跟小朋友分享有趣事物；透過「勇闖小兵團」遊戲，讓孩子們快樂遊玩；運動教練引領大家「Workout 2gether」，鍛練身體；還會透過「Artspiration」，引領孩子了解藝術世界；「My Little Show」開放表演舞台，小朋友到來盡情展示才藝！</desc>
+  </programme>
+  <programme start="20260805172000 +0800" stop="20260805175000 +0800" channel="翡翠台"><title lang="zh">麵包超人[粵/日]</title><desc lang="zh">細菌人襲擊焗盅麻呂，剛巧蒜頭小子路過，並誤打誤撞妨礙了細菌人作惡。小提琴人在湖畔演奏給大家聽，遇上細菌來搗亂。方包超人及時出現並擊退了細菌人。小提琴人為表謝意，決定為方包超人演奏一曲。</desc>
+  </programme>
+  <programme start="20260805175000 +0800" stop="20260805180000 +0800" channel="翡翠台"><title lang="zh">財經新聞[粵]</title><desc lang="zh">緊貼市況，逢交易日下午5時50分報道當日本港和外圍股市行情，以及重點財經新聞。</desc>
+  </programme>
+  <programme start="20260805180000 +0800" stop="20260805182500 +0800" channel="翡翠台"><title lang="zh">利嘉閣地產45 周年真盤源特約：今日有樓睇[粵] 及 潮流生活誌[粵]</title><desc lang="zh">住屋與市民生活息息相關，節目為觀眾提供最新樓市成交及市場資訊，每集均設有不同專題，請來專家分享家居保養「小貼士」、講解置業法規。</desc>
+  </programme>
+  <programme start="20260805182500 +0800" stop="20260805183000 +0800" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260805183000 +0800" stop="20260805191500 +0800" channel="翡翠台"><title lang="zh">六點半新聞報道[粵]</title><desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+  </programme>
+  <programme start="20260805191500 +0800" stop="20260805192500 +0800" channel="翡翠台"><title lang="zh">世界觀[粵] 及 農本方參苓白朮散呈獻:天氣報告[粵]</title>
+  </programme>
+  <programme start="20260805192500 +0800" stop="20260805193000 +0800" channel="翡翠台"><title lang="zh">有理說得清[粵]</title>
+  </programme>
+  <programme start="20260805193000 +0800" stop="20260805200000 +0800" channel="翡翠台"><title lang="zh">東張西望[粵] 及 香港美心月餅呈獻:用心‧家的中秋味道[粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260805200000 +0800" stop="20260805200300 +0800" channel="翡翠台"><title lang="zh">東張西望 - 獨家直播三分鐘 [粵]</title><desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+  </programme>
+  <programme start="20260805200300 +0800" stop="20260805203000 +0800" channel="翡翠台"><title lang="zh">黃道益活絡油呈獻：愛． 回家之開心速遞#2866[粵] 及 保誠精選「寵愛寶」呈獻：社畜求生101[粵]</title><desc lang="zh">熊樹根是小型運輸公司東主，為人慳儉，與次女若水、三女心如，以及長女的兒子金城安同住舊樓，惟心如與若水經常為瑣碎事爭吵不休，教樹根哭笑不得。樹根無視眾人反對，力邀不修邊幅的親弟樹仁搬來同住，怎料樹仁竟無意間招惹了因交通意外身亡的鬼魂龍璟風，令熊家出現翻天覆地的轉變！與此同時，若水在百貨公司工作多年，以為可如願獲晉升，卻見高栢菲空降成為其上司，戰火一觸即發；而栢菲原來更與樹仁有段耐人尋味的往事……</desc>
+  </programme>
+  <programme start="20260805203000 +0800" stop="20260805213000 +0800" channel="翡翠台"><title lang="zh">宏利保險呈獻：夫妻的博弈#3[粵]</title><desc lang="zh">善良的幸如，活於丈夫施繼威的壓榨下，罹患絕症。她撞破丈夫與唯一閨蜜潘雪文的姦情，爭執間被推出馬路慘遭車撞。然而，幸如突然醒來，發現一切似乎只是場夢。但當夢中場景接連應驗，她意識到這或是預知夢。為改寫命運，幸如決心扭轉夢中的悲劇。幸如不僅要擺脫渣男與假閨蜜，更設法撮合二人，讓雪文「接手」其原本的不幸。她又善用夢境記憶、換上亮麗外型，在職場力爭上游，還和並肩作戰的上司葉家謙漸生情愫，最終開拓幸福人生！</desc>
+  </programme>
+  <programme start="20260805213000 +0800" stop="20260805220000 +0800" channel="翡翠台"><title lang="zh">宏利保險呈獻：重症解密[粵]</title><desc lang="zh">節目鎖定不同重症，以深入淺出的方式道出頑疾成因、病理機制、最新治療方案和預防方法。譚俊彥、陳曉華、林秀怡、梁凱晴化身「重症調查科」調查員，四出搜羅線索、證物、證人，務求解開各種致命危疾的重重疑團。來自香港各大公立與私家醫院，及本地大學醫學院的資深醫生與學者，結合真實病例、醫療影像，令複雜的醫學知識變得貼地，讓大眾更全面認知重症的診治過程，減少誤解與恐懼，也鼓勵港人及早檢查、及時治療，守護健康未來。</desc>
+  </programme>
+  <programme start="20260805220000 +0800" stop="20260805230000 +0800" channel="翡翠台"><title lang="zh">翻身蜜語#8[粵/普]</title><desc lang="zh">紀封不滿凱鑫的解決方式，要管理層找新的布草供應商，紀封訂的貨被扣在海關，凱鑫截下蜜語的提案，只有他的提案交予紀封，蜜語到紀封房間換上供應商雲海的樣品讓他查看，蒲榮與雲海達成合作，蜜語獲獎金卻惹下屬不滿</desc>
+  </programme>
+  <programme start="20260805230000 +0800" stop="20260805231500 +0800" channel="翡翠台"><title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title><desc lang="zh">節目主要以當日的娛樂新聞作重點，讓你瞬間掌握影視娛樂圈動態和最新消息，並以「娛樂大事件」、「搶閘頭條」、「出爐猛料」等為主題作頭條新聞式報道。</desc>
+  </programme>
+  <programme start="20260805231500 +0800" stop="20260805234500 +0800" channel="翡翠台"><title lang="zh">晚間新聞[粵]</title><desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+  </programme>
+  <programme start="20260805234500 +0800" stop="20260805235000 +0800" channel="翡翠台"><title lang="zh">新聞檔案[粵]</title>
+  </programme>
+  <programme start="20260805235000 +0800" stop="20260805235500 +0800" channel="翡翠台"><title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵] 及 潮流生活誌[粵]</title>
+  </programme>
+  <programme start="20260805235500 +0800" stop="20260806010000 +0800" channel="翡翠台"><title lang="zh">再創世紀#16[粵]</title><desc lang="zh">松蔭支持澤雨入股傲堂，報答啟堂當年相助之餘，伺機重振天蔭。可惜高哲反對，與定垚再起爭執。小慧重遇昔日追求者陳俊才，心動想跟他到美國，只待觀察程凱的反應。啟堂回家休養，但對人事盡變心酸流淚。永成提議麗瞳入股，定垚欲拉攏麗瞳時被當眾掌摑，事後還到處炫耀。永廉看出小慧喜歡程凱，獻計示愛，惜程凱刻意迴避。麗瞳被記者偷拍，明晞出手解決，兩人成好友。天生游說定垚踢高哲出董事局，高哲反警告定垚主席之位可能不保。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001700 +0800" channel="西藏卫视"><title lang="zh">午夜剧场:藏海传27</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002800 +0800" channel="辽宁卫视"><title lang="zh">欢乐点点</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002800 +0800" channel="重庆卫视"><title lang="zh">深夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805003800 +0800" channel="金鹰纪实"><title lang="zh">看世界</title>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805001700 +0800" channel="陕西卫视"><title lang="zh">电影</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  </programme>
+  <programme start="20260805003900 +0800" stop="20260805012300 +0800" channel="陕西卫视"><title lang="zh">生活早参考</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
+  </programme>
+  <programme start="20260805012300 +0800" stop="20260805015500 +0800" channel="陕西卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
+  </programme>
+  <programme start="20260805015500 +0800" stop="20260805021600 +0800" channel="陕西卫视"><title lang="zh">人口</title><desc>栏目紧紧围绕贯彻落实健康中国战略，关注生命全周期、健康全过程，以卫生健康领域的民生话题、社会热点或真实新闻故事为切入点，解读卫生健康政策，普及健康知识，提高公民健康素养，为推进“健康中国”建设营造良好的舆论环境并向社会民众传播正能量。</desc>
+  </programme>
+  <programme start="20260805021600 +0800" stop="20260805022000 +0800" channel="陕西卫视"><title lang="zh">非遗里的中国</title>
+  </programme>
+  <programme start="20260805022000 +0800" stop="20260805025200 +0800" channel="陕西卫视"><title lang="zh">自然中国</title><desc>播出中外自然类纪录片精品，展示大自然的神奇瑰丽。</desc>
+  </programme>
+  <programme start="20260805025200 +0800" stop="20260805042000 +0800" channel="陕西卫视"><title lang="zh">宗师列传·大宋词人传-姜夔</title><desc>中央电视台音乐频道首播的音乐电视作品展播板块，以“声画合一”为美学原则，在每日整点时段滚动播出国内外最新MV作品。涵盖流行、民族、美声、器乐等多种类型，既有周深《非遗里的中国》、王菲《湾》等影视及晚会主题曲MV，也收录多支新生代原创音乐人作品。节目通过4K超清画质与沉浸式音效，以“视听名片”形式呈现音乐与影像的深度融合。</desc>
+  </programme>
+  <programme start="20260805042000 +0800" stop="20260805042200 +0800" channel="陕西卫视"><title lang="zh">泱泱中华</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  </programme>
+  <programme start="20260805042200 +0800" stop="20260805045300 +0800" channel="陕西卫视"><title lang="zh">今日说法</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  </programme>
+  <programme start="20260805045300 +0800" stop="20260805052700 +0800" channel="陕西卫视"><title lang="zh">新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260805052700 +0800" stop="20260805060000 +0800" channel="陕西卫视"><title lang="zh">寻古中国剧情介绍</title>
+  </programme>
+  <programme start="20260805060000 +0800" stop="20260805083600 +0800" channel="陕西卫视"><title lang="zh">朝闻天下</title><desc>朝闻天下 是 中国中央电视台 的一个 早间新闻 节目，由 中国中央电视台新闻频道 与 综合频道 并机直播 [ 1 ] 。自2006年开播至今 [ 2 ] 。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002800 +0800" channel="青海卫视"><title lang="zh">深夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260805000001 +0800" stop="20260805002200 +0800" channel="黑龙江卫视"><title lang="zh">午夜剧场:伪装者37</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+</tv>

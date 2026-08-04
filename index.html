@@ -121,9 +121,11 @@
         .stat-value.qq { color: #a5b4fc; font-size: 1.3rem; }
 
         .filter-bar {
-            display: flex; gap: 8px; flex-wrap: wrap;
+            display: flex; gap: 6px; flex-wrap: wrap;
             margin-bottom: 24px;
             align-items: center;
+            max-height: 120px;
+            overflow-y: auto;
         }
         .filter-bar .sep {
             width: 1px; height: 24px;
@@ -131,14 +133,15 @@
             margin: 0 4px;
         }
         .cat-btn, .gap-btn {
-            padding: 6px 16px;
-            border-radius: 20px;
-            font-size: 0.8rem; font-weight: 500;
+            padding: 5px 12px;
+            border-radius: 18px;
+            font-size: 0.78rem; font-weight: 500;
             border: 1px solid var(--border);
             background: var(--surface);
             color: var(--text-dim);
             cursor: pointer;
             transition: all 0.2s;
+            white-space: nowrap;
         }
         .cat-btn:hover, .gap-btn:hover { border-color: var(--accent); color: var(--text); }
         .cat-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
@@ -450,7 +453,7 @@
                 noGapCount: function() { return this.channels.filter(function(c) { return !c.hasGap; }).length; },
                 gapCount: function() { return this.channels.filter(function(c) { return c.hasGap; }).length; },
                 groupedChannels: function() {
-                    var order = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '省级', '市级', '县级', '其他'];
+                    var order = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '其他'];
                     var groups = {};
                     order.forEach(function(c) { groups[c] = []; });
                     this.channels.forEach(function(ch, i) {

@@ -315,6 +315,14 @@
                 <div class="stat-value accent">{{ channels.length }}</div>
             </div>
             <div class="stat-card">
+                <div class="stat-label">今日有节目</div>
+                <div class="stat-value green">{{ hasProgramCount }}</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">今日无节目</div>
+                <div class="stat-value" style="color:var(--text-dim)">{{ noProgramCount }}</div>
+            </div>
+            <div class="stat-card">
                 <div class="stat-label">今日无断层</div>
                 <div class="stat-value green">{{ noGapCount }}</div>
             </div>
@@ -452,6 +460,8 @@
             computed: {
                 noGapCount: function() { return this.channels.filter(function(c) { return !c.hasGap; }).length; },
                 gapCount: function() { return this.channels.filter(function(c) { return c.hasGap; }).length; },
+                hasProgramCount: function() { return this.channels.filter(function(c) { return c.todaySchedule && c.todaySchedule.length > 0; }).length; },
+                noProgramCount: function() { return this.channels.filter(function(c) { return !c.todaySchedule || c.todaySchedule.length === 0; }).length; },
                 groupedChannels: function() {
                     var order = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '其他'];
                     var groups = {};

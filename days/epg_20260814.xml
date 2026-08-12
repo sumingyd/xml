@@ -1,513 +1,525 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
-  <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
-  </channel>
-  <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
-  </channel>
-  <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name><display-name lang="zh">HBOHITS</display-name>
-  </channel>
-  <channel id="beIN SPORTS 1"><display-name lang="zh">beIN SPORTS 1</display-name><display-name lang="zh">BEINSPORTS</display-name><display-name lang="zh">GINX Esports TV</display-name>
-  </channel>
-  <channel id="哈尔滨都市"><display-name lang="zh">哈尔滨都市资讯</display-name>
-  </channel>
-  <channel id="TVBS欢乐台"><display-name lang="zh">TVBS欢乐台</display-name>
-  </channel>
-  <channel id="民视台湾"><display-name lang="zh">民视台湾</display-name><display-name lang="zh">民视台湾台</display-name>
-  </channel>
-  <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name><display-name lang="zh">BEINSPORTS2</display-name>
-  </channel>
-  <channel id="CCTV3"><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV3综艺</display-name><display-name lang="zh">CHANNEL00000003</display-name><display-name lang="zh">CCTV-3</display-name><display-name lang="zh">CCTV-3综艺</display-name><display-name lang="zh">CCTV 3</display-name><display-name lang="zh">CCTV-3 高清</display-name><display-name lang="zh">CCTV3 高清</display-name>
-  </channel>
-  <channel id="博斯运动一台"><display-name lang="zh">博斯运动一台</display-name>
-  </channel>
-  <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name><display-name lang="zh">TVB PLUS</display-name>
-  </channel>
-  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
-  </channel>
-  <channel id="武术世界"><display-name lang="zh">武术世界</display-name><display-name lang="zh">武术世界</display-name><display-name lang="zh">CHANNEL00000657</display-name>
-  </channel>
-  <channel id="浙江民生"><display-name lang="zh">浙江民生休闲</display-name>
-  </channel>
-  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
-  </channel>
-  <channel id="ViuTV6"><display-name lang="zh">ViuTV6</display-name>
-  </channel>
-  <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
-  </channel>
-  <channel id="MOMO亲子台"><display-name lang="zh">MOMO亲子台</display-name>
-  </channel>
-  <channel id="SUPER Kids Channel"><display-name lang="zh">SUPER Kids Channel</display-name><display-name lang="zh">SUPERKIDSCHANNEL</display-name>
-  </channel>
-  <channel id="Global Trekker"><display-name lang="zh">Global Trekker</display-name><display-name lang="zh">GLOBALTREKKER</display-name>
-  </channel>
-  <channel id="金色学堂"><display-name lang="zh">金色学堂</display-name><display-name lang="zh">金色学堂</display-name><display-name lang="zh">CHANNEL00002018</display-name>
-  </channel>
-  <channel id="浙江新闻"><display-name lang="zh">浙江新闻频道</display-name>
-  </channel>
-  <channel id="靖洋戏剧台"><display-name lang="zh">靖洋戏剧台</display-name>
-  </channel>
-  <channel id="Love Nature 4K"><display-name lang="zh">Love Nature 4K</display-name><display-name lang="zh">LOVENATURE4K</display-name>
-  </channel>
-  <channel id="浙江科教"><display-name lang="zh">浙江科教影视</display-name>
-  </channel>
-  <channel id="国会频道2台"><display-name lang="zh">国会频道2台</display-name>
-  </channel>
-  <channel id="靖天日本"><display-name lang="zh">靖天日本</display-name>
-  </channel>
-  <channel id="粤语片"><display-name lang="zh">粤语片</display-name>
-  </channel>
-  <channel id="NOW爆谷星影台"><display-name lang="zh">NOW爆谷星影台</display-name>
-  </channel>
-  <channel id="南平新闻综合"><display-name lang="zh">南平新闻综合</display-name>
-  </channel>
-  <channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHANNEL00002029</display-name>
-  </channel>
-  <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
-  </channel>
-  <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
-  </channel>
-  <channel id="靖天育乐"><display-name lang="zh">靖天育乐</display-name><display-name lang="zh">靖天育乐台</display-name>
-  </channel>
-  <channel id="SURIA (HD)"><display-name lang="zh">SURIA (HD)</display-name>
-  </channel>
-  <channel id="南通社教"><display-name lang="zh">南通社教</display-name><display-name lang="zh">南通二套</display-name><display-name lang="zh">南通社教频道</display-name>
-  </channel>
-  <channel id="CCTV5+"><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV5体育赛事</display-name><display-name lang="zh">CHANNEL00000316</display-name><display-name lang="zh">CCTV-5+</display-name><display-name lang="zh">CCTV-5+体育赛事</display-name><display-name lang="zh">CCTV5+体育赛事</display-name><display-name lang="zh">CCTV 5+</display-name><display-name lang="zh">CCTV-5+ 高清</display-name><display-name lang="zh">CCTV5+ 高清</display-name>
-  </channel>
-  <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name><display-name lang="zh">HBOSIGNATURE</display-name><display-name lang="zh">LOVENATURE</display-name>
-  </channel>
-  <channel id="龙口综合"><display-name lang="zh">龙口综合</display-name><display-name lang="zh">龙口综合</display-name><display-name lang="zh">CHANNEL00001005</display-name>
-  </channel>
-  <channel id="CCTV怀旧剧场"><display-name lang="zh">CCTV怀旧剧场</display-name><display-name lang="zh">CCTV-怀旧剧场</display-name><display-name lang="zh">怀旧剧场</display-name>
-  </channel>
-  <channel id="ROCK 综艺娱乐"><display-name lang="zh">ROCK 综艺娱乐</display-name><display-name lang="zh">ROCK综艺娱乐</display-name>
-  </channel>
-  <channel id="龙华洋片"><display-name lang="zh">龙华洋片</display-name>
-  </channel>
-  <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
-  </channel>
-  <channel id="影迷数位电影"><display-name lang="zh">影迷数位电影</display-name><display-name lang="zh">影迷数字电影台</display-name>
-  </channel>
-  <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
-  </channel>
-  <channel id="EUROSPORT 1"><display-name lang="zh">EUROSPORT 1</display-name>
-  </channel>
-  <channel id="Willow Sports"><display-name lang="zh">Willow Sports</display-name>
-  </channel>
-  <channel id="ZooMoo"><display-name lang="zh">ZooMoo</display-name><display-name lang="zh">ZOOMOO</display-name>
-  </channel>
-  <channel id="BBCEARTH"><display-name lang="zh">BBCEARTH</display-name>
-  </channel>
-  <channel id="爱尔达宠物运动台"><display-name lang="zh">爱尔达宠物运动台</display-name>
-  </channel>
-  <channel id="Vijay TV HD"><display-name lang="zh">Vijay TV HD</display-name>
-  </channel>
-  <channel id="镜电视新闻台"><display-name lang="zh">镜电视新闻台</display-name>
-  </channel>
-  <channel id="金光布袋戏"><display-name lang="zh">金光布袋戏</display-name>
-  </channel>
-  <channel id="SUPER Sports"><display-name lang="zh">SUPER Sports</display-name><display-name lang="zh">SUPERSPORTS</display-name>
-  </channel>
-  <channel id="戏曲"><display-name lang="zh">戏曲</display-name><display-name lang="zh">戏曲台</display-name>
-  </channel>
-  <channel id="江苏综艺"><display-name lang="zh">江苏综艺</display-name>
-  </channel>
-  <channel id="龙华偶像"><display-name lang="zh">龙华偶像</display-name><display-name lang="zh">龙华偶像</display-name>
-  </channel>
-  <channel id="PHOENIXCHINESECHANNELHD"><display-name lang="zh">PHOENIXCHINESECHANNELHD</display-name>
-  </channel>
-  <channel id="公视戏剧"><display-name lang="zh">公视戏剧</display-name>
-  </channel>
-  <channel id="河北农民"><display-name lang="zh">河北农民</display-name>
-  </channel>
-  <channel id="CCTV17"><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV17农业农村</display-name><display-name lang="zh">CHANNEL00000303</display-name><display-name lang="zh">CCTV-17</display-name><display-name lang="zh">CCTV-17农业农村</display-name><display-name lang="zh">CCTV 17</display-name><display-name lang="zh">CCTV-17 高清</display-name><display-name lang="zh">CCTV17 高清</display-name>
-  </channel>
-  <channel id="SUPER FREE"><display-name lang="zh">SUPER FREE</display-name><display-name lang="zh">SUPERFREE</display-name>
-  </channel>
-  <channel id="钱江都市"><display-name lang="zh">浙江钱江都市</display-name>
-  </channel>
-  <channel id="ASIANET"><display-name lang="zh">ASIANET</display-name>
-  </channel>
-  <channel id="TRACE Sport Stars"><display-name lang="zh">TRACE Sport Stars</display-name><display-name lang="zh">TRACESPORTSTARS</display-name>
-  </channel>
-  <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV-11</display-name><display-name lang="zh">CCTV-11戏曲</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV-11 高清</display-name><display-name lang="zh">CCTV11 高清</display-name>
-  </channel>
-  <channel id="民视影剧"><display-name lang="zh">民视影剧</display-name>
-  </channel>
-  <channel id="ASTROWARNA"><display-name lang="zh">ASTROWARNA</display-name>
-  </channel>
-  <channel id="商河综合"><display-name lang="zh">商河综合</display-name><display-name lang="zh">商河综合</display-name><display-name lang="zh">CHANNEL00001008</display-name>
-  </channel>
   <channel id="浙江经济"><display-name lang="zh">浙江经济生活</display-name>
-  </channel>
-  <channel id="华语剧"><display-name lang="zh">华语剧</display-name>
-  </channel>
-  <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV-第一剧场</display-name><display-name lang="zh">第一剧场</display-name>
-  </channel>
-  <channel id="Love Nature HD"><display-name lang="zh">Love Nature HD</display-name><display-name lang="zh">LOVENATURE</display-name><display-name lang="zh">LOVENATUREHD</display-name>
-  </channel>
-  <channel id="河北卫视"><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北</display-name><display-name lang="zh">CHANNEL00000330</display-name>
-  </channel>
-  <channel id="SUPER Music"><display-name lang="zh">SUPER Music</display-name><display-name lang="zh">SUPERMUSIC</display-name>
-  </channel>
-  <channel id="NOW 爆谷台"><display-name lang="zh">NOW 爆谷台</display-name>
-  </channel>
-  <channel id="民视新闻"><display-name lang="zh">民视新闻</display-name>
-  </channel>
-  <channel id="COLORS TAMIL HD"><display-name lang="zh">COLORS TAMIL HD</display-name>
-  </channel>
-  <channel id="人间卫视"><display-name lang="zh">人间卫视</display-name>
-  </channel>
-  <channel id="海峡卫视"><display-name lang="zh">海峡卫视</display-name><display-name lang="zh">海峡卫视</display-name>
-  </channel>
-  <channel id="龙华电影"><display-name lang="zh">龙华电影</display-name><display-name lang="zh">龙华电影</display-name>
-  </channel>
-  <channel id="CBEEBIES"><display-name lang="zh">CBEEBIES</display-name>
-  </channel>
-  <channel id="ABCAUSTRALIA"><display-name lang="zh">ABCAUSTRALIA</display-name>
-  </channel>
-  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
-  </channel>
-  <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
-  </channel>
-  <channel id="Animax"><display-name lang="zh">Animax</display-name><display-name lang="zh">ANIMAX</display-name>
-  </channel>
-  <channel id="LiveABC互动英语频道"><display-name lang="zh">LiveABC互动英语频道</display-name><display-name lang="zh">LIVEABC互动英语频道</display-name>
-  </channel>
-  <channel id="北京财经"><display-name lang="zh">北京财经</display-name>
-  </channel>
-  <channel id="镇海电视台"><display-name lang="zh">镇海电视台</display-name>
-  </channel>
-  <channel id="达文西频道"><display-name lang="zh">达文西频道</display-name>
-  </channel>
-  <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV1</display-name><display-name lang="zh">CCTV-1</display-name><display-name lang="zh">CCTV-1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV-1 高清</display-name><display-name lang="zh">CCTV1 高清</display-name>
-  </channel>
-  <channel id="CRIME+INVESTIGATIONHD"><display-name lang="zh">CRIME+INVESTIGATIONHD</display-name>
-  </channel>
-  <channel id="早期教育"><display-name lang="zh">早期教育</display-name><display-name lang="zh">早教</display-name>
-  </channel>
-  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
-  </channel>
-  <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
-  </channel>
-  <channel id="无锡生活频道"><display-name lang="zh">无锡生活频道</display-name>
-  </channel>
-  <channel id="AXN"><display-name lang="zh">AXN</display-name>
-  </channel>
-  <channel id="HITS"><display-name lang="zh">HITS</display-name><display-name lang="zh">HITS频道</display-name>
-  </channel>
-  <channel id="海南少儿"><display-name lang="zh">海南少儿</display-name>
-  </channel>
-  <channel id="CI"><display-name lang="zh">CI</display-name>
-  </channel>
-  <channel id="HBO家庭"><display-name lang="zh">HBO家庭</display-name><display-name lang="zh">HBO Family</display-name><display-name lang="zh">HBOFAMILY</display-name>
-  </channel>
-  <channel id="半岛英语"><display-name lang="zh">半岛英语</display-name>
-  </channel>
-  <channel id="千禧经典"><display-name lang="zh">千禧经典</display-name>
-  </channel>
-  <channel id="CNN"><display-name lang="zh">CNN</display-name><display-name lang="zh">CNNHD</display-name>
-  </channel>
-  <channel id="myTV SUPER直播足球3台"><display-name lang="zh">myTV SUPER直播足球3台</display-name><display-name lang="zh">MYTVSUPER直播足球3台</display-name>
-  </channel>
-  <channel id="求索纪录"><display-name lang="zh">求索纪录</display-name><display-name lang="zh">求索纪录</display-name><display-name lang="zh">CHANNEL00000667</display-name>
-  </channel>
-  <channel id="四川影视"><display-name lang="zh">四川影视文艺</display-name>
-  </channel>
-  <channel id="Action Hollywood Movies"><display-name lang="zh">Action Hollywood Movies</display-name><display-name lang="zh">ACTIONHOLLYWOODMOVIES</display-name>
-  </channel>
-  <channel id="AMC电影台"><display-name lang="zh">AMC电影台</display-name>
-  </channel>
-  <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
-  </channel>
-  <channel id="Nick Jr"><display-name lang="zh">Nick Jr</display-name><display-name lang="zh">NICKJR</display-name><display-name lang="zh">NICKJR.</display-name>
-  </channel>
-  <channel id="博斯运动二台"><display-name lang="zh">博斯运动二台</display-name>
-  </channel>
-  <channel id="重温经典频道"><display-name lang="zh">重温经典频道</display-name>
-  </channel>
-  <channel id="Astro AOD"><display-name lang="zh">Astro AOD</display-name>
-  </channel>
-  <channel id="真情SUPER煲"><display-name lang="zh">真情SUPER煲</display-name>
-  </channel>
-  <channel id="CCTV4"><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV4中文</display-name><display-name lang="zh">CHANNEL00000320</display-name><display-name lang="zh">CCTV-4</display-name><display-name lang="zh">CCTV-4中文国际</display-name><display-name lang="zh">CCTV-4 中文国际</display-name><display-name lang="zh">CCTV4中文国际</display-name><display-name lang="zh">CCTV 4</display-name><display-name lang="zh">CCTV-4 高清</display-name><display-name lang="zh">CCTV4 高清</display-name>
-  </channel>
-  <channel id="亚洲旅游"><display-name lang="zh">亚洲旅游</display-name>
-  </channel>
-  <channel id="CCTV6"><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV6电影</display-name><display-name lang="zh">CHANNEL00000361</display-name><display-name lang="zh">CCTV-6</display-name><display-name lang="zh">CCTV-6电影</display-name><display-name lang="zh">CCTV 6</display-name><display-name lang="zh">CCTV-6 高清</display-name><display-name lang="zh">CCTV6 高清</display-name>
-  </channel>
-  <channel id="四川经济"><display-name lang="zh">四川经济频道</display-name>
-  </channel>
-  <channel id="无锡经济频道"><display-name lang="zh">无锡经济频道</display-name>
-  </channel>
-  <channel id="河北都市"><display-name lang="zh">河北都市</display-name>
-  </channel>
-  <channel id="中学生"><display-name lang="zh">中学生</display-name><display-name lang="zh">中学生</display-name><display-name lang="zh">CHANNEL00000673</display-name><display-name lang="zh">CCTV中学生</display-name><display-name lang="zh">中学生频道</display-name>
-  </channel>
-  <channel id="ROCK Action"><display-name lang="zh">ROCK Action</display-name><display-name lang="zh">ROCKACTION</display-name>
   </channel>
   <channel id="CCTV7"><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV7国防军事</display-name><display-name lang="zh">CHANNEL00000318</display-name><display-name lang="zh">CCTV-7</display-name><display-name lang="zh">CCTV-7国防军事</display-name><display-name lang="zh">CCTV 7</display-name><display-name lang="zh">CCTV-7 高清</display-name><display-name lang="zh">CCTV7 高清</display-name>
   </channel>
-  <channel id="英语教室"><display-name lang="zh">英语教室</display-name>
-  </channel>
-  <channel id="Discovery Turbo TV"><display-name lang="zh">Discovery Turbo TV</display-name>
-  </channel>
-  <channel id="BLOOMBERGTV"><display-name lang="zh">BLOOMBERGTV</display-name><display-name lang="zh">Bloomberg TV</display-name>
-  </channel>
-  <channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHANNEL00002030</display-name>
-  </channel>
-  <channel id="Citra Entertainment"><display-name lang="zh">Citra Entertainment</display-name>
-  </channel>
-  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name>
-  </channel>
-  <channel id="中国电影频道"><display-name lang="zh">中国电影频道</display-name>
-  </channel>
-  <channel id="纪实科教"><display-name lang="zh">纪实科教</display-name><display-name lang="zh">北京纪实科教</display-name><display-name lang="zh">CHANNEL00000332</display-name>
-  </channel>
-  <channel id="DISCOVERY HD"><display-name lang="zh">DISCOVERY HD</display-name>
-  </channel>
-  <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name><display-name lang="zh">History 历史频道</display-name><display-name lang="zh">HISTORY历史频道</display-name>
-  </channel>
-  <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
-  </channel>
-  <channel id="江苏教育"><display-name lang="zh">江苏教育</display-name>
-  </channel>
-  <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
-  </channel>
-  <channel id="DreamWorks Channel HD"><display-name lang="zh">DreamWorks Channel HD</display-name>
-  </channel>
-  <channel id="BBCLIFESTYLE"><display-name lang="zh">BBCLIFESTYLE</display-name>
-  </channel>
-  <channel id="吉林卫视"><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林</display-name><display-name lang="zh">CHANNEL00000363</display-name>
-  </channel>
-  <channel id="KIX"><display-name lang="zh">KIX</display-name>
-  </channel>
-  <channel id="乐游"><display-name lang="zh">乐游</display-name><display-name lang="zh">乐游</display-name><display-name lang="zh">CHANNEL00002016</display-name>
-  </channel>
-  <channel id="四川科教"><display-name lang="zh">四川科教频道</display-name>
-  </channel>
-  <channel id="宁波电视台"><display-name lang="zh">宁波电视台</display-name>
-  </channel>
-  <channel id="浙江少儿"><display-name lang="zh">浙江少儿</display-name>
-  </channel>
-  <channel id="美亚电影"><display-name lang="zh">美亚电影</display-name>
-  </channel>
-  <channel id="四川乡村"><display-name lang="zh">四川乡村</display-name><display-name lang="zh">四川乡村频道</display-name>
-  </channel>
-  <channel id="爱尔达体育1台"><display-name lang="zh">爱尔达体育1台</display-name>
-  </channel>
-  <channel id="八大精彩"><display-name lang="zh">八大精彩</display-name>
-  </channel>
-  <channel id="INULTRA"><display-name lang="zh">INULTRA</display-name>
-  </channel>
-  <channel id="ROCK Entertainment"><display-name lang="zh">ROCK Entertainment</display-name><display-name lang="zh">ROCKENTERTAINMENT</display-name>
-  </channel>
-  <channel id="FashionBox"><display-name lang="zh">FashionBox</display-name><display-name lang="zh">FASHIONBOX</display-name>
-  </channel>
-  <channel id="内蒙古卫视"><display-name lang="zh">内蒙古卫视</display-name><display-name lang="zh">内蒙古卫视</display-name><display-name lang="zh">内蒙古</display-name><display-name lang="zh">CHANNEL00000040</display-name>
-  </channel>
-  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
-  </channel>
-  <channel id="博斯网球台"><display-name lang="zh">博斯网球台</display-name>
-  </channel>
-  <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
-  </channel>
-  <channel id="CELESTIAL"><display-name lang="zh">CELESTIAL</display-name>
-  </channel>
-  <channel id="博斯无限台"><display-name lang="zh">博斯无限台</display-name>
-  </channel>
-  <channel id="浙江国际"><display-name lang="zh">浙江国际频道</display-name>
-  </channel>
-  <channel id="书画"><display-name lang="zh">书画</display-name><display-name lang="zh">书画</display-name><display-name lang="zh">CHANNEL00000651</display-name>
-  </channel>
-  <channel id="tvN"><display-name lang="zh">tvN</display-name><display-name lang="zh">TVN</display-name>
-  </channel>
-  <channel id="CCTV4欧洲"><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV4欧洲</display-name><display-name lang="zh">CHANNEL00000350</display-name><display-name lang="zh">CCTV-4欧洲</display-name>
-  </channel>
-  <channel id="CCTV8"><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV8电视剧</display-name><display-name lang="zh">CHANNEL00000362</display-name><display-name lang="zh">CCTV-8</display-name><display-name lang="zh">CCTV-8电视剧</display-name><display-name lang="zh">CCTV 8</display-name><display-name lang="zh">CCTV-8 高清</display-name><display-name lang="zh">CCTV8 高清</display-name>
-  </channel>
-  <channel id="峨眉电影"><display-name lang="zh">峨眉电影4K</display-name>
-  </channel>
-  <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">CCTV-兵器科技</display-name><display-name lang="zh">兵器科技</display-name>
-  </channel>
-  <channel id="海南卫视"><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南</display-name><display-name lang="zh">CHANNEL00000347</display-name><display-name lang="zh">海南综合</display-name>
+  <channel id="ASIANET"><display-name lang="zh">ASIANET</display-name>
   </channel>
   <channel id="CCM"><display-name lang="zh">CCM</display-name>
   </channel>
-  <channel id="博斯无限2台"><display-name lang="zh">博斯无限2台</display-name>
-  </channel>
-  <channel id="亚洲剧"><display-name lang="zh">亚洲剧</display-name>
-  </channel>
-  <channel id="江苏影视"><display-name lang="zh">江苏影视</display-name>
-  </channel>
-  <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
-  </channel>
-  <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
-  </channel>
-  <channel id="HBO"><display-name lang="zh">HBO</display-name><display-name lang="zh">HBOHD</display-name>
-  </channel>
-  <channel id="VIUTVSIX"><display-name lang="zh">VIUTVSIX</display-name>
-  </channel>
-  <channel id="国会频道1台"><display-name lang="zh">国会频道1台</display-name>
-  </channel>
-  <channel id="SUPER识食"><display-name lang="zh">SUPER识食</display-name>
-  </channel>
-  <channel id="无锡娱乐频道"><display-name lang="zh">无锡娱乐频道</display-name>
-  </channel>
-  <channel id="尼克儿童频道"><display-name lang="zh">尼克儿童频道</display-name>
-  </channel>
-  <channel id="龙华戏剧"><display-name lang="zh">龙华戏剧</display-name>
-  </channel>
-  <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
-  </channel>
-  <channel id="四川卫视"><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川</display-name><display-name lang="zh">四川卫视-4K</display-name><display-name lang="zh">四川卫视4K</display-name><display-name lang="zh">CHANNEL00000348</display-name>
-  </channel>
-  <channel id="CCTV4K"><display-name lang="zh">CCTV-4K 超高清</display-name><display-name lang="zh">CCTV-4K</display-name>
-  </channel>
-  <channel id="CCTV16"><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV16 奥林匹克</display-name><display-name lang="zh">CCTV16奥林匹克</display-name><display-name lang="zh">CCTV奥林匹克</display-name><display-name lang="zh">奥林匹克</display-name>
-  </channel>
-  <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
-  </channel>
-  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
-  </channel>
-  <channel id="东方财经"><display-name lang="zh">东方财经</display-name><display-name lang="zh">东方财经</display-name><display-name lang="zh">CHANNEL00002025</display-name>
-  </channel>
-  <channel id="CCTV2"><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV2财经</display-name><display-name lang="zh">CHANNEL00000317</display-name><display-name lang="zh">CCTV-2</display-name><display-name lang="zh">CCTV-2财经</display-name><display-name lang="zh">CCTV 2</display-name><display-name lang="zh">CCTV-2 高清</display-name><display-name lang="zh">CCTV2 高清</display-name>
-  </channel>
-  <channel id="PopC"><display-name lang="zh">PopC</display-name><display-name lang="zh">POPC</display-name>
-  </channel>
-  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
-  </channel>
-  <channel id="Zee Cinema"><display-name lang="zh">Zee Cinema</display-name>
-  </channel>
-  <channel id="CCTV4美洲"><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CHANNEL00000351</display-name><display-name lang="zh">CCTV-4美洲</display-name>
-  </channel>
-  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
-  </channel>
-  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
-  </channel>
-  <channel id="CCTV12"><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV12社会与法</display-name><display-name lang="zh">CHANNEL00000322</display-name><display-name lang="zh">CCTV-12</display-name><display-name lang="zh">CCTV-12社会与法</display-name><display-name lang="zh">CCTV 12</display-name><display-name lang="zh">CCTV-12 高清</display-name><display-name lang="zh">CCTV12 高清</display-name>
-  </channel>
-  <channel id="CARTOONNETWORK"><display-name lang="zh">CARTOONNETWORK</display-name>
-  </channel>
-  <channel id="Channel[V]"><display-name lang="zh">Channel[V]</display-name>
-  </channel>
-  <channel id="四川文旅"><display-name lang="zh">四川文化旅游</display-name>
-  </channel>
-  <channel id="天映经典"><display-name lang="zh">天映经典</display-name><display-name lang="zh">天映经典频道</display-name>
-  </channel>
-  <channel id="明珠"><display-name lang="zh">明珠</display-name>
-  </channel>
-  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
-  </channel>
-  <channel id="CCTV央视台球"><display-name lang="zh">CCTV央视台球</display-name><display-name lang="zh">CCTV-央视台球</display-name><display-name lang="zh">央视台球</display-name>
-  </channel>
-  <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
-  </channel>
-  <channel id="Lifetime 娱乐频道"><display-name lang="zh">Lifetime 娱乐频道</display-name><display-name lang="zh">LIFETIME娱乐频道</display-name>
-  </channel>
-  <channel id="临清综合"><display-name lang="zh">临清综合</display-name><display-name lang="zh">临清综合</display-name><display-name lang="zh">CHANNEL00001103</display-name>
-  </channel>
-  <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
-  </channel>
-  <channel id="ZEE TV"><display-name lang="zh">ZEE TV</display-name>
-  </channel>
-  <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
-  </channel>
-  <channel id="myTV SUPER直播足球2台"><display-name lang="zh">myTV SUPER直播足球2台</display-name><display-name lang="zh">MYTVSUPER直播足球2台</display-name>
-  </channel>
-  <channel id="RTHK32"><display-name lang="zh">RTHK32</display-name>
-  </channel>
-  <channel id="江西少儿"><display-name lang="zh">江西少儿</display-name><display-name lang="zh">黑龙江少儿</display-name>
-  </channel>
-  <channel id="myTV SUPER 18台"><display-name lang="zh">myTV SUPER 18台</display-name><display-name lang="zh">MYTVSUPER18台</display-name>
-  </channel>
-  <channel id="天津文艺"><display-name lang="zh">天津文艺</display-name><display-name lang="zh">天津文艺</display-name>
-  </channel>
-  <channel id="大湾区卫视"><display-name lang="zh">大湾区卫视</display-name>
-  </channel>
-  <channel id="天元围棋"><display-name lang="zh">天元围棋</display-name>
-  </channel>
-  <channel id="SUPER奖门人"><display-name lang="zh">SUPER奖门人</display-name>
-  </channel>
-  <channel id="贵州卫视"><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州</display-name><display-name lang="zh">CHANNEL00000329</display-name>
-  </channel>
-  <channel id="猪哥亮歌厅秀"><display-name lang="zh">猪哥亮歌厅秀</display-name>
-  </channel>
-  <channel id="SUPER煲剧"><display-name lang="zh">SUPER煲剧</display-name>
-  </channel>
-  <channel id="义乌电视台"><display-name lang="zh">义乌电视台</display-name>
-  </channel>
-  <channel id="电影原声台CMUSIC"><display-name lang="zh">电影原声台CMUSIC</display-name>
-  </channel>
-  <channel id="NOW新闻"><display-name lang="zh">NOW新闻</display-name>
-  </channel>
-  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
-  </channel>
-  <channel id="CCTV风云音乐"><display-name lang="zh">CCTV风云音乐</display-name><display-name lang="zh">CCTV-风云音乐</display-name><display-name lang="zh">风云音乐</display-name>
-  </channel>
-  <channel id="Thrill"><display-name lang="zh">Thrill</display-name><display-name lang="zh">THRILL</display-name>
-  </channel>
-  <channel id="无锡都市资讯"><display-name lang="zh">无锡都市资讯频道</display-name>
-  </channel>
-  <channel id="HOY 76"><display-name lang="zh">HOY 76</display-name><display-name lang="zh">HOY76</display-name>
-  </channel>
-  <channel id="RTHK31"><display-name lang="zh">RTHK31</display-name>
-  </channel>
-  <channel id="无线新闻"><display-name lang="zh">无线新闻</display-name>
-  </channel>
-  <channel id="CCTV央视文化精品"><display-name lang="zh">CCTV央视文化精品</display-name><display-name lang="zh">CCTV-央视文化精品</display-name><display-name lang="zh">央视文化精品</display-name><display-name lang="zh">文化精品</display-name>
-  </channel>
-  <channel id="四川新闻"><display-name lang="zh">四川新闻资讯</display-name>
-  </channel>
-  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
-  </channel>
-  <channel id="Rialto Classic Movies (RCM)"><display-name lang="zh">Rialto Classic Movies (RCM)</display-name>
-  </channel>
-  <channel id="COLORS"><display-name lang="zh">COLORS</display-name>
-  </channel>
-  <channel id="影迷数位纪实"><display-name lang="zh">影迷数位纪实</display-name>
-  </channel>
-  <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
+  <channel id="无锡生活频道"><display-name lang="zh">无锡生活频道</display-name>
   </channel>
   <channel id="NHK WORLD-JAPAN"><display-name lang="zh">NHK WORLD-JAPAN</display-name><display-name lang="zh">NHKWORLDJAPAN</display-name>
   </channel>
-  <channel id="创世电视"><display-name lang="zh">创世电视</display-name>
+  <channel id="ARENA"><display-name lang="zh">ARENA</display-name>
   </channel>
-  <channel id="ASIANETMOVIES"><display-name lang="zh">ASIANETMOVIES</display-name>
-  </channel>
-  <channel id="无锡新闻综合"><display-name lang="zh">无锡新闻综合</display-name>
-  </channel>
-  <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
+  <channel id="NOW爆谷星影台"><display-name lang="zh">NOW爆谷星影台</display-name>
   </channel>
   <channel id="采昌影剧"><display-name lang="zh">采昌影剧</display-name><display-name lang="zh">采昌影剧台</display-name>
   </channel>
-  <channel id="CCTV世界地理"><display-name lang="zh">CCTV世界地理</display-name><display-name lang="zh">CCTV-世界地理</display-name><display-name lang="zh">世界地理</display-name>
+  <channel id="TVBJ"><display-name lang="zh">TVBJ</display-name>
   </channel>
-  <channel id="青海卫视"><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海</display-name><display-name lang="zh">CHANNEL00000366</display-name>
+  <channel id="四川新闻"><display-name lang="zh">四川新闻资讯</display-name>
   </channel>
-  <channel id="iQIYI"><display-name lang="zh">iQIYI</display-name><display-name lang="zh">IQIYI</display-name>
+  <channel id="真情SUPER煲"><display-name lang="zh">真情SUPER煲</display-name>
   </channel>
-  <channel id="福建教育"><display-name lang="zh">福建教育</display-name>
+  <channel id="Citra Entertainment"><display-name lang="zh">Citra Entertainment</display-name>
   </channel>
-  <channel id="beIN SPORTS 3"><display-name lang="zh">beIN SPORTS 3</display-name><display-name lang="zh">BEINSPORTS3</display-name>
+  <channel id="Nick Jr"><display-name lang="zh">Nick Jr</display-name><display-name lang="zh">NICKJR</display-name><display-name lang="zh">NICKJR.</display-name>
   </channel>
-  <channel id="江苏城市"><display-name lang="zh">江苏城市</display-name>
+  <channel id="DreamWorks Channel HD"><display-name lang="zh">DreamWorks Channel HD</display-name>
   </channel>
-  <channel id="CINEMA ONE GLOBAL"><display-name lang="zh">CINEMA ONE GLOBAL</display-name>
+  <channel id="亚洲旅游"><display-name lang="zh">亚洲旅游</display-name>
+  </channel>
+  <channel id="中国电影频道"><display-name lang="zh">中国电影频道</display-name>
+  </channel>
+  <channel id="四川经济"><display-name lang="zh">四川经济频道</display-name>
+  </channel>
+  <channel id="重温经典频道"><display-name lang="zh">重温经典频道</display-name>
+  </channel>
+  <channel id="SUPER Music"><display-name lang="zh">SUPER Music</display-name><display-name lang="zh">SUPERMUSIC</display-name>
+  </channel>
+  <channel id="天津都市"><display-name lang="zh">天津都市</display-name><display-name lang="zh">天津都市</display-name>
+  </channel>
+  <channel id="CCTV6"><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV-6 电影</display-name><display-name lang="zh">CCTV6电影</display-name><display-name lang="zh">CHANNEL00000361</display-name><display-name lang="zh">CCTV-6</display-name><display-name lang="zh">CCTV-6电影</display-name><display-name lang="zh">CCTV 6</display-name><display-name lang="zh">CCTV-6 高清</display-name><display-name lang="zh">CCTV6 高清</display-name>
+  </channel>
+  <channel id="南通社教"><display-name lang="zh">南通社教</display-name><display-name lang="zh">南通二套</display-name><display-name lang="zh">南通社教频道</display-name>
+  </channel>
+  <channel id="粤语片"><display-name lang="zh">粤语片</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球3台"><display-name lang="zh">myTV SUPER直播足球3台</display-name><display-name lang="zh">MYTVSUPER直播足球3台</display-name>
+  </channel>
+  <channel id="电影原声台CMUSIC"><display-name lang="zh">电影原声台CMUSIC</display-name>
+  </channel>
+  <channel id="AXN"><display-name lang="zh">AXN</display-name>
+  </channel>
+  <channel id="CARTOONNETWORK"><display-name lang="zh">CARTOONNETWORK</display-name>
+  </channel>
+  <channel id="国会频道2台"><display-name lang="zh">国会频道2台</display-name>
+  </channel>
+  <channel id="TVB Plus"><display-name lang="zh">TVB Plus</display-name><display-name lang="zh">TVB PLUS</display-name>
+  </channel>
+  <channel id="民视影剧"><display-name lang="zh">民视影剧</display-name>
+  </channel>
+  <channel id="天元围棋"><display-name lang="zh">天元围棋</display-name>
+  </channel>
+  <channel id="影迷数位纪实"><display-name lang="zh">影迷数位纪实</display-name>
   </channel>
   <channel id="民视第一台"><display-name lang="zh">民视第一台</display-name>
   </channel>
+  <channel id="浙江民生"><display-name lang="zh">浙江民生休闲</display-name>
+  </channel>
+  <channel id="ASTROWARNA"><display-name lang="zh">ASTROWARNA</display-name>
+  </channel>
+  <channel id="东方卫视"><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方卫视</display-name><display-name lang="zh">东方</display-name><display-name lang="zh">东方卫视-4K</display-name><display-name lang="zh">东方卫视4K</display-name><display-name lang="zh">CHANNEL00000309</display-name>
+  </channel>
+  <channel id="亚洲剧"><display-name lang="zh">亚洲剧</display-name>
+  </channel>
+  <channel id="SUPER煲剧"><display-name lang="zh">SUPER煲剧</display-name>
+  </channel>
+  <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
+  </channel>
+  <channel id="CHC影迷电影"><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHC影迷电影</display-name><display-name lang="zh">CHANNEL00002029</display-name>
+  </channel>
+  <channel id="ViuTV6"><display-name lang="zh">ViuTV6</display-name>
+  </channel>
+  <channel id="北京财经"><display-name lang="zh">北京财经</display-name>
+  </channel>
+  <channel id="CINEMAX"><display-name lang="zh">CINEMAX</display-name>
+  </channel>
+  <channel id="无锡娱乐频道"><display-name lang="zh">无锡娱乐频道</display-name>
+  </channel>
+  <channel id="镜电视新闻台"><display-name lang="zh">镜电视新闻台</display-name>
+  </channel>
+  <channel id="美亚电影"><display-name lang="zh">美亚电影</display-name>
+  </channel>
+  <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV-风云足球</display-name><display-name lang="zh">风云足球</display-name>
+  </channel>
+  <channel id="江苏城市"><display-name lang="zh">江苏城市</display-name>
+  </channel>
+  <channel id="CELESTIAL"><display-name lang="zh">CELESTIAL</display-name>
+  </channel>
+  <channel id="DISCOVERY HD"><display-name lang="zh">DISCOVERY HD</display-name>
+  </channel>
+  <channel id="CCTV风云剧场"><display-name lang="zh">CCTV风云剧场</display-name><display-name lang="zh">CCTV-风云剧场</display-name><display-name lang="zh">风云剧场</display-name>
+  </channel>
+  <channel id="BBCEARTH"><display-name lang="zh">BBCEARTH</display-name>
+  </channel>
+  <channel id="CHC动作电影"><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHC动作电影</display-name><display-name lang="zh">CHANNEL00002030</display-name>
+  </channel>
+  <channel id="HITS"><display-name lang="zh">HITS</display-name><display-name lang="zh">HITS频道</display-name>
+  </channel>
+  <channel id="尼克儿童频道"><display-name lang="zh">尼克儿童频道</display-name>
+  </channel>
+  <channel id="靖天育乐"><display-name lang="zh">靖天育乐</display-name><display-name lang="zh">靖天育乐台</display-name>
+  </channel>
+  <channel id="CCTV4美洲"><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CHANNEL00000351</display-name><display-name lang="zh">CCTV-4美洲</display-name>
+  </channel>
+  <channel id="四川科教"><display-name lang="zh">四川科教频道</display-name>
+  </channel>
+  <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
+  </channel>
+  <channel id="CBEEBIES"><display-name lang="zh">CBEEBIES</display-name>
+  </channel>
+  <channel id="CCTV4欧洲"><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV-4 欧洲</display-name><display-name lang="zh">CCTV4欧洲</display-name><display-name lang="zh">CHANNEL00000350</display-name><display-name lang="zh">CCTV-4欧洲</display-name>
+  </channel>
+  <channel id="SURIA (HD)"><display-name lang="zh">SURIA (HD)</display-name>
+  </channel>
+  <channel id="PHOENIXCHINESECHANNELHD"><display-name lang="zh">PHOENIXCHINESECHANNELHD</display-name>
+  </channel>
+  <channel id="Action Hollywood Movies"><display-name lang="zh">Action Hollywood Movies</display-name><display-name lang="zh">ACTIONHOLLYWOODMOVIES</display-name>
+  </channel>
+  <channel id="影迷数位电影"><display-name lang="zh">影迷数位电影</display-name><display-name lang="zh">影迷数字电影台</display-name>
+  </channel>
+  <channel id="江苏综艺"><display-name lang="zh">江苏综艺</display-name>
+  </channel>
+  <channel id="浙江国际"><display-name lang="zh">浙江国际频道</display-name>
+  </channel>
+  <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
+  </channel>
+  <channel id="义乌电视台"><display-name lang="zh">义乌电视台</display-name>
+  </channel>
+  <channel id="ZEE TV"><display-name lang="zh">ZEE TV</display-name>
+  </channel>
+  <channel id="无锡都市资讯"><display-name lang="zh">无锡都市资讯频道</display-name>
+  </channel>
+  <channel id="CI"><display-name lang="zh">CI</display-name>
+  </channel>
+  <channel id="CHC家庭影院"><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHC家庭影院</display-name><display-name lang="zh">CHANNEL00002028</display-name>
+  </channel>
+  <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
+  </channel>
+  <channel id="龙华电影"><display-name lang="zh">龙华电影</display-name><display-name lang="zh">龙华电影</display-name>
+  </channel>
+  <channel id="RTHK32"><display-name lang="zh">RTHK32</display-name>
+  </channel>
+  <channel id="CCTV央视台球"><display-name lang="zh">CCTV央视台球</display-name><display-name lang="zh">CCTV-央视台球</display-name><display-name lang="zh">央视台球</display-name>
+  </channel>
+  <channel id="内蒙古卫视"><display-name lang="zh">内蒙古卫视</display-name><display-name lang="zh">内蒙古卫视</display-name><display-name lang="zh">内蒙古</display-name><display-name lang="zh">CHANNEL00000040</display-name>
+  </channel>
+  <channel id="山东教育"><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育卫视</display-name><display-name lang="zh">山东教育</display-name><display-name lang="zh">CHANNEL00000331</display-name>
+  </channel>
+  <channel id="ROCK Action"><display-name lang="zh">ROCK Action</display-name><display-name lang="zh">ROCKACTION</display-name>
+  </channel>
+  <channel id="书画"><display-name lang="zh">书画</display-name><display-name lang="zh">书画</display-name><display-name lang="zh">CHANNEL00000651</display-name>
+  </channel>
+  <channel id="CINEMA ONE GLOBAL"><display-name lang="zh">CINEMA ONE GLOBAL</display-name>
+  </channel>
+  <channel id="武城综合"><display-name lang="zh">武城综合</display-name><display-name lang="zh">武城综合</display-name><display-name lang="zh">CHANNEL00001059</display-name>
+  </channel>
+  <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV-5</display-name><display-name lang="zh">CCTV-5体育</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV-5 高清</display-name><display-name lang="zh">CCTV5 高清</display-name>
+  </channel>
+  <channel id="千禧经典"><display-name lang="zh">千禧经典</display-name>
+  </channel>
+  <channel id="四川影视"><display-name lang="zh">四川影视文艺</display-name>
+  </channel>
+  <channel id="早期教育"><display-name lang="zh">早期教育</display-name><display-name lang="zh">早教</display-name>
+  </channel>
+  <channel id="ROCK Entertainment"><display-name lang="zh">ROCK Entertainment</display-name><display-name lang="zh">ROCKENTERTAINMENT</display-name>
+  </channel>
   <channel id="老故事"><display-name lang="zh">老故事</display-name>
   </channel>
-  <channel id="TVBJ"><display-name lang="zh">TVBJ</display-name>
+  <channel id="SUPER奖门人"><display-name lang="zh">SUPER奖门人</display-name>
   </channel>
-  <channel id="BLOOMBERGTELEVISION"><display-name lang="zh">BLOOMBERGTELEVISION</display-name>
+  <channel id="博斯无限台"><display-name lang="zh">博斯无限台</display-name>
   </channel>
-  <channel id="ARENA"><display-name lang="zh">ARENA</display-name>
+  <channel id="金光布袋戏"><display-name lang="zh">金光布袋戏</display-name>
+  </channel>
+  <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
+  </channel>
+  <channel id="beIN SPORTS 1"><display-name lang="zh">beIN SPORTS 1</display-name><display-name lang="zh">BEINSPORTS</display-name><display-name lang="zh">GINX Esports TV</display-name>
+  </channel>
+  <channel id="CCTV8"><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV-8 电视剧</display-name><display-name lang="zh">CCTV8电视剧</display-name><display-name lang="zh">CHANNEL00000362</display-name><display-name lang="zh">CCTV-8</display-name><display-name lang="zh">CCTV-8电视剧</display-name><display-name lang="zh">CCTV 8</display-name><display-name lang="zh">CCTV-8 高清</display-name><display-name lang="zh">CCTV8 高清</display-name>
+  </channel>
+  <channel id="CNN"><display-name lang="zh">CNN</display-name><display-name lang="zh">CNNHD</display-name>
+  </channel>
+  <channel id="Love Nature HD"><display-name lang="zh">Love Nature HD</display-name><display-name lang="zh">LOVENATURE</display-name><display-name lang="zh">LOVENATUREHD</display-name>
+  </channel>
+  <channel id="CCTV2"><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV-2 财经</display-name><display-name lang="zh">CCTV2财经</display-name><display-name lang="zh">CHANNEL00000317</display-name><display-name lang="zh">CCTV-2</display-name><display-name lang="zh">CCTV-2财经</display-name><display-name lang="zh">CCTV 2</display-name><display-name lang="zh">CCTV-2 高清</display-name><display-name lang="zh">CCTV2 高清</display-name>
+  </channel>
+  <channel id="吉林卫视"><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林卫视</display-name><display-name lang="zh">吉林</display-name><display-name lang="zh">CHANNEL00000363</display-name>
+  </channel>
+  <channel id="博斯运动二台"><display-name lang="zh">博斯运动二台</display-name>
+  </channel>
+  <channel id="猪哥亮歌厅秀"><display-name lang="zh">猪哥亮歌厅秀</display-name>
+  </channel>
+  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name>
+  </channel>
+  <channel id="宁波电视台"><display-name lang="zh">宁波电视台</display-name>
+  </channel>
+  <channel id="精品大剧"><display-name lang="zh">精品大剧</display-name>
+  </channel>
+  <channel id="Astro AOD"><display-name lang="zh">Astro AOD</display-name>
+  </channel>
+  <channel id="重庆卫视"><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆卫视</display-name><display-name lang="zh">重庆</display-name><display-name lang="zh">CHANNEL00000341</display-name>
+  </channel>
+  <channel id="Willow Sports"><display-name lang="zh">Willow Sports</display-name>
+  </channel>
+  <channel id="龙华洋片"><display-name lang="zh">龙华洋片</display-name>
+  </channel>
+  <channel id="CCTV电视指南"><display-name lang="zh">CCTV电视指南</display-name><display-name lang="zh">CCTV-电视指南</display-name><display-name lang="zh">电视指南</display-name>
+  </channel>
+  <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
+  </channel>
+  <channel id="CCTV怀旧剧场"><display-name lang="zh">CCTV怀旧剧场</display-name><display-name lang="zh">CCTV-怀旧剧场</display-name><display-name lang="zh">怀旧剧场</display-name>
+  </channel>
+  <channel id="Zee Cinema"><display-name lang="zh">Zee Cinema</display-name>
+  </channel>
+  <channel id="民视新闻"><display-name lang="zh">民视新闻</display-name>
+  </channel>
+  <channel id="ASIANETMOVIES"><display-name lang="zh">ASIANETMOVIES</display-name>
+  </channel>
+  <channel id="COLORS TAMIL HD"><display-name lang="zh">COLORS TAMIL HD</display-name>
+  </channel>
+  <channel id="FashionBox"><display-name lang="zh">FashionBox</display-name><display-name lang="zh">FASHIONBOX</display-name>
+  </channel>
+  <channel id="福建教育"><display-name lang="zh">福建教育</display-name>
+  </channel>
+  <channel id="HBO家庭"><display-name lang="zh">HBO家庭</display-name><display-name lang="zh">HBO Family</display-name><display-name lang="zh">HBOFAMILY</display-name>
+  </channel>
+  <channel id="生活时尚"><display-name lang="zh">生活时尚</display-name><display-name lang="zh">生活时尚</display-name><display-name lang="zh">CHANNEL00002019</display-name>
+  </channel>
+  <channel id="法治天地"><display-name lang="zh">法治天地</display-name><display-name lang="zh">法治天地</display-name><display-name lang="zh">CHANNEL00002010</display-name>
+  </channel>
+  <channel id="贵州卫视"><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州卫视</display-name><display-name lang="zh">贵州</display-name><display-name lang="zh">CHANNEL00000329</display-name>
+  </channel>
+  <channel id="龙华戏剧"><display-name lang="zh">龙华戏剧</display-name>
+  </channel>
+  <channel id="无锡新闻综合"><display-name lang="zh">无锡新闻综合</display-name>
+  </channel>
+  <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
+  </channel>
+  <channel id="东方财经"><display-name lang="zh">东方财经</display-name><display-name lang="zh">东方财经</display-name><display-name lang="zh">CHANNEL00002025</display-name>
+  </channel>
+  <channel id="MOMO亲子台"><display-name lang="zh">MOMO亲子台</display-name>
+  </channel>
+  <channel id="龙口综合"><display-name lang="zh">龙口综合</display-name><display-name lang="zh">龙口综合</display-name><display-name lang="zh">CHANNEL00001005</display-name>
+  </channel>
+  <channel id="Global Trekker"><display-name lang="zh">Global Trekker</display-name><display-name lang="zh">GLOBALTREKKER</display-name>
+  </channel>
+  <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
+  </channel>
+  <channel id="Vijay TV HD"><display-name lang="zh">Vijay TV HD</display-name>
+  </channel>
+  <channel id="HBO原创锯献"><display-name lang="zh">HBO原创锯献</display-name><display-name lang="zh">HBO Signature</display-name><display-name lang="zh">HBOSIGNATURE</display-name><display-name lang="zh">LOVENATURE</display-name>
+  </channel>
+  <channel id="VIUTVSIX"><display-name lang="zh">VIUTVSIX</display-name>
+  </channel>
+  <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
+  </channel>
+  <channel id="CCTV4K"><display-name lang="zh">CCTV-4K 超高清</display-name><display-name lang="zh">CCTV-4K</display-name>
+  </channel>
+  <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV1</display-name><display-name lang="zh">CCTV-1</display-name><display-name lang="zh">CCTV-1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV-1 高清</display-name><display-name lang="zh">CCTV1 高清</display-name>
+  </channel>
+  <channel id="KIX"><display-name lang="zh">KIX</display-name>
+  </channel>
+  <channel id="ZooMoo"><display-name lang="zh">ZooMoo</display-name><display-name lang="zh">ZOOMOO</display-name>
+  </channel>
+  <channel id="Lifetime 娱乐频道"><display-name lang="zh">Lifetime 娱乐频道</display-name><display-name lang="zh">LIFETIME娱乐频道</display-name>
+  </channel>
+  <channel id="青海卫视"><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海卫视</display-name><display-name lang="zh">青海</display-name><display-name lang="zh">CHANNEL00000366</display-name>
   </channel>
   <channel id="ZEE THIRAI"><display-name lang="zh">ZEE THIRAI</display-name>
   </channel>
+  <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV-11</display-name><display-name lang="zh">CCTV-11戏曲</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV-11 高清</display-name><display-name lang="zh">CCTV11 高清</display-name>
+  </channel>
+  <channel id="myTV SUPER直播足球2台"><display-name lang="zh">myTV SUPER直播足球2台</display-name><display-name lang="zh">MYTVSUPER直播足球2台</display-name>
+  </channel>
+  <channel id="哈尔滨都市"><display-name lang="zh">哈尔滨都市资讯</display-name>
+  </channel>
+  <channel id="求索纪录"><display-name lang="zh">求索纪录</display-name><display-name lang="zh">求索纪录</display-name><display-name lang="zh">CHANNEL00000667</display-name>
+  </channel>
+  <channel id="纪实科教"><display-name lang="zh">纪实科教</display-name><display-name lang="zh">北京纪实科教</display-name><display-name lang="zh">CHANNEL00000332</display-name>
+  </channel>
+  <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV-第一剧场</display-name><display-name lang="zh">第一剧场</display-name>
+  </channel>
+  <channel id="CCTV3"><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV-3 综艺</display-name><display-name lang="zh">CCTV3综艺</display-name><display-name lang="zh">CHANNEL00000003</display-name><display-name lang="zh">CCTV-3</display-name><display-name lang="zh">CCTV-3综艺</display-name><display-name lang="zh">CCTV 3</display-name><display-name lang="zh">CCTV-3 高清</display-name><display-name lang="zh">CCTV3 高清</display-name>
+  </channel>
+  <channel id="天映经典"><display-name lang="zh">天映经典</display-name><display-name lang="zh">天映经典频道</display-name>
+  </channel>
+  <channel id="CCTV16"><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV-16 奥林匹克</display-name><display-name lang="zh">CCTV16 奥林匹克</display-name><display-name lang="zh">CCTV16奥林匹克</display-name><display-name lang="zh">CCTV奥林匹克</display-name><display-name lang="zh">奥林匹克</display-name>
+  </channel>
+  <channel id="军旅剧场"><display-name lang="zh">军旅剧场</display-name>
+  </channel>
+  <channel id="江西少儿"><display-name lang="zh">江西少儿</display-name><display-name lang="zh">黑龙江少儿</display-name>
+  </channel>
+  <channel id="武术世界"><display-name lang="zh">武术世界</display-name><display-name lang="zh">武术世界</display-name><display-name lang="zh">CHANNEL00000657</display-name>
+  </channel>
+  <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
+  </channel>
+  <channel id="半岛英语"><display-name lang="zh">半岛英语</display-name>
+  </channel>
+  <channel id="金色学堂"><display-name lang="zh">金色学堂</display-name><display-name lang="zh">金色学堂</display-name><display-name lang="zh">CHANNEL00002018</display-name>
+  </channel>
+  <channel id="临清综合"><display-name lang="zh">临清综合</display-name><display-name lang="zh">临清综合</display-name><display-name lang="zh">CHANNEL00001103</display-name>
+  </channel>
+  <channel id="创世电视"><display-name lang="zh">创世电视</display-name>
+  </channel>
+  <channel id="无锡经济频道"><display-name lang="zh">无锡经济频道</display-name>
+  </channel>
+  <channel id="HISTORY"><display-name lang="zh">HISTORY</display-name><display-name lang="zh">History 历史频道</display-name><display-name lang="zh">HISTORY历史频道</display-name>
+  </channel>
+  <channel id="TRACE Sport Stars"><display-name lang="zh">TRACE Sport Stars</display-name><display-name lang="zh">TRACESPORTSTARS</display-name>
+  </channel>
+  <channel id="CCTV17"><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV-17 农业农村</display-name><display-name lang="zh">CCTV17农业农村</display-name><display-name lang="zh">CHANNEL00000303</display-name><display-name lang="zh">CCTV-17</display-name><display-name lang="zh">CCTV-17农业农村</display-name><display-name lang="zh">CCTV 17</display-name><display-name lang="zh">CCTV-17 高清</display-name><display-name lang="zh">CCTV17 高清</display-name>
+  </channel>
+  <channel id="北京卫视"><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京卫视</display-name><display-name lang="zh">北京</display-name><display-name lang="zh">北京卫视-4K</display-name><display-name lang="zh">北京卫视4K</display-name><display-name lang="zh">CHANNEL00000302</display-name>
+  </channel>
+  <channel id="ROCK 综艺娱乐"><display-name lang="zh">ROCK 综艺娱乐</display-name><display-name lang="zh">ROCK综艺娱乐</display-name>
+  </channel>
+  <channel id="商河综合"><display-name lang="zh">商河综合</display-name><display-name lang="zh">商河综合</display-name><display-name lang="zh">CHANNEL00001008</display-name>
+  </channel>
+  <channel id="NOW 爆谷台"><display-name lang="zh">NOW 爆谷台</display-name>
+  </channel>
+  <channel id="ABCAUSTRALIA"><display-name lang="zh">ABCAUSTRALIA</display-name>
+  </channel>
   <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV-14</display-name><display-name lang="zh">CCTV-14少儿</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV-14 高清</display-name><display-name lang="zh">CCTV14 高清</display-name>
+  </channel>
+  <channel id="SUPER Sports"><display-name lang="zh">SUPER Sports</display-name><display-name lang="zh">SUPERSPORTS</display-name>
+  </channel>
+  <channel id="NOW新闻"><display-name lang="zh">NOW新闻</display-name>
+  </channel>
+  <channel id="爱尔达体育1台"><display-name lang="zh">爱尔达体育1台</display-name>
+  </channel>
+  <channel id="河北卫视"><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北卫视</display-name><display-name lang="zh">河北</display-name><display-name lang="zh">CHANNEL00000330</display-name>
+  </channel>
+  <channel id="SUPER FREE"><display-name lang="zh">SUPER FREE</display-name><display-name lang="zh">SUPERFREE</display-name>
+  </channel>
+  <channel id="iQIYI"><display-name lang="zh">iQIYI</display-name><display-name lang="zh">IQIYI</display-name>
+  </channel>
+  <channel id="beIN SPORTS 3"><display-name lang="zh">beIN SPORTS 3</display-name><display-name lang="zh">BEINSPORTS3</display-name>
+  </channel>
+  <channel id="浙江新闻"><display-name lang="zh">浙江新闻频道</display-name>
+  </channel>
+  <channel id="国会频道1台"><display-name lang="zh">国会频道1台</display-name>
+  </channel>
+  <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name><display-name lang="zh">BEINSPORTS2</display-name>
+  </channel>
+  <channel id="HOY 76"><display-name lang="zh">HOY 76</display-name><display-name lang="zh">HOY76</display-name>
+  </channel>
+  <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV-9</display-name><display-name lang="zh">CCTV-9纪录</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV-9 高清</display-name><display-name lang="zh">CCTV9 高清</display-name>
+  </channel>
+  <channel id="CRIME+INVESTIGATIONHD"><display-name lang="zh">CRIME+INVESTIGATIONHD</display-name>
+  </channel>
+  <channel id="天津文艺"><display-name lang="zh">天津文艺</display-name><display-name lang="zh">天津文艺</display-name>
+  </channel>
+  <channel id="海南卫视"><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南卫视</display-name><display-name lang="zh">海南</display-name><display-name lang="zh">CHANNEL00000347</display-name><display-name lang="zh">海南综合</display-name>
+  </channel>
+  <channel id="Discovery Turbo TV"><display-name lang="zh">Discovery Turbo TV</display-name>
+  </channel>
+  <channel id="SUPER识食"><display-name lang="zh">SUPER识食</display-name>
+  </channel>
+  <channel id="河北都市"><display-name lang="zh">河北都市</display-name>
+  </channel>
+  <channel id="达文西频道"><display-name lang="zh">达文西频道</display-name>
+  </channel>
+  <channel id="CCTV卫生健康"><display-name lang="zh">CCTV卫生健康</display-name><display-name lang="zh">CCTV-卫生健康</display-name><display-name lang="zh">卫生健康</display-name>
+  </channel>
+  <channel id="CCTV12"><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV-12 社会与法</display-name><display-name lang="zh">CCTV12社会与法</display-name><display-name lang="zh">CHANNEL00000322</display-name><display-name lang="zh">CCTV-12</display-name><display-name lang="zh">CCTV-12社会与法</display-name><display-name lang="zh">CCTV 12</display-name><display-name lang="zh">CCTV-12 高清</display-name><display-name lang="zh">CCTV12 高清</display-name>
+  </channel>
+  <channel id="镇海电视台"><display-name lang="zh">镇海电视台</display-name>
+  </channel>
+  <channel id="靖天日本"><display-name lang="zh">靖天日本</display-name>
+  </channel>
+  <channel id="河北农民"><display-name lang="zh">河北农民</display-name>
+  </channel>
+  <channel id="Rialto Classic Movies (RCM)"><display-name lang="zh">Rialto Classic Movies (RCM)</display-name>
+  </channel>
+  <channel id="Animax"><display-name lang="zh">Animax</display-name><display-name lang="zh">ANIMAX</display-name>
+  </channel>
+  <channel id="CCTV高尔夫网球"><display-name lang="zh">CCTV高尔夫网球</display-name><display-name lang="zh">CCTV-高尔夫网球</display-name><display-name lang="zh">高尔夫网球</display-name>
+  </channel>
+  <channel id="EUROSPORT 1"><display-name lang="zh">EUROSPORT 1</display-name>
+  </channel>
+  <channel id="HBO"><display-name lang="zh">HBO</display-name><display-name lang="zh">HBOHD</display-name>
+  </channel>
+  <channel id="英语教室"><display-name lang="zh">英语教室</display-name>
+  </channel>
+  <channel id="BBCLIFESTYLE"><display-name lang="zh">BBCLIFESTYLE</display-name>
+  </channel>
+  <channel id="BLOOMBERGTV"><display-name lang="zh">BLOOMBERGTV</display-name><display-name lang="zh">Bloomberg TV</display-name>
+  </channel>
+  <channel id="CCTV女性时尚"><display-name lang="zh">CCTV女性时尚</display-name><display-name lang="zh">CCTV-女性时尚</display-name><display-name lang="zh">女性时尚</display-name>
+  </channel>
+  <channel id="峨眉电影"><display-name lang="zh">峨眉电影4K</display-name>
+  </channel>
+  <channel id="BLOOMBERGTELEVISION"><display-name lang="zh">BLOOMBERGTELEVISION</display-name>
+  </channel>
+  <channel id="浙江少儿"><display-name lang="zh">浙江少儿</display-name>
+  </channel>
+  <channel id="甘肃卫视"><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃卫视</display-name><display-name lang="zh">甘肃</display-name><display-name lang="zh">CHANNEL00000349</display-name>
+  </channel>
+  <channel id="福建少儿"><display-name lang="zh">福建少儿</display-name>
+  </channel>
+  <channel id="PopC"><display-name lang="zh">PopC</display-name><display-name lang="zh">POPC</display-name>
+  </channel>
+  <channel id="Love Nature 4K"><display-name lang="zh">Love Nature 4K</display-name><display-name lang="zh">LOVENATURE4K</display-name>
+  </channel>
+  <channel id="CCTV风云音乐"><display-name lang="zh">CCTV风云音乐</display-name><display-name lang="zh">CCTV-风云音乐</display-name><display-name lang="zh">风云音乐</display-name>
+  </channel>
+  <channel id="tvN"><display-name lang="zh">tvN</display-name><display-name lang="zh">TVN</display-name>
+  </channel>
+  <channel id="TVBS欢乐台"><display-name lang="zh">TVBS欢乐台</display-name>
+  </channel>
+  <channel id="AMC电影台"><display-name lang="zh">AMC电影台</display-name>
+  </channel>
+  <channel id="CCTV15"><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV-15 音乐</display-name><display-name lang="zh">CCTV15音乐</display-name><display-name lang="zh">CHANNEL00000346</display-name><display-name lang="zh">CCTV-15</display-name><display-name lang="zh">CCTV-15音乐</display-name><display-name lang="zh">CCTV 15</display-name><display-name lang="zh">CCTV-15 高清</display-name><display-name lang="zh">CCTV15 高清</display-name>
+  </channel>
+  <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">CCTV-兵器科技</display-name><display-name lang="zh">兵器科技</display-name>
+  </channel>
+  <channel id="明珠"><display-name lang="zh">明珠</display-name>
+  </channel>
+  <channel id="江苏教育"><display-name lang="zh">江苏教育</display-name>
+  </channel>
+  <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
+  </channel>
+  <channel id="华语剧"><display-name lang="zh">华语剧</display-name>
+  </channel>
+  <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
+  </channel>
+  <channel id="Channel[V]"><display-name lang="zh">Channel[V]</display-name>
+  </channel>
+  <channel id="LiveABC互动英语频道"><display-name lang="zh">LiveABC互动英语频道</display-name><display-name lang="zh">LIVEABC互动英语频道</display-name>
+  </channel>
+  <channel id="人间卫视"><display-name lang="zh">人间卫视</display-name>
+  </channel>
+  <channel id="公视戏剧"><display-name lang="zh">公视戏剧</display-name>
+  </channel>
+  <channel id="南方卫视"><display-name lang="zh">南方卫视</display-name>
+  </channel>
+  <channel id="四川卫视"><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川卫视</display-name><display-name lang="zh">四川</display-name><display-name lang="zh">四川卫视-4K</display-name><display-name lang="zh">四川卫视4K</display-name><display-name lang="zh">CHANNEL00000348</display-name>
+  </channel>
+  <channel id="博斯运动一台"><display-name lang="zh">博斯运动一台</display-name>
+  </channel>
+  <channel id="江苏影视"><display-name lang="zh">江苏影视</display-name>
+  </channel>
+  <channel id="南平新闻综合"><display-name lang="zh">南平新闻综合</display-name>
+  </channel>
+  <channel id="爱尔达宠物运动台"><display-name lang="zh">爱尔达宠物运动台</display-name>
+  </channel>
+  <channel id="Thrill"><display-name lang="zh">Thrill</display-name><display-name lang="zh">THRILL</display-name>
+  </channel>
+  <channel id="四川文旅"><display-name lang="zh">四川文化旅游</display-name>
+  </channel>
+  <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
+  </channel>
+  <channel id="龙华偶像"><display-name lang="zh">龙华偶像</display-name><display-name lang="zh">龙华偶像</display-name>
+  </channel>
+  <channel id="CCTV4"><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV-4 中文</display-name><display-name lang="zh">CCTV4中文</display-name><display-name lang="zh">CHANNEL00000320</display-name><display-name lang="zh">CCTV-4</display-name><display-name lang="zh">CCTV-4中文国际</display-name><display-name lang="zh">CCTV-4 中文国际</display-name><display-name lang="zh">CCTV4中文国际</display-name><display-name lang="zh">CCTV 4</display-name><display-name lang="zh">CCTV-4 高清</display-name><display-name lang="zh">CCTV4 高清</display-name>
+  </channel>
+  <channel id="钱江都市"><display-name lang="zh">浙江钱江都市</display-name>
+  </channel>
+  <channel id="博斯无限2台"><display-name lang="zh">博斯无限2台</display-name>
+  </channel>
+  <channel id="CCTV10"><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV-10 科教</display-name><display-name lang="zh">CCTV10科教</display-name><display-name lang="zh">CHANNEL00000321</display-name><display-name lang="zh">CCTV-10</display-name><display-name lang="zh">CCTV-10科教</display-name><display-name lang="zh">CCTV 10</display-name><display-name lang="zh">CCTV-10 高清</display-name><display-name lang="zh">CCTV10 高清</display-name>
+  </channel>
+  <channel id="戏曲"><display-name lang="zh">戏曲</display-name><display-name lang="zh">戏曲台</display-name>
+  </channel>
+  <channel id="乐游"><display-name lang="zh">乐游</display-name><display-name lang="zh">乐游</display-name><display-name lang="zh">CHANNEL00002016</display-name>
+  </channel>
+  <channel id="COLORS"><display-name lang="zh">COLORS</display-name>
+  </channel>
+  <channel id="海南少儿"><display-name lang="zh">海南少儿</display-name>
+  </channel>
+  <channel id="八大精彩"><display-name lang="zh">八大精彩</display-name>
+  </channel>
+  <channel id="中学生"><display-name lang="zh">中学生</display-name><display-name lang="zh">中学生</display-name><display-name lang="zh">CHANNEL00000673</display-name><display-name lang="zh">CCTV中学生</display-name><display-name lang="zh">中学生频道</display-name>
+  </channel>
+  <channel id="大湾区卫视"><display-name lang="zh">大湾区卫视</display-name>
+  </channel>
+  <channel id="无线新闻"><display-name lang="zh">无线新闻</display-name>
+  </channel>
+  <channel id="民视台湾"><display-name lang="zh">民视台湾</display-name><display-name lang="zh">民视台湾台</display-name>
+  </channel>
+  <channel id="海峡卫视"><display-name lang="zh">海峡卫视</display-name><display-name lang="zh">海峡卫视</display-name>
+  </channel>
+  <channel id="CCTV5+"><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV5体育赛事</display-name><display-name lang="zh">CHANNEL00000316</display-name><display-name lang="zh">CCTV-5+</display-name><display-name lang="zh">CCTV-5+体育赛事</display-name><display-name lang="zh">CCTV5+体育赛事</display-name><display-name lang="zh">CCTV 5+</display-name><display-name lang="zh">CCTV-5+ 高清</display-name><display-name lang="zh">CCTV5+ 高清</display-name>
+  </channel>
+  <channel id="myTV SUPER 18台"><display-name lang="zh">myTV SUPER 18台</display-name><display-name lang="zh">MYTVSUPER18台</display-name>
+  </channel>
+  <channel id="博斯网球台"><display-name lang="zh">博斯网球台</display-name>
+  </channel>
+  <channel id="四川乡村"><display-name lang="zh">四川乡村</display-name><display-name lang="zh">四川乡村频道</display-name>
+  </channel>
+  <channel id="RTHK31"><display-name lang="zh">RTHK31</display-name>
+  </channel>
+  <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name><display-name lang="zh">HBOHITS</display-name>
+  </channel>
+  <channel id="靖洋戏剧台"><display-name lang="zh">靖洋戏剧台</display-name>
+  </channel>
+  <channel id="宁夏卫视"><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏卫视</display-name><display-name lang="zh">宁夏</display-name><display-name lang="zh">CHANNEL00000395</display-name>
+  </channel>
+  <channel id="INULTRA"><display-name lang="zh">INULTRA</display-name>
+  </channel>
+  <channel id="中视购物"><display-name lang="zh">中视购物</display-name><display-name lang="zh">CCTV-中视购物</display-name>
+  </channel>
+  <channel id="CCTV央视文化精品"><display-name lang="zh">CCTV央视文化精品</display-name><display-name lang="zh">CCTV-央视文化精品</display-name><display-name lang="zh">央视文化精品</display-name><display-name lang="zh">文化精品</display-name>
+  </channel>
+  <channel id="浙江科教"><display-name lang="zh">浙江科教影视</display-name>
+  </channel>
+  <channel id="CCTV世界地理"><display-name lang="zh">CCTV世界地理</display-name><display-name lang="zh">CCTV-世界地理</display-name><display-name lang="zh">世界地理</display-name>
+  </channel>
+  <channel id="SUPER Kids Channel"><display-name lang="zh">SUPER Kids Channel</display-name><display-name lang="zh">SUPERKIDSCHANNEL</display-name>
   </channel>
   <programme start="20260814040000 +0800" stop="20260814050000 +0800" channel="ABCAUSTRALIA"><title lang="zh">News Breakfast:2026 第162集 -Your Say In Gawler, Sa</title>
   </programme>
@@ -568,6 +580,8 @@
   <programme start="20260814080000 +0800" stop="20260814111500 +0800" channel="ARENA"><title lang="zh">Hari Pertama Motor: MSBK 2026 Rnd 3</title><desc lang="zh">Malaysia Superbike Championship 2026 Pusingan ke-3 dari Litar Antarabangsa Sepang.</desc>
   </programme>
   <programme start="20260814140000 +0800" stop="20260814171500 +0800" channel="ARENA"><title lang="zh">Motor: MSBK 2026 Rnd</title><desc lang="zh">Malaysia Superbike Championship 2026 dari</desc>
+  </programme>
+  <programme start="20260814183000 +0800" stop="20260814190000 +0800" channel="ARENA"><title lang="zh">Sorotan Super School Rugby 2026</title><desc lang="zh">Sorotan aksi-aksi menarik perlawanan Super School Rugby 2026 Premier.</desc>
   </programme>
   <programme start="20260814202000 +0800" stop="20260814223000 +0800" channel="ARENA"><title lang="zh">(L) Sukma Selangor 2026 Bolasepak: SEL lwn KUL</title><desc lang="zh">(Langsung) Temasya Sukan Malaysia ke-22 Bolasepak: Selangor lwn Kuala Lumpur dari Selangor.</desc>
   </programme>
@@ -909,6 +923,8 @@
   </programme>
   <programme start="20260814083130 +0800" stop="20260814083320 +0800" channel="CCTV11"><title lang="zh">青春戏苑-2026-154 动画相声专辑14</title><desc lang="zh">《青春戏苑》栏目以大胆创新的风格力推梨园新星,借青春时尚的形式传承古典厚重的戏曲文化艺术。节目以综艺戏曲晚会、新人新秀演绎的形式每周呈现一期,内容主要涵盖京剧、昆曲、越剧、豫剧、黄梅戏、评剧等中国几大</desc>
   </programme>
+  <programme start="20260814094620 +0800" stop="20260814113415 +0800" channel="CCTV11"><title lang="zh">电影 双凤奇缘（港）</title>
+  </programme>
   <programme start="20260814113415 +0800" stop="20260814113605 +0800" channel="CCTV11"><title lang="zh">连环话-千里走单骑</title>
   </programme>
   <programme start="20260814115445 +0800" stop="20260814124515 +0800" channel="CCTV11"><title lang="zh">凡人歌12/37</title>
@@ -939,7 +955,7 @@
   </programme>
   <programme start="20260814121000 +0800" stop="20260814123300 +0800" channel="CCTV12"><title lang="zh">道德观察(日播版)-2026-226</title><desc lang="zh">中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
   </programme>
-  <programme start="20260814131000 +0800" stop="20260814135900 +0800" channel="CCTV12"><title lang="zh">2026社会与法电视剧精选-黑白禁区-18/42</title><desc>陆明松枪杀谭小四，安泉被抓后招供陆明松犯罪事实。警方掌握关键证据，收网行动进入倒计时。</desc>
+  <programme start="20260814131000 +0800" stop="20260814135900 +0800" channel="CCTV12"><title lang="zh">2026社会与法电视剧精选-黑白禁区-18/42</title><desc lang="zh">陆明松枪杀谭小四，安泉被抓后招供陆明松犯罪事实。警方掌握关键证据，收网行动进入倒计时。</desc>
   </programme>
   <programme start="20260814135900 +0800" stop="20260814144800 +0800" channel="CCTV12"><title lang="zh">2026社会与法电视剧精选-黑白禁区-19/42</title>
   </programme>
@@ -967,7 +983,7 @@
   </programme>
   <programme start="20260814215300 +0800" stop="20260814224300 +0800" channel="CCTV12"><title lang="zh">普法剧场2026-226</title>
   </programme>
-  <programme start="20260814001000 +0800" stop="20260814060000 +0800" channel="CCTV14"><title lang="zh">大道薪火-26/33</title>
+  <programme start="20260814001000 +0800" stop="20260814010000 +0800" channel="CCTV14"><title lang="zh">大道薪火-26/33</title>
   </programme>
   <programme start="20260814060000 +0800" stop="20260814063500 +0800" channel="CCTV14"><title lang="zh">风车剧场-2026-175</title><desc lang="zh">为小朋友们呈现根据经典动画片改编的儿童剧。</desc>
   </programme>
@@ -993,7 +1009,7 @@
   </programme>
   <programme start="20260814215000 +0800" stop="20260814232000 +0800" channel="CCTV14"><title lang="zh">一起“趣”观赛-25</title>
   </programme>
-  <programme start="20260814232000 +0800" stop="20260814235900 +0800" channel="CCTV14"><title lang="zh">大道薪火-27/33</title><desc>《大道薪火》是一部以中国革命历史为主题的电视剧，讲述了中国共产党在革命年代的奋斗历程和革命先辈的英雄事迹。该剧通过宏大的历史背景和生动的人物形象，展现了中国共产党领导人民争取民族独立和人民解放的光辉历程，传递了革命精神和爱国主义情怀。</desc>
+  <programme start="20260814232000 +0800" stop="20260814235900 +0800" channel="CCTV14"><title lang="zh">大道薪火-27/33</title><desc lang="zh">《大道薪火》是一部以中国革命历史为主题的电视剧，讲述了中国共产党在革命年代的奋斗历程和革命先辈的英雄事迹。该剧通过宏大的历史背景和生动的人物形象，展现了中国共产党领导人民争取民族独立和人民解放的光辉历程，传递了革命精神和爱国主义情怀。</desc>
   </programme>
   <programme start="20260814070830 +0800" stop="20260814072400 +0800" channel="CCTV15"><title lang="zh">中国节拍-品味古典76</title>
   </programme>
@@ -1013,7 +1029,7 @@
   </programme>
   <programme start="20260814210330 +0800" stop="20260814214300 +0800" channel="CCTV15"><title lang="zh">中国音乐电视-2026-6-闪亮的和声 毕业不散场（精编）</title><desc lang="zh">中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
   </programme>
-  <programme start="20260814214300 +0800" stop="20260814224230 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-2026-147-“时代乐潮”系列音乐会（4）</title><desc>经典中穿行，在永恒中聆听。舒缓、激越、浪漫、凝重，在绚烂的灯光下，旋律在流淌，感情在激荡。从维也纳的金色大厅到澳洲的悉尼大剧院，北京音乐厅，上海音乐厅，星海音乐厅，无数的经典演绎汇聚到CCTV音乐厅。</desc>
+  <programme start="20260814214300 +0800" stop="20260814224230 +0800" channel="CCTV15"><title lang="zh">CCTV音乐厅-2026-147-“时代乐潮”系列音乐会（4）</title><desc lang="zh">经典中穿行，在永恒中聆听。舒缓、激越、浪漫、凝重，在绚烂的灯光下，旋律在流淌，感情在激荡。从维也纳的金色大厅到澳洲的悉尼大剧院，北京音乐厅，上海音乐厅，星海音乐厅，无数的经典演绎汇聚到CCTV音乐厅。</desc>
   </programme>
   <programme start="20260814224230 +0800" stop="20260814235615 +0800" channel="CCTV15"><title lang="zh">精彩音乐汇-我的爱对你说-2026-319</title><desc lang="zh">央视首档互动点歌节目，以“经典+流行”为主线，汇聚最好听的经典老歌与热门流行金曲，通过卡拉OK字幕与观众点歌TOP榜增强互动性，让观众在歌声中感受时光里的温暖印记。</desc>
   </programme>
@@ -1163,15 +1179,49 @@
   </programme>
   <programme start="20260814234930 +0800" stop="20260814235900 +0800" channel="CCTV4"><title lang="zh">高兴的酸甜苦辣15/40</title>
   </programme>
-  <programme start="20260814060100 +0800" stop="20260814060700 +0800" channel="CCTV4K"><title lang="zh">健身动起来</title><desc>《健身动起来》是中央电视台体育频道最新开播的一档大众健身栏目，它集欣赏性、教学性、娱乐性、互动性于一体，以展示和教授大众健身方式中的健身舞蹈为节目主要内容。</desc>
+  <programme start="20260814035500 +0800" stop="20260814060100 +0800" channel="CCTV4K"><title lang="zh">丝绸之旅20252</title>
   </programme>
-  <programme start="20260814060700 +0800" stop="20260814070800 +0800" channel="CCTV4K"><title lang="zh">综艺栏目</title>
+  <programme start="20260814060100 +0800" stop="20260814060700 +0800" channel="CCTV4K"><title lang="zh">健身动起来</title><desc lang="zh">《健身动起来》是中央电视台体育频道最新开播的一档大众健身栏目，它集欣赏性、教学性、娱乐性、互动性于一体，以展示和教授大众健身方式中的健身舞蹈为节目主要内容。</desc>
+  </programme>
+  <programme start="20260814060700 +0800" stop="20260814062900 +0800" channel="CCTV4K"><title lang="zh">综艺栏目</title>
+  </programme>
+  <programme start="20260814062900 +0800" stop="20260814063900 +0800" channel="CCTV4K"><title lang="zh">中华古树:湖南崇木凼古树群</title><desc>《中华古树》深度聚焦中华大地上具有典型代表性的古树名木，首次完整建立中华古树国家级影像档案，首次系统阐释中华古树重要文化价值，首次全景展现中华古树生存状态与保护举措，深度探寻古树跨越千年的生命传奇与人文故事，生动展现东方生态智慧的深邃与瑰丽。</desc>
+  </programme>
+  <programme start="20260814063900 +0800" stop="20260814070400 +0800" channel="CCTV4K"><title lang="zh">百年守护4</title>
+  </programme>
+  <programme start="20260814070400 +0800" stop="20260814071400 +0800" channel="CCTV4K"><title lang="zh">秘境之眼:叶猴家族</title><desc>中央广播电视总台综合频道自然生态纪录片栏目，以“不被打扰的相逢”为理念，通过布设在国家公园、自然保护地中的红外相机与远程摄像头，记录中国珍稀野生动物的生态行为，呈现绿尾虹雉、东北虎、亚洲象、金丝猴等物种的原始影像，展现生态文明建设成果。</desc>
+  </programme>
+  <programme start="20260814080100 +0800" stop="20260814085000 +0800" channel="CCTV4K"><title lang="zh">秘境武当1</title>
+  </programme>
+  <programme start="20260814085000 +0800" stop="20260814085300 +0800" channel="CCTV4K"><title lang="zh">中国微名片·世界遗产Ⅱ8</title>
   </programme>
   <programme start="20260814085300 +0800" stop="20260814085900 +0800" channel="CCTV4K"><title lang="zh">纪录节目</title>
   </programme>
-  <programme start="20260814085900 +0800" stop="20260814094500 +0800" channel="CCTV4K"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814085900 +0800" stop="20260814094500 +0800" channel="CCTV4K"><title lang="zh">剧场</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20260814120400 +0800" stop="20260814133500 +0800" channel="CCTV4K"><title lang="zh">体育赛事</title>
+  <programme start="20260814094600 +0800" stop="20260814103200 +0800" channel="CCTV4K"><title lang="zh">我是刑警15</title>
+  </programme>
+  <programme start="20260814111200 +0800" stop="20260814120200 +0800" channel="CCTV4K"><title lang="zh">大黄河6</title>
+  </programme>
+  <programme start="20260814140000 +0800" stop="20260814144600 +0800" channel="CCTV4K"><title lang="zh">藏海传19</title>
+  </programme>
+  <programme start="20260814144600 +0800" stop="20260814153300 +0800" channel="CCTV4K"><title lang="zh">藏海传20</title>
+  </programme>
+  <programme start="20260814180000 +0800" stop="20260814182800 +0800" channel="CCTV4K"><title lang="zh">记住乡愁(24)</title><desc>《记住乡愁》由中央宣传部、住房和城乡建设部、国家新闻出版广电总局、国家文物局组织实施，中央电视台组织拍摄。将选取全国100个以上的传统村落进行拍摄，梳理传统村落的发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+  </programme>
+  <programme start="20260814182800 +0800" stop="20260814183800 +0800" channel="CCTV4K"><title lang="zh">中华古树:屏南水松古树群</title><desc>《中华古树》深度聚焦中华大地上具有典型代表性的古树名木，首次完整建立中华古树国家级影像档案，首次系统阐释中华古树重要文化价值，首次全景展现中华古树生存状态与保护举措，深度探寻古树跨越千年的生命传奇与人文故事，生动展现东方生态智慧的深邃与瑰丽。</desc>
+  </programme>
+  <programme start="20260814183800 +0800" stop="20260814190300 +0800" channel="CCTV4K"><title lang="zh">百年守护5</title>
+  </programme>
+  <programme start="20260814190300 +0800" stop="20260814191300 +0800" channel="CCTV4K"><title lang="zh">秘境之眼:贺兰山-峭壁精灵</title><desc>中央广播电视总台综合频道自然生态纪录片栏目，以“不被打扰的相逢”为理念，通过布设在国家公园、自然保护地中的红外相机与远程摄像头，记录中国珍稀野生动物的生态行为，呈现绿尾虹雉、东北虎、亚洲象、金丝猴等物种的原始影像，展现生态文明建设成果。</desc>
+  </programme>
+  <programme start="20260814200300 +0800" stop="20260814205000 +0800" channel="CCTV4K"><title lang="zh">我是刑警16</title>
+  </programme>
+  <programme start="20260814205000 +0800" stop="20260814213600 +0800" channel="CCTV4K"><title lang="zh">我是刑警17</title>
+  </programme>
+  <programme start="20260814213600 +0800" stop="20260814222600 +0800" channel="CCTV4K"><title lang="zh">秘境武当2</title>
+  </programme>
+  <programme start="20260814230600 +0800" stop="20260814235500 +0800" channel="CCTV4K"><title lang="zh">澳门-露天博物馆1</title>
   </programme>
   <programme start="20260814000200 +0800" stop="20260814004700 +0800" channel="CCTV4欧洲"><title lang="zh">精彩音乐汇（海外版）-2026-219</title><desc lang="zh">央视首档互动点歌节目，以“经典+流行”为主线，汇聚最好听的经典老歌与热门流行金曲，通过卡拉OK字幕与观众点歌TOP榜增强互动性，让观众在歌声中感受时光里的温暖印记。</desc>
   </programme>
@@ -1189,9 +1239,9 @@
   </programme>
   <programme start="20260814055500 +0800" stop="20260814063000 +0800" channel="CCTV4欧洲"><title lang="zh">探索发现(海外版)-2026-156</title><desc lang="zh">最广博的科普栏目。节目涵盖引领人类了解自身生存的宇宙、航天、人文、地理、历史、考古、旅游、冒险、人体、生命、艺术、文化、动物、生物、前沿科技、奇闻奇观等纪录片类节目，为观众解开一片神秘的世界。</desc>
   </programme>
-  <programme start="20260814163000 +0800" stop="20260814171500 +0800" channel="CCTV4欧洲"><title lang="zh">今生有你-（四套）-18/30</title>
+  <programme start="20260814163000 +0800" stop="20260814171500 +0800" channel="CCTV4欧洲"><title lang="zh">今生有你-（四套）-18/30</title><desc>《今生有你》电视剧是由刘俊杰执导，钟汉良、李小冉领衔主演，王阳、田蕾希、范诗然、秦鸣悦、古斌、刘大为、陈天明主演的当代都市剧。该剧根据匪我思存的小说《爱你是最好的时光》改编。讲述了心外科医生聂宇晟与曾经的恋人、单亲妈妈谈静携手面对命运，最终迎来幸福人生的故事。单亲妈妈谈静与患有先天心脏病的儿子孙平相依为命，为了给儿子攒钱手术，谈静努力工作、节俭度日。生活虽然清苦，但谈静没有怨怼不满，仍然独立坚强，珍惜自己的平凡生活，也将孙平教养得懂事可爱。聂宇晟是一位心外科医生，正筹备帮助先心病患儿的手术CM项目，选中了孙平成为首位受惠病童。就医时聂宇晟发现，患儿的母亲就是自己七年前的恋人谈静。治疗过程中，聂宇晟仍被谈静身上积淀出的坚韧勇敢之美深深吸引，也被孙平的可爱懂事打动。生活和时间给了双方考验，也让他们能更加成熟地面对彼此的爱情，最后，孙平被成功治疗，谈静有了自己的事业，聂宇晟的CM项目被成功推广，他们终于迎来了幸福美满的结果。</desc>
   </programme>
-  <programme start="20260814171500 +0800" stop="20260814180000 +0800" channel="CCTV4欧洲"><title lang="zh">今生有你-（四套）-19/30</title>
+  <programme start="20260814171500 +0800" stop="20260814180000 +0800" channel="CCTV4欧洲"><title lang="zh">今生有你-（四套）-19/30</title><desc>《今生有你》电视剧是由刘俊杰执导，钟汉良、李小冉领衔主演，王阳、田蕾希、范诗然、秦鸣悦、古斌、刘大为、陈天明主演的当代都市剧。该剧根据匪我思存的小说《爱你是最好的时光》改编。讲述了心外科医生聂宇晟与曾经的恋人、单亲妈妈谈静携手面对命运，最终迎来幸福人生的故事。单亲妈妈谈静与患有先天心脏病的儿子孙平相依为命，为了给儿子攒钱手术，谈静努力工作、节俭度日。生活虽然清苦，但谈静没有怨怼不满，仍然独立坚强，珍惜自己的平凡生活，也将孙平教养得懂事可爱。聂宇晟是一位心外科医生，正筹备帮助先心病患儿的手术CM项目，选中了孙平成为首位受惠病童。就医时聂宇晟发现，患儿的母亲就是自己七年前的恋人谈静。治疗过程中，聂宇晟仍被谈静身上积淀出的坚韧勇敢之美深深吸引，也被孙平的可爱懂事打动。生活和时间给了双方考验，也让他们能更加成熟地面对彼此的爱情，最后，孙平被成功治疗，谈静有了自己的事业，聂宇晟的CM项目被成功推广，他们终于迎来了幸福美满的结果。</desc>
   </programme>
   <programme start="20260814220000 +0800" stop="20260814224600 +0800" channel="CCTV4欧洲"><title lang="zh">三泉溪暖10/27</title>
   </programme>
@@ -1231,7 +1281,7 @@
   </programme>
   <programme start="20260814080300 +0800" stop="20260814090000 +0800" channel="CCTV5"><title lang="zh">2026年世界泳联水球世界杯- 女子决赛</title>
   </programme>
-  <programme start="20260814103000 +0800" stop="20260814115500 +0800" channel="CCTV5"><title lang="zh">实况录像-WTT欧洲大满贯2026 双打1/4决赛、单打第二轮（录播）</title><desc>CMG群众足球邀请赛是由中央广播电视总台主办的一项全国性群众足球赛事。</desc>
+  <programme start="20260814103000 +0800" stop="20260814115500 +0800" channel="CCTV5"><title lang="zh">实况录像-WTT欧洲大满贯2026 双打1/4决赛、单打第二轮（录播）</title><desc lang="zh">CMG群众足球邀请赛是由中央广播电视总台主办的一项全国性群众足球赛事。</desc>
   </programme>
   <programme start="20260814140000 +0800" stop="20260814165500 +0800" channel="CCTV5"><title lang="zh">2026/2027赛季斯诺克中国公开赛-1/4决赛1</title>
   </programme>
@@ -1663,6 +1713,8 @@
   </programme>
   <programme start="20260814233200 +0800" stop="20260815000000 +0800" channel="CCTV第一剧场"><title lang="zh">海天雄鹰 35/35</title>
   </programme>
+  <programme start="20260814000001 +0800" stop="20260814034200 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会Ⅰ(11)1</title>
+  </programme>
   <programme start="20260814065500 +0800" stop="20260814081500 +0800" channel="CCTV风云足球"><title lang="zh">国际足球赛场-25-26赛季法甲联赛第12轮 里昂—巴黎圣日耳曼</title><desc lang="zh">英格兰足球超级联赛（Premier League，简称“英超”）是英格兰足球总会属下的最高级别足球联赛，前身是英格兰足球甲级联赛。英超是“欧洲足球五大联赛”之一，由20支球队组成，由英格兰足球超级联赛联盟负责具体运作</desc>
   </programme>
   <programme start="20260814082000 +0800" stop="20260814094000 +0800" channel="CCTV风云足球"><title lang="zh">国际足球赛场-25-26赛季法甲联赛第13轮 朗斯—斯特拉斯堡</title><desc lang="zh">英格兰足球超级联赛（Premier League，简称“英超”）是英格兰足球总会属下的最高级别足球联赛，前身是英格兰足球甲级联赛。英超是“欧洲足球五大联赛”之一，由20支球队组成，由英格兰足球超级联赛联盟负责具体运作</desc>
@@ -1695,7 +1747,7 @@
   </programme>
   <programme start="20260814082800 +0800" stop="20260814095000 +0800" channel="CCTV高尔夫网球"><title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 决赛(4K)</title>
   </programme>
-  <programme start="20260814125300 +0800" stop="20260814143600 +0800" channel="CCTV高尔夫网球"><title lang="zh">实况录像-2024年美国网球公开赛  女单第四轮 郑钦文—维基奇（版权原因不可回看）</title><desc>女单，指2026年WTT重庆冠军赛的女子单打乒乓球赛事。该赛事于2026年3月10日在中国重庆巴南区举办，设男单、女单两个项目，采用单败淘汰制，1/16决赛及1/8决赛采用五局三胜制，1/4决赛起采用七局四胜制，冠军将获得1000世界排名积分。</desc>
+  <programme start="20260814125300 +0800" stop="20260814143600 +0800" channel="CCTV高尔夫网球"><title lang="zh">实况录像-2024年美国网球公开赛  女单第四轮 郑钦文—维基奇（版权原因不可回看）</title><desc lang="zh">女单，指2026年WTT重庆冠军赛的女子单打乒乓球赛事。该赛事于2026年3月10日在中国重庆巴南区举办，设男单、女单两个项目，采用单败淘汰制，1/16决赛及1/8决赛采用五局三胜制，1/4决赛起采用七局四胜制，冠军将获得1000世界排名积分。</desc>
   </programme>
   <programme start="20260814143600 +0800" stop="20260814160100 +0800" channel="CCTV高尔夫网球"><title lang="zh">实况录像(奥林匹克)-2025年法国网球公开赛2(4K)</title>
   </programme>
@@ -1723,9 +1775,9 @@
   </programme>
   <programme start="20260814225000 +0800" stop="20260815003500 +0800" channel="CELESTIAL"><title lang="zh">七月返归</title><desc lang="zh">自幼有阴阳眼的向荣在返回家後，看到比从前更恐怖的怪事。徘徊在人鬼当中，向荣决意要看清真相，走出恐惧的阴霾。</desc>
   </programme>
-  <programme start="20260814023000 +0800" stop="20260814031000 +0800" channel="CHC动作电影"><title lang="zh">逆鳞</title><desc>2024年大庆执导的犯罪片，沈腾、张雨绮主演。内地拳手尊非带兄弟到澳门闯世界，成为富商黄朝晋的左膀右臂。正当他以为前途光明时，美人老板苏笑和黄朝晋逐渐露出真面目，尊非在背叛与阴谋中陷入生死迷局。</desc>
+  <programme start="20260814023000 +0800" stop="20260814031000 +0800" channel="CHC动作电影"><title lang="zh">逆鳞</title><desc lang="zh">2024年大庆执导的犯罪片，沈腾、张雨绮主演。内地拳手尊非带兄弟到澳门闯世界，成为富商黄朝晋的左膀右臂。正当他以为前途光明时，美人老板苏笑和黄朝晋逐渐露出真面目，尊非在背叛与阴谋中陷入生死迷局。</desc>
   </programme>
-  <programme start="20260814042000 +0800" stop="20260814043500 +0800" channel="CHC动作电影"><title lang="zh">黄河大侠</title><desc>藩王割据的唐朝末年，西北黄河流域的柳、段、李等王均想独揽天下大权，战事不断。柳王爷（计春华）攻下段王府，段王爷（靳德茂）弃府逃命时被黄河大侠马义（于承惠）救下，随后马义所在的村寨被柳王爷率兵血洗。这一切都被李王爷（赵志刚）看在眼里。马义结识江湖艺人车天（淳于珊珊），后者见他武艺高强，便怂恿他设场卖艺，敛下不少钱财。</desc>
+  <programme start="20260814042000 +0800" stop="20260814043500 +0800" channel="CHC动作电影"><title lang="zh">黄河大侠</title><desc lang="zh">藩王割据的唐朝末年，西北黄河流域的柳、段、李等王均想独揽天下大权，战事不断。柳王爷（计春华）攻下段王府，段王爷（靳德茂）弃府逃命时被黄河大侠马义（于承惠）救下，随后马义所在的村寨被柳王爷率兵血洗。这一切都被李王爷（赵志刚）看在眼里。马义结识江湖艺人车天（淳于珊珊），后者见他武艺高强，便怂恿他设场卖艺，敛下不少钱财。</desc>
   </programme>
   <programme start="20260814055000 +0800" stop="20260814071600 +0800" channel="CHC动作电影"><title lang="zh">凿空者之使命召唤</title>
   </programme>
@@ -1735,9 +1787,9 @@
   </programme>
   <programme start="20260814121000 +0800" stop="20260814132700 +0800" channel="CHC动作电影"><title lang="zh">东归英雄传</title>
   </programme>
-  <programme start="20260814133000 +0800" stop="20260814145700 +0800" channel="CHC动作电影"><title lang="zh">英雄虎胆</title><desc>一个是智勇双全的我军侦察科科长，一个是冷艳妩媚的女特务，故事充满了戏剧性。40多年前的电影《英雄虎胆》是新中国电影史上一部极具影响力的反特片。电影版由于时代局限和篇幅限制，很多情节无法深入展开，这回将在电视剧中得到更多的表现。</desc>
+  <programme start="20260814133000 +0800" stop="20260814145700 +0800" channel="CHC动作电影"><title lang="zh">英雄虎胆</title><desc lang="zh">一个是智勇双全的我军侦察科科长，一个是冷艳妩媚的女特务，故事充满了戏剧性。40多年前的电影《英雄虎胆》是新中国电影史上一部极具影响力的反特片。电影版由于时代局限和篇幅限制，很多情节无法深入展开，这回将在电视剧中得到更多的表现。</desc>
   </programme>
-  <programme start="20260814150000 +0800" stop="20260814163700 +0800" channel="CHC动作电影"><title lang="zh">密战</title><desc>淞沪会战后上海沦陷，地下工作者林翔（郭富城 饰）受命来到危机四伏的上海，重建惨遭敌人破坏的地下抗日战线。在这里他遇到单纯却很有正义感的兰芳（赵丽颖 饰），这对临时组成的“地下党夫妇”将在战火纷飞中，携手与日本侵略者及伪政府特务展开惊险刺激的生死较量……</desc>
+  <programme start="20260814150000 +0800" stop="20260814163700 +0800" channel="CHC动作电影"><title lang="zh">密战</title><desc lang="zh">淞沪会战后上海沦陷，地下工作者林翔（郭富城 饰）受命来到危机四伏的上海，重建惨遭敌人破坏的地下抗日战线。在这里他遇到单纯却很有正义感的兰芳（赵丽颖 饰），这对临时组成的“地下党夫妇”将在战火纷飞中，携手与日本侵略者及伪政府特务展开惊险刺激的生死较量……</desc>
   </programme>
   <programme start="20260814203000 +0800" stop="20260814220200 +0800" channel="CHC动作电影"><title lang="zh">迅雷之旅</title>
   </programme>
@@ -1760,6 +1812,10 @@
   <programme start="20260814060000 +0800" stop="20260814073000 +0800" channel="CHC影迷电影"><title lang="zh">拳霸</title>
   </programme>
   <programme start="20260814073000 +0800" stop="20260814074300 +0800" channel="CHC影迷电影"><title lang="zh">道口烧鸡铺</title>
+  </programme>
+  <programme start="20260814143900 +0800" stop="20260814163400 +0800" channel="CHC影迷电影"><title lang="zh">天使陷落</title>
+  </programme>
+  <programme start="20260814181000 +0800" stop="20260814195200 +0800" channel="CHC影迷电影"><title lang="zh">谁hold住谁</title>
   </programme>
   <programme start="20260814220000 +0800" stop="20260814232900 +0800" channel="CHC影迷电影"><title lang="zh">小镇来了王警官</title>
   </programme>
@@ -1869,8 +1925,6 @@
   </programme>
   <programme start="20260814230000 +0800" stop="20260815000000 +0800" channel="CNN"><title lang="zh">One World - Friday, August 14, 2026 11am ET</title><desc lang="zh">Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
   </programme>
-  <programme start="20260814023000 +0800" stop="20260814030000 +0800" channel="COLORS"><title lang="zh">Mahadev &amp; Sons 第161集</title>
-  </programme>
   <programme start="20260814030000 +0800" stop="20260814033000 +0800" channel="COLORS"><title lang="zh">Dr. Aarambhi 第157集</title>
   </programme>
   <programme start="20260814033000 +0800" stop="20260814040000 +0800" channel="COLORS"><title lang="zh">Mannat Harr Khushi Paane Ki 第522集</title>
@@ -1881,9 +1935,11 @@
   </programme>
   <programme start="20260814050000 +0800" stop="20260814060000 +0800" channel="COLORS"><title lang="zh">Bhojpuri Bawaal 第12集</title>
   </programme>
-  <programme start="20260814150000 +0800" stop="20260814153000 +0800" channel="COLORS"><title lang="zh">Bareilly Ki Bacchan 第52集</title>
+  <programme start="20260814160000 +0800" stop="20260814163000 +0800" channel="COLORS"><title lang="zh">Mahadev &amp; Sons 第163集</title><desc lang="zh">Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
   </programme>
-  <programme start="20260814153000 +0800" stop="20260814160000 +0800" channel="COLORS"><title lang="zh">Juhi Mui 第37集</title>
+  <programme start="20260814183000 +0800" stop="20260814190000 +0800" channel="COLORS"><title lang="zh">Bareilly Ki Bacchan 第54集</title><desc lang="zh">Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
+  </programme>
+  <programme start="20260814213000 +0800" stop="20260814220000 +0800" channel="COLORS"><title lang="zh">Juhi Mui 第39集</title><desc lang="zh">Juhi and Mui&amp;#x27;s touching journey celebrates friendship, family values and resilience as they overcome life&amp;#x27;s challenges with love and hope.</desc>
   </programme>
   <programme start="20260814140000 +0800" stop="20260814170000 +0800" channel="COLORS TAMIL HD"><title lang="zh">D Block</title><desc lang="zh">After female engineering students mysteriously vanish and are found dead, a young man and his friends launch their own investigation to uncover the culprit behind the crimes. Release Year: 2022 Director: Vijay Kumar Rajendran</desc>
   </programme>
@@ -2865,9 +2921,7 @@
   </programme>
   <programme start="20260814164000 +0800" stop="20260814171000 +0800" channel="TVBJ"><title lang="zh">最强生命线 第462集</title><desc lang="zh">每集邀请医学专家讲解各种疾病的成因，为你解构健康之道。除了有物理治疗师，运动治疗师教你做适当的运动，也会有中医断症，辅以针灸，拔罐和天灸等治疗方法并教你煲滋补的汤水，调理身体。</desc>
   </programme>
-  <programme start="20260814171000 +0800" stop="20260814174000 +0800" channel="TVBJ"><title lang="zh">兄弟帮 第2200集</title><desc lang="zh">由林盛斌、王梓轩、梁竞徽、陈国峰及范振锋主持，每集以主题形式邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，或以个人专访形式与嘉宾对谈。</desc>
-  </programme>
-  <programme start="20260814174000 +0800" stop="20260814184000 +0800" channel="TVBJ"><title lang="zh">狮子山下2024 第2集</title><desc lang="zh">港人写照，纪录香港的起伏与变迁。全新六集剧集，延续经典精神，以&amp;quot;百味人生、爱你所爱&amp;quot;为主题。邀请吴炜伦、何爵天、陈健朗、简君晋、黄绮琳、黄鐦等新晋导演创作，带来新思潮与新创意，让观众细味人生百态。</desc>
+  <programme start="20260814172500 +0800" stop="20260814174000 +0800" channel="TVBJ"><title lang="zh">狮子山下2024 第2集</title><desc lang="zh">港人写照，纪录香港的起伏与变迁。全新六集剧集，延续经典精神，以&amp;quot;百味人生、爱你所爱&amp;quot;为主题。邀请吴炜伦、何爵天、陈健朗、简君晋、黄绮琳、黄鐦等新晋导演创作，带来新思潮与新创意，让观众细味人生百态。</desc>
   </programme>
   <programme start="20260814184000 +0800" stop="20260814194000 +0800" channel="TVBJ"><title lang="zh">六点半新闻报导 及 世界观 第14集</title><desc lang="zh">每日下午六点半，提供详尽新闻报道，让您洞悉香港时事、两岸局势及国际大事。</desc>
   </programme>
@@ -3291,19 +3345,15 @@
   </programme>
   <programme start="20260814055800 +0800" stop="20260814063400 +0800" channel="东方卫视"><title lang="zh">神雕侠侣17</title>
   </programme>
-  <programme start="20260814063400 +0800" stop="20260814065400 +0800" channel="东方卫视"><title lang="zh">纪录片:江河作答-伟大建党精神的上海答卷2</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260814063400 +0800" stop="20260814065400 +0800" channel="东方卫视"><title lang="zh">纪录片:江河作答-伟大建党精神的上海答卷2</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
-  <programme start="20260814065400 +0800" stop="20260814070000 +0800" channel="东方卫视"><title lang="zh">纪录片:我是党员19</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260814065400 +0800" stop="20260814070000 +0800" channel="东方卫视"><title lang="zh">纪录片:我是党员19</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260814090200 +0800" stop="20260814090400 +0800" channel="东方卫视"><title lang="zh">玫瑰的故事1</title>
   </programme>
-  <programme start="20260814094700 +0800" stop="20260814103000 +0800" channel="东方卫视"><title lang="zh">风吹半夏(27)</title>
-  </programme>
-  <programme start="20260814103000 +0800" stop="20260814111300 +0800" channel="东方卫视"><title lang="zh">风吹半夏(28)</title>
-  </programme>
   <programme start="20260814112000 +0800" stop="20260814120000 +0800" channel="东方卫视"><title lang="zh">玫瑰的故事4</title>
   </programme>
-  <programme start="20260814193200 +0800" stop="20260814201400 +0800" channel="东方卫视"><title lang="zh">梦想剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814193200 +0800" stop="20260814201400 +0800" channel="东方卫视"><title lang="zh">梦想剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814201500 +0800" stop="20260814201600 +0800" channel="东方卫视"><title lang="zh">花开锦绣(2)</title>
   </programme>
@@ -3333,6 +3383,8 @@
     王桂蘭在正二村結婚了。母親對她說:你爹外號“不要命,一輩子賣力幹活,就是為蓋四棟房子,給你四個弟弟成個家。你是老大,娘不能把你嫁得太遠,你得管你四個弟弟,明白娘的心思不?桂蘭說:娘放心,我不離開咱屯。我要看..</desc>
   </programme>
   <programme start="20260814224200 +0800" stop="20260815003000 +0800" channel="中国电影频道"><title lang="zh">老師·好</title><desc lang="zh">1985年的南宿一中,苗宛秋(於謙 飾)老師推自行車昂首走在校園,接受著人們豔羨的目光和紛至遝來的恭維。 桀傲不馴的洛小乙(王廣源 飾)、溫婉可人的安靜(湯夢佳 飾)、新潮前衛的關婷婷(秦鳴悅 飾)、大智若愚的腦袋、舞癡兄弟文明(郝鵬飛 飾..</desc>
+  </programme>
+  <programme start="20260814000001 +0800" stop="20260814031000 +0800" channel="中学生"><title lang="zh">家国:范仲淹1</title>
   </programme>
   <programme start="20260814140700 +0800" stop="20260814141200 +0800" channel="中学生"><title lang="zh">我是红色宣讲员:周恩来光辉足迹</title>
   </programme>
@@ -3382,13 +3434,29 @@
   </programme>
   <programme start="20260814091500 +0800" stop="20260814092000 +0800" channel="书画"><title lang="zh">2026一幅画的诞生:王新伦</title>
   </programme>
-  <programme start="20260814085700 +0800" stop="20260814094000 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队25</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814005800 +0800" stop="20260814014300 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:锻刀之绝地重生11</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20260814095200 +0800" stop="20260814103500 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队26</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814044600 +0800" stop="20260814052900 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:锻刀之绝地重生13</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20260814104700 +0800" stop="20260814113000 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队27</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814085700 +0800" stop="20260814094000 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队25</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20260814115200 +0800" stop="20260814123600 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队28</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814095200 +0800" stop="20260814103500 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队26</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814104700 +0800" stop="20260814113000 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队27</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814115200 +0800" stop="20260814123600 +0800" channel="云南卫视"><title lang="zh">炫动剧场:独立纵队28</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814125900 +0800" stop="20260814134200 +0800" channel="云南卫视"><title lang="zh">炫酷剧场:苍狼16</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814140400 +0800" stop="20260814144700 +0800" channel="云南卫视"><title lang="zh">炫酷剧场:苍狼17</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814151000 +0800" stop="20260814155300 +0800" channel="云南卫视"><title lang="zh">炫酷剧场:苍狼18</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814161700 +0800" stop="20260814170000 +0800" channel="云南卫视"><title lang="zh">炫酷剧场:苍狼19</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814172300 +0800" stop="20260814180600 +0800" channel="云南卫视"><title lang="zh">炫酷剧场:苍狼20</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  </programme>
+  <programme start="20260814235000 +0800" stop="20260815000000 +0800" channel="云南卫视"><title lang="zh">炫梦剧场:锻刀之绝地重生15</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20260814060000 +0800" stop="20260814065000 +0800" channel="亚洲剧"><title lang="zh">黃真伊 #20 [粵/韓]</title><desc lang="zh">黃真伊是朝鮮中宗時代因文藝和音樂出色而被眾多朝鮮詩詞所記載的朝鮮最著名的藝伎，這劇以綜合藝術人「黃真伊」為中心，重點從舞蹈，詩歌，音樂和繪畫等各個方式塑造多才多藝的一代才女名伎——黃真伊的形象。</desc>
   </programme>
@@ -3500,15 +3568,85 @@
   </programme>
   <programme start="20260814000500 +0800" stop="20260814004700 +0800" channel="内蒙古卫视"><title lang="zh">星光剧场一</title>
   </programme>
-  <programme start="20260814050100 +0800" stop="20260814054200 +0800" channel="内蒙古卫视"><title lang="zh">清晨剧场:铁血茶城21</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  <programme start="20260814050100 +0800" stop="20260814054200 +0800" channel="内蒙古卫视"><title lang="zh">清晨剧场:铁血茶城21</title><desc lang="zh">吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
   </programme>
-  <programme start="20260814054200 +0800" stop="20260814062400 +0800" channel="内蒙古卫视"><title lang="zh">清晨剧场:铁血茶城22</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  <programme start="20260814054200 +0800" stop="20260814062400 +0800" channel="内蒙古卫视"><title lang="zh">清晨剧场:铁血茶城22</title><desc lang="zh">吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
   </programme>
-  <programme start="20260814065400 +0800" stop="20260814070000 +0800" channel="内蒙古卫视"><title lang="zh">纪录片:青春之歌</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260814065400 +0800" stop="20260814070000 +0800" channel="内蒙古卫视"><title lang="zh">纪录片:青春之歌</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20260814080600 +0800" stop="20260814083700 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在22</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814083700 +0800" stop="20260814090800 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在23</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814090800 +0800" stop="20260814094900 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在24</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814094900 +0800" stop="20260814103400 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在25</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814103400 +0800" stop="20260814111500 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在26</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814111500 +0800" stop="20260814114700 +0800" channel="内蒙古卫视"><title lang="zh">经典剧场:山河同在27</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814134700 +0800" stop="20260814142900 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春35</title>
+  </programme>
+  <programme start="20260814142900 +0800" stop="20260814151000 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春36</title>
+  </programme>
+  <programme start="20260814151000 +0800" stop="20260814155300 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春37</title>
+  </programme>
+  <programme start="20260814155300 +0800" stop="20260814163400 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春38</title>
+  </programme>
+  <programme start="20260814163400 +0800" stop="20260814171700 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春39</title>
+  </programme>
+  <programme start="20260814171700 +0800" stop="20260814174300 +0800" channel="内蒙古卫视"><title lang="zh">传奇剧场:战火青春40</title>
   </programme>
   <programme start="20260814193200 +0800" stop="20260814201200 +0800" channel="内蒙古卫视"><title lang="zh">北方剧场:岁岁年年柿柿红25</title>
   </programme>
   <programme start="20260814201200 +0800" stop="20260814205200 +0800" channel="内蒙古卫视"><title lang="zh">北方剧场:岁岁年年柿柿红26</title>
+  </programme>
+  <programme start="20260814223800 +0800" stop="20260814232000 +0800" channel="内蒙古卫视"><title lang="zh">星光剧场一:特战先锋11</title>
+  </programme>
+  <programme start="20260814232000 +0800" stop="20260814235500 +0800" channel="内蒙古卫视"><title lang="zh">星光剧场一:特战先锋12</title>
+  </programme>
+  <programme start="20260814003433 +0800" stop="20260814012147 +0800" channel="军旅剧场"><title lang="zh">01_大刀向鬼子们的头上砍去</title>
+  </programme>
+  <programme start="20260814015146 +0800" stop="20260814023802 +0800" channel="军旅剧场"><title lang="zh">02_大刀向鬼子们的头上砍去</title>
+  </programme>
+  <programme start="20260814030801 +0800" stop="20260814035412 +0800" channel="军旅剧场"><title lang="zh">03_大刀向鬼子们的头上砍去</title>
+  </programme>
+  <programme start="20260814042411 +0800" stop="20260814051008 +0800" channel="军旅剧场"><title lang="zh">04_大刀向鬼子们的头上砍去</title>
+  </programme>
+  <programme start="20260814051008 +0800" stop="20260814055632 +0800" channel="军旅剧场"><title lang="zh">07_东方战场（TV版）</title>
+  </programme>
+  <programme start="20260814062631 +0800" stop="20260814071800 +0800" channel="军旅剧场"><title lang="zh">08_东方战场（TV版）</title>
+  </programme>
+  <programme start="20260814074759 +0800" stop="20260814082643 +0800" channel="军旅剧场"><title lang="zh">09_东方战场（TV版）</title>
+  </programme>
+  <programme start="20260814082643 +0800" stop="20260814090814 +0800" channel="军旅剧场"><title lang="zh">13_前夜</title>
+  </programme>
+  <programme start="20260814093813 +0800" stop="20260814102214 +0800" channel="军旅剧场"><title lang="zh">14_前夜</title>
+  </programme>
+  <programme start="20260814105213 +0800" stop="20260814113519 +0800" channel="军旅剧场"><title lang="zh">15_前夜</title>
+  </programme>
+  <programme start="20260814120605 +0800" stop="20260814124836 +0800" channel="军旅剧场"><title lang="zh">16_前夜</title>
+  </programme>
+  <programme start="20260814124836 +0800" stop="20260814133502 +0800" channel="军旅剧场"><title lang="zh">05_关东英雄</title>
+  </programme>
+  <programme start="20260814140501 +0800" stop="20260814145116 +0800" channel="军旅剧场"><title lang="zh">06_关东英雄</title>
+  </programme>
+  <programme start="20260814152202 +0800" stop="20260814160807 +0800" channel="军旅剧场"><title lang="zh">07_关东英雄</title>
+  </programme>
+  <programme start="20260814163806 +0800" stop="20260814172411 +0800" channel="军旅剧场"><title lang="zh">08_关东英雄</title>
+  </programme>
+  <programme start="20260814172411 +0800" stop="20260814180934 +0800" channel="军旅剧场"><title lang="zh">48_大决战</title>
+  </programme>
+  <programme start="20260814183933 +0800" stop="20260814192457 +0800" channel="军旅剧场"><title lang="zh">49_大决战</title>
+  </programme>
+  <programme start="20260814195456 +0800" stop="20260814204020 +0800" channel="军旅剧场"><title lang="zh">01_我们的队伍向太阳</title>
+  </programme>
+  <programme start="20260814211019 +0800" stop="20260814215151 +0800" channel="军旅剧场"><title lang="zh">02_我们的队伍向太阳</title>
+  </programme>
+  <programme start="20260814215151 +0800" stop="20260814223753 +0800" channel="军旅剧场"><title lang="zh">32_梅花红桃</title>
+  </programme>
+  <programme start="20260814230752 +0800" stop="20260814234921 +0800" channel="军旅剧场"><title lang="zh">01_人间正道是沧桑</title>
   </programme>
   <programme start="20260814110000 +0800" stop="20260814120000 +0800" channel="创世电视"><title lang="zh">神是否全能?</title>
   </programme>
@@ -3542,7 +3680,7 @@
   </programme>
   <programme start="20260814074000 +0800" stop="20260814083000 +0800" channel="华语剧"><title lang="zh">愛的二八定律 #26 [普]</title><desc lang="zh">單身女律師秦施一心追求事業，被父母猛烈逼婚。頂級律所誠與慧公開招聘家庭部律師，要求已婚，秦施二哥秦文宇是個不靠譜的獵頭，未經允許擅自將秦施婚姻狀況改成“已婚”，替她虛構了一個不存在的丈夫…</desc>
   </programme>
-  <programme start="20260814080000 +0800" stop="20260814180000 +0800" channel="南平新闻综合"><title lang="zh">剧场: 隋唐英雄传 14-16</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814080000 +0800" stop="20260814180000 +0800" channel="南平新闻综合"><title lang="zh">剧场: 隋唐英雄传 14-16</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20260814161200 +0800" stop="20260814161800 +0800" channel="南方卫视"><title lang="zh">FUN尚荟</title>
   </programme>
@@ -3600,11 +3738,63 @@
   </programme>
   <programme start="20260814220000 +0800" stop="20260815000000 +0800" channel="博斯运动二台"><title lang="zh">2025-26歐洲籃球聯賽 第33輪(3)巴斯科尼亞 vs 紅星貝爾格萊德(普)</title>
   </programme>
-  <programme start="20260814003000 +0800" stop="20260814005200 +0800" channel="卡酷少儿"><title lang="zh">少儿剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814000800 +0800" stop="20260814002800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(8)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
   </programme>
-  <programme start="20260814193600 +0800" stop="20260814204000 +0800" channel="卡酷少儿"><title lang="zh">卡小酷剧场</title>
+  <programme start="20260814002800 +0800" stop="20260814004800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(9)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
+  </programme>
+  <programme start="20260814004800 +0800" stop="20260814010800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(10)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
+  </programme>
+  <programme start="20260814010800 +0800" stop="20260814012800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(11)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
+  </programme>
+  <programme start="20260814012800 +0800" stop="20260814014800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(12)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
+  </programme>
+  <programme start="20260814014800 +0800" stop="20260814020800 +0800" channel="卡酷少儿"><title lang="zh">音乐公主爱美莉(13)</title><desc>爱奇艺、北京卡酷、峰值传播共同出品的音乐歌舞类动画，讲述来自音乐王国的公主爱美莉在神奇的乐园岛上，与其他六位性格迥异的公主一起，通过有趣的主题聚会，在优美的音乐氛围中互相帮助、快乐成长的故事。第三季荣获第28届亚洲电视大奖最佳3D动画。</desc>
+  </programme>
+  <programme start="20260814020800 +0800" stop="20260814022800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ7</title>
+  </programme>
+  <programme start="20260814022800 +0800" stop="20260814024800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ8</title>
+  </programme>
+  <programme start="20260814024800 +0800" stop="20260814030800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ9</title>
+  </programme>
+  <programme start="20260814030800 +0800" stop="20260814032800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ10</title>
+  </programme>
+  <programme start="20260814032800 +0800" stop="20260814034800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ11</title>
+  </programme>
+  <programme start="20260814034800 +0800" stop="20260814040800 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ12</title>
+  </programme>
+  <programme start="20260814040800 +0800" stop="20260814043200 +0800" channel="卡酷少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ13</title>
+  </programme>
+  <programme start="20260814073000 +0800" stop="20260814075300 +0800" channel="卡酷少儿"><title lang="zh">汪汪队立大功Ⅳ9</title>
+  </programme>
+  <programme start="20260814075300 +0800" stop="20260814081500 +0800" channel="卡酷少儿"><title lang="zh">霸王龙雷奇Ⅱ9</title>
+  </programme>
+  <programme start="20260814081500 +0800" stop="20260814081600 +0800" channel="卡酷少儿"><title lang="zh">霸王龙雷奇Ⅱ10</title>
+  </programme>
+  <programme start="20260814125800 +0800" stop="20260814132000 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ4</title>
+  </programme>
+  <programme start="20260814132000 +0800" stop="20260814134000 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ5</title>
+  </programme>
+  <programme start="20260814134000 +0800" stop="20260814140200 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ6</title>
+  </programme>
+  <programme start="20260814140200 +0800" stop="20260814142200 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ7</title>
+  </programme>
+  <programme start="20260814142200 +0800" stop="20260814144300 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ8</title>
+  </programme>
+  <programme start="20260814144300 +0800" stop="20260814150300 +0800" channel="卡酷少儿"><title lang="zh">熊出没之小小世界Ⅱ9</title>
+  </programme>
+  <programme start="20260814204700 +0800" stop="20260814212800 +0800" channel="卡酷少儿"><title lang="zh">阿凡提的故事2</title>
+  </programme>
+  <programme start="20260814000001 +0800" stop="20260814001900 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场:梦中的那片海19</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20260814193300 +0800" stop="20260814202000 +0800" channel="吉林卫视"><title lang="zh">黄金剧场:低智商犯罪15</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  </programme>
+  <programme start="20260814202000 +0800" stop="20260814210500 +0800" channel="吉林卫视"><title lang="zh">黄金剧场:低智商犯罪16</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20260814210500 +0800" stop="20260814211000 +0800" channel="吉林卫视"><title lang="zh">民声回头看</title>
+  </programme>
+  <programme start="20260814230700 +0800" stop="20260814230900 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场:梦中的那片海21</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20260814234700 +0800" stop="20260815000000 +0800" channel="吉林卫视"><title lang="zh">凌晨剧场:梦中的那片海22</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
   <programme start="20260814185500 +0800" stop="20260814200400 +0800" channel="哈尔滨都市"><title lang="zh">点亮前程</title>
   </programme>
@@ -3626,9 +3816,27 @@
   </programme>
   <programme start="20260814000001 +0800" stop="20260814002900 +0800" channel="四川卫视"><title lang="zh">午夜剧场:宿敌18</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814045800 +0800" stop="20260814054100 +0800" channel="四川卫视"><title lang="zh">凌晨剧场:再造之恩31</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260814045800 +0800" stop="20260814054100 +0800" channel="四川卫视"><title lang="zh">凌晨剧场:再造之恩31</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260814055300 +0800" stop="20260814063500 +0800" channel="四川卫视"><title lang="zh">凌晨剧场:再造之恩32</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260814055300 +0800" stop="20260814063500 +0800" channel="四川卫视"><title lang="zh">凌晨剧场:再造之恩32</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20260814092400 +0800" stop="20260814100200 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动21</title>
+  </programme>
+  <programme start="20260814101200 +0800" stop="20260814104700 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动22</title>
+  </programme>
+  <programme start="20260814110900 +0800" stop="20260814114700 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动23</title>
+  </programme>
+  <programme start="20260814120800 +0800" stop="20260814125300 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动24</title>
+  </programme>
+  <programme start="20260814131500 +0800" stop="20260814135400 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动25</title>
+  </programme>
+  <programme start="20260814140600 +0800" stop="20260814144400 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动26</title>
+  </programme>
+  <programme start="20260814145700 +0800" stop="20260814153300 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动27</title>
+  </programme>
+  <programme start="20260814155500 +0800" stop="20260814163200 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动28</title>
+  </programme>
+  <programme start="20260814165400 +0800" stop="20260814173800 +0800" channel="四川卫视"><title lang="zh">中国爱大剧场:天狼星行动29</title>
   </programme>
   <programme start="20260814193300 +0800" stop="20260814201400 +0800" channel="四川卫视"><title lang="zh">合家欢剧场:胭脂22</title>
   </programme>
@@ -3636,9 +3844,9 @@
   </programme>
   <programme start="20260814211300 +0800" stop="20260814220000 +0800" channel="四川卫视"><title lang="zh">成长吧！大熊猫2026</title>
   </programme>
-  <programme start="20260814230900 +0800" stop="20260814235000 +0800" channel="四川卫视"><title lang="zh">午夜剧场:宿敌19</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814230900 +0800" stop="20260814235000 +0800" channel="四川卫视"><title lang="zh">午夜剧场:宿敌19</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814235000 +0800" stop="20260814235500 +0800" channel="四川卫视"><title lang="zh">午夜剧场:宿敌20</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814235000 +0800" stop="20260814235500 +0800" channel="四川卫视"><title lang="zh">午夜剧场:宿敌20</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814003500 +0800" stop="20260814012600 +0800" channel="四川影视"><title lang="zh">神探狄仁杰Ⅱ(33)</title>
   </programme>
@@ -3706,7 +3914,7 @@
   </programme>
   <programme start="20260814180000 +0800" stop="20260815000000 +0800" channel="国会频道2台"><title lang="zh">當日立法院會議轉播(普)</title>
   </programme>
-  <programme start="20260814200000 +0800" stop="20260814210500 +0800" channel="大湾区卫视"><title lang="zh">直播: 灣區最新聞</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260814200000 +0800" stop="20260814210500 +0800" channel="大湾区卫视"><title lang="zh">直播: 灣區最新聞</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260814230000 +0800" stop="20260814232500 +0800" channel="大湾区卫视"><title lang="zh">今日廣東</title>
   </programme>
@@ -3742,33 +3950,37 @@
   </programme>
   <programme start="20260814205500 +0800" stop="20260814230000 +0800" channel="天津都市"><title lang="zh">都市生活剧场：《城中之城》（34、35、36）</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814043800 +0800" stop="20260814052500 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅22</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  <programme start="20260814043800 +0800" stop="20260814052500 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅22</title><desc lang="zh">吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
   </programme>
-  <programme start="20260814052500 +0800" stop="20260814061100 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅23</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  <programme start="20260814052500 +0800" stop="20260814061100 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅23</title><desc lang="zh">吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
   </programme>
-  <programme start="20260814061100 +0800" stop="20260814070000 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅24</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  <programme start="20260814061100 +0800" stop="20260814070000 +0800" channel="宁夏卫视"><title lang="zh">清晨剧场:穆桂英挂帅24</title><desc lang="zh">吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
   </programme>
   <programme start="20260814082300 +0800" stop="20260814082500 +0800" channel="宁夏卫视"><title lang="zh">白天剧场</title>
   </programme>
-  <programme start="20260814130700 +0800" stop="20260814140000 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭15</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814105700 +0800" stop="20260814114400 +0800" channel="宁夏卫视"><title lang="zh">白天剧场:大明风华12</title>
   </programme>
-  <programme start="20260814140000 +0800" stop="20260814144900 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭16</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814123400 +0800" stop="20260814130700 +0800" channel="宁夏卫视"><title lang="zh">纪录片:江南有苕溪5</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
-  <programme start="20260814144900 +0800" stop="20260814154100 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭17</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814130700 +0800" stop="20260814140000 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭15</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814154100 +0800" stop="20260814163300 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭18</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814140000 +0800" stop="20260814144900 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭16</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814163300 +0800" stop="20260814172200 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭19</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814144900 +0800" stop="20260814154100 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭17</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814172200 +0800" stop="20260814173400 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季12</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814154100 +0800" stop="20260814163300 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭18</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814173400 +0800" stop="20260814174600 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季13</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814163300 +0800" stop="20260814172200 +0800" channel="宁夏卫视"><title lang="zh">温情剧场:上甘岭19</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814174600 +0800" stop="20260814180000 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季14</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814172200 +0800" stop="20260814173400 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季12</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260814173400 +0800" stop="20260814174600 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季13</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260814174600 +0800" stop="20260814180000 +0800" channel="宁夏卫视"><title lang="zh">动画片:海底小纵队第十一季14</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20260814194300 +0800" stop="20260814203500 +0800" channel="宁夏卫视"><title lang="zh">家和剧场:人世间15</title>
   </programme>
-  <programme start="20260814223000 +0800" stop="20260814224100 +0800" channel="宁夏卫视"><title lang="zh">电视剧:桃花潭记10</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814223000 +0800" stop="20260814224100 +0800" channel="宁夏卫视"><title lang="zh">电视剧:桃花潭记10</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260814232500 +0800" stop="20260814235300 +0800" channel="宁夏卫视"><title lang="zh">次黄金档剧场:六姊妹7</title>
   </programme>
@@ -3872,6 +4084,10 @@
   </programme>
   <programme start="20260814233000 +0800" stop="20260814235000 +0800" channel="尼克儿童频道"><title lang="zh">長尾豹馬修一家親S1(119)(普)</title>
   </programme>
+  <programme start="20260814021500 +0800" stop="20260814022500 +0800" channel="山东教育"><title lang="zh">地雷英雄传</title>
+  </programme>
+  <programme start="20260814193500 +0800" stop="20260814195500 +0800" channel="山东教育"><title lang="zh">图画书里的中国</title>
+  </programme>
   <programme start="20260814132300 +0800" stop="20260814135800 +0800" channel="峨眉电影"><title lang="zh">惊蛰(18)</title>
   </programme>
   <programme start="20260814142200 +0800" stop="20260814145700 +0800" channel="峨眉电影"><title lang="zh">惊蛰(19)</title>
@@ -3952,15 +4168,15 @@
   </programme>
   <programme start="20260814061300 +0800" stop="20260814065500 +0800" channel="新疆卫视"><title lang="zh">星夜剧场二:战长沙1</title>
   </programme>
-  <programme start="20260814084500 +0800" stop="20260814091900 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑33</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814084500 +0800" stop="20260814091900 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑33</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814094100 +0800" stop="20260814101500 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑34</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814094100 +0800" stop="20260814101500 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑34</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814103800 +0800" stop="20260814111200 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑35</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814103800 +0800" stop="20260814111200 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑35</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814113400 +0800" stop="20260814120900 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑36</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814113400 +0800" stop="20260814120900 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑36</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814123100 +0800" stop="20260814130400 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑37</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814123100 +0800" stop="20260814130400 +0800" channel="新疆卫视"><title lang="zh">上午剧场:亮剑37</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814143600 +0800" stop="20260814151200 +0800" channel="新疆卫视"><title lang="zh">红石榴剧场:绝密543-23</title>
   </programme>
@@ -3980,27 +4196,27 @@
   </programme>
   <programme start="20260814173000 +0800" stop="20260814180000 +0800" channel="无线新闻"><title lang="zh">新聞報道 及 交通消息 及 三日天氣預報 及 馬百良熬雞精呈獻 : 四季食療</title>
   </programme>
-  <programme start="20260814111000 +0800" stop="20260814133000 +0800" channel="无锡娱乐频道"><title lang="zh">五星剧场: 枪械师 35-36</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20260814111000 +0800" stop="20260814133000 +0800" channel="无锡娱乐频道"><title lang="zh">五星剧场: 枪械师 35-36</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20260814205500 +0800" stop="20260814231500 +0800" channel="无锡娱乐频道"><title lang="zh">多大点事儿 4-5</title>
   </programme>
   <programme start="20260814231500 +0800" stop="20260815000000 +0800" channel="无锡娱乐频道"><title lang="zh">青春剧场: 用一生去爱你 4-5</title>
   </programme>
-  <programme start="20260814082000 +0800" stop="20260814121000 +0800" channel="无锡新闻综合"><title lang="zh">梦中的那片海 7-9</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814082000 +0800" stop="20260814121000 +0800" channel="无锡新闻综合"><title lang="zh">梦中的那片海 7-9</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260814193000 +0800" stop="20260814211500 +0800" channel="无锡新闻综合"><title lang="zh">欢乐家长群 16-17</title>
   </programme>
   <programme start="20260814230000 +0800" stop="20260815000000 +0800" channel="无锡新闻综合"><title lang="zh">底线 2-3</title>
   </programme>
-  <programme start="20260814062000 +0800" stop="20260814091000 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 壮丁也是兵 9-10</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814062000 +0800" stop="20260814091000 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 壮丁也是兵 9-10</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260814122000 +0800" stop="20260814144500 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 一路朝阳 36 父亲的草原母亲的河 1-2</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814122000 +0800" stop="20260814144500 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 一路朝阳 36 父亲的草原母亲的河 1-2</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260814163000 +0800" stop="20260814170500 +0800" channel="无锡生活频道"><title lang="zh">动画片:动车侠未来高铁城 2-3</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814163000 +0800" stop="20260814170500 +0800" channel="无锡生活频道"><title lang="zh">动画片:动车侠未来高铁城 2-3</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20260814170500 +0800" stop="20260814191300 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 上有老下有小 16-17</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814170500 +0800" stop="20260814191300 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 上有老下有小 16-17</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260814222000 +0800" stop="20260814233000 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 诚忠堂 12-13</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260814222000 +0800" stop="20260814233000 +0800" channel="无锡生活频道"><title lang="zh">电视剧: 诚忠堂 12-13</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260814152500 +0800" stop="20260814174000 +0800" channel="无锡经济频道"><title lang="zh">芳华剧场: 此心安处是吾乡 36-37</title>
   </programme>
@@ -4009,6 +4225,8 @@
   <programme start="20260814191900 +0800" stop="20260814210000 +0800" channel="无锡都市资讯"><title lang="zh">公诉 22-23</title>
   </programme>
   <programme start="20260814230000 +0800" stop="20260815000000 +0800" channel="无锡都市资讯"><title lang="zh">潜行者 31-32</title>
+  </programme>
+  <programme start="20260814000001 +0800" stop="20260814001000 +0800" channel="早期教育"><title lang="zh">课本里的经典(3)</title>
   </programme>
   <programme start="20260814064800 +0800" stop="20260814070100 +0800" channel="早期教育"><title lang="zh">小明的绘本时光之最美中国故事-第010集</title>
   </programme>
@@ -4042,9 +4260,9 @@
   </programme>
   <programme start="20260814104000 +0800" stop="20260814112500 +0800" channel="武城综合"><title lang="zh">贝州党课讲堂</title>
   </programme>
-  <programme start="20260814050000 +0800" stop="20260814054000 +0800" channel="武术世界"><title lang="zh">功夫课堂:少林连环拳</title><desc>1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。</desc>
+  <programme start="20260814050000 +0800" stop="20260814054000 +0800" channel="武术世界"><title lang="zh">功夫课堂:少林连环拳</title><desc lang="zh">1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。</desc>
   </programme>
-  <programme start="20260814054000 +0800" stop="20260814062000 +0800" channel="武术世界"><title lang="zh">功夫课堂:太极缠丝功</title><desc>1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。</desc>
+  <programme start="20260814054000 +0800" stop="20260814062000 +0800" channel="武术世界"><title lang="zh">功夫课堂:太极缠丝功</title><desc lang="zh">1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。</desc>
   </programme>
   <programme start="20260814080000 +0800" stop="20260814090000 +0800" channel="民视台湾"><title lang="zh">科學再發現【普】(E37)</title>
   </programme>
@@ -4126,8 +4344,6 @@
   </programme>
   <programme start="20260814023500 +0800" stop="20260814033000 +0800" channel="求索纪录"><title lang="zh">发现南京(1)</title>
   </programme>
-  <programme start="20260814102000 +0800" stop="20260814111000 +0800" channel="求索纪录"><title lang="zh">报废车的复活Ⅴ(5)</title>
-  </programme>
   <programme start="20260814120500 +0800" stop="20260814125500 +0800" channel="求索纪录"><title lang="zh">一车行天下Ⅱ(2)</title>
   </programme>
   <programme start="20260814134500 +0800" stop="20260814143500 +0800" channel="求索纪录"><title lang="zh">求生一加一Ⅱ(10)</title>
@@ -4164,6 +4380,10 @@
   </programme>
   <programme start="20260814011000 +0800" stop="20260814015500 +0800" channel="江苏综艺"><title lang="zh">危险关系(20)</title><desc lang="zh">改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
   </programme>
+  <programme start="20260814024600 +0800" stop="20260814024900 +0800" channel="江西卫视"><title lang="zh">清晨剧场:神枪7</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  </programme>
+  <programme start="20260814055000 +0800" stop="20260814062700 +0800" channel="江西卫视"><title lang="zh">清晨剧场:神枪10</title><desc>吉林卫视早间时段电视剧场，播出时间为清晨时段。以情感剧、家庭剧为主，多采用多集连播模式，为早间收视群体提供轻松温馨的观剧内容。</desc>
+  </programme>
   <programme start="20260814193500 +0800" stop="20260814201800 +0800" channel="江西卫视"><title lang="zh">金牌剧场:父亲的身份3</title>
   </programme>
   <programme start="20260814203100 +0800" stop="20260814212400 +0800" channel="江西卫视"><title lang="zh">金牌剧场:父亲的身份4</title>
@@ -4174,17 +4394,21 @@
   </programme>
   <programme start="20260814204000 +0800" stop="20260814212500 +0800" channel="河北农民"><title lang="zh">和美剧场:日头日头照着我13</title>
   </programme>
-  <programme start="20260814001800 +0800" stop="20260814011100 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(22)</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814001800 +0800" stop="20260814011100 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(22)</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
-  <programme start="20260814011100 +0800" stop="20260814020400 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(23)</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814011100 +0800" stop="20260814020400 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(23)</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
   <programme start="20260814020400 +0800" stop="20260814025900 +0800" channel="河北卫视"><title lang="zh">晚间剧场二</title>
   </programme>
-  <programme start="20260814030100 +0800" stop="20260814035400 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(25)</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814030100 +0800" stop="20260814035400 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(25)</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
-  <programme start="20260814044700 +0800" stop="20260814044800 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(27)</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814044700 +0800" stop="20260814044800 +0800" channel="河北卫视"><title lang="zh">唐朝诡事录(27)</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
   <programme start="20260814083100 +0800" stop="20260814091300 +0800" channel="河北卫视"><title lang="zh">情感剧场一</title>
+  </programme>
+  <programme start="20260814114100 +0800" stop="20260814122300 +0800" channel="河北卫视"><title lang="zh">情感剧场一:灼灼韶华30</title>
+  </programme>
+  <programme start="20260814182400 +0800" stop="20260814183000 +0800" channel="河北卫视"><title lang="zh">爱国教育“冀”心田第二季17</title>
   </programme>
   <programme start="20260814193300 +0800" stop="20260814201900 +0800" channel="河北卫视"><title lang="zh">民生剧场:马背上的银行22</title>
   </programme>
@@ -4192,15 +4416,15 @@
   </programme>
   <programme start="20260814233300 +0800" stop="20260814233800 +0800" channel="河北卫视"><title lang="zh">重大理论文献纪录片:西柏坡1947-1949(4)</title>
   </programme>
-  <programme start="20260814234100 +0800" stop="20260815000000 +0800" channel="河北卫视"><title lang="zh">中国经济圆桌会</title><desc>“中国经济圆桌会”是新华社于2023年7月17日推出的大型全媒体访谈节目，聚焦当下国内外经济热点话题。 提振发展信心，增强民企获得感——“中国经济圆桌会”访谈节目引发舆论热烈反响。</desc>
+  <programme start="20260814234100 +0800" stop="20260815000000 +0800" channel="河北卫视"><title lang="zh">中国经济圆桌会</title><desc lang="zh">“中国经济圆桌会”是新华社于2023年7月17日推出的大型全媒体访谈节目，聚焦当下国内外经济热点话题。 提振发展信心，增强民企获得感——“中国经济圆桌会”访谈节目引发舆论热烈反响。</desc>
   </programme>
   <programme start="20260814181000 +0800" stop="20260814210000 +0800" channel="河北都市"><title lang="zh">电视剧: 翠兰的爱情20-23</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260814173000 +0800" stop="20260814175000 +0800" channel="法治天地"><title lang="zh">法治:( 律师界 )</title>
   </programme>
-  <programme start="20260814210000 +0800" stop="20260814213000 +0800" channel="法治天地"><title lang="zh">庭前庭后 第二季(5)面对</title><desc>法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
+  <programme start="20260814210000 +0800" stop="20260814213000 +0800" channel="法治天地"><title lang="zh">庭前庭后 第二季(5)面对</title><desc lang="zh">法治纪录片，由上海市高级人民法院与法治天地频道联合制作。镜头跟随法官奔赴庭审现场、田间地头、当事人家中，全景呈现人民法院立案、调解、审理和判决等庭前庭后的真实故事。节目深入挖掘法理与人情的冲突与融合，展现法官为实质性化解纠纷所做的努力，传递司法的力度与温度。</desc>
   </programme>
-  <programme start="20260814213000 +0800" stop="20260814220000 +0800" channel="法治天地"><title lang="zh">《 案件聚焦 》坑人的闺蜜</title><desc>《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
+  <programme start="20260814213000 +0800" stop="20260814220000 +0800" channel="法治天地"><title lang="zh">《 案件聚焦 》坑人的闺蜜</title><desc lang="zh">《今日聚焦》是一档新闻专题节目，本集聚焦企业与职工的双向奔赴。通过深入报道企业与职工之间的良性互动，探讨如何构建和谐的劳动关系，促进企业发展和职工成长，为观众提供有价值的社会观察。</desc>
   </programme>
   <programme start="20260814071500 +0800" stop="20260814080000 +0800" channel="浙江国际"><title lang="zh">《北上（海外版权）》9（海外播出版）</title>
   </programme>
@@ -4344,25 +4568,89 @@
   </programme>
   <programme start="20260814223000 +0800" stop="20260814230000 +0800" channel="浙江经济"><title lang="zh">新闻深呼吸2026-223</title>
   </programme>
-  <programme start="20260814001800 +0800" stop="20260814010300 +0800" channel="海南卫视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814001800 +0800" stop="20260814010300 +0800" channel="海南卫视"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814042000 +0800" stop="20260814045900 +0800" channel="海南卫视"><title lang="zh">动画片:海底小纵队第九季</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814010300 +0800" stop="20260814014800 +0800" channel="海南卫视"><title lang="zh">午夜剧场:人世间26</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814014800 +0800" stop="20260814023100 +0800" channel="海南卫视"><title lang="zh">午夜剧场:人世间27</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814042000 +0800" stop="20260814045900 +0800" channel="海南卫视"><title lang="zh">动画片:海底小纵队第九季</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20260814045900 +0800" stop="20260814054300 +0800" channel="海南卫视"><title lang="zh">午夜剧场:人世间28</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814054300 +0800" stop="20260814063000 +0800" channel="海南卫视"><title lang="zh">午夜剧场:人世间29</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814202800 +0800" stop="20260814211300 +0800" channel="海南卫视"><title lang="zh">金椰剧场:烟火人家20</title>
   </programme>
   <programme start="20260814211300 +0800" stop="20260814215500 +0800" channel="海南卫视"><title lang="zh">金椰剧场:烟火人家21</title>
   </programme>
-  <programme start="20260814222800 +0800" stop="20260814231500 +0800" channel="海南卫视"><title lang="zh">星光剧场:六姊妹38</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814222800 +0800" stop="20260814231500 +0800" channel="海南卫视"><title lang="zh">星光剧场:六姊妹38</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814231500 +0800" stop="20260814232300 +0800" channel="海南卫视"><title lang="zh">风华正茂·向南渡</title><desc>海南卫视大型生态人文纪录片，第三季以“向南渡”为主题，以333.8公里的桨板漂流为独特视角，跨越南渡江流域七市县，记录生态护林员、水库巡查队、新农人、非遗传承人等奋斗者的故事，呈现海南生态文明建设实践。</desc>
+  <programme start="20260814231500 +0800" stop="20260814232300 +0800" channel="海南卫视"><title lang="zh">风华正茂·向南渡</title><desc lang="zh">海南卫视大型生态人文纪录片，第三季以“向南渡”为主题，以333.8公里的桨板漂流为独特视角，跨越南渡江流域七市县，记录生态护林员、水库巡查队、新农人、非遗传承人等奋斗者的故事，呈现海南生态文明建设实践。</desc>
   </programme>
-  <programme start="20260814173000 +0800" stop="20260814180000 +0800" channel="海南少儿"><title lang="zh">开课啦</title><desc>黑龙江卫视大型音乐文化真人秀，由伍洲彤主持，邀请知名音乐人走进中小学校园，与学生共同完成一堂音乐主题的公开课。节目打破传统课堂界限，通过音乐知识讲解、现场弹唱互动、校园乐队展示等形式，将音乐教育与综艺元素融合，让孩子们在轻松氛围中感受音乐的魅力与力量，激发艺术兴趣与创造力。</desc>
+  <programme start="20260814173000 +0800" stop="20260814180000 +0800" channel="海南少儿"><title lang="zh">开课啦</title><desc lang="zh">黑龙江卫视大型音乐文化真人秀，由伍洲彤主持，邀请知名音乐人走进中小学校园，与学生共同完成一堂音乐主题的公开课。节目打破传统课堂界限，通过音乐知识讲解、现场弹唱互动、校园乐队展示等形式，将音乐教育与综艺元素融合，让孩子们在轻松氛围中感受音乐的魅力与力量，激发艺术兴趣与创造力。</desc>
   </programme>
-  <programme start="20260814153900 +0800" stop="20260814162400 +0800" channel="海峡卫视"><title lang="zh">少年派1</title>
+  <programme start="20260814090100 +0800" stop="20260814094500 +0800" channel="海峡卫视"><title lang="zh">骄阳似我11</title>
   </programme>
-  <programme start="20260814220700 +0800" stop="20260814224500 +0800" channel="海峡卫视"><title lang="zh">地球之极-侣行</title>
+  <programme start="20260814094500 +0800" stop="20260814102900 +0800" channel="海峡卫视"><title lang="zh">骄阳似我12</title>
+  </programme>
+  <programme start="20260814102900 +0800" stop="20260814111300 +0800" channel="海峡卫视"><title lang="zh">骄阳似我13</title>
+  </programme>
+  <programme start="20260814131000 +0800" stop="20260814135400 +0800" channel="海峡卫视"><title lang="zh">如果奔跑是我的人生18</title>
+  </programme>
+  <programme start="20260814135400 +0800" stop="20260814143800 +0800" channel="海峡卫视"><title lang="zh">如果奔跑是我的人生19</title>
+  </programme>
+  <programme start="20260814143800 +0800" stop="20260814152200 +0800" channel="海峡卫视"><title lang="zh">如果奔跑是我的人生20</title>
+  </programme>
+  <programme start="20260814182600 +0800" stop="20260814184200 +0800" channel="海峡卫视"><title lang="zh">向往的大海</title>
+  </programme>
+  <programme start="20260814184200 +0800" stop="20260814192600 +0800" channel="海峡卫视"><title lang="zh">好好的时光13</title><desc>单宝昆的姐姐忽然登门，带来了单宝昆已于上周病逝的噩耗。她表示之前庄好好来找时，单宝昆就藏在门后，只因不愿再打扰庄好好的生活，更不忍见对方伤心，所以才会选择避而不见。单宝昆临终前已神识不清，口中反复念着庄好好的名字，单姐带来弟弟生前最珍爱的吉他和拨片，留给庄好好做个念想，并希望庄好好把单宝昆的骨灰能撒入大海。</desc>
+  </programme>
+  <programme start="20260814192600 +0800" stop="20260814201000 +0800" channel="海峡卫视"><title lang="zh">好好的时光14</title><desc>单宝昆的姐姐忽然登门，带来了单宝昆已于上周病逝的噩耗。她表示之前庄好好来找时，单宝昆就藏在门后，只因不愿再打扰庄好好的生活，更不忍见对方伤心，所以才会选择避而不见。单宝昆临终前已神识不清，口中反复念着庄好好的名字，单姐带来弟弟生前最珍爱的吉他和拨片，留给庄好好做个念想，并希望庄好好把单宝昆的骨灰能撒入大海。</desc>
+  </programme>
+  <programme start="20260814201000 +0800" stop="20260814205400 +0800" channel="海峡卫视"><title lang="zh">好好的时光15</title><desc>单宝昆的姐姐忽然登门，带来了单宝昆已于上周病逝的噩耗。她表示之前庄好好来找时，单宝昆就藏在门后，只因不愿再打扰庄好好的生活，更不忍见对方伤心，所以才会选择避而不见。单宝昆临终前已神识不清，口中反复念着庄好好的名字，单姐带来弟弟生前最珍爱的吉他和拨片，留给庄好好做个念想，并希望庄好好把单宝昆的骨灰能撒入大海。</desc>
   </programme>
   <programme start="20260814224500 +0800" stop="20260814230000 +0800" channel="海峡卫视"><title lang="zh">原来是这样海洋篇</title>
+  </programme>
+  <programme start="20260814000643 +0800" stop="20260814005146 +0800" channel="潮妈辣婆"><title lang="zh">25_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814005146 +0800" stop="20260814013654 +0800" channel="潮妈辣婆"><title lang="zh">26_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814020653 +0800" stop="20260814025221 +0800" channel="潮妈辣婆"><title lang="zh">27_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814032220 +0800" stop="20260814040006 +0800" channel="潮妈辣婆"><title lang="zh">中医巧解现代病 3</title>
+  </programme>
+  <programme start="20260814043005 +0800" stop="20260814051529 +0800" channel="潮妈辣婆"><title lang="zh">65_大秦赋</title>
+  </programme>
+  <programme start="20260814051529 +0800" stop="20260814060052 +0800" channel="潮妈辣婆"><title lang="zh">66_大秦赋</title>
+  </programme>
+  <programme start="20260814063051 +0800" stop="20260814071615 +0800" channel="潮妈辣婆"><title lang="zh">67_大秦赋</title>
+  </programme>
+  <programme start="20260814074614 +0800" stop="20260814081113 +0800" channel="潮妈辣婆"><title lang="zh">01_宴席之道</title>
+  </programme>
+  <programme start="20260814081113 +0800" stop="20260814085536 +0800" channel="潮妈辣婆"><title lang="zh">34_骄阳似我</title>
+  </programme>
+  <programme start="20260814092535 +0800" stop="20260814100938 +0800" channel="潮妈辣婆"><title lang="zh">35_骄阳似我</title>
+  </programme>
+  <programme start="20260814103937 +0800" stop="20260814112407 +0800" channel="潮妈辣婆"><title lang="zh">36_骄阳似我</title>
+  </programme>
+  <programme start="20260814115406 +0800" stop="20260814133839 +0800" channel="潮妈辣婆"><title lang="zh">第7期上：喜人生存战！坑完对手坑队友</title>
+  </programme>
+  <programme start="20260814140838 +0800" stop="20260814145444 +0800" channel="潮妈辣婆"><title lang="zh">45_主角</title>
+  </programme>
+  <programme start="20260814151443 +0800" stop="20260814160055 +0800" channel="潮妈辣婆"><title lang="zh">46_主角</title>
+  </programme>
+  <programme start="20260814163054 +0800" stop="20260814171722 +0800" channel="潮妈辣婆"><title lang="zh">47_主角</title>
+  </programme>
+  <programme start="20260814175721 +0800" stop="20260814192719 +0800" channel="潮妈辣婆"><title lang="zh">唯一的受害者</title>
+  </programme>
+  <programme start="20260814200427 +0800" stop="20260814205007 +0800" channel="潮妈辣婆"><title lang="zh">38_问心</title>
+  </programme>
+  <programme start="20260814212506 +0800" stop="20260814221452 +0800" channel="潮妈辣婆"><title lang="zh">01_问心2</title>
+  </programme>
+  <programme start="20260814224451 +0800" stop="20260814233116 +0800" channel="潮妈辣婆"><title lang="zh">02_问心2</title>
+  </programme>
+  <programme start="20260814233116 +0800" stop="20260815000000 +0800" channel="潮妈辣婆"><title lang="zh">03_问心2</title>
   </programme>
   <programme start="20260814023000 +0800" stop="20260814050000 +0800" channel="爱尔达体育1台"><title lang="zh">中華職棒 中信 VS 富邦 例行賽 8/13(普)</title>
   </programme>
@@ -4400,7 +4688,15 @@
   </programme>
   <programme start="20260814053400 +0800" stop="20260814064200 +0800" channel="猪哥亮歌厅秀"><title lang="zh">豬哥會社-第84集【普】</title>
   </programme>
-  <programme start="20260814012600 +0800" stop="20260814015900 +0800" channel="甘肃卫视"><title lang="zh">午夜剧场:五号特工组之偷天换月</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814012600 +0800" stop="20260814015900 +0800" channel="甘肃卫视"><title lang="zh">午夜剧场:五号特工组之偷天换月</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814015900 +0800" stop="20260814023200 +0800" channel="甘肃卫视"><title lang="zh">午夜剧场:风雷动24</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814023200 +0800" stop="20260814030200 +0800" channel="甘肃卫视"><title lang="zh">午夜剧场:风雷动25</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814031500 +0800" stop="20260814031700 +0800" channel="甘肃卫视"><title lang="zh">午夜剧场:风雷动26</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814193300 +0800" stop="20260814202500 +0800" channel="甘肃卫视"><title lang="zh">飞天剧场:走向大西南8</title>
   </programme>
   <programme start="20260814150000 +0800" stop="20260814154000 +0800" channel="生活时尚"><title lang="zh">金色营养课(3)</title>
   </programme>
@@ -4522,6 +4818,40 @@
   </programme>
   <programme start="20260814074500 +0800" stop="20260814080600 +0800" channel="真情SUPER煲"><title lang="zh">真情 #1086</title><desc lang="zh">小妮相約尚燕、亞美出來，亞美說出家明已與李家相認，小妮大吃一驚。阿家、家明等在茶樓吃飯，見街坊投以怪異目光，阿家覺有人說自己是非。好姨欲陪阿家到洗手間，遇上小妮針鋒相對。阿家為此大發脾氣，向各人追咎誰把事件張揚出去。阿家向家明訓話，但家明只是低頭不語連聲道歉，阿家大感沒趣。Helen請了病假，眾人發現有急件要給Helen簽署，安仔主動帶文件到Helen家，大門一開，眼前人竟是Joan。</desc>
   </programme>
+  <programme start="20260814025500 +0800" stop="20260814065500 +0800" channel="福建少儿"><title lang="zh">欢乐家长群(8)2</title>
+  </programme>
+  <programme start="20260814065500 +0800" stop="20260814070000 +0800" channel="福建少儿"><title lang="zh">欢乐家长群(8)3</title>
+  </programme>
+  <programme start="20260814180300 +0800" stop="20260814181700 +0800" channel="福建少儿"><title lang="zh">海底小纵队Ⅹ11</title>
+  </programme>
+  <programme start="20260814181700 +0800" stop="20260814183100 +0800" channel="福建少儿"><title lang="zh">海底小纵队Ⅹ12</title>
+  </programme>
+  <programme start="20260814183100 +0800" stop="20260814184500 +0800" channel="福建少儿"><title lang="zh">海底小纵队Ⅹ13</title>
+  </programme>
+  <programme start="20260814184500 +0800" stop="20260814190000 +0800" channel="福建少儿"><title lang="zh">海底小纵队Ⅹ14</title>
+  </programme>
+  <programme start="20260814194300 +0800" stop="20260814195500 +0800" channel="福建少儿"><title lang="zh">熊出没之小小世界Ⅱ24</title>
+  </programme>
+  <programme start="20260814195500 +0800" stop="20260814200700 +0800" channel="福建少儿"><title lang="zh">熊出没之小小世界Ⅱ25</title>
+  </programme>
+  <programme start="20260814200700 +0800" stop="20260814202000 +0800" channel="福建少儿"><title lang="zh">熊出没之小小世界Ⅱ26</title>
+  </programme>
+  <programme start="20260814202000 +0800" stop="20260814203200 +0800" channel="福建少儿"><title lang="zh">熊出没之小小世界Ⅱ27</title>
+  </programme>
+  <programme start="20260814203200 +0800" stop="20260814204500 +0800" channel="福建少儿"><title lang="zh">熊出没之小小世界Ⅱ28</title>
+  </programme>
+  <programme start="20260814210000 +0800" stop="20260814211600 +0800" channel="福建少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ1</title>
+  </programme>
+  <programme start="20260814211600 +0800" stop="20260814213200 +0800" channel="福建少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ2</title>
+  </programme>
+  <programme start="20260814213200 +0800" stop="20260814214800 +0800" channel="福建少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ3</title>
+  </programme>
+  <programme start="20260814214800 +0800" stop="20260814220500 +0800" channel="福建少儿"><title lang="zh">猪猪侠之恐龙日记Ⅷ4</title>
+  </programme>
+  <programme start="20260814220500 +0800" stop="20260814225500 +0800" channel="福建少儿"><title lang="zh">欢乐家长群9</title>
+  </programme>
+  <programme start="20260814225500 +0800" stop="20260815000000 +0800" channel="福建少儿"><title lang="zh">欢乐家长群(10)1</title>
+  </programme>
   <programme start="20260814201000 +0800" stop="20260814202900 +0800" channel="福建教育"><title lang="zh">大闽视点</title>
   </programme>
   <programme start="20260814060000 +0800" stop="20260814074000 +0800" channel="粤语片"><title lang="zh">半壁江山一美人</title><desc lang="zh">越王勾踐戰敗被擄。越臣范蠡為復國，尋得西施圖以美人計迷惑吳王夫差，可是二人日久生情並誕下麟兒，但為復國施甘捨家人。吳相伍子胥勸吳王不果，自挖雙目而亡。踐回國，臥薪嚐膽並趁機攻打吳國，蠡與施亦功成身退。</desc>
@@ -4534,11 +4864,77 @@
   </programme>
   <programme start="20260814121500 +0800" stop="20260814133000 +0800" channel="粤语片"><title lang="zh">骷髏塔上集</title><desc lang="zh">程天秀與子巧兒無意中救出被困於骷髏塔內的蟹美人、蚌美人和螺美人。金雞精遇上秀，對秀一見鍾情，但秀喜歡蟹，更結為夫婦。金雞因妒成恨，擄走兒並冒認蝦將軍。蟹為救兒往東海找蝦，卻不敵被擒，而秀則被金雞擄走。</desc>
   </programme>
-  <programme start="20260814084200 +0800" stop="20260814091200 +0800" channel="纪实科教"><title lang="zh">健康北京:名医来了</title>
+  <programme start="20260814003200 +0800" stop="20260814011724 +0800" channel="精品大剧"><title lang="zh">06_玫瑰的故事</title>
   </programme>
-  <programme start="20260814101200 +0800" stop="20260814110000 +0800" channel="纪实科教"><title lang="zh">新疆抗战启示录</title>
+  <programme start="20260814011724 +0800" stop="20260814020248 +0800" channel="精品大剧"><title lang="zh">07_玫瑰的故事</title>
+  </programme>
+  <programme start="20260814020248 +0800" stop="20260814024812 +0800" channel="精品大剧"><title lang="zh">08_玫瑰的故事</title>
+  </programme>
+  <programme start="20260814024812 +0800" stop="20260814033336 +0800" channel="精品大剧"><title lang="zh">09_玫瑰的故事</title>
+  </programme>
+  <programme start="20260814033336 +0800" stop="20260814041839 +0800" channel="精品大剧"><title lang="zh">28_千金保姆</title>
+  </programme>
+  <programme start="20260814041839 +0800" stop="20260814050342 +0800" channel="精品大剧"><title lang="zh">29_千金保姆</title>
+  </programme>
+  <programme start="20260814050342 +0800" stop="20260814054845 +0800" channel="精品大剧"><title lang="zh">30_千金保姆</title>
+  </programme>
+  <programme start="20260814054845 +0800" stop="20260814063819 +0800" channel="精品大剧"><title lang="zh">01_大奉打更人</title>
+  </programme>
+  <programme start="20260814063819 +0800" stop="20260814072400 +0800" channel="精品大剧"><title lang="zh">01_三国机密</title>
+  </programme>
+  <programme start="20260814072400 +0800" stop="20260814080938 +0800" channel="精品大剧"><title lang="zh">02_三国机密</title>
+  </programme>
+  <programme start="20260814080938 +0800" stop="20260814085459 +0800" channel="精品大剧"><title lang="zh">03_三国机密</title>
+  </programme>
+  <programme start="20260814085459 +0800" stop="20260814094035 +0800" channel="精品大剧"><title lang="zh">04_三国机密</title>
+  </programme>
+  <programme start="20260814094035 +0800" stop="20260814102622 +0800" channel="精品大剧"><title lang="zh">31_隐身的名字</title>
+  </programme>
+  <programme start="20260814102622 +0800" stop="20260814111202 +0800" channel="精品大剧"><title lang="zh">01_欢乐颂4</title>
+  </programme>
+  <programme start="20260814111202 +0800" stop="20260814115742 +0800" channel="精品大剧"><title lang="zh">02_欢乐颂4</title>
+  </programme>
+  <programme start="20260814115742 +0800" stop="20260814124322 +0800" channel="精品大剧"><title lang="zh">03_欢乐颂4</title>
+  </programme>
+  <programme start="20260814124322 +0800" stop="20260814132801 +0800" channel="精品大剧"><title lang="zh">06_刑警队长</title>
+  </programme>
+  <programme start="20260814132801 +0800" stop="20260814141132 +0800" channel="精品大剧"><title lang="zh">07_刑警队长</title>
+  </programme>
+  <programme start="20260814141132 +0800" stop="20260814145527 +0800" channel="精品大剧"><title lang="zh">08_刑警队长</title>
+  </programme>
+  <programme start="20260814145527 +0800" stop="20260814153904 +0800" channel="精品大剧"><title lang="zh">09_刑警队长</title>
+  </programme>
+  <programme start="20260814153904 +0800" stop="20260814162427 +0800" channel="精品大剧"><title lang="zh">23_我为出嫁狂</title>
+  </programme>
+  <programme start="20260814162427 +0800" stop="20260814170949 +0800" channel="精品大剧"><title lang="zh">24_我为出嫁狂</title>
+  </programme>
+  <programme start="20260814170949 +0800" stop="20260814175511 +0800" channel="精品大剧"><title lang="zh">25_我为出嫁狂</title>
+  </programme>
+  <programme start="20260814175511 +0800" stop="20260814184034 +0800" channel="精品大剧"><title lang="zh">26_我为出嫁狂</title>
+  </programme>
+  <programme start="20260814184034 +0800" stop="20260814192537 +0800" channel="精品大剧"><title lang="zh">40_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814192537 +0800" stop="20260814201152 +0800" channel="精品大剧"><title lang="zh">41_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814201152 +0800" stop="20260814205657 +0800" channel="精品大剧"><title lang="zh">42_赛小花的远大前程</title>
+  </programme>
+  <programme start="20260814205657 +0800" stop="20260814214221 +0800" channel="精品大剧"><title lang="zh">01_奔跑吧，医生</title>
+  </programme>
+  <programme start="20260814214221 +0800" stop="20260814221951 +0800" channel="精品大剧"><title lang="zh">11_闪耀的她</title>
+  </programme>
+  <programme start="20260814221951 +0800" stop="20260814225741 +0800" channel="精品大剧"><title lang="zh">12_闪耀的她</title>
+  </programme>
+  <programme start="20260814225741 +0800" stop="20260814233606 +0800" channel="精品大剧"><title lang="zh">13_闪耀的她</title>
+  </programme>
+  <programme start="20260814233606 +0800" stop="20260815000000 +0800" channel="精品大剧"><title lang="zh">14_闪耀的她</title>
   </programme>
   <programme start="20260814110000 +0800" stop="20260814113000 +0800" channel="纪实科教"><title lang="zh">民法典通解通读</title>
+  </programme>
+  <programme start="20260814155200 +0800" stop="20260814161200 +0800" channel="纪实科教"><title lang="zh">背影(8)</title><desc>影片承袭朱自清同名散文的父爱主题以父爱为主要线索，用电影的方式讲述一个生动的亲情故事。九十年代一个贫困的小山村。十二岁的少女春秀早年丧母，与父亲和瘫痪在床的奶奶相依为命。父亲罹患肺癌，只有短暂的生命，所以他与桂兰结婚，希望在自己离世后，将春秀托孤给她。可是没想到，桂兰在嫁过来前早已患上子宫癌，也不于人世，并且有和桂兰爹一样的目的。开始，他们相互隐瞒了自己的目的，但在三个月的共同生活中，双方都各自发现了对方的秘密，谁也没有说破。出于对孩子真挚而崇高的爱，父亲决定坚守这个秘密。没多久，桂兰和父亲病故，春秀用她羸弱的双肩，代替父亲肩起了一家的重担。本片所有演员均启用非职业演员。</desc>
+  </programme>
+  <programme start="20260814221100 +0800" stop="20260814225600 +0800" channel="纪实科教"><title lang="zh">故事时间:迷墙(1)</title>
+  </programme>
+  <programme start="20260814225600 +0800" stop="20260814234300 +0800" channel="纪实科教"><title lang="zh">故事时间:迷墙(2)</title>
   </programme>
   <programme start="20260814001500 +0800" stop="20260814015500 +0800" channel="美亚电影"><title lang="zh">歐洲攻略[粵/普]</title><desc lang="zh">林在風和王朝英分別列爲江湖第一人和江湖第二人,多年來無人能夠撼動其地位.而他們彼此亦敵亦友,相互欣賞又互相爲敵.世界頂級駭客聽風者精心設計的地震飛彈上帝之手被神祕人蘇菲偷走,美國CIA同時委派林在風和王朝英兩人追查.兩人此次原本以爲只是一場賞金獵手間的謀略較量,卻在過程中救下了年輕黑客洛奇,引出了歐洲黑手黨.在歐洲黑幫,美國CIA,歐盟打擊犯罪聯盟特工們的全力搜捕下,他們發現原來事件背後還隱...</desc>
   </programme>
@@ -4596,7 +4992,7 @@
   </programme>
   <programme start="20260814123100 +0800" stop="20260814130100 +0800" channel="老故事"><title lang="zh">邬达克(5)</title>
   </programme>
-  <programme start="20260814161900 +0800" stop="20260814163100 +0800" channel="老故事"><title lang="zh">纪录中国 :月饼奶奶等</title><desc>大型纪录片日播栏目，由中央电视台纪录频道联合全国省、市级电视台共同开办，2013年11月11日起在全国70家省市电视台同步开播，被业界称为“目前我国传播范围最广、参与电视台最多的纪录片栏目”。栏目以播出自然类、社会类、人文类、文献类等国内外优秀纪录片为主，涵盖《美丽中国》《舌尖上的中国》《国家宝藏》《复活的军团》等精品国产纪录片，以及《花豹女王》《鳄鱼争霸战》等海外引进经典。</desc>
+  <programme start="20260814161900 +0800" stop="20260814163100 +0800" channel="老故事"><title lang="zh">纪录中国 :月饼奶奶等</title><desc lang="zh">大型纪录片日播栏目，由中央电视台纪录频道联合全国省、市级电视台共同开办，2013年11月11日起在全国70家省市电视台同步开播，被业界称为“目前我国传播范围最广、参与电视台最多的纪录片栏目”。栏目以播出自然类、社会类、人文类、文献类等国内外优秀纪录片为主，涵盖《美丽中国》《舌尖上的中国》《国家宝藏》《复活的军团》等精品国产纪录片，以及《花豹女王》《鳄鱼争霸战》等海外引进经典。</desc>
   </programme>
   <programme start="20260814001600 +0800" stop="20260814004000 +0800" channel="英语教室"><title lang="zh">大家說英語-0814【普】</title>
   </programme>
@@ -4612,35 +5008,37 @@
   </programme>
   <programme start="20260814052300 +0800" stop="20260814053000 +0800" channel="贵州卫视"><title lang="zh">画眉27</title>
   </programme>
-  <programme start="20260814111500 +0800" stop="20260814120900 +0800" channel="贵州卫视"><title lang="zh">上午剧场:神枪1</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814102900 +0800" stop="20260814111500 +0800" channel="贵州卫视"><title lang="zh">上午剧场:狙击部队38</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814120900 +0800" stop="20260814130300 +0800" channel="贵州卫视"><title lang="zh">上午剧场:神枪2</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814111500 +0800" stop="20260814120900 +0800" channel="贵州卫视"><title lang="zh">上午剧场:神枪1</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814135300 +0800" stop="20260814140000 +0800" channel="贵州卫视"><title lang="zh">下午剧场:神枪4</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814120900 +0800" stop="20260814130300 +0800" channel="贵州卫视"><title lang="zh">上午剧场:神枪2</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814130300 +0800" stop="20260814134800 +0800" channel="贵州卫视"><title lang="zh">下午剧场:神枪3</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814135300 +0800" stop="20260814140000 +0800" channel="贵州卫视"><title lang="zh">下午剧场:神枪4</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814140500 +0800" stop="20260814143500 +0800" channel="贵州卫视"><title lang="zh">狙击部队(18)</title><desc lang="zh">1939年，东江纵队组建了一支城市行动队，队员身怀绝技——擅长各种枪械的“中尉”、轻功手雷夺命飞刀的“一剪梅”、擅长爆破的“蓝凤凰”、风情万种的信息刺探高手“九岁红”等。他们潜入敌人心脏，在光怪陆离的都市中与日寇特高课展开惊心动魄的较量。</desc>
   </programme>
   <programme start="20260814150500 +0800" stop="20260814152100 +0800" channel="贵州卫视"><title lang="zh">万水千山</title>
   </programme>
-  <programme start="20260814152100 +0800" stop="20260814174500 +0800" channel="贵州卫视"><title lang="zh">电影:智取华山</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  <programme start="20260814152100 +0800" stop="20260814174500 +0800" channel="贵州卫视"><title lang="zh">电影:智取华山</title><desc lang="zh">"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
   </programme>
   <programme start="20260814193300 +0800" stop="20260814201700 +0800" channel="贵州卫视"><title lang="zh">我们的河山21</title>
   </programme>
   <programme start="20260814202100 +0800" stop="20260814210400 +0800" channel="贵州卫视"><title lang="zh">我们的河山22</title>
   </programme>
-  <programme start="20260814002800 +0800" stop="20260814011100 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:我是刑警25</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814002800 +0800" stop="20260814011000 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:三叉戟Ⅱ-22第22集剧情演员表</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814011100 +0800" stop="20260814015200 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:我是刑警26</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814011000 +0800" stop="20260814011100 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:三叉戟Ⅱ-23第23集剧情演员表</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814015200 +0800" stop="20260814023600 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:我是刑警27</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814011100 +0800" stop="20260814015200 +0800" channel="辽宁卫视"><title lang="zh">午夜剧场:我是刑警26</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814083500 +0800" stop="20260814091000 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔31</title>
+  <programme start="20260814080300 +0800" stop="20260814080400 +0800" channel="辽宁卫视"><title lang="zh">动画片:疾风劲射</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20260814093100 +0800" stop="20260814100600 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔32</title>
+  <programme start="20260814083500 +0800" stop="20260814090900 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:正阳门下小女人44第44集剧情演员表</title>
   </programme>
   <programme start="20260814102700 +0800" stop="20260814105100 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔33（上）</title>
-  </programme>
-  <programme start="20260814111200 +0800" stop="20260814113800 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔33（下）</title>
   </programme>
   <programme start="20260814131000 +0800" stop="20260814133900 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔34</title>
   </programme>
@@ -4650,9 +5048,9 @@
   </programme>
   <programme start="20260814153500 +0800" stop="20260814160400 +0800" channel="辽宁卫视"><title lang="zh">白天剧场:二叔36（下）</title>
   </programme>
-  <programme start="20260814193500 +0800" stop="20260814201200 +0800" channel="辽宁卫视"><title lang="zh">北方剧场:正阳门下小女人12</title>
+  <programme start="20260814193500 +0800" stop="20260814193600 +0800" channel="辽宁卫视"><title lang="zh">北方剧场:正阳门下小女人12</title>
   </programme>
-  <programme start="20260814201900 +0800" stop="20260814205700 +0800" channel="辽宁卫视"><title lang="zh">北方剧场:正阳门下小女人13</title>
+  <programme start="20260814193600 +0800" stop="20260814201200 +0800" channel="辽宁卫视"><title lang="zh">北方剧场:抹布女也有春天26第26集剧情演员表</title>
   </programme>
   <programme start="20260814000600 +0800" stop="20260814000900 +0800" channel="达文西频道"><title lang="zh">超級英雄飛毛腿－不正經法律(普)</title>
   </programme>
@@ -4806,7 +5204,7 @@
   </programme>
   <programme start="20260814103100 +0800" stop="20260814120000 +0800" channel="金光布袋戏"><title lang="zh">決戰時刻16</title>
   </programme>
-  <programme start="20260814000001 +0800" stop="20260814002000 +0800" channel="金色学堂"><title lang="zh">大医来了 :膀胱保卫战膀胱癌的防治</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260814000001 +0800" stop="20260814002000 +0800" channel="金色学堂"><title lang="zh">大医来了 :膀胱保卫战膀胱癌的防治</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260814002000 +0800" stop="20260814002400 +0800" channel="金色学堂"><title lang="zh">信步年华</title>
   </programme>
@@ -4828,7 +5226,7 @@
   </programme>
   <programme start="20260814110900 +0800" stop="20260814112400 +0800" channel="金色学堂"><title lang="zh">乐学书画 :风景写生14(下)</title>
   </programme>
-  <programme start="20260814121900 +0800" stop="20260814122000 +0800" channel="金色学堂"><title lang="zh">生活好技艺 :茶艺美学08</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20260814121900 +0800" stop="20260814122000 +0800" channel="金色学堂"><title lang="zh">生活好技艺 :茶艺美学08</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
   <programme start="20260814132900 +0800" stop="20260814133000 +0800" channel="金色学堂"><title lang="zh">金色公开课 :麦粒肿(潘东艳)_故事课(张华)</title>
   </programme>
@@ -4844,7 +5242,7 @@
   </programme>
   <programme start="20260814195700 +0800" stop="20260814203900 +0800" channel="金色学堂"><title lang="zh">小菊的春天 (3)0</title>
   </programme>
-  <programme start="20260814063900 +0800" stop="20260814070700 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》2（新剧场版）</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814063900 +0800" stop="20260814070700 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》2（新剧场版）</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
   <programme start="20260814071900 +0800" stop="20260814072300 +0800" channel="钱江都市"><title lang="zh">8月11日串播QB1</title>
   </programme>
@@ -4862,13 +5260,13 @@
   </programme>
   <programme start="20260814100500 +0800" stop="20260814100700 +0800" channel="钱江都市"><title lang="zh">8月11日串播QB7</title>
   </programme>
-  <programme start="20260814101600 +0800" stop="20260814104400 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》5（新剧场版）</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814101600 +0800" stop="20260814104400 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》5（新剧场版）</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
   <programme start="20260814115300 +0800" stop="20260814115400 +0800" channel="钱江都市"><title lang="zh">8月11日串播QB8</title>
   </programme>
-  <programme start="20260814115400 +0800" stop="20260814122200 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》6（新剧场版）</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814115400 +0800" stop="20260814122200 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》6（新剧场版）</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
-  <programme start="20260814122200 +0800" stop="20260814125000 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》7（新剧场版）</title><desc>《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
+  <programme start="20260814122200 +0800" stop="20260814125000 +0800" channel="钱江都市"><title lang="zh">《唐朝诡事录》7（新剧场版）</title><desc lang="zh">《唐朝诡事录之西行》是一部以唐朝为背景的悬疑推理网络剧，讲述了狄仁杰的弟子苏无名和金吾卫中郎将卢凌风在西行途中破解各种诡异案件的故事。第3集继续讲述他们的探案历程，通过精彩的剧情和细腻的人物刻画，展现了唐朝的社会风貌和探案智慧。</desc>
   </programme>
   <programme start="20260814125100 +0800" stop="20260814134100 +0800" channel="钱江都市"><title lang="zh">范大姐帮忙2026-223（中午版）</title>
   </programme>
@@ -4946,43 +5344,63 @@
   </programme>
   <programme start="20260814012600 +0800" stop="20260814013600 +0800" channel="陕西卫视"><title lang="zh">丝路短剧场:顾盼锦年</title>
   </programme>
-  <programme start="20260814021000 +0800" stop="20260814030600 +0800" channel="陕西卫视"><title lang="zh">子夜剧场二:那年花开月正圆66</title>
-  </programme>
-  <programme start="20260814030600 +0800" stop="20260814040000 +0800" channel="陕西卫视"><title lang="zh">子夜剧场二:那年花开月正圆67</title>
-  </programme>
-  <programme start="20260814040000 +0800" stop="20260814044700 +0800" channel="陕西卫视"><title lang="zh">子夜剧场二:那年花开月正圆68</title>
-  </programme>
   <programme start="20260814044700 +0800" stop="20260814052800 +0800" channel="陕西卫视"><title lang="zh">子夜剧场二:那年花开月正圆69</title>
   </programme>
-  <programme start="20260814073000 +0800" stop="20260814081600 +0800" channel="陕西卫视"><title lang="zh">动画片:超级飞侠15</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260814072900 +0800" stop="20260814080000 +0800" channel="陕西卫视"><title lang="zh">动画片:超级飞侠15</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20260814081600 +0800" stop="20260814085100 +0800" channel="陕西卫视"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814080000 +0800" stop="20260814083500 +0800" channel="陕西卫视"><title lang="zh">温情剧场:娘道85</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814085100 +0800" stop="20260814092600 +0800" channel="陕西卫视"><title lang="zh">温情剧场:娘道86</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814094100 +0800" stop="20260814102100 +0800" channel="陕西卫视"><title lang="zh">温情剧场:娘道87</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814103700 +0800" stop="20260814111700 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心1</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814113200 +0800" stop="20260814121200 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心2</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814122800 +0800" stop="20260814130800 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心3</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814132400 +0800" stop="20260814140600 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心4</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814142300 +0800" stop="20260814150500 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心5</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814152500 +0800" stop="20260814160700 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心6</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814162400 +0800" stop="20260814170600 +0800" channel="陕西卫视"><title lang="zh">温情剧场:勇敢的心7</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814193200 +0800" stop="20260814193400 +0800" channel="陕西卫视"><title lang="zh">丝路长安剧场:主角4</title>
+  </programme>
+  <programme start="20260814220200 +0800" stop="20260814231000 +0800" channel="陕西卫视"><title lang="zh">电影:奇袭</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
   </programme>
   <programme start="20260814000001 +0800" stop="20260814004600 +0800" channel="青海卫视"><title lang="zh">深夜剧场:换了人间14</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814085000 +0800" stop="20260814091900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集61</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814085000 +0800" stop="20260814091900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集61</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814093500 +0800" stop="20260814100500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集62</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814093500 +0800" stop="20260814100500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集62</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814102300 +0800" stop="20260814110500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集63</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814102300 +0800" stop="20260814110500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集63</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814113300 +0800" stop="20260814120300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集64</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814113300 +0800" stop="20260814120300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集64</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814125600 +0800" stop="20260814132600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集65</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814125600 +0800" stop="20260814132600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集65</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814134400 +0800" stop="20260814141800 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集66</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814134400 +0800" stop="20260814141800 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集66</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814143400 +0800" stop="20260814150300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集67</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814143400 +0800" stop="20260814150300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集67</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814152000 +0800" stop="20260814154900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集68</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814152000 +0800" stop="20260814154900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集68</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814161300 +0800" stop="20260814164500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集69</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814161300 +0800" stop="20260814164500 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集69</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814171000 +0800" stop="20260814174000 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集70</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814171000 +0800" stop="20260814174000 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:西游记续集70</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814193700 +0800" stop="20260814202900 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:三体15</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814193700 +0800" stop="20260814202900 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:三体15</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260814202900 +0800" stop="20260814212000 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:三体16</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814202900 +0800" stop="20260814212000 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:三体16</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814224000 +0800" stop="20260814230000 +0800" channel="青海卫视"><title lang="zh">深夜剧场:换了人间23</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20260814233200 +0800" stop="20260815000000 +0800" channel="青海卫视"><title lang="zh">深夜剧场:换了人间24</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814033000 +0800" stop="20260814060000 +0800" channel="靖天日本"><title lang="zh">金錢男孩MONEYBOYS(1)(輔12)</title>
   </programme>
@@ -5070,7 +5488,7 @@
   </programme>
   <programme start="20260814202900 +0800" stop="20260814211500 +0800" channel="黑龙江卫视"><title lang="zh">中国龙剧场:好好的时光14</title>
   </programme>
-  <programme start="20260814223100 +0800" stop="20260814231400 +0800" channel="黑龙江卫视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260814223100 +0800" stop="20260814231400 +0800" channel="黑龙江卫视"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260814010000 +0800" stop="20260814020000 +0800" channel="龙华偶像"><title lang="zh">惡之花(24)(普)</title>
   </programme>

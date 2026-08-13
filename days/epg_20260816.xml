@@ -435,6 +435,8 @@
   </channel>
   <channel id="Rialto Classic Movies (RCM)"><display-name lang="zh">Rialto Classic Movies (RCM)</display-name>
   </channel>
+  <channel id="Star TV"><display-name lang="zh">Star TV</display-name><display-name lang="zh">STAR TV</display-name>
+  </channel>
   <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV-第一剧场</display-name><display-name lang="zh">第一剧场</display-name>
   </channel>
   <channel id="翡翠台"><display-name lang="zh">翡翠台</display-name>
@@ -600,6 +602,8 @@
   <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
   </channel>
   <channel id="NOW爆谷星影台"><display-name lang="zh">NOW爆谷星影台</display-name>
+  </channel>
+  <channel id="KTV HD"><display-name lang="zh">KTV HD</display-name><display-name lang="zh">K-TV</display-name>
   </channel>
   <channel id="beIN SPORTS 4"><display-name lang="zh">beIN SPORTS 4</display-name><display-name lang="zh">BEINSPORTS4</display-name>
   </channel>
@@ -6353,43 +6357,117 @@
   </programme>
   <programme start="20260816230000 +0800" stop="20260817000000 +0800" channel="Concerto"><title lang="zh">Concerto Café</title><desc lang="zh">Your daily hit of the world&amp;#x27;s greatest musicians</desc>
   </programme>
-  <programme start="20260816004500 +0800" stop="20260816011000 +0800" channel="DISCOVERY HD"><title lang="zh">清理大作戰:併購後的新方向(普)</title>
+  <programme start="20260816004900 +0800" stop="20260816010100 +0800" channel="DISCOVERY HD"><title lang="zh">Pinóquio E Seus Amigos</title><desc lang="zh">Um grande concurso musical para bandas está acontecendo na cidade. Lucila decide se apresentar com sua banda, mas como está sem voz, Pinóquio será o vocalista.</desc>
   </programme>
-  <programme start="20260816011000 +0800" stop="20260816013000 +0800" channel="DISCOVERY HD"><title lang="zh">琵亞的明信片第2季:韓國上集(普)</title>
+  <programme start="20260816010100 +0800" stop="20260816011300 +0800" channel="DISCOVERY HD"><title lang="zh">Pinóquio E Seus Amigos</title><desc lang="zh">Com as obras do parque em andamento, Pinóquio, Frida, Pavio, Lucila e os vovôs embarcam no galeão, já que Barbadoce viajou. Será que Pinóquio e Frida conseguirão trazer o galeão e sua tripulação de volta sãos e salvos?</desc>
   </programme>
-  <programme start="20260816013000 +0800" stop="20260816020000 +0800" channel="DISCOVERY HD"><title lang="zh">Jak to jest zrobione? 25 – Kominkowe miechy, prowansalskie calissons | S25</title>
+  <programme start="20260816011300 +0800" stop="20260816013500 +0800" channel="DISCOVERY HD"><title lang="zh">Mermicorno: A Queda das Estrelas</title>
   </programme>
-  <programme start="20260816020000 +0800" stop="20260816022500 +0800" channel="DISCOVERY HD"><title lang="zh">走遍全球逛市場:印度馬都來花卉市場(普)</title>
+  <programme start="20260816014800 +0800" stop="20260816020000 +0800" channel="DISCOVERY HD"><title lang="zh">Vida Nova em um Novo País</title><desc lang="zh">Um casal conservador precisa descobrir se consegue se adaptar à ousada comida de rua de Ho Chi Minh antes de se mudar definitivamente para o Vietnã.</desc>
   </programme>
-  <programme start="20260816022500 +0800" stop="20260816025000 +0800" channel="DISCOVERY HD"><title lang="zh">這樣的一條街:曼谷石龍軍路(普)</title>
+  <programme start="20260816020000 +0800" stop="20260816021200 +0800" channel="DISCOVERY HD"><title lang="zh">44 Gatos</title><desc lang="zh">Piperita é uma gata que sonha em se tornar uma grande cozinheira, assim como seu dono, Alfredo.</desc>
   </programme>
-  <programme start="20260816031400 +0800" stop="20260816033700 +0800" channel="DISCOVERY HD"><title lang="zh">日用品傳奇:斑鳩琴,磁磚,嬰兒鞋(普)</title>
+  <programme start="20260816021200 +0800" stop="20260816022400 +0800" channel="DISCOVERY HD"><title lang="zh">44 Gatos</title><desc lang="zh">Uma nova gatinha chega à cidade. Elegante e sofisticada, seu nome é Snobine.</desc>
   </programme>
-  <programme start="20260816033700 +0800" stop="20260816040300 +0800" channel="DISCOVERY HD"><title lang="zh">日用品傳奇:搖椅,滑輪鞋,水罐(普)</title>
+  <programme start="20260816022400 +0800" stop="20260816023800 +0800" channel="DISCOVERY HD"><title lang="zh">44 Gatos</title><desc lang="zh">Pilou está adorando brincar de detetive particular – ela até usa uma capa de chuva e uma lupa. Mas agora, ela decide encontrar um caso de verdade para investigar.</desc>
   </programme>
-  <programme start="20260816040300 +0800" stop="20260816045100 +0800" channel="DISCOVERY HD"><title lang="zh">摩根費里曼之穿越蟲洞第7季:原力上身(普)</title>
+  <programme start="20260816023800 +0800" stop="20260816025000 +0800" channel="DISCOVERY HD"><title lang="zh">44 Gatos</title><desc lang="zh">Os Buffycats criam uma caça ao tesouro e se divertem para valer procurando uma série de objetos escondidos pela cidade.</desc>
+  </programme>
+  <programme start="20260816025000 +0800" stop="20260816030100 +0800" channel="DISCOVERY HD"><title lang="zh">Meio-irmãos, Meio-heróis</title><desc lang="zh">Sam estraga sua apresentação dos Fazendeiros de Canucktoky, um jogo de tabuleiro que ela encontrou no sótão de sua avó e consertou.</desc>
+  </programme>
+  <programme start="20260816030100 +0800" stop="20260816031400 +0800" channel="DISCOVERY HD"><title lang="zh">Meio-irmãos, Meio-heróis</title><desc lang="zh">Na escola, Sam é eleita a Monitora da Ecologia do programa de Reciclagem de Brinquedos Velhos.</desc>
+  </programme>
+  <programme start="20260816031400 +0800" stop="20260816032600 +0800" channel="DISCOVERY HD"><title lang="zh">Super Wish</title><desc lang="zh">As crianças se perdem em uma tempestade de neve de açúcar, onde conhecem Mochizuna, um bolo de arroz que se oferece para ajudálos a encontrar uma saída  mas só se o aniversariante Jesse o carregar.</desc>
+  </programme>
+  <programme start="20260816032600 +0800" stop="20260816033300 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816033300 +0800" stop="20260816034100 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816034100 +0800" stop="20260816034900 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816034900 +0800" stop="20260816040100 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816040100 +0800" stop="20260816040800 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816040800 +0800" stop="20260816041500 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816041500 +0800" stop="20260816042000 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816042000 +0800" stop="20260816042500 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816042500 +0800" stop="20260816043000 +0800" channel="DISCOVERY HD"><title lang="zh">Turma da Mônica</title>
+  </programme>
+  <programme start="20260816043000 +0800" stop="20260816043400 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">Dolores perde seus carregadores e não conseguem falar usando seus dispositivos eletrônicos. Os Baby Rockers e Jay fazem de tudo para ensinar Dolores a aproveitar a vida sem tecnologia.</desc>
+  </programme>
+  <programme start="20260816043400 +0800" stop="20260816043900 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">A Bebê Funk chega na creche ArcoÍris tocando baixo e fazendo experimentos musicais, o que chama a atenção de Fuz e faz com que ele fique tentando agradála. A música unirá os dois.</desc>
+  </programme>
+  <programme start="20260816043900 +0800" stop="20260816044400 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">Dolores está preparada para tirar a foto anual da creche ArcoÍris, mas Carlos não consegue ficar acordado porque passou a noite ensaiando poses para a foto.</desc>
+  </programme>
+  <programme start="20260816044400 +0800" stop="20260816044900 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">É hora do cochilo e todos os bebês vão dormir, o problema é que Carlos não para de roncar, o que faz com que o Wat não durma. Talvez Fuz e Myo tenham a solução.</desc>
+  </programme>
+  <programme start="20260816044900 +0800" stop="20260816045500 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">É hora do lanche, mas Fuz está sem chá. Enquanto o pequenino revira a creche atrás de um saquinho de chá, Bebê Tango chega para salvar o dia com uma alternativa: um mate.</desc>
+  </programme>
+  <programme start="20260816045500 +0800" stop="20260816050000 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">O tablet de Dolores está com problema e Myo tenta ajudála, mas aí quem acaba ficando com problemas é a pequena robô, que começa a fazer travessuras pela creche.</desc>
+  </programme>
+  <programme start="20260816050000 +0800" stop="20260816050500 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">Bebê Siku chega na creche Arco-Íris com uma missão: encontrar a quena dourada. Os Power Rockers a ajudam seguindo um antigo mapa que leva à incrível cidade de Machu Picchu.</desc>
+  </programme>
+  <programme start="20260816050500 +0800" stop="20260816051000 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">Os Mini Beat encontram uma antiga caixinha de música com uma bailarina peculiar. Eles tentam tocar música para que ela dance, mas a bailarina só segue o ritmo da caixinha, que está quebrada.</desc>
+  </programme>
+  <programme start="20260816051000 +0800" stop="20260816051400 +0800" channel="DISCOVERY HD"><title lang="zh">Mini Beat Power Rockers</title><desc lang="zh">O Bebê Empresário chega à creche com uma grande ideia: criar uma banda de meninos com Fuz e Carlos. Quando Dolores percebe isso, decide criar sua própria banda de meninas, com Wat e Myo.</desc>
+  </programme>
+  <programme start="20260816051400 +0800" stop="20260816052500 +0800" channel="DISCOVERY HD"><title lang="zh">O Show da Luna!</title><desc lang="zh">Luna aprende a andar de bicicleta e Júpiter quer construir um carrinho. Eles questionam sobre a invenção da roda e embarcam em uma viagem no tempo para descobrir sua história.</desc>
   </programme>
   <programme start="20260816053000 +0800" stop="20260816053700 +0800" channel="DISCOVERY HD"><title lang="zh">印度最爽缺:旅遊部落客(普)</title>
   </programme>
-  <programme start="20260816053700 +0800" stop="20260816060000 +0800" channel="DISCOVERY HD"><title lang="zh">製造的原理第16季:乒乓球桌,塑膠模型,光學顯微鏡(普)</title>
+  <programme start="20260816053700 +0800" stop="20260816054900 +0800" channel="DISCOVERY HD"><title lang="zh">製造的原理第16季:乒乓球桌,塑膠模型,光學顯微鏡(普)</title>
   </programme>
-  <programme start="20260816060000 +0800" stop="20260816064500 +0800" channel="DISCOVERY HD"><title lang="zh">失蹤事件大解密:逃出惡魔島(普)</title>
+  <programme start="20260816054900 +0800" stop="20260816060000 +0800" channel="DISCOVERY HD"><title lang="zh">O Show da Luna!</title><desc lang="zh">Luna, Júpiter e Cláudio se inventam um guardachuva no estábulo, e acabam viajando por vários lugares do mundo durante a chuva.</desc>
   </programme>
-  <programme start="20260816064500 +0800" stop="20260816070800 +0800" channel="DISCOVERY HD"><title lang="zh">日用品傳奇:斑鳩琴,磁磚,嬰兒鞋(普)</title>
+  <programme start="20260816060000 +0800" stop="20260816060500 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Na festa de aniversário da Prima Chloe, Peppa se diverte no túnel de um castelo inflável com tema medieval.</desc>
   </programme>
-  <programme start="20260816070800 +0800" stop="20260816073300 +0800" channel="DISCOVERY HD"><title lang="zh">日用品傳奇:搖椅,滑輪鞋,水罐(普)</title>
+  <programme start="20260816060500 +0800" stop="20260816061000 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa, Suzy e o Vovô Pig decidem visitar a oficina mecânica do Vovô Cão. Danny e Pedro também estão lá, ajudando o Vovô Cão a limpar as janelas. Depois, a Senhora Coelho chega com um ônibus quebrado.</desc>
   </programme>
-  <programme start="20260816080000 +0800" stop="20260816083000 +0800" channel="DISCOVERY HD"><title lang="zh">六堆客家豔陽下:2</title><desc lang="zh">六堆客家豔陽下:耕.聚焦四位返鄉青年——米王曾毅平、番茄老師林奕辰、可可職人邱銘松與植物染創作者王一帆——他們各自以創新農法與文化實踐，回應時代對農業的呼喚。</desc>
+  <programme start="20260816061000 +0800" stop="20260816061500 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">É um lindo dia de sol, e Peppa vai brincar na casa do Freddy Raposo.</desc>
   </programme>
-  <programme start="20260816083000 +0800" stop="20260816090000 +0800" channel="DISCOVERY HD"><title lang="zh">舊棚新寶物第6季:8</title><desc lang="zh">舊棚新寶物第6季:尼克與荷麗.亨利與法茲造訪一對父女檔，他們收藏了一系列令人心動不已的勞斯萊斯。</desc>
+  <programme start="20260816061500 +0800" stop="20260816062000 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa está visitando Candy Gato e Freddy Raposo, que moram em um prédio de apartamentos com suas famílias.</desc>
+  </programme>
+  <programme start="20260816064500 +0800" stop="20260816064600 +0800" channel="DISCOVERY HD"><title lang="zh">日用品傳奇:斑鳩琴,磁磚,嬰兒鞋(普)</title>
+  </programme>
+  <programme start="20260816064600 +0800" stop="20260816065100 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Hoje, Peppa vai brincar com Candy Gata no apartamento dela. Elas encontram Emily, Edmond e a Sra. Elefante que estão ajudando a Vovó Elefante a se mudar do seu apartamento.</desc>
+  </programme>
+  <programme start="20260816065100 +0800" stop="20260816065600 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Hoje, Peppa e Pedro estão visitando o prédio de apartamentos para uma festa do pijama com Rohan Rinoceronte.</desc>
+  </programme>
+  <programme start="20260816065600 +0800" stop="20260816070100 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">É o 'dia de ônibus caminhada' na creche, onde todas as crianças devem caminhar até a escola em vez de serem levadas de carro.</desc>
+  </programme>
+  <programme start="20260816070100 +0800" stop="20260816072400 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa e seus amigos aprendem a fazer uma cápsula do tempo./Um bazar de objetos usados acontece no playground/A madame Gazela leva Peppa e seus amigos da escola a um passeio de ônibus pelas montanhas.</desc>
+  </programme>
+  <programme start="20260816072400 +0800" stop="20260816074800 +0800" channel="DISCOVERY HD"><title lang="zh">Você Renova</title><desc lang="zh">Os amigos Myllena, Diego e Leo querem fazer de sua pequena sala um espaço de relaxamentoe criatividade para produzir conteúdo.</desc>
+  </programme>
+  <programme start="20260816074800 +0800" stop="20260816075000 +0800" channel="DISCOVERY HD"><title lang="zh">Paraísos Pelo Mundo: Praias</title><desc lang="zh">Um casal do Texas que sempre pensou em se mudar definitivamente para a Europa procura uma casa em Moraira, Espanha. Eles estão ansiosos para conhecer outras pessoas e ter mais facilidade para viajar para países próximos.</desc>
+  </programme>
+  <programme start="20260816075000 +0800" stop="20260816075500 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Na escolinha, Madame Gazela lê uma história para as crianças, mas descobre que falta uma página no livro.</desc>
+  </programme>
+  <programme start="20260816075500 +0800" stop="20260816080000 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Hoje, a turma da creche está tendo uma aula de canto. Quando os pais chegam, as crianças apresentam sua música e, em seguida, Madame Gazela revela que amanhã haverá uma competição de canto!</desc>
+  </programme>
+  <programme start="20260816080000 +0800" stop="20260816080500 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Hoje é a competição de canto dos adultos, e as crianças são os jurados. A competição termina com as crianças cantando junto com a NOVA MÚSICA do Vovô Coelho!</desc>
+  </programme>
+  <programme start="20260816080500 +0800" stop="20260816082800 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Em um dia frio de outono, Peppa e sua família usam chapéus, cachecóis e casacos./Peppa e George vão patinar no gelo./Mamãe e Papai Porquinho levam Peppa e George para brincar no playground/Hoje, é um dia de inverno muito frio.</desc>
+  </programme>
+  <programme start="20260816082800 +0800" stop="20260816083000 +0800" channel="DISCOVERY HD"><title lang="zh">Meu AmigãoZão O Filme: A Maior Aventura de Todas!</title>
+  </programme>
+  <programme start="20260816084600 +0800" stop="20260816090000 +0800" channel="DISCOVERY HD"><title lang="zh">Operação Fronteira Brasil</title>
   </programme>
   <programme start="20260816090000 +0800" stop="20260816090800 +0800" channel="DISCOVERY HD"><title lang="zh">翻新中古車第12季:16</title><desc lang="zh">翻新中古車第12季:南法復古車.麥克遠征南法收購一台雪鐵龍HY箱型車，雖然全車像一間破爛的雞舍，他們仍打算將它升級成21世紀的商用車。</desc>
   </programme>
   <programme start="20260816090800 +0800" stop="20260816092000 +0800" channel="DISCOVERY HD"><title lang="zh">勇探謎境:搜尋法櫃(普)</title>
   </programme>
-  <programme start="20260816092000 +0800" stop="20260816094500 +0800" channel="DISCOVERY HD"><title lang="zh">清理大作戰:曼谷犯罪現場(普)</title>
+  <programme start="20260816093700 +0800" stop="20260816094500 +0800" channel="DISCOVERY HD"><title lang="zh">Operação Fronteira Brasil</title>
   </programme>
-  <programme start="20260816094500 +0800" stop="20260816101000 +0800" channel="DISCOVERY HD"><title lang="zh">清理大作戰:併購後的新方向(普)</title>
+  <programme start="20260816094500 +0800" stop="20260816095000 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title>
+  </programme>
+  <programme start="20260816095000 +0800" stop="20260816100100 +0800" channel="DISCOVERY HD"><title lang="zh">Shasha e Milo</title><desc lang="zh">Shasha e Milo são os recém-ativados Guardiões da Ilha Crescente. Imbuídos do poder de transformação entre humano, gato e uma formidável forma híbrida, Shasha e Milo têm a tarefa de proteger a Ilha Crescente das forças obscuras.</desc>
+  </programme>
+  <programme start="20260816100100 +0800" stop="20260816100400 +0800" channel="DISCOVERY HD"><title lang="zh">Operação Fronteira Brasil</title>
   </programme>
   <programme start="20260816101000 +0800" stop="20260816101500 +0800" channel="DISCOVERY HD"><title lang="zh">琵亞的明信片第2季:韓國上集(普)</title>
   </programme>
@@ -7289,7 +7367,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816010000 +0800" stop="20260816020000 +0800" channel="EUROSPORT 1"><title lang="zh">Tour of Czech Republic | Stage 3(普)</title>
   </programme>
-  <programme start="20260816020000 +0800" stop="20260816040000 +0800" channel="EUROSPORT 1"><title lang="zh">8 Hours Of Suzuka | Race(普)</title>
+  <programme start="20260816020000 +0800" stop="20260816030000 +0800" channel="EUROSPORT 1"><title lang="zh">8 Hours Of Suzuka | Race(普)</title>
+  </programme>
+  <programme start="20260816030000 +0800" stop="20260816040000 +0800" channel="EUROSPORT 1"><title lang="zh">Pardubice - Dlouhé Strane (170,88 km)</title>
   </programme>
   <programme start="20260816040000 +0800" stop="20260816050000 +0800" channel="EUROSPORT 1"><title lang="zh">Jumping | London(普)</title>
   </programme>
@@ -7635,7 +7715,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816093000 +0800" stop="20260816094200 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal(普)</title>
   </programme>
-  <programme start="20260816094200 +0800" stop="20260816095700 +0800" channel="France 24"><title lang="zh">Le Paris des arts(普)</title>
+  <programme start="20260816094200 +0800" stop="20260816095400 +0800" channel="France 24"><title lang="zh">The 51 Percent</title><desc lang="zh">A programme about the women reshaping our world.</desc>
+  </programme>
+  <programme start="20260816095400 +0800" stop="20260816095700 +0800" channel="France 24"><title lang="zh">Short Cuts</title><desc lang="zh">Inspiring topics and positive initiatives that are changing the world.</desc>
   </programme>
   <programme start="20260816095700 +0800" stop="20260816100000 +0800" channel="France 24"><title lang="zh">Culture prime(普)</title>
   </programme>
@@ -7681,7 +7763,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816130000 +0800" stop="20260816131500 +0800" channel="France 24"><title lang="zh">A la une : le journal(普)</title>
   </programme>
-  <programme start="20260816131500 +0800" stop="20260816133000 +0800" channel="France 24"><title lang="zh">Talking Europe(普)</title>
+  <programme start="20260816131500 +0800" stop="20260816132100 +0800" channel="France 24"><title lang="zh">Sports</title><desc lang="zh">A summary of world sports news of the day, both on and off the pitch.</desc>
+  </programme>
+  <programme start="20260816132100 +0800" stop="20260816133000 +0800" channel="France 24"><title lang="zh">French Connections</title><desc lang="zh">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
   </programme>
   <programme start="20260816133000 +0800" stop="20260816134500 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
@@ -7699,7 +7783,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816144500 +0800" stop="20260816145000 +0800" channel="France 24"><title lang="zh">Focus(普)</title>
   </programme>
-  <programme start="20260816145000 +0800" stop="20260816150000 +0800" channel="France 24"><title lang="zh">Sports(普)</title>
+  <programme start="20260816145000 +0800" stop="20260816145100 +0800" channel="France 24"><title lang="zh">Sports(普)</title>
+  </programme>
+  <programme start="20260816145100 +0800" stop="20260816150000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
   </programme>
   <programme start="20260816150000 +0800" stop="20260816151500 +0800" channel="France 24"><title lang="zh">A la une : le journal(普)</title>
   </programme>
@@ -7733,7 +7819,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816171000 +0800" stop="20260816171500 +0800" channel="France 24"><title lang="zh">Aux 4 coins de l'Europe(普)</title>
   </programme>
-  <programme start="20260816171500 +0800" stop="20260816173000 +0800" channel="France 24"><title lang="zh">Talking Europe(普)</title>
+  <programme start="20260816171500 +0800" stop="20260816172000 +0800" channel="France 24"><title lang="zh">Entre Nous</title><desc lang="zh">In Entre Nous, we look at what gets us talking among family and friends. From social norms, to what is making headlines in France, the show is an in-depth look at society.</desc>
+  </programme>
+  <programme start="20260816172000 +0800" stop="20260816173000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
   </programme>
   <programme start="20260816173000 +0800" stop="20260816174000 +0800" channel="France 24"><title lang="zh">Paris direct : le journal(普)</title>
   </programme>
@@ -7785,7 +7873,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816213000 +0800" stop="20260816214000 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal(普)</title>
   </programme>
-  <programme start="20260816214500 +0800" stop="20260816215600 +0800" channel="France 24"><title lang="zh">Reporters(普)</title>
+  <programme start="20260816214000 +0800" stop="20260816214200 +0800" channel="France 24"><title lang="zh">Le Paris des arts(普)</title>
+  </programme>
+  <programme start="20260816215400 +0800" stop="20260816215600 +0800" channel="France 24"><title lang="zh">Short Cuts</title><desc lang="zh">Inspiring topics and positive initiatives that are changing the world.</desc>
   </programme>
   <programme start="20260816215600 +0800" stop="20260816220000 +0800" channel="France 24"><title lang="zh">Culture prime(普)</title>
   </programme>
@@ -7811,7 +7901,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816231300 +0800" stop="20260816231500 +0800" channel="France 24"><title lang="zh">Reporters</title><desc lang="zh">Un reportage grand format réalisé par une équipe de reporters de France 24 qui permet d&amp;#x27;aborder une problématique en profondeur et de revenir sur un fait marquant de l&amp;#x27;actualité.</desc>
   </programme>
-  <programme start="20260816231500 +0800" stop="20260816233000 +0800" channel="France 24"><title lang="zh">Outre-mer(普)</title>
+  <programme start="20260816231500 +0800" stop="20260816232100 +0800" channel="France 24"><title lang="zh">The Observers</title><desc lang="zh">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
+  </programme>
+  <programme start="20260816232100 +0800" stop="20260816233000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
   </programme>
   <programme start="20260816233000 +0800" stop="20260816234500 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal(普)</title>
   </programme>
@@ -8185,6 +8277,8 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260816142000 +0800" stop="20260816151000 +0800" channel="HGTV (HD)"><title lang="zh">Home Town (S9) - Labor Of Love</title><desc lang="zh">Ben and Erin renovate the local hospital maternity ward, transforming it into a modern, welcoming space that feels like home.</desc>
   </programme>
+  <programme start="20260816151000 +0800" stop="20260816162500 +0800" channel="HGTV (HD)"><title lang="zh">Rock The Block (S7) - Getting Archy With It</title><desc lang="zh">The star-studded teams tackle their great rooms and dens in week two, and champion Michel Smith Boyd judges the stunning spaces.</desc>
+  </programme>
   <programme start="20260816162500 +0800" stop="20260816165000 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home (S4) - My Big Fat Lottery Property</title><desc lang="zh">A single mom with two boys scratched up $200,000 a year for life and now she can finally treat herself to the perfect dream home.</desc>
   </programme>
   <programme start="20260816165000 +0800" stop="20260816174000 +0800" channel="HGTV (HD)"><title lang="zh">Renovation Aloha (S3) - Rats To Riches</title><desc lang="zh">With rotting floors and rats, Kamohai and Tristyn make an offer on the worst house they've ever seen and race to turn a disaster into a dream home.</desc>
@@ -8230,6 +8324,10 @@ From money woes to health problems, strife with the teenagers and love life trou
   <programme start="20260816061700 +0800" stop="20260816065000 +0800" channel="HISTORY"><title lang="zh">The New Space Race</title>
   </programme>
   <programme start="20260816065000 +0800" stop="20260816072300 +0800" channel="HISTORY"><title lang="zh">The Next Frontier in Space</title>
+  </programme>
+  <programme start="20260816072300 +0800" stop="20260816073000 +0800" channel="HISTORY"><title lang="zh">Hedgerow Hell: The Fury of Normandy - 1944</title>
+  </programme>
+  <programme start="20260816073000 +0800" stop="20260816075000 +0800" channel="HISTORY"><title lang="zh">Inacreditável Com Dan Aykroyd</title>
   </programme>
   <programme start="20260816075000 +0800" stop="20260816075200 +0800" channel="HISTORY"><title lang="zh">Королевский гид (Уэльс)</title>
   </programme>
@@ -9314,6 +9412,34 @@ From money woes to health problems, strife with the teenagers and love life trou
   <programme start="20260816223000 +0800" stop="20260816235500 +0800" channel="KIX"><title lang="zh">狄仁傑之詭鎮幽魂</title><desc lang="zh">狄仁傑調查幽冥鎮接連發生的離奇僵屍變異事件,意外揭露幕後黑手竟是圖謀叛亂的越王李貞。面對亡靈肆虐與重重陰謀,狄仁傑憑藉機智與膽識力挫邪惡勢力,揭露了李貞的叛亂計畫。</desc>
   </programme>
   <programme start="20260816235500 +0800" stop="20260817002500 +0800" channel="KIX"><title lang="zh">Extreme Ends #3</title><desc lang="zh">Extreme Ends是個動作冒險真人秀節目,邀請四位名人及其特別嘉賓一同體驗香港的多元魅力!讓我們與馬來西亞的得獎女演員Siti Saleha 及其丈夫一起探索香港的白天与黑夜,感受這座城市充滿活..</desc>
+  </programme>
+  <programme start="20260816000000 +0800" stop="20260816003000 +0800" channel="KTV HD"><title lang="zh">Das frühe Christentum</title>
+  </programme>
+  <programme start="20260816003000 +0800" stop="20260816013000 +0800" channel="KTV HD"><title lang="zh">Heilige Messe aus dem Freiburger Münster</title>
+  </programme>
+  <programme start="20260816013000 +0800" stop="20260816020000 +0800" channel="KTV HD"><title lang="zh">Ein bisschen verrückt ist er unser Generalvikar</title><desc lang="zh">Generalvikar Christoph Neubrand (Erzbistum Freiburg) im Gespräch mit Pfarrer Dr. Thomas Maria Rimmel. Aufgezeichnet im Rahmen des deutschen Katholikentages 2026 in Würzburg. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260816020000 +0800" stop="20260816021500 +0800" channel="KTV HD"><title lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan (Wiederholung vom Vormittag)</title>
+  </programme>
+  <programme start="20260816021500 +0800" stop="20260816035500 +0800" channel="KTV HD"><title lang="zh">Herzschlag – Familienmusical</title><desc lang="zh">Maria und Marta sitzen verzweifelt in der Notaufnahme des Herz-Jesu-Krankenhauses. Die Ungewissheit und das Warten sind nicht auszuhalten. Ihr Bruder Lazarus ist todkrank, die Ärzte kämpfen um sein Leben. Und ihr Freund Immanuel, den sie zu Hilfe gerufen haben, lässt nichts von sich hören. Als er endlich kommt, ist Lazarus tot. Doch in ihren dunkelsten Stunden erfahren sie die übernatürliche Kraft</desc>
+  </programme>
+  <programme start="20260816035500 +0800" stop="20260816042500 +0800" channel="KTV HD"><title lang="zh">Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie "Das Werk" in Bregenz</title>
+  </programme>
+  <programme start="20260816042500 +0800" stop="20260816053000 +0800" channel="KTV HD"><title lang="zh">Er verkündet das Evangelium vom Reich Gottes</title><desc lang="zh">Exerzitien mit Pfr. Werner Fimm zum Thema: "Er verkündet das Evangelium vom Reich Gottes und heilt alle Krankheiten und Leiden". Aufzeichnung April 2018, Kloster Brandenburg; Iller e.V. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260816053000 +0800" stop="20260816053900 +0800" channel="KTV HD"><title lang="zh">Abendgebet mit Angelus</title>
+  </programme>
+  <programme start="20260816053900 +0800" stop="20260816054800 +0800" channel="KTV HD"><title lang="zh">Weihe an Maria</title>
+  </programme>
+  <programme start="20260816054800 +0800" stop="20260816060000 +0800" channel="KTV HD"><title lang="zh">Programmvorschau</title><desc lang="zh">Bei der Programmvorschau kann es sich wahlweise um eine einfache Liste mit den Programmpunkten handeln oder um eine detaillierte Darstellung dessen, womit K-TV sie in den nächsten Tagen erfreuen wird. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816061500 +0800" channel="KTV HD"><title lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan (Wiederholung vom Vormittag)</title>
+  </programme>
+  <programme start="20260816061500 +0800" stop="20260816070000 +0800" channel="KTV HD"><title lang="zh">Schlüsselmomente</title><desc lang="zh">Schlüsselmomente?ist ein neues Gesprächsformat bei K-TV, das existenzielle Wendepunkte in den Mittelpunkt stellt. Gastgeber Stefan Meetschen?empfängt prominente wie unbekannte Gäste in ruhiger Atmosphäre. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260816070000 +0800" stop="20260816073000 +0800" channel="KTV HD"><title lang="zh">Das frühe Christentum</title>
+  </programme>
+  <programme start="20260816073000 +0800" stop="20260817000000 +0800" channel="KTV HD"><title lang="zh">Herzschlag – Familienmusical</title><desc lang="zh">Maria und Marta sitzen verzweifelt in der Notaufnahme des Herz-Jesu-Krankenhauses. Die Ungewissheit und das Warten sind nicht auszuhalten. Ihr Bruder Lazarus ist todkrank, die Ärzte kämpfen um sein Leben. Und ihr Freund Immanuel, den sie zu Hilfe gerufen haben, lässt nichts von sich hören. Als er endlich kommt, ist Lazarus tot. Doch in ihren dunkelsten Stunden erfahren sie die übernatürliche Kraft</desc>
   </programme>
   <programme start="20260816011000 +0800" stop="20260816024500 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">阿米希綁案</title><desc lang="zh">在發現自己親生女兒遭人綁走、行蹤成謎的那一刻, 來自阿米希族群的麗娜被迫求助於唯一能夠提供協助的對象: 那位早年已經決定背離阿米希傳統習俗、而且多年來與她形同陌路的老朋友斯凱。</desc>
   </programme>
@@ -12733,6 +12859,18 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816230000 +0800" stop="20260817000000 +0800" channel="Sony Entertainment Television"><title lang="zh">The Drama Company Ep43</title><desc lang="zh">An eclectic mix of comedians explore who multiple genres of comedy. Starring Mithun Chakraborty as the ring master of a crew of highly misfit characters including Ali Asgar, Krushna Abhishek &amp;amp; others</desc>
   </programme>
+  <programme start="20260816010000 +0800" stop="20260816011500 +0800" channel="Star TV"><title lang="zh">StarNews</title><desc lang="zh">Das Szenenmagazin von Star TV ist Ihre erste Anlaufstelle für alles rund um Fun, Sport, Musik und Kultur. Mit packenden Berichten und exklusiven Interviews bringt das Magazin die neuesten Trends und Highlights direkt zu Ihnen nach Hause. Erleben Sie spannende Sportereignisse, entdecken Sie die angesagtesten Musiktrends und tauchen Sie ein in die bunte Welt der Kultur. Star TV sorgt dafür, dass Sie</desc>
+  </programme>
+  <programme start="20260816011500 +0800" stop="20260816032500 +0800" channel="Star TV"><title lang="zh">Miral</title><desc lang="zh">Nach dem Tod ihrer Mutter findet Miral (Pinto) im Mädcheninternat von Hind Husseini ein neues Zuhause. Die Waisenhausgründerin bemüht sich nach Kräften darum, ihre Schule aus dem israelisch-palästinensischen Konflikt herauszuhalten. Als sich Miral Jahre später der Intifada anschließt, kommt es zum Bruch zwischen der jungen Frau und ihrer Lehrerin. \r\nJulian Schnabel („Schmetterling und Taucherglo</desc>
+  </programme>
+  <programme start="20260816032500 +0800" stop="20260816041500 +0800" channel="Star TV"><title lang="zh">Reise nach Menorca</title><desc lang="zh">Die Dokuserie führt nach Menorca – durch Ciutadella und Mahón, Küstenpfade (Cami de Cavalls), idyllische Buchten, Fischerhäfen und ländliche Talayots-Stätten. Gezeigt werden Insel-Alltag, Strand- und Fischerleben, Boots- und Hafenaktivität, lokale Feste (Sant Joan, Sant Llorenç), katholische Riten und volksreligiöse Bräuche. Musikalisch: traditionelle Jondas, Folk, Brass-Ensembles, Gospel in Kirch</desc>
+  </programme>
+  <programme start="20260816041500 +0800" stop="20260816050000 +0800" channel="Star TV"><title lang="zh">Reise nach Martinique</title><desc lang="zh">Die Dokuserie führt nach Martinique – durch Fort-de-France, kleine Küstenorte, Zuckerrohrplantagen, die Vulkanlandschaft des Mont Pelée, Lagunen und Karibikstrände. Gezeigt werden Alltagsleben, Hafen- und Fischermilieus, Karneval und Festkultur (Carnaval, Fête des Cuisinières), kirchliche und synkretistische Zeremonien (Voodoo-Elemente, katholische Feste) sowie kreolische Strassenszenen. Musikalis</desc>
+  </programme>
+  <programme start="20260816050000 +0800" stop="20260816060000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260817000000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  </programme>
   <programme start="20260816004300 +0800" stop="20260816010800 +0800" channel="TLC"><title lang="zh">Bizarre Foods: Delicious Destinations Ep21</title><desc lang="zh">Andrew dives in to the fairytale-like city of Zagreb, Croatia. The city&amp;#x27;s cuisine has a meat-centric menu and celebrates iconic dishes.</desc>
   </programme>
   <programme start="20260816010800 +0800" stop="20260816013800 +0800" channel="TLC"><title lang="zh">Bizarre Foods: Delicious Destinations Ep22</title><desc lang="zh">From peasant food to royal snacks, Andrew reveals what makes the food scene in Krakow, Poland, so delicious.</desc>
@@ -12795,13 +12933,27 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816000000 +0800" stop="20260816003000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once</title><desc lang="zh">Only Live Once talks with the pros of the BMX Supercross World Cup. Levi Sherwood is an FMX rider to follow and teams of skaters face off in personalised obstacles during the Vans Downtown Showdown in Paris.</desc>
   </programme>
+  <programme start="20260816003000 +0800" stop="20260816010000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated - Wonderwoman Athletes - EP97</title><desc lang="zh">Your favourite sports stars observed away from the ground in Star Rated!</desc>
+  </programme>
   <programme start="20260816010000 +0800" stop="20260816013000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List</title><desc lang="zh">Report on the greatest tennis players of all time.</desc>
   </programme>
   <programme start="20260816013000 +0800" stop="20260816020000 +0800" channel="TRACE Sport Stars"><title lang="zh">Invincible</title><desc lang="zh">In 2016, Lebron James and his Cavs made history by taking the NBA titles after having been 3-1 behind the Warriors.</desc>
   </programme>
   <programme start="20260816020000 +0800" stop="20260816023000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated</title><desc lang="zh">Your favourite sports stars observed away from the ground in Star Rated!</desc>
   </programme>
+  <programme start="20260816030000 +0800" stop="20260816034500 +0800" channel="TRACE Sport Stars"><title lang="zh">9 Months</title>
+  </programme>
+  <programme start="20260816034500 +0800" stop="20260816040000 +0800" channel="TRACE Sport Stars"><title lang="zh">Ola Gia Ti Mama</title>
+  </programme>
+  <programme start="20260816040000 +0800" stop="20260816043000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once - Bowl-A-Rama - EP11</title><desc lang="zh">The Bowl-a-rama in Wellington, New Zealand, is our destination, while we watch the professionals display their skills. Alex Luger tries to conquer all before him, and the BMX Supercross arrives in Argentina.</desc>
+  </programme>
+  <programme start="20260816044500 +0800" stop="20260816051500 +0800" channel="TRACE Sport Stars"><title lang="zh">Gyrismata Stin Ellaga</title>
+  </programme>
+  <programme start="20260816051500 +0800" stop="20260816053000 +0800" channel="TRACE Sport Stars"><title lang="zh">Sti Folia Ton Koukou</title>
+  </programme>
   <programme start="20260816053000 +0800" stop="20260816060000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once</title><desc lang="zh">The Bowl-a-rama in Wellington, New Zealand, is our destination, while we watch the professionals display their skills. Alex Luger tries to conquer all before him, and the BMX Supercross arrives in Argentina.</desc>
+  </programme>
+  <programme start="20260816060000 +0800" stop="20260816063000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated - Sporty Actresses - EP98</title><desc lang="zh">Your favourite sports stars observed away from the ground in Star Rated!</desc>
   </programme>
   <programme start="20260816063000 +0800" stop="20260816070000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List</title><desc lang="zh">Countdown of the 10 best trilogies in the field of combat sports.</desc>
   </programme>
@@ -12809,13 +12961,23 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816073000 +0800" stop="20260816080000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated</title><desc lang="zh">Your favourite sports stars observed away from the ground in Star Rated!</desc>
   </programme>
+  <programme start="20260816080000 +0800" stop="20260816083000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated - Sporty Actors - EP99</title><desc lang="zh">Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
+  </programme>
   <programme start="20260816083000 +0800" stop="20260816090000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List. Top 10 Money Makers</title>
   </programme>
   <programme start="20260816090000 +0800" stop="20260816093000 +0800" channel="TRACE Sport Stars"><title lang="zh">Invincible. Navratilova/Evert</title>
   </programme>
   <programme start="20260816093000 +0800" stop="20260816100000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated. Sporty Actors</title>
   </programme>
+  <programme start="20260816104500 +0800" stop="20260816113000 +0800" channel="TRACE Sport Stars"><title lang="zh">Alithies Me Tin Zina</title>
+  </programme>
+  <programme start="20260816113000 +0800" stop="20260816120000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once - BMX Supercross - EP12</title><desc lang="zh">Only Live Once heads for Santiago del Estero in Argentina for the BMX Supercross. The young pros astonish the crowd while fighting for the Wellington Bowl-a-rama title, and FMX rider Brayden Davies tells us about his passion for the sport.</desc>
+  </programme>
+  <programme start="20260816123000 +0800" stop="20260816130000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List - Top 10 Actual GOATs - EP15</title><desc lang="zh">Countdown of the Top 10 of current G.O.A.T.S.</desc>
+  </programme>
   <programme start="20260816130000 +0800" stop="20260816133000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once. BMX Supercross</title>
+  </programme>
+  <programme start="20260816133000 +0800" stop="20260816140000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated - Christian Grey - EP103</title><desc lang="zh">Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
   </programme>
   <programme start="20260816140000 +0800" stop="20260816143000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List. Top 10 Actual GOATs</title>
   </programme>
@@ -12836,6 +12998,8 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   <programme start="20260816180000 +0800" stop="20260816183000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Iconic. Golf's Ups &amp; Downs</title>
   </programme>
   <programme start="20260816183000 +0800" stop="20260816190000 +0800" channel="TRACE Sport Stars"><title lang="zh">Only Live Once. Rock Stars Bouldering</title>
+  </programme>
+  <programme start="20260816190000 +0800" stop="20260816193000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Rated - Hunger Games - EP104</title><desc lang="zh">Your favourite sports stars witnessed away from the training ground in 'Star Rated'!</desc>
   </programme>
   <programme start="20260816193000 +0800" stop="20260816200000 +0800" channel="TRACE Sport Stars"><title lang="zh">The Short List. Top 10 World Cup Players</title>
   </programme>
@@ -12905,7 +13069,9 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816234500 +0800" stop="20260817000000 +0800" channel="TRACE Urban"><title lang="zh">It's still sunday</title>
   </programme>
-  <programme start="20260816000000 +0800" stop="20260816002700 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title>
+  <programme start="20260816000000 +0800" stop="20260816002600 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title><desc lang="zh">Rendez-vous de l'information et de la culture francophone proposé par la rédaction de TV5 Monde, "64' Le monde en français" met l'accent sur l'actualité mondiale, l'actualité francophone, culturelle, politique, économique, sociale, et sociétale ainsi que sur l'information développée par les partenaires historiques de TV5 Monde : la RTBF, la RTS, Radio Canada, Télé-Québec, France 2, France 3.</desc>
+  </programme>
+  <programme start="20260816002600 +0800" stop="20260816002700 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
   </programme>
   <programme start="20260816002700 +0800" stop="20260816003000 +0800" channel="TV5MONDE HD"><title lang="zh">Meteo</title>
   </programme>
@@ -12915,9 +13081,13 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816010300 +0800" stop="20260816012700 +0800" channel="TV5MONDE HD"><title lang="zh">Secrets Des Profondeurs</title>
   </programme>
-  <programme start="20260816012700 +0800" stop="20260816020000 +0800" channel="TV5MONDE HD"><title lang="zh">Rassemblance</title>
+  <programme start="20260816012700 +0800" stop="20260816013000 +0800" channel="TV5MONDE HD"><title lang="zh">Rassemblance</title>
   </programme>
-  <programme start="20260816020000 +0800" stop="20260816022600 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De La RTS</title>
+  <programme start="20260816013000 +0800" stop="20260816015400 +0800" channel="TV5MONDE HD"><title lang="zh">64' Le Monde En Français</title>
+  </programme>
+  <programme start="20260816015400 +0800" stop="20260816021300 +0800" channel="TV5MONDE HD"><title lang="zh">L'Invité</title>
+  </programme>
+  <programme start="20260816021300 +0800" stop="20260816022600 +0800" channel="TV5MONDE HD"><title lang="zh">Skate Le Monde</title>
   </programme>
   <programme start="20260816022600 +0800" stop="20260816023000 +0800" channel="TV5MONDE HD"><title lang="zh">Merci Professeur!</title>
   </programme>
@@ -12930,6 +13100,12 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   <programme start="20260816032600 +0800" stop="20260816035000 +0800" channel="TV5MONDE HD"><title lang="zh">64' Debat</title><desc lang="zh">TV5MONDE's major daily news programme, decrypting the news! What it's all about: the guests take an in-depth look at a key issue. Increased focus on Francophone cultural news, with dedicated sequences. New weekend features: the French-speaking world, social networks, fake news, politics, sport...</desc>
   </programme>
   <programme start="20260816035000 +0800" stop="20260816040100 +0800" channel="TV5MONDE HD"><title lang="zh">L'invite</title><desc lang="zh">Patrick Simonin hosts the stars in the headlines, culture, music, film, books, an unmissable rendezvous with all those who light up our times.</desc>
+  </programme>
+  <programme start="20260816043000 +0800" stop="20260816044100 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De L'Afrique</title>
+  </programme>
+  <programme start="20260816044100 +0800" stop="20260816044400 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20260816044400 +0800" stop="20260816044900 +0800" channel="TV5MONDE HD"><title lang="zh">L'abîme</title><desc lang="zh">Mariés depuis 20 ans, Elsa et Laurent Lacaze vivent une idylle sans ombre couronnée par Lucie, leur pétillante fille adolescente. Ce bonheur prend fin le jour où Elsa disparaît sans laisser de trace, à la faveur de son jogging quotidien. Laurent est inquiet, Lucie est paniquée. C'est alors que la police révèle à Laurent certains éléments troublants que leur enquête est venue mettre au jour. Elsa n</desc>
   </programme>
   <programme start="20260816044900 +0800" stop="20260816050000 +0800" channel="TV5MONDE HD"><title lang="zh">Tarmac Comedy Cameroun</title>
   </programme>
@@ -13385,45 +13561,53 @@ But they are not the pedigree pooches who compete to be labelled &amp;quot;Best 
   </programme>
   <programme start="20260816230000 +0800" stop="20260816235900 +0800" channel="TVBS"><title lang="zh">美股金週報</title>
   </programme>
-  <programme start="20260816000300 +0800" stop="20260816020300 +0800" channel="TVBS ASIA"><title lang="zh">天才冲冲冲</title><desc lang="zh">寓教于乐的大型综艺节目「天才冲冲冲」，由徐乃麟、曾国城连袂主持。</desc>
+  <programme start="20260816000000 +0800" stop="20260816010000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
   </programme>
-  <programme start="20260816020300 +0800" stop="20260816030300 +0800" channel="TVBS ASIA"><title lang="zh">健康2.0</title><desc lang="zh">您对自己的身体了解多少?怎么样吃才能吃出健康和美丽?网络上的健康秘方到底是真是假?主持人郑凯云、江坤俊医师与韦汝将为您的健康把关！</desc>
+  <programme start="20260816010000 +0800" stop="20260816020000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
   </programme>
-  <programme start="20260816030300 +0800" stop="20260816040300 +0800" channel="TVBS ASIA"><title lang="zh">女人我最大</title><desc lang="zh">最近流行什么服饰?最潮时尚品有哪些?出席不同场合该如何打扮?化妆品怎样用才对?让名主持人蓝心湄与女人兵团，在时尚美容达人带领下，教你从头到脚的保养护理方法和秘诀，一起变成&amp;quot;靓靓Baby&amp;quot;!</desc>
+  <programme start="20260816020000 +0800" stop="20260816030000 +0800" channel="TVBS ASIA"><title lang="zh">All About Health</title><desc lang="zh">How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
   </programme>
-  <programme start="20260816040300 +0800" stop="20260816050300 +0800" channel="TVBS ASIA"><title lang="zh">健康2.0</title><desc lang="zh">《11点热吵店》透过年轻世代的角度，无论是两性、职场、人际、时事娱乐等，大谈他们最关心、最想发泄、最有意见的热门话题！</desc>
+  <programme start="20260816030000 +0800" stop="20260816040000 +0800" channel="TVBS ASIA"><title lang="zh">Queen</title><desc lang="zh">From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
   </programme>
-  <programme start="20260816050300 +0800" stop="20260816060300 +0800" channel="TVBS ASIA"><title lang="zh">食尚玩家:我们这一家</title><desc lang="zh">《我们这一家》以三世代同游同食为主轴，走访在地美食，透过不同价值观的碰撞与理解，用吃喝玩乐串起世代故事</desc>
+  <programme start="20260816040000 +0800" stop="20260816050000 +0800" channel="TVBS ASIA"><title lang="zh">Chop Chop Show</title><desc lang="zh">The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
   </programme>
-  <programme start="20260816060300 +0800" stop="20260816070300 +0800" channel="TVBS ASIA"><title lang="zh">一步一脚印 发现新台湾</title><desc lang="zh">台湾到处有充满创意、认真工作的人们，「一步一脚印，发现新台湾」将呈现出真实而全面的新台湾精神。</desc>
+  <programme start="20260816050000 +0800" stop="20260816060000 +0800" channel="TVBS ASIA"><title lang="zh">Super Taste: Family On The Road</title><desc lang="zh">A three-generation family travels and explores local cuisine together. Through differing perspectives and shared experiences, they connect across generations with food, fun, and everyday moments.</desc>
   </programme>
-  <programme start="20260816070300 +0800" stop="20260816080300 +0800" channel="TVBS ASIA"><title lang="zh">地球黄金线</title><desc lang="zh">新闻主播苏宗怡颠覆甜美形象，以汽车玩家级主持人身份，与专家达人畅聊汽车课题。全方位掌握车款性能、汽车保修、车险理赔、科技新风貌等知识，了解更多陪你行驶万里路的&amp;quot;最佳搭档&amp;quot;。</desc>
+  <programme start="20260816060000 +0800" stop="20260816070000 +0800" channel="TVBS ASIA"><title lang="zh">Discover New Taiwan Step By Step</title><desc lang="zh">The creative production team goes around Taiwan in search of inspiring stories in the country. Get to know more unique individuals and discover the true spirit of Taiwan.</desc>
   </programme>
-  <programme start="20260816080300 +0800" stop="20260816090300 +0800" channel="TVBS ASIA"><title lang="zh">食尚玩家:我们这一家</title><desc lang="zh">《我们这一家》以三世代同游同食为主轴，走访在地美食，透过不同价值观的碰撞与理解，用吃喝玩乐串起世代故事</desc>
+  <programme start="20260816070000 +0800" stop="20260816080000 +0800" channel="TVBS ASIA"><title lang="zh">Global Golden Line</title><desc lang="zh">It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
   </programme>
-  <programme start="20260816090300 +0800" stop="20260816100300 +0800" channel="TVBS ASIA"><title lang="zh">健康2.0</title><desc lang="zh">您对自己的身体了解多少?怎么样吃才能吃出健康和美丽?网络上的健康秘方到底是真是假?主持人郑凯云、江坤俊医师与韦汝将为您的健康把关！</desc>
+  <programme start="20260816080000 +0800" stop="20260816090000 +0800" channel="TVBS ASIA"><title lang="zh">Super Taste: Family On The Road</title><desc lang="zh">A three-generation family travels and explores local cuisine together. Through differing perspectives and shared experiences, they connect across generations with food, fun, and everyday moments.</desc>
   </programme>
-  <programme start="20260816100300 +0800" stop="20260816110300 +0800" channel="TVBS ASIA"><title lang="zh">健康2.0</title><desc lang="zh">《11点热吵店》透过年轻世代的角度，无论是两性、职场、人际、时事娱乐等，大谈他们最关心、最想发泄、最有意见的热门话题！</desc>
+  <programme start="20260816090000 +0800" stop="20260816100000 +0800" channel="TVBS ASIA"><title lang="zh">All About Health</title><desc lang="zh">How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
   </programme>
-  <programme start="20260816110300 +0800" stop="20260816120300 +0800" channel="TVBS ASIA"><title lang="zh">女人我最大</title><desc lang="zh">最近流行什么服饰?最潮时尚品有哪些?出席不同场合该如何打扮?化妆品怎样用才对?让名主持人蓝心湄与女人兵团，在时尚美容达人带领下，教你从头到脚的保养护理方法和秘诀，一起变成&amp;quot;靓靓Baby&amp;quot;!</desc>
+  <programme start="20260816100000 +0800" stop="20260816110000 +0800" channel="TVBS ASIA"><title lang="zh">Chop Chop Show</title><desc lang="zh">The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
   </programme>
-  <programme start="20260816120300 +0800" stop="20260816140300 +0800" channel="TVBS ASIA"><title lang="zh">整点新闻</title><desc lang="zh">本新闻时段除了在第一时间为观众提供深入的直击报导外，还提供详细的世界头条新闻、两岸三地要闻、台湾焦点新闻，让您的新闻信息零时差。</desc>
+  <programme start="20260816110000 +0800" stop="20260816120000 +0800" channel="TVBS ASIA"><title lang="zh">Queen</title><desc lang="zh">From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
   </programme>
-  <programme start="20260816140300 +0800" stop="20260816160300 +0800" channel="TVBS ASIA"><title lang="zh">天才冲冲冲</title><desc lang="zh">寓教于乐的大型综艺节目「天才冲冲冲」，由徐乃麟、曾国城连袂主持。</desc>
+  <programme start="20260816120000 +0800" stop="20260816130000 +0800" channel="TVBS ASIA"><title lang="zh">TVBS News</title><desc lang="zh">A news programme that provides the latest Taiwan and international news, as well as in-depth analyses of important issues around the world.</desc>
   </programme>
-  <programme start="20260816160300 +0800" stop="20260816170300 +0800" channel="TVBS ASIA"><title lang="zh">健康2.0</title><desc lang="zh">《11点热吵店》透过年轻世代的角度，无论是两性、职场、人际、时事娱乐等，大谈他们最关心、最想发泄、最有意见的热门话题！</desc>
+  <programme start="20260816130000 +0800" stop="20260816140000 +0800" channel="TVBS ASIA"><title lang="zh">TVBS News</title><desc lang="zh">A news programme that provides the latest Taiwan and international news, as well as in-depth analyses of important issues around the world.</desc>
   </programme>
-  <programme start="20260816170300 +0800" stop="20260816180300 +0800" channel="TVBS ASIA"><title lang="zh">女人我最大</title><desc lang="zh">最近流行什么服饰?最潮时尚品有哪些?出席不同场合该如何打扮?化妆品怎样用才对?让名主持人蓝心湄与女人兵团，在时尚美容达人带领下，教你从头到脚的保养护理方法和秘诀，一起变成&amp;quot;靓靓Baby&amp;quot;!</desc>
+  <programme start="20260816140000 +0800" stop="20260816150000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
   </programme>
-  <programme start="20260816180300 +0800" stop="20260816190300 +0800" channel="TVBS ASIA"><title lang="zh">食尚玩家</title><desc lang="zh">美食旅游节目「食尚玩家」带你走遍台湾与世界各地，寻找在地美食，体验最道地的旅游行程。</desc>
+  <programme start="20260816150000 +0800" stop="20260816160000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
   </programme>
-  <programme start="20260816190300 +0800" stop="20260816210300 +0800" channel="TVBS ASIA"><title lang="zh">天才冲冲冲</title><desc lang="zh">寓教于乐的大型综艺节目「天才冲冲冲」，由徐乃麟、曾国城连袂主持。</desc>
+  <programme start="20260816160000 +0800" stop="20260816170000 +0800" channel="TVBS ASIA"><title lang="zh">Chop Chop Show</title><desc lang="zh">The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
   </programme>
-  <programme start="20260816210300 +0800" stop="20260816220300 +0800" channel="TVBS ASIA"><title lang="zh">TVBS文茜的世界周报</title><desc lang="zh">无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
+  <programme start="20260816170000 +0800" stop="20260816180000 +0800" channel="TVBS ASIA"><title lang="zh">Queen</title><desc lang="zh">From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
   </programme>
-  <programme start="20260816220300 +0800" stop="20260816230300 +0800" channel="TVBS ASIA"><title lang="zh">TVBS文茜的世界财经周报</title><desc lang="zh">无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
+  <programme start="20260816180000 +0800" stop="20260816190000 +0800" channel="TVBS ASIA"><title lang="zh">Super Taste</title><desc lang="zh">Super Taste is a food and travel program that takes you across Taiwan and around the world, discovering local delicacies and experiencing the most authentic travel adventures.</desc>
   </programme>
-  <programme start="20260816230300 +0800" stop="20260817000300 +0800" channel="TVBS ASIA"><title lang="zh">食尚玩家 疯狂总部</title><desc lang="zh">改版回归的节目设下最疯狂的任务，由幽默搞笑的总部长梁赫群带领团队梦多、舒子晨、张文绮进行任务解锁，让你欢笑不间断。</desc>
+  <programme start="20260816190000 +0800" stop="20260816200000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
+  </programme>
+  <programme start="20260816200000 +0800" stop="20260816210000 +0800" channel="TVBS ASIA"><title lang="zh">Genius Go Go Go</title><desc lang="zh">Hosted by  Sam Tseng and Hsu Nai Lin, this top Taiwan variety show, splits celebrity guests into two teams to battle in various game segments.</desc>
+  </programme>
+  <programme start="20260816210000 +0800" stop="20260816220000 +0800" channel="TVBS ASIA"><title lang="zh">TVBS Sisy's World News</title><desc lang="zh">Stay with  Host  Sisy  Chen  and the experts for the latest in global news, financial updates and current political events.</desc>
+  </programme>
+  <programme start="20260816220000 +0800" stop="20260816230000 +0800" channel="TVBS ASIA"><title lang="zh">TVBS Sisy's Finance Weekly</title><desc lang="zh">Stay with  Host  Sisy  Chen  and the experts for the latest in global news, financial updates and current political events.</desc>
+  </programme>
+  <programme start="20260816230000 +0800" stop="20260817000000 +0800" channel="TVBS ASIA"><title lang="zh">Super Taste: Go Bananas! Corp.</title><desc lang="zh">Super Taste focuses on funny travel style to discover destinations and local-dishes. Standing on audience's view point, program's hosts introduce every sightseeing sites with close-witness, young and humorous way to announce the spirits of Super Taste.</desc>
   </programme>
   <programme start="20260816010000 +0800" stop="20260816020000 +0800" channel="TVBS新闻"><title lang="zh">肺部风暴 健康警报</title><desc lang="zh">日益增加的肺癌、睡眠呼吸中止症成为健康危机，胸腔医师荒让台湾重症医疗与防疫岌岌可危 ；《肺部风暴 健康警报》深入解析台湾肺部疾病与医疗警讯。</desc>
   </programme>
@@ -14371,7 +14555,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816230000 +0800" stop="20260817005000 +0800" channel="beIN SPORTS 1"><title lang="zh">2025/26 法國甲組足球聯賽 第33集 </title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
   </programme>
-  <programme start="20260816004000 +0800" stop="20260816014000 +0800" channel="beIN SPORTS 2"><title lang="zh">GT歐洲挑戰賽精華2026 -法國馬尼庫爾站</title>
+  <programme start="20260816005200 +0800" stop="20260816014000 +0800" channel="beIN SPORTS 2"><title lang="zh">LaLiga 2 2026/27: Real Oviedo vs Granada</title><desc lang="zh">Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
   </programme>
   <programme start="20260816014000 +0800" stop="20260816021000 +0800" channel="beIN SPORTS 2"><title lang="zh">高速地帶2026 第18集</title>
   </programme>
@@ -14379,7 +14563,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816022000 +0800" stop="20260816030000 +0800" channel="beIN SPORTS 2"><title lang="zh">德國乙組足球聯賽 -凱沙羅頓 對 卡爾斯魯厄[直播]</title>
   </programme>
-  <programme start="20260816030000 +0800" stop="20260816043000 +0800" channel="beIN SPORTS 2"><title lang="zh">⋗ Nurburgring DTM Esports Championship 2026</title>
+  <programme start="20260816030000 +0800" stop="20260816040000 +0800" channel="beIN SPORTS 2"><title lang="zh">Hockenheimring</title><desc lang="zh">An elite virtual racing series showcasing top Sim racers competing on digital DTM circuits</desc>
+  </programme>
+  <programme start="20260816040000 +0800" stop="20260816043000 +0800" channel="beIN SPORTS 2"><title lang="zh">Nurburgring</title><desc lang="zh">An elite virtual racing series showcasing top Sim racers competing on digital DTM circuits</desc>
   </programme>
   <programme start="20260816043000 +0800" stop="20260816044000 +0800" channel="beIN SPORTS 2"><title lang="zh">德甲金球 -團隊合作</title>
   </programme>
@@ -14413,7 +14599,11 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816180000 +0800" stop="20260816182500 +0800" channel="beIN SPORTS 2"><title lang="zh">⋗ Czech Tour – Stage 4 UCI World Tour 2026</title>
   </programme>
-  <programme start="20260816182500 +0800" stop="20260816192500 +0800" channel="beIN SPORTS 2"><title lang="zh">GT歐洲挑戰賽精華2026 -法國馬尼庫爾站</title>
+  <programme start="20260816182500 +0800" stop="20260816183000 +0800" channel="beIN SPORTS 2"><title lang="zh">GT歐洲挑戰賽精華2026 -法國馬尼庫爾站</title>
+  </programme>
+  <programme start="20260816183000 +0800" stop="20260816190000 +0800" channel="beIN SPORTS 2"><title lang="zh">Mini Match - Roland Garros 2026: Men's Singles Rd 1 Sinner v Tabur</title><desc lang="zh">Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+  </programme>
+  <programme start="20260816190000 +0800" stop="20260816192500 +0800" channel="beIN SPORTS 2"><title lang="zh">UCI World Tour 2026: Czech Tour - Stage 4</title><desc lang="zh">The highest level of professional road cycling, a series of elite races for men.</desc>
   </programme>
   <programme start="20260816192500 +0800" stop="20260816193000 +0800" channel="beIN SPORTS 2"><title lang="zh">德國房車大師賽2026 -紐堡寧站主賽事2[直播]</title>
   </programme>
@@ -14425,7 +14615,11 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816205000 +0800" stop="20260816211500 +0800" channel="beIN SPORTS 2"><title lang="zh">New Zealand vs Australia – Cup Final HSBC SVNS World Championships 2026</title>
   </programme>
-  <programme start="20260816211500 +0800" stop="20260816220000 +0800" channel="beIN SPORTS 2"><title lang="zh">⋗ Arctic Race of Norway – Stage 4 UCI World Tour 2026</title>
+  <programme start="20260816211500 +0800" stop="20260816213000 +0800" channel="beIN SPORTS 2"><title lang="zh">⋗ Arctic Race of Norway – Stage 4 UCI World Tour 2026</title>
+  </programme>
+  <programme start="20260816213000 +0800" stop="20260816215000 +0800" channel="beIN SPORTS 2"><title lang="zh">Australian Open Match Highlights: 2026 Women's Singles Final Sabalenka v Rybakina</title><desc lang="zh">Review the best actions and moments from the Australian Open</desc>
+  </programme>
+  <programme start="20260816215000 +0800" stop="20260816220000 +0800" channel="beIN SPORTS 2"><title lang="zh">HSBC SVNS World C'ships 2026: New Zealand vs Australia - Cup Final, Bordeaux - Women</title><desc lang="zh">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
   </programme>
   <programme start="20260816220000 +0800" stop="20260816221500 +0800" channel="beIN SPORTS 2"><title lang="zh">Ça se passe sur beIN SPORTS</title>
   </programme>
@@ -14443,6 +14637,10 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816010000 +0800" stop="20260816012500 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Every Goal – Karim Benzema UCL Specials</title>
   </programme>
+  <programme start="20260816012500 +0800" stop="20260816020000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Genclerbirligi vs Fenerbahce Super Lig 2026/27</title>
+  </programme>
+  <programme start="20260816020000 +0800" stop="20260816022500 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Every Goal - Karim Benzema</title>
+  </programme>
   <programme start="20260816030000 +0800" stop="20260816033000 +0800" channel="beIN SPORTS 3"><title lang="zh">土耳其超級足球聯賽 第1集 </title>
   </programme>
   <programme start="20260816033000 +0800" stop="20260816050000 +0800" channel="beIN SPORTS 3"><title lang="zh">Portsmouth SailGP 2026</title>
@@ -14455,7 +14653,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816063000 +0800" stop="20260816070000 +0800" channel="beIN SPORTS 3"><title lang="zh">歐聯賽事精華 第112集 </title>
   </programme>
-  <programme start="20260816070000 +0800" stop="20260816085000 +0800" channel="beIN SPORTS 3"><title lang="zh">Celje vs Shelbourne – MD6 UEFA Conference League 2025/26</title><desc>中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
+  <programme start="20260816070000 +0800" stop="20260816085000 +0800" channel="beIN SPORTS 3"><title lang="zh">Celje vs Shelbourne – MD6 UEFA Conference League 2025/26</title><desc lang="zh">中央电视台社会与法频道（CCTV-12）庭审纪实栏目，前身为《庭审现场》，2021年更名。每期选取一起典型案件，深入法庭内外全景记录庭审过程，展现控辩双方交锋、法官审理、当事人陈述等真实场景，邀请法学专家同步解析案件背后的法律问题与社会意义。节目以案说法，普及法律知识，彰显司法公正。首播时间：每周六20:07，每期约50分钟。口号：“走进法庭，感受正义。”</desc>
   </programme>
   <programme start="20260816085000 +0800" stop="20260816104000 +0800" channel="beIN SPORTS 3"><title lang="zh">Greuther Furth vs Nuremberg Bundesliga 2 2026/27</title>
   </programme>
@@ -14469,9 +14667,13 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816143000 +0800" stop="20260816150000 +0800" channel="beIN SPORTS 3"><title lang="zh">Moroccan Magic RIDE FEI Originals 2026</title>
   </programme>
-  <programme start="20260816150000 +0800" stop="20260816160000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Rally Zlin SS 10 Katerinice 1 FIA European Rally Championship 2026</title><desc>采用XR虚拟与现实结合技术，根据运动项目和经典比赛案例定制沉浸式演播室场景，每期⼀个小切口切入，通过主持人穿针引线，通俗化拆解运动技巧规则，揭秘运动中的科技奥秘。</desc>
+  <programme start="20260816150000 +0800" stop="20260816153000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Rally Zlin SS 10 Katerinice 1 FIA European Rally Championship 2026</title><desc lang="zh">采用XR虚拟与现实结合技术，根据运动项目和经典比赛案例定制沉浸式演播室场景，每期⼀个小切口切入，通过主持人穿针引线，通俗化拆解运动技巧规则，揭秘运动中的科技奥秘。</desc>
   </programme>
-  <programme start="20260816160000 +0800" stop="20260816173000 +0800" channel="beIN SPORTS 3"><title lang="zh">Portsmouth SailGP 2026</title>
+  <programme start="20260816153000 +0800" stop="20260816160000 +0800" channel="beIN SPORTS 3"><title lang="zh">Moroccan Magic, Modern-Day Marbach &amp; Moorland Mounts</title><desc lang="zh">The Series focuses on the remarkable connection between humans and horses, passion, dedication, and the sportâ€™s diverse disciplines.</desc>
+  </programme>
+  <programme start="20260816160000 +0800" stop="20260816170000 +0800" channel="beIN SPORTS 3"><title lang="zh">FIA European Rally Championship 2026: Rally Zlin SS 10 Katerinice 1</title><desc lang="zh">The 74th season of the premier European rallying series, featuring a seven-round, all-asphalt/gravel calendar starting in Spain.</desc>
+  </programme>
+  <programme start="20260816170000 +0800" stop="20260816173000 +0800" channel="beIN SPORTS 3"><title lang="zh">Portsmouth, Great Britain Day 2</title><desc lang="zh">SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
   </programme>
   <programme start="20260816173000 +0800" stop="20260816180000 +0800" channel="beIN SPORTS 3"><title lang="zh">August The Outdoor Sports Show 2026</title>
   </programme>
@@ -14479,9 +14681,15 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816181000 +0800" stop="20260816182000 +0800" channel="beIN SPORTS 3"><title lang="zh">Team Goal Bundesliga Goals</title>
   </programme>
-  <programme start="20260816182000 +0800" stop="20260816190000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Hannover vs Wolfsburg Bundesliga 2 2026/27</title>
+  <programme start="20260816182000 +0800" stop="20260816183000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Hannover vs Wolfsburg Bundesliga 2 2026/27</title>
   </programme>
-  <programme start="20260816190000 +0800" stop="20260816203000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCI公路單車巡迴賽 第57集 -捷克巡迴賽 </title>
+  <programme start="20260816183000 +0800" stop="20260816190000 +0800" channel="beIN SPORTS 3"><title lang="zh">August</title><desc lang="zh">A series showcasing a diverse array of outdoor sports from marathon races to climbing, skiing to surfing, hiking to triathlon, sailing to cycling.</desc>
+  </programme>
+  <programme start="20260816190000 +0800" stop="20260816191000 +0800" channel="beIN SPORTS 3"><title lang="zh">Counter-Attack Goal</title><desc lang="zh">What does the perfect goal look like? We show you how Bundesliga teams manage to score the perfect goals.</desc>
+  </programme>
+  <programme start="20260816191000 +0800" stop="20260816192000 +0800" channel="beIN SPORTS 3"><title lang="zh">Team Goal</title><desc lang="zh">What does the perfect goal look like? We show you how Bundesliga teams manage to score the perfect goals.</desc>
+  </programme>
+  <programme start="20260816192000 +0800" stop="20260816203000 +0800" channel="beIN SPORTS 3"><title lang="zh">Bundesliga 2 2026/27: Hannover vs Wolfsburg</title><desc lang="zh">Tune in for the coverage of Bundesliga 2, where some of the most prominent teams in German football vie for a coveted spot in the Bundesliga.</desc>
   </programme>
   <programme start="20260816203000 +0800" stop="20260816210000 +0800" channel="beIN SPORTS 3"><title lang="zh">MUTV Gold – Sir Alex's 25 Greatest Moments MUTV: Specials</title>
   </programme>
@@ -14495,9 +14703,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816223000 +0800" stop="20260816230000 +0800" channel="beIN SPORTS 3"><title lang="zh">Episode Number 4 Racing On The Edge S6</title>
   </programme>
-  <programme start="20260816230000 +0800" stop="20260816235200 +0800" channel="beIN SPORTS 3"><title lang="zh">Celtic vs Juventus (2001/02) UCL Classic Matches</title>
+  <programme start="20260816230000 +0800" stop="20260816233000 +0800" channel="beIN SPORTS 3"><title lang="zh">August</title><desc lang="zh">A series showcasing a diverse array of outdoor sports from marathon races to climbing, skiing to surfing, hiking to triathlon, sailing to cycling.</desc>
   </programme>
-  <programme start="20260816235200 +0800" stop="20260817015500 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Girona vs Leganes LaLiga 2 2026/27</title>
+  <programme start="20260816233000 +0800" stop="20260817000000 +0800" channel="beIN SPORTS 3"><title lang="zh">Racing On The Edge S6</title><desc lang="zh">This premium storytelling series provides an all-access look into sailingâ€™s greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
   </programme>
   <programme start="20260816040000 +0800" stop="20260816080000 +0800" channel="beIN SPORTS 4"><title lang="zh">請留意下場播映賽事</title>
   </programme>
@@ -18605,9 +18813,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816000001 +0800" stop="20260816080000 +0800" channel="南平新闻综合"><title lang="zh">武夷方圆</title>
   </programme>
-  <programme start="20260816005500 +0800" stop="20260816031800 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816005500 +0800" stop="20260816031800 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260816031800 +0800" stop="20260816054000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816031800 +0800" stop="20260816054000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816054000 +0800" stop="20260816060800 +0800" channel="南方卫视"><title lang="zh">都市笑口组</title>
   </programme>
@@ -18619,19 +18827,19 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816094000 +0800" stop="20260816102000 +0800" channel="南方卫视"><title lang="zh">养生节目</title>
   </programme>
-  <programme start="20260816102000 +0800" stop="20260816110500 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816102000 +0800" stop="20260816110500 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816110500 +0800" stop="20260816111000 +0800" channel="南方卫视"><title lang="zh">五分钟热度</title>
   </programme>
   <programme start="20260816111000 +0800" stop="20260816115100 +0800" channel="南方卫视"><title lang="zh">养生节目</title>
   </programme>
-  <programme start="20260816115100 +0800" stop="20260816140000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816115100 +0800" stop="20260816140000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260816140000 +0800" stop="20260816160800 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816140000 +0800" stop="20260816160800 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816160800 +0800" stop="20260816163300 +0800" channel="南方卫视"><title lang="zh">五分钟热度</title>
   </programme>
-  <programme start="20260816163300 +0800" stop="20260816182900 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816163300 +0800" stop="20260816182900 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816182900 +0800" stop="20260816184000 +0800" channel="南方卫视"><title lang="zh">都市笑口组</title>
   </programme>
@@ -18641,13 +18849,13 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816200000 +0800" stop="20260816210500 +0800" channel="南方卫视"><title lang="zh">今日最新闻</title>
   </programme>
-  <programme start="20260816210500 +0800" stop="20260816220000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816210500 +0800" stop="20260816220000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816220000 +0800" stop="20260816224500 +0800" channel="南方卫视"><title lang="zh"> 冬电视剧</title>
   </programme>
   <programme start="20260816224500 +0800" stop="20260816225500 +0800" channel="南方卫视"><title lang="zh">财经节目</title>
   </programme>
-  <programme start="20260816225500 +0800" stop="20260816235000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260816225500 +0800" stop="20260816235000 +0800" channel="南方卫视"><title lang="zh"> 电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20260816235000 +0800" stop="20260817000000 +0800" channel="南方卫视"><title lang="zh">节目专题</title>
   </programme>
@@ -19853,7 +20061,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816070000 +0800" stop="20260816070100 +0800" channel="大湾区卫视"><title lang="zh">國歌</title>
   </programme>
-  <programme start="20260816070100 +0800" stop="20260816080000 +0800" channel="大湾区卫视"><title lang="zh">大美南粤</title><desc>《请您欣赏》是一档以自然风光为主题的节目，本集展现广东省的美丽风光。通过精美的画面和舒缓的音乐，向观众展示广东的自然景观、人文景观和风土人情，传递大自然的美丽和文化的魅力。</desc>
+  <programme start="20260816070100 +0800" stop="20260816080000 +0800" channel="大湾区卫视"><title lang="zh">大美南粤</title><desc lang="zh">《请您欣赏》是一档以自然风光为主题的节目，本集展现广东省的美丽风光。通过精美的画面和舒缓的音乐，向观众展示广东的自然景观、人文景观和风土人情，传递大自然的美丽和文化的魅力。</desc>
   </programme>
   <programme start="20260816080000 +0800" stop="20260816081500 +0800" channel="大湾区卫视"><title lang="zh">笑口組</title>
   </programme>
@@ -19861,7 +20069,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816090500 +0800" stop="20260816170000 +0800" channel="大湾区卫视"><title lang="zh">經典劇場</title>
   </programme>
-  <programme start="20260816170000 +0800" stop="20260816183000 +0800" channel="大湾区卫视"><title lang="zh">大美南粤</title><desc>《请您欣赏》是一档以自然风光为主题的节目，本集展现广东省的美丽风光。通过精美的画面和舒缓的音乐，向观众展示广东的自然景观、人文景观和风土人情，传递大自然的美丽和文化的魅力。</desc>
+  <programme start="20260816170000 +0800" stop="20260816183000 +0800" channel="大湾区卫视"><title lang="zh">大美南粤</title><desc lang="zh">《请您欣赏》是一档以自然风光为主题的节目，本集展现广东省的美丽风光。通过精美的画面和舒缓的音乐，向观众展示广东的自然景观、人文景观和风土人情，传递大自然的美丽和文化的魅力。</desc>
   </programme>
   <programme start="20260816183000 +0800" stop="20260816184000 +0800" channel="大湾区卫视"><title lang="zh">笑口組</title>
   </programme>
@@ -19869,7 +20077,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816193000 +0800" stop="20260816200000 +0800" channel="大湾区卫视"><title lang="zh">我愛返尋味</title>
   </programme>
-  <programme start="20260816200000 +0800" stop="20260816210500 +0800" channel="大湾区卫视"><title lang="zh">直播: 灣區最新聞</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260816200000 +0800" stop="20260816210500 +0800" channel="大湾区卫视"><title lang="zh">直播: 灣區最新聞</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260816210500 +0800" stop="20260816215500 +0800" channel="大湾区卫视"><title lang="zh">晚間劇場</title>
   </programme>
@@ -20099,7 +20307,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816114000 +0800" stop="20260816115000 +0800" channel="天津体育"><title lang="zh">足够精彩</title>
   </programme>
-  <programme start="20260816115000 +0800" stop="20260816121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260816115000 +0800" stop="20260816121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260816121000 +0800" stop="20260816133000 +0800" channel="天津体育"><title lang="zh">体育赛事</title>
   </programme>
@@ -20109,11 +20317,11 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260816155000 +0800" stop="20260816172000 +0800" channel="天津体育"><title lang="zh">体育表演</title>
   </programme>
-  <programme start="20260816172000 +0800" stop="20260816180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260816172000 +0800" stop="20260816180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260816180000 +0800" stop="20260816185500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
-  <programme start="20260816185500 +0800" stop="20260816193000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260816185500 +0800" stop="20260816193000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260816193000 +0800" stop="20260816203500 +0800" channel="天津体育"><title lang="zh">体育赛事</title>
   </programme>

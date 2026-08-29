@@ -71,6 +71,8 @@
   </channel>
   <channel id="天津少儿"><display-name lang="zh">天津少儿</display-name>
   </channel>
+  <channel id="MIX FM"><display-name lang="zh">MIX FM</display-name>
+  </channel>
   <channel id="TRACE Urban"><display-name lang="zh">TRACE Urban</display-name><display-name lang="zh">TRACEURBAN</display-name><display-name lang="zh">Trace Urban</display-name>
   </channel>
   <channel id="甘肃少儿"><display-name lang="zh">甘肃少儿</display-name>
@@ -1111,6 +1113,8 @@
   </channel>
   <channel id="淄博民生"><display-name lang="zh">淄博民生</display-name><display-name lang="zh">淄博民生</display-name><display-name lang="zh">CHANNEL00000294</display-name><display-name lang="zh">淄博民生频道</display-name>
   </channel>
+  <channel id="MY FM"><display-name lang="zh">MY FM</display-name>
+  </channel>
   <channel id="CCTV5+"><display-name lang="zh">CCTV-5+ 体育赛事</display-name><display-name lang="zh">CCTV5体育赛事</display-name><display-name lang="zh">CHANNEL00000316</display-name><display-name lang="zh">CCTV-5+</display-name><display-name lang="zh">CCTV5+体育赛事</display-name><display-name lang="zh">CCTV 5+</display-name><display-name lang="zh">CCTV5+ 高清</display-name><display-name lang="zh">CCTV5加</display-name><display-name lang="zh">CCTV-5+(高清)</display-name><display-name lang="zh">CCTV5+高清</display-name>
   </channel>
   <channel id="中视菁采"><display-name lang="zh">中视菁采</display-name>
@@ -1340,6 +1344,8 @@
   <channel id="经典电影"><display-name lang="zh">经典电影</display-name>
   </channel>
   <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
+  </channel>
+  <channel id="LITE FM"><display-name lang="zh">LITE FM</display-name>
   </channel>
   <channel id="CNC中文"><display-name lang="zh">CNC中文</display-name>
   </channel>
@@ -2827,9 +2833,9 @@
   </programme>
   <programme start="20260830063000 +0800" stop="20260830064500 +0800" channel="CARTOONNETWORK"><title lang="zh">Adventure Time</title><desc lang="zh">Finn and Jake need to resolve a hostage crisis in the Candy Kingdom.</desc>
   </programme>
-  <programme start="20260830065000 +0800" stop="20260830070200 +0800" channel="CARTOONNETWORK"><title lang="zh">The Heroic Quest of the Valiant Prince Ivandoe</title><desc lang="zh">Ivandoe rescues a magical caterpillar capable of fulfilling his greatest wish: obtaining the Golden Feather.</desc>
+  <programme start="20260830064500 +0800" stop="20260830065500 +0800" channel="CARTOONNETWORK"><title lang="zh">Craig Of The Creek</title>
   </programme>
-  <programme start="20260830070200 +0800" stop="20260830071500 +0800" channel="CARTOONNETWORK"><title lang="zh">The Heroic Quest of the Valiant Prince Ivandoe</title><desc lang="zh">Ivandoe has a birthday, and now he feels grown up.</desc>
+  <programme start="20260830065500 +0800" stop="20260830070500 +0800" channel="CARTOONNETWORK"><title lang="zh">Craig Of The Creek</title>
   </programme>
   <programme start="20260830071500 +0800" stop="20260830072400 +0800" channel="CARTOONNETWORK"><title lang="zh">Total Dramarama</title><desc lang="zh">Harold's world is turned upside down when Beth becomes the class ninja; Owen forms a special bond with Duncan after having loads of fun with him during their time-outs.</desc>
   </programme>
@@ -2840,6 +2846,8 @@
   <programme start="20260830074100 +0800" stop="20260830075400 +0800" channel="CARTOONNETWORK"><title lang="zh">Clarêncio, o Otimista</title><desc lang="zh">Clarêncio, Jeff e Sumo assumem a missão de escalar uma árvore super alta, antes que ela seja derrubada. Conforme escalam mais e mais alto, a realidade de suas vidas começa a desaparecer.</desc>
   </programme>
   <programme start="20260830075400 +0800" stop="20260830080000 +0800" channel="CARTOONNETWORK"><title lang="zh">Clarêncio, o Otimista</title><desc lang="zh">Sumo decide assumir a complicada missão de construir um barco, desafiando as expectativas de todos, inclusive dele mesmo.</desc>
+  </programme>
+  <programme start="20260830080000 +0800" stop="20260830080500 +0800" channel="CARTOONNETWORK"><title lang="zh">Adventure Time</title><desc lang="zh">Finn and Jake wake up in the Nightosphere with no memory of how they got there.</desc>
   </programme>
   <programme start="20260830080500 +0800" stop="20260830081700 +0800" channel="CARTOONNETWORK"><title lang="zh">Steven Universe</title><desc lang="zh">When Steven tries to unlock the power of his mother's gemstone, help arrives in the unlikely form of Uncle Grandpa.</desc>
   </programme>
@@ -6910,11 +6918,15 @@
   </programme>
   <programme start="20260830091300 +0800" stop="20260830103600 +0800" channel="CINEMAX"><title lang="zh">The Apparition</title><desc lang="zh">Acosados por los sucesos aterradores que ocurren en su casa, Kelly y Ben descubren que un experimento de parapsicología universitario produjo una entidad que ahora los está persiguiendo. El malévolo espíritu se alimenta del miedo y los tormentos de la pareja sin importar a dónde huyan. Desesperados, Kelly y Ben buscan a un investigador de lo paranormal, pero aún con su ayuda, podría ser muy tarde </desc>
   </programme>
-  <programme start="20260830112500 +0800" stop="20260830125500 +0800" channel="CINEMAX"><title lang="zh">х/ф Адреналин: Высокое напряжение</title>
+  <programme start="20260830121300 +0800" stop="20260830125500 +0800" channel="CINEMAX"><title lang="zh">The Apparition</title><desc lang="zh">Plagued by frightening occurrences in their home, Kelly (Ashley Greene) and Ben (Sebastian Stan) learn that a university's parapsychology experiment produced an entity that is now haunting them. The malevolent spirit feeds on fear and torments the couple no matter where they run. Desperate, Kelly and Ben turn to a paranormal researcher (Tom Felton), but even with his aid, it may already be too lat</desc>
   </programme>
   <programme start="20260830125500 +0800" stop="20260830130000 +0800" channel="CINEMAX"><title lang="zh">х/ф Паркер</title>
   </programme>
   <programme start="20260830130000 +0800" stop="20260830142000 +0800" channel="CINEMAX"><title lang="zh">Доктор Дулиттл-2</title>
+  </programme>
+  <programme start="20260830142000 +0800" stop="20260830142400 +0800" channel="CINEMAX"><title lang="zh">Джуманджи: Новый уровень</title>
+  </programme>
+  <programme start="20260830142400 +0800" stop="20260830145500 +0800" channel="CINEMAX"><title lang="zh">Mom and Dad Save the World</title><desc lang="zh">While planning to destroy Earth with a gigantic laser beam, Emperor Tod Spengo (Jon Lovitz), ruler of the planet Spengo, catches a glimpse of housewife Marge Nelson (Teri Garr) and becomes smitten with her. Beaming Marge and her husband, Dick (Jeffrey Jones), up to Spengo from California, the daft, dimwitted leader tries to woo her, and sends her spouse to prison. Soon Dick is plotting an insurgen</desc>
   </programme>
   <programme start="20260830145500 +0800" stop="20260830145600 +0800" channel="CINEMAX"><title lang="zh">х/ф Операция «Фортуна»: Искусство побеждать</title>
   </programme>
@@ -6926,11 +6938,15 @@
   </programme>
   <programme start="20260830200500 +0800" stop="20260830213000 +0800" channel="CINEMAX"><title lang="zh">Miesiąc miodowy</title>
   </programme>
-  <programme start="20260830213000 +0800" stop="20260830232000 +0800" channel="CINEMAX"><title lang="zh">Dziwak</title>
-  </programme>
   <programme start="20260830235000 +0800" stop="20260831012000 +0800" channel="CINEMAX"><title lang="zh">х/ф Механик</title>
   </programme>
-  <programme start="20260830060000 +0800" stop="20260831000000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
+  <programme start="20260830060000 +0800" stop="20260830100000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830150000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Let's Rock &amp; Roll.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830200000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Best Rock Songs of all time!</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260831060000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Let's Rock Out!</desc>
   </programme>
   <programme start="20260830004000 +0800" stop="20260830011000 +0800" channel="CLASSICA"><title lang="zh">Mahler – Symphonie n°4</title>
   </programme>
@@ -8286,6 +8302,8 @@
   </programme>
   <programme start="20260830082800 +0800" stop="20260830083000 +0800" channel="DISCOVERY HD"><title lang="zh">Meu AmigãoZão O Filme: A Maior Aventura de Todas!</title>
   </programme>
+  <programme start="20260830083000 +0800" stop="20260830083500 +0800" channel="DISCOVERY HD"><title lang="zh">Vecinos bajo la mira</title><desc lang="zh">Si no te puedes reír de tus seres queridos, ¿de quién te vas a reír? Dicen que tener buen sentido del humor y no tomarse a uno mismo demasiado en serio son pilares fundamentales de cualquier relación afectiva. Estas familias saben cómo pasárselo bien a costa de los demás.</desc>
+  </programme>
   <programme start="20260830084600 +0800" stop="20260830091000 +0800" channel="DISCOVERY HD"><title lang="zh">Operação Fronteira Brasil</title>
   </programme>
   <programme start="20260830093700 +0800" stop="20260830094500 +0800" channel="DISCOVERY HD"><title lang="zh">Operação Fronteira Brasil</title>
@@ -8295,6 +8313,10 @@
   <programme start="20260830095000 +0800" stop="20260830100100 +0800" channel="DISCOVERY HD"><title lang="zh">Shasha e Milo</title>
   </programme>
   <programme start="20260830100100 +0800" stop="20260830100400 +0800" channel="DISCOVERY HD"><title lang="zh">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20260830100400 +0800" stop="20260830100500 +0800" channel="DISCOVERY HD"><title lang="zh">Aeroporto: Área Restrita</title>
+  </programme>
+  <programme start="20260830100500 +0800" stop="20260830101000 +0800" channel="DISCOVERY HD"><title lang="zh">Small Town Murder</title><desc lang="zh">A Socorro, au Nouveau-Mexique, Crystal Houston est retrouvée assassinée ; quelques mois avant sa soeur avait elle aussi trouvé la mort dans un accident suspect.</desc>
   </programme>
   <programme start="20260830101000 +0800" stop="20260830101200 +0800" channel="DISCOVERY HD"><title lang="zh">琵亞的明信片第2季:菲律賓豐收節(普)</title>
   </programme>
@@ -9080,7 +9102,21 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830233000 +0800" stop="20260831000000 +0800" channel="ELTV 生活英语"><title lang="zh">桌遊新樂園</title>
   </programme>
-  <programme start="20260830070000 +0800" stop="20260831000000 +0800" channel="ERA FM"><title lang="zh">Best Off 3 Pagi Era</title>
+  <programme start="20260830070000 +0800" stop="20260830080000 +0800" channel="ERA FM"><title lang="zh">Best Off 3 Pagi Era</title>
+  </programme>
+  <programme start="20260830080000 +0800" stop="20260830120000 +0800" channel="ERA FM"><title lang="zh">Carta ERA 40</title>
+  </programme>
+  <programme start="20260830120000 +0800" stop="20260830140000 +0800" channel="ERA FM"><title lang="zh">Lagu Baru Nak Up Era</title>
+  </programme>
+  <programme start="20260830140000 +0800" stop="20260830180000 +0800" channel="ERA FM"><title lang="zh">#HujungMingguERA</title>
+  </programme>
+  <programme start="20260830180000 +0800" stop="20260830190000 +0800" channel="ERA FM"><title lang="zh">Rim Chart Era</title>
+  </programme>
+  <programme start="20260830190000 +0800" stop="20260830220000 +0800" channel="ERA FM"><title lang="zh">Non-Stop Era</title>
+  </programme>
+  <programme start="20260830220000 +0800" stop="20260830230000 +0800" channel="ERA FM"><title lang="zh">Flow ERA</title>
+  </programme>
+  <programme start="20260830230000 +0800" stop="20260831010000 +0800" channel="ERA FM"><title lang="zh">Hallyu ERA</title>
   </programme>
   <programme start="20260830000000 +0800" stop="20260830000500 +0800" channel="EURONEWS"><title lang="zh">Global Week-End</title><desc lang="zh">The leading news stories of the moment.</desc>
   </programme>
@@ -9862,6 +9898,8 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830213000 +0800" stop="20260830214000 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal(普)</title>
   </programme>
+  <programme start="20260830214000 +0800" stop="20260830214200 +0800" channel="France 24"><title lang="zh">Le Paris des arts(普)</title>
+  </programme>
   <programme start="20260830214500 +0800" stop="20260830215600 +0800" channel="France 24"><title lang="zh">Reporters(普)</title>
   </programme>
   <programme start="20260830215600 +0800" stop="20260830220000 +0800" channel="France 24"><title lang="zh">Culture prime(普)</title>
@@ -9948,7 +9986,13 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830230000 +0800" stop="20260831000000 +0800" channel="GINX Esports TV"><title lang="zh">骰子時代：燃燒吧，綿羊</title>
   </programme>
-  <programme start="20260830060000 +0800" stop="20260831000000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Let's open the door to the past, SYOK Gold.</desc>
+  <programme start="20260830060000 +0800" stop="20260830100000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Let's open the door to the past, SYOK Gold.</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830150000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">The past comes alive, on SYOK Gold.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830200000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Relax &amp; enjoy , SYOK Gold.</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260831060000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Great music, brings back memories.</desc>
   </programme>
   <programme start="20260830004000 +0800" stop="20260830020500 +0800" channel="Global Trekker"><title lang="zh">最後衝擊</title><desc lang="zh">科學家史蒂夫託馬斯必須賭上名聲,事業和生命,從一顆直奔地球的巨大小行星中拯救人類.</desc>
   </programme>
@@ -10336,10 +10380,6 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830233500 +0800" stop="20260831000000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International</title><desc lang="zh">Cruise ship designer Justin accepts a job in Finland. He needs a place within budget and close to work, but his sister wants space for family visits.</desc>
   </programme>
-  <programme start="20260830000000 +0800" stop="20260830000500 +0800" channel="HISTORY"><title lang="zh">Hardcore Pawn</title><desc lang="zh">The Hot Rod: Les and Seth visit a customer with a garage full of amazing vintage cars. Against his kids' wishes, Les offers big money for one of the seller's golden oldies. (S12, ep 9)</desc>
-  </programme>
-  <programme start="20260830000500 +0800" stop="20260830001000 +0800" channel="HISTORY"><title lang="zh">Królowie-zabójcy – Herod | S01E04</title>
-  </programme>
   <programme start="20260830001000 +0800" stop="20260830002100 +0800" channel="HISTORY"><title lang="zh">Królowie-zabójcy – Herod | S01E04</title>
   </programme>
   <programme start="20260830002100 +0800" stop="20260830003000 +0800" channel="HISTORY"><title lang="zh">Неизвестное об Известном</title>
@@ -10380,9 +10420,15 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830094500 +0800" stop="20260830100600 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 3 | 21</title>
   </programme>
+  <programme start="20260830100600 +0800" stop="20260830101300 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 7 | 1</title>
+  </programme>
   <programme start="20260830103500 +0800" stop="20260830104500 +0800" channel="HISTORY"><title lang="zh">д/с История вещей. 13 с.</title>
   </programme>
   <programme start="20260830104500 +0800" stop="20260830105000 +0800" channel="HISTORY"><title lang="zh">Zakazana historia 7 – CIA i kontrola umysłów | S07E07</title>
+  </programme>
+  <programme start="20260830110000 +0800" stop="20260830110200 +0800" channel="HISTORY"><title lang="zh">д/ф Отен: забытая сестра Рима</title>
+  </programme>
+  <programme start="20260830110200 +0800" stop="20260830112600 +0800" channel="HISTORY"><title lang="zh">Palmach – Rising S01E34</title>
   </programme>
   <programme start="20260830120800 +0800" stop="20260830121000 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 2 | 31</title>
   </programme>
@@ -10468,9 +10514,11 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830213500 +0800" stop="20260830214500 +0800" channel="HISTORY"><title lang="zh">Wojna światowa: 1914-1945 – Wielka zima: 1914 | S01E01</title>
   </programme>
-  <programme start="20260830215700 +0800" stop="20260830223900 +0800" channel="HISTORY"><title lang="zh">Древние пришельцы – 7 | 3</title>
+  <programme start="20260830215400 +0800" stop="20260830220000 +0800" channel="HISTORY"><title lang="zh">The Exchange Principle S01E06 Courthouse guard</title>
   </programme>
-  <programme start="20260830223900 +0800" stop="20260830231900 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 10 | 2</title>
+  <programme start="20260830220000 +0800" stop="20260830223000 +0800" channel="HISTORY"><title lang="zh">Shed And Buried</title><desc lang="zh">Nick / Austin Champ. Henry and Fuzz are overwhelmed by Nick from Brackley's military collection. They leave with a vintage rarity, but will they find a buyer for something so unique? S5, Ep9</desc>
+  </programme>
+  <programme start="20260830223000 +0800" stop="20260830230000 +0800" channel="HISTORY"><title lang="zh">Shed And Buried</title><desc lang="zh">David / Ducati. Henry and Fuzz rummage through David's hoard of Italian bikes in Norfolk. They're smitten by his Ducatis and his rare Mot Guzzis, but just what will he sell? S5, Ep10</desc>
   </programme>
   <programme start="20260830231900 +0800" stop="20260830234500 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 8 | 10</title>
   </programme>
@@ -10560,7 +10608,23 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830030000 +0800" stop="20260830070000 +0800" channel="HITZ FM"><title lang="zh">Back to Back Hitz</title><desc lang="zh">No talk, all hitz.</desc>
   </programme>
-  <programme start="20260830070000 +0800" stop="20260831000000 +0800" channel="HITZ FM"><title lang="zh">Hitz Stripped</title><desc lang="zh">Your favorite hits, unplugged and stripped down.</desc>
+  <programme start="20260830070000 +0800" stop="20260830080000 +0800" channel="HITZ FM"><title lang="zh">Hitz Stripped</title><desc lang="zh">Your favorite hits, unplugged and stripped down.</desc>
+  </programme>
+  <programme start="20260830080000 +0800" stop="20260830100000 +0800" channel="HITZ FM"><title lang="zh">Hitz Weekend Breakfast</title><desc lang="zh">Weekend breakfast made better with the Hitz Morning Crew!</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="HITZ FM"><title lang="zh">Cafe Hitz</title><desc lang="zh">Coffee's brewing and the DJ's cooking - Your listening to CAFe HITZ.</desc>
+  </programme>
+  <programme start="20260830120000 +0800" stop="20260830150000 +0800" channel="HITZ FM"><title lang="zh">The Hitz Weekend</title><desc lang="zh">The hits and the goss don't stop even on the weekends! #HitzWeekend.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830160000 +0800" channel="HITZ FM"><title lang="zh">Hitz Gayo</title><desc lang="zh">The K-pop Hitz you decide! #saranghitz.</desc>
+  </programme>
+  <programme start="20260830160000 +0800" stop="20260830170000 +0800" channel="HITZ FM"><title lang="zh">#HITZLOKALAH</title><desc lang="zh">Bringing you Malaysia's hottest homegrown hits!</desc>
+  </programme>
+  <programme start="20260830170000 +0800" stop="20260830200000 +0800" channel="HITZ FM"><title lang="zh">The Hitz Weekend</title><desc lang="zh">The hits and the goss don't stop even on the weekends! #HitzWeekend.</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260830220000 +0800" channel="HITZ FM"><title lang="zh">The Hitz RIM Chart Show</title><desc lang="zh">Malaysia's #1 official music chart show!</desc>
+  </programme>
+  <programme start="20260830220000 +0800" stop="20260831060000 +0800" channel="HITZ FM"><title lang="zh">Back to Back Hitz</title><desc lang="zh">No talk, all hitz.</desc>
   </programme>
   <programme start="20260830000000 +0800" stop="20260830020500 +0800" channel="HOY 76"><title lang="zh">沙特職業足球聯賽- 艾科魯特 對 吉達艾阿里</title>
   </programme>
@@ -11360,6 +11424,16 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830234500 +0800" stop="20260831000000 +0800" channel="KTV HD"><title lang="zh">Glaubenszeugnisse by @tini</title><desc lang="zh">Eine Begegnung mit Gott kann alles verändern und von dieser Erfahrung gibt Tini Zeugnis. Gott lässt sich im Alltag finden und mit Impulsen über Tinis persönliches Glaubensleben möchten wir dich für dein Abenteuer mit Gott inspirieren! Dich erwarten außerdem neue Gesichter mit spannenden Geschichten. Let's share the good news and get ready for your godly meeting! (Senderinfo).</desc>
   </programme>
+  <programme start="20260830080000 +0800" stop="20260830100000 +0800" channel="LITE FM"><title lang="zh">The Time Machine with Non</title><desc lang="zh">Retro rewinds from the vault.</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="LITE FM"><title lang="zh">The Lite Weekend</title><desc lang="zh">All-time favourites for your weekend.</desc>
+  </programme>
+  <programme start="20260830120000 +0800" stop="20260830140000 +0800" channel="LITE FM"><title lang="zh">The 80's Show with Fabes</title><desc lang="zh">Fabes plays you all the very best favourites from the 80's.</desc>
+  </programme>
+  <programme start="20260830140000 +0800" stop="20260830180000 +0800" channel="LITE FM"><title lang="zh">The Lite Tea Dance with Sheela</title><desc lang="zh">Sheela plays your all-time favourite dance jams.</desc>
+  </programme>
+  <programme start="20260830180000 +0800" stop="20260831060000 +0800" channel="LITE FM"><title lang="zh">The Lite Lounge with Kudsia</title><desc lang="zh">Wind down on Sunday evenings with Kudsia's selection of all-time favourites.</desc>
+  </programme>
   <programme start="20260830000000 +0800" stop="20260830010000 +0800" channel="LUXE TV Channel"><title lang="zh">VINTAGE 20th Anniversary of LUXE.TV(普)</title>
   </programme>
   <programme start="20260830010000 +0800" stop="20260830020000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS MONTH(普)</title>
@@ -11724,6 +11798,18 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830234000 +0800" stop="20260831003500 +0800" channel="Love Nature HD"><title lang="zh">Woodpeckers: The Hole Story</title>
   </programme>
+  <programme start="20260830080000 +0800" stop="20260830120000 +0800" channel="MIX FM"><title lang="zh">Mix Brunch with Vit</title><desc lang="zh">Weekend Mornings With Your Brunch Bro.</desc>
+  </programme>
+  <programme start="20260830120000 +0800" stop="20260830130000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Music And Pop Culture From The 2000s with Hani Fadzil.</desc>
+  </programme>
+  <programme start="20260830130000 +0800" stop="20260830160000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Today's Best Music Non-Stop.</desc>
+  </programme>
+  <programme start="20260830160000 +0800" stop="20260830200000 +0800" channel="MIX FM"><title lang="zh">Mix Weekend With Zoey</title><desc lang="zh">Today's Best Music on your Weekends.</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260830210000 +0800" channel="MIX FM"><title lang="zh">Rock Hour</title><desc lang="zh">Rocking it out for 1 hour with Today's Best Music.</desc>
+  </programme>
+  <programme start="20260830210000 +0800" stop="20260831060000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Today's Best Music Non-Stop.</desc>
+  </programme>
   <programme start="20260830000000 +0800" stop="20260830002200 +0800" channel="MOMO亲子台"><title lang="zh">MOMO這一家S1 EP04</title>
   </programme>
   <programme start="20260830002200 +0800" stop="20260830004400 +0800" channel="MOMO亲子台"><title lang="zh">百味小廚神 小廚師筆記　EP13</title>
@@ -11867,6 +11953,24 @@ From money woes to health problems, strife with the teenagers and love life trou
   <programme start="20260830232200 +0800" stop="20260830234400 +0800" channel="MOMO亲子台"><title lang="zh">百味小廚神 小廚師筆記　EP18</title>
   </programme>
   <programme start="20260830234400 +0800" stop="20260831000000 +0800" channel="MOMO亲子台"><title lang="zh">世界真奇妙第一季 EP12</title>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="MY FM"><title lang="zh">MY FM I Want to Chat (Repeat) with Jack Lim and Mei Yan</title><desc lang="zh">Repeat of Breakfast Show Topic Discussion with Jack Lim and Mei Yan.</desc>
+  </programme>
+  <programme start="20260830120000 +0800" stop="20260830130000 +0800" channel="MY FM"><title lang="zh">MY FM Get Crazy with Maq Lai</title><desc lang="zh">Repeat of MY FM Night Show with Maq Lai.</desc>
+  </programme>
+  <programme start="20260830130000 +0800" stop="20260830150000 +0800" channel="MY FM"><title lang="zh">MY FM Weekend Game Start with Miko and Jenn</title><desc lang="zh">Miko and Jenn share their adventure as newcomer in Radio.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830160000 +0800" channel="MY FM"><title lang="zh">MY FM Movie Time with Jack Yap</title><desc lang="zh">Jack Yap to introduce his favorite movie or tv series.</desc>
+  </programme>
+  <programme start="20260830160000 +0800" stop="20260830180000 +0800" channel="MY FM"><title lang="zh">MY FM Sunday Like That with Der Ting &amp; Kaka</title><desc lang="zh">Der Ting &amp; Kaka to share latest Kpop Song and Trending Discussion.</desc>
+  </programme>
+  <programme start="20260830180000 +0800" stop="20260830190000 +0800" channel="MY FM"><title lang="zh">MY FM Great Talking to You with Aki</title><desc lang="zh">In-depth interview with celebrity and artistes.</desc>
+  </programme>
+  <programme start="20260830190000 +0800" stop="20260830210000 +0800" channel="MY FM"><title lang="zh">MY FM Music 20 Chart Show with Joe and Maq</title><desc lang="zh">Weekly Top 20 Chart.</desc>
+  </programme>
+  <programme start="20260830210000 +0800" stop="20260830220000 +0800" channel="MY FM"><title lang="zh">MY FM Offcial Malaysia Chart - Chinese with Jie Ying</title><desc lang="zh">Jie Ying shares Malaysia's most streamed music.</desc>
+  </programme>
+  <programme start="20260830220000 +0800" stop="20260831000000 +0800" channel="MY FM"><title lang="zh">MY Hao Wan!</title><desc lang="zh">All Night Non-stop BEST Music.</desc>
   </programme>
   <programme start="20260830000000 +0800" stop="20260830010000 +0800" channel="Mezzo Live"><title lang="zh">Star Trek: la nouvelle génération</title><desc lang="zh">Une stagiaire douée découvre son héritage mental et doit décider si elle veut ou non être Q.</desc>
   </programme>
@@ -13232,73 +13336,257 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830065000 +0800" stop="20260830065200 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George learn there's lots of fun to be had at the beach, even when there's no sand.</desc>
   </programme>
-  <programme start="20260830070500 +0800" stop="20260830072500 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title>
+  <programme start="20260830065200 +0800" stop="20260830070000 +0800" channel="Nick Jr"><title lang="zh">Sipadan : S2 EP1 Kuda Laut</title>
   </programme>
-  <programme start="20260830072500 +0800" stop="20260830075000 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title>
+  <programme start="20260830070000 +0800" stop="20260830070500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George are in Granny and Grandpa Pig's Garden. Granny's friends are playing folk music! They play music for Grandpa Pig and then Grandpa Pig makes apple juice for everyone.</desc>
   </programme>
-  <programme start="20260830075000 +0800" stop="20260830081000 +0800" channel="Nick Jr"><title lang="zh">Deer Squad</title>
+  <programme start="20260830070500 +0800" stop="20260830071500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is bedtime and Peppa calls Kylie Kangaroo and is surprised to learn it's not morning or winter where she is! Daddy Pig explains this using a big ball to represent the earth.</desc>
   </programme>
-  <programme start="20260830083500 +0800" stop="20260830085500 +0800" channel="Nick Jr"><title lang="zh">Tim Rex In Space</title>
+  <programme start="20260830071500 +0800" stop="20260830072000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">While visiting Suzy and Emily's house, Peppa is surprised there are extra rules she doesn't have in her own house like no shoes indoors and no eating peanuts.</desc>
   </programme>
-  <programme start="20260830091800 +0800" stop="20260830094200 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP8</title>
+  <programme start="20260830072000 +0800" stop="20260830073000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Today is a special day because Mummy and Daddy Pig have big news to tell Peppa and George. However, Peppa and George struggle to wait patiently, so resort to playing games.</desc>
+  </programme>
+  <programme start="20260830073000 +0800" stop="20260830073500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">With a new baby on the way, Mummy and Daddy Pig realise they have run out of space at home! They decide to make their own home bigger with an extension.</desc>
+  </programme>
+  <programme start="20260830073500 +0800" stop="20260830074500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr Bull arrives with his team to start work on Peppa's house renovation. Peppa and family move into the caravan in the garden while the work is being completed.</desc>
+  </programme>
+  <programme start="20260830074500 +0800" stop="20260830075000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">With the building work done, it's time to decorate! Peppa and George have fun choosing how to decorate their attic bedrooms. It's dinosaurs for George, but what will Peppa pick.</desc>
+  </programme>
+  <programme start="20260830075000 +0800" stop="20260830080000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr Zebra arrives with a new car seat for the baby! Excited to try it in the car, the family soon realise it won't fit with Peppa and George too. It's time for a new car.</desc>
+  </programme>
+  <programme start="20260830080000 +0800" stop="20260830080500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny and Grandpa Pig are taking Peppa and George to a festival - a jigsaw festival! Peppa is amazed by all of the completed jigsaws around the festival.</desc>
+  </programme>
+  <programme start="20260830080500 +0800" stop="20260830081500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle is making a wicker basket. She explains it is a hobby - something you do to relax. The children discuss hobbies and learn about each other's favourite things to do.</desc>
+  </programme>
+  <programme start="20260830081500 +0800" stop="20260830082000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Pig and Peppa are at Granny Pig's house. They find Mummy's old patchwork quilt that Granny made for her as a baby. Peppa decides she'd like to make one for the baby.</desc>
+  </programme>
+  <programme start="20260830082000 +0800" stop="20260830083000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is out with Suzy and Granny Sheep. They come across an old van that Miss Rabbit is recycling. Granny Sheep decides she would like to turn it into an art van.</desc>
+  </programme>
+  <programme start="20260830083000 +0800" stop="20260830083500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny Sheep is driving Vanessa, the art van along the road with Peppa, Suzy, Pedro, Mandy, Molly and Danny. They are taking her to the boat yard, for her first-ever outing.</desc>
+  </programme>
+  <programme start="20260830083500 +0800" stop="20260830084500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">While Mummy and Daddy Pig attend a refresher antenatal class, Peppa and George join Miss Rabbit's Sibling School, and learn about what to expect when the baby arrives.</desc>
+  </programme>
+  <programme start="20260830084500 +0800" stop="20260830085000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is so excited to meet her new baby brother or sister, but they are taking forever to arrive until suddenly Mummy Pig announces the baby is coming, now.</desc>
+  </programme>
+  <programme start="20260830085000 +0800" stop="20260830090000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is given the very important task of suggesting names for the new baby. She thinks of all sorts of names, but they aren't quite right.</desc>
+  </programme>
+  <programme start="20260830090000 +0800" stop="20260830090500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The nurse visits, and she decides that today's visit should be all about how to hold a baby. The nurse shows Peppa a special way for a small person to safely hold a baby.</desc>
+  </programme>
+  <programme start="20260830090500 +0800" stop="20260830091500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Dr Brown Bear suggests Peppa and George have their hearing checked. The audiologist discovers George has a moderate hearing loss and suggests George tries a hearing aid.</desc>
+  </programme>
+  <programme start="20260830091500 +0800" stop="20260830092000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is excited to help George explore the world of sounds now he has his new hearing aid. She shows him her favourite sounds including the splashing of a muddy puddle.</desc>
+  </programme>
+  <programme start="20260830092000 +0800" stop="20260830093000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig and Grandad Dog are on their boats when Grandpa Pig drops an anchor on his foot! After an x-ray and plaster cast at the hospital, Grandpa Pig needs to stay.</desc>
+  </programme>
+  <programme start="20260830093000 +0800" stop="20260830093500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig found his night at the hospital so comfortable, he's reluctant to leave! Peppa and Suzy look after him at home and make sure he's just as comfortable.</desc>
+  </programme>
+  <programme start="20260830093500 +0800" stop="20260830094200 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of Penny Polar Bear's party! The children find out they will be playing ice hockey! They have great fun learning to play.</desc>
   </programme>
   <programme start="20260830094200 +0800" stop="20260830094500 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP9</title>
   </programme>
-  <programme start="20260830094500 +0800" stop="20260830100500 +0800" channel="Nick Jr"><title lang="zh">Dora</title>
+  <programme start="20260830094500 +0800" stop="20260830095000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr Meerkat shows the children a huge wall that needs painting. They create a fantastic mural using lots of different techniques - and even a paint cannon.</desc>
   </programme>
-  <programme start="20260830100500 +0800" stop="20260830102800 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP1</title>
+  <programme start="20260830095000 +0800" stop="20260830100000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of the duck race! When Miss Rabbit gives the sign, everyone drops their ducks in the river at the first bridge - whose will make it to the second bridge first.</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830100500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">At the gym, Madame Gazelle is teaching the children about martial arts. Along with Mr Bull, the children learn how to fall safely, balance and how to take the right stance.</desc>
+  </programme>
+  <programme start="20260830100500 +0800" stop="20260830101500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Dr Hamster is visiting the playgroup today and has brought a giant ant farm. But nobody notices when they escape and start moving things in the classroom.</desc>
+  </programme>
+  <programme start="20260830101500 +0800" stop="20260830102000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa spots a new playground! The children race over to it and discover that it's rather odd. Grampy Rabbit explains, this isn't a playground - it's an exercise park.</desc>
+  </programme>
+  <programme start="20260830102000 +0800" stop="20260830102800 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig thinks perhaps he should run the London Marathon to teach his children about determination! Daddy enlists Peppa and George to help with training in the park.</desc>
   </programme>
   <programme start="20260830102800 +0800" stop="20260830103000 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
   </programme>
-  <programme start="20260830103000 +0800" stop="20260830105000 +0800" channel="Nick Jr"><title lang="zh">Mr. Crocodile</title>
+  <programme start="20260830103000 +0800" stop="20260830103500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig's marathon training continues. There isn't long to go before the big day! Peppa takes the role as Daddy's coach and, with George, devises lots of fun games to help.</desc>
   </programme>
-  <programme start="20260830105000 +0800" stop="20260830111300 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
+  <programme start="20260830103500 +0800" stop="20260830104500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of the London Marathon! Peppa and family come to cheer Daddy on. Peppa and George see many runners dressed in funny costumes - and then they spot Daddy.</desc>
+  </programme>
+  <programme start="20260830104500 +0800" stop="20260830105000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa is building something in his shed. It is his latest pet project. It's a robot called Frank.</desc>
+  </programme>
+  <programme start="20260830105000 +0800" stop="20260830110000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are at playgroup. Madame Gazelle is teaching the children fun games to play with paper.</desc>
+  </programme>
+  <programme start="20260830110000 +0800" stop="20260830110500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy, Daddy, Peppa and George are going to the seaside. Mummy and Daddy explain clouds to Peppa and George who have a little sing and dance about clouds.</desc>
+  </programme>
+  <programme start="20260830110500 +0800" stop="20260830111300 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Bull Digs Up The River: Grandpa Pig is taking Peppa and George for a day on his boat. They see Mr. Bull, who's using his digger boat to remove all the rubbish in the river that shouldn't be there.</desc>
   </programme>
   <programme start="20260830111300 +0800" stop="20260830111500 +0800" channel="Nick Jr"><title lang="zh">Satria Mega (Animasi) : EP3</title>
   </programme>
-  <programme start="20260830111500 +0800" stop="20260830113500 +0800" channel="Nick Jr"><title lang="zh">Barbapapa: Big Happy Family!</title>
+  <programme start="20260830111500 +0800" stop="20260830112000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is playing at Suzy's house and they find out that Granny Sheep is moving in! She transforms the dull spare room and attic into an exotic boudoir and creative studio.</desc>
   </programme>
-  <programme start="20260830113500 +0800" stop="20260830120000 +0800" channel="Nick Jr"><title lang="zh">Tim Rex In Space</title>
+  <programme start="20260830112000 +0800" stop="20260830113000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is at Suzy's house and there is a pile of cardboard boxes so, they take them outside to play with. Peppa turns the boxes into a cardboard shop, a spaceship and even a hospital.</desc>
   </programme>
-  <programme start="20260830120000 +0800" stop="20260830122000 +0800" channel="Nick Jr"><title lang="zh">Blaze &amp; The Monster Machines</title>
+  <programme start="20260830113000 +0800" stop="20260830113500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Suzy describes a takeaway and the children want to make their own. Together they 'cook' and deliver the pretend takeaways to the parents. They get great reviews too.</desc>
   </programme>
-  <programme start="20260830122000 +0800" stop="20260830124500 +0800" channel="Nick Jr"><title lang="zh">Blaze &amp; The Monster Machines</title>
+  <programme start="20260830113500 +0800" stop="20260830114500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig has created a watering system, but he does not remember which button is which so Peppa and George help using walkie talkies. The Police hear their signal and are surprised.</desc>
   </programme>
-  <programme start="20260830124500 +0800" stop="20260830130500 +0800" channel="Nick Jr"><title lang="zh">Rubble &amp; Crew</title>
+  <programme start="20260830114500 +0800" stop="20260830115000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy and Daddy Pig are working in their home office and Peppa wants to 'work' like them too. Peppa decides that she needs her own office, so she takes the cupboard under the stairs.</desc>
   </programme>
-  <programme start="20260830133000 +0800" stop="20260830135000 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title>
+  <programme start="20260830115000 +0800" stop="20260830120000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family take a poorly swift to the vet's. After a night of rest, the swift recovers and Doctor Hamster releases it so it can fly around the world again.</desc>
   </programme>
-  <programme start="20260830135000 +0800" stop="20260830141500 +0800" channel="Nick Jr"><title lang="zh">Deer Squad</title>
+  <programme start="20260830120000 +0800" stop="20260830120500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family are visiting Cousin Chloe's House to play with Baby Alexander. Peppa learns babies are not like dolls at all, and do lots of things every day.</desc>
   </programme>
-  <programme start="20260830144000 +0800" stop="20260830150000 +0800" channel="Nick Jr"><title lang="zh">Santiago Of The Seas</title>
+  <programme start="20260830120500 +0800" stop="20260830121500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa hands Penny and Pedro the wrong glasses by mistake and they can't see very well. Madame Gazelle then tells them the importance of lenses and how they're in all sorts of things.</desc>
   </programme>
-  <programme start="20260830151800 +0800" stop="20260830152500 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP8</title>
+  <programme start="20260830121500 +0800" stop="20260830122000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's a snowy day and Peppa's family build an igloo for their snowman. They then hide away in it during the snowstorm, but Penny Polar Bear and her parents love snowstorms and Peppa's igloo too.</desc>
+  </programme>
+  <programme start="20260830122000 +0800" stop="20260830123000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are at playgroup when everyone finds out that Mr Bull and Mrs Cow are going to get married the next day.</desc>
+  </programme>
+  <programme start="20260830123000 +0800" stop="20260830123500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Everyone is getting ready for Mr Bull and Mrs Cow's wedding, going to the jewellers to get rings, to the dress makers... and to sort out the wedding cake.</desc>
+  </programme>
+  <programme start="20260830123500 +0800" stop="20260830124500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of Mrs Cow and Mr Bull's wedding! Not everything goes to plan, but that doesn't stop it being the best wedding ever, and there is a lot of happy crying.</desc>
+  </programme>
+  <programme start="20260830124500 +0800" stop="20260830125000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa receives an invite to Candy Cat's birthday party - on a double decker bus.</desc>
+  </programme>
+  <programme start="20260830125000 +0800" stop="20260830130000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and friends are at Penny Polar Bear's house for a movie night. But before they can watch it, the children need to decide where to sit, and which popcorn to eat.</desc>
+  </programme>
+  <programme start="20260830130000 +0800" stop="20260830130500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle gives the class a music lesson. There's lots of crashing and banging at first, but it's not long before the grown-ups visit and lay down some notes of their own.</desc>
+  </programme>
+  <programme start="20260830130500 +0800" stop="20260830131500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family have a fun day out at the Recycling Centre.</desc>
+  </programme>
+  <programme start="20260830131500 +0800" stop="20260830132000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig loses his title as Champion Puddle Jumper, until everyone helps him train to win it back.</desc>
+  </programme>
+  <programme start="20260830132000 +0800" stop="20260830133000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George have one more game of jumping up and down in muddy puddles before bedtime.</desc>
+  </programme>
+  <programme start="20260830133000 +0800" stop="20260830133500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">When Daddy Pig needs a new watch, Mr Fox finds three grandfather clocks in the back of his van. Three clocks are much better than one. Mr Fox has everything in his van - even a chicken.</desc>
+  </programme>
+  <programme start="20260830133500 +0800" stop="20260830134500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa goes to the opticians for an eye test and tries out spectacles of all different shapes and colours.</desc>
+  </programme>
+  <programme start="20260830134500 +0800" stop="20260830135000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George go to play with Cousin Chloe and her friends, but the older children don't want to play any "baby" games.</desc>
+  </programme>
+  <programme start="20260830135000 +0800" stop="20260830140000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George have an exciting day rescuing their friends in Granddad Dog's breakdown truck.</desc>
+  </programme>
+  <programme start="20260830140000 +0800" stop="20260830140500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle takes the children to Grampy Rabbit's gym class, where they learn how to be real explorers.</desc>
+  </programme>
+  <programme start="20260830140500 +0800" stop="20260830141500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family get lost in the fog, but meet some friends along the way.</desc>
+  </programme>
+  <programme start="20260830141500 +0800" stop="20260830142000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family collect apples and blackberries in Granny and Grandpa Pig's garden to make a pie.</desc>
+  </programme>
+  <programme start="20260830142000 +0800" stop="20260830143000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa helps raise the money for a new school roof at Madame Gazelle's jumble sale.</desc>
+  </programme>
+  <programme start="20260830143000 +0800" stop="20260830143500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mrs Zebra teaches Peppa, George, Zoe, Zaza &amp; Zuzu Zebra how to make a real tea set from clay.</desc>
+  </programme>
+  <programme start="20260830143500 +0800" stop="20260830144500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friend Rebecca Rabbit have a fun time at the swimming pool with their families.</desc>
+  </programme>
+  <programme start="20260830144500 +0800" stop="20260830145000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends go to help at Edmond Elephant's birthday party, but the little children are harder to look after than they'd thought.</desc>
+  </programme>
+  <programme start="20260830145000 +0800" stop="20260830150000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle and the playgroup are sharing their best nursery rhymes with each other.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830150500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The Biggest Muddy Puddle In The World: Peppa and George wake up one morning to find that all the rain has made a flood, and their house is now a desert island.</desc>
+  </programme>
+  <programme start="20260830150500 +0800" stop="20260830151500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig teaches Peppa and her friends all about bugs, insects and creepy crawlies.</desc>
+  </programme>
+  <programme start="20260830151500 +0800" stop="20260830152000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family visit a new theme park: Potato City. There they discover that the magic of vegetables never ends.</desc>
+  </programme>
+  <programme start="20260830152000 +0800" stop="20260830152500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's all play and not much work when Peppa and George visit Daddy Pig's office.</desc>
   </programme>
   <programme start="20260830152500 +0800" stop="20260830153000 +0800" channel="Nick Jr"><title lang="zh">Tim Rex In Space</title>
   </programme>
-  <programme start="20260830155500 +0800" stop="20260830161500 +0800" channel="Nick Jr"><title lang="zh">Barbapapa: Big Happy Family!</title>
+  <programme start="20260830153000 +0800" stop="20260830153500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig takes Peppa and George to visit a house that Mr Bull is building. Who will their new neighbours be.</desc>
   </programme>
-  <programme start="20260830164000 +0800" stop="20260830170000 +0800" channel="Nick Jr"><title lang="zh">Mr. Crocodile</title>
+  <programme start="20260830153500 +0800" stop="20260830154500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends find buried treasure, and a shopping trolley, on their exciting trip to Pirate Island.</desc>
   </programme>
-  <programme start="20260830172500 +0800" stop="20260830174500 +0800" channel="Nick Jr"><title lang="zh">Blaze &amp; The Monster Machines</title>
+  <programme start="20260830154500 +0800" stop="20260830155000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The children are taught how to play basketball by Daddy coach. They are soon good enough to take on a bigger team.</desc>
   </programme>
-  <programme start="20260830181000 +0800" stop="20260830183000 +0800" channel="Nick Jr"><title lang="zh">Rubble &amp; Crew</title>
+  <programme start="20260830155000 +0800" stop="20260830160000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Wendy Wolf's birthday is here and she has invited Peppa and friends around for a party.</desc>
   </programme>
-  <programme start="20260830185500 +0800" stop="20260830191500 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">The bouncy turkey from the Thanksgiving feast at City Hall has flown away with Humdinger and his kittens! // A super-strong wind has suddenly swept up all the surfers in the Adventure Bay Windsurfing</desc>
+  <programme start="20260830160000 +0800" stop="20260830160500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr Zebra delivers a parcel for Peppa and George from their Auntie Dottie. What could it be.</desc>
   </programme>
-  <programme start="20260830191500 +0800" stop="20260830194000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">The barbababies find a lost baby elephant and secretly look after it. How will Barbapapa and Barbamama react to Boris? // Boris the elephant misses home. The Barbapapa decide to bring him back to Afri</desc>
+  <programme start="20260830160500 +0800" stop="20260830161500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George catches a cold after playing out in the rain, but starts to feel a lot better after he has some nice warm milk.</desc>
   </programme>
-  <programme start="20260830194000 +0800" stop="20260830200000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa wants to teach his children to make bread, but things dont go as planned... // The Barbababies plant an avocado tree. However, it takes years before the first harvest. Barbabright has an id</desc>
+  <programme start="20260830161500 +0800" stop="20260830162000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Tiddles the Tortoise, Doctor Hamster's pet, has got stuck up a tree, again! Who can save him.</desc>
   </programme>
-  <programme start="20260830200000 +0800" stop="20260830202500 +0800" channel="Nick Jr"><title lang="zh">Bedtime Stories with Ryan</title><desc lang="zh">Ryan Reynolds reads stories to help the world fall asleep. Tonight Ryan shares stories that are playful.</desc>
+  <programme start="20260830162000 +0800" stop="20260830163000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George has a new hat and Mummy Pig is determined that George doesn't get it muddy when visiting Grandpa and Granny Pig.</desc>
+  </programme>
+  <programme start="20260830163000 +0800" stop="20260830163500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George notice they have shadows, and no matter how fast they walk, run, or jump - they can't lose them.</desc>
+  </programme>
+  <programme start="20260830163500 +0800" stop="20260830164500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's Captain Daddy Dog's birthday and Mummy Dog surprises him with the gift of a boat trip, which isn't quite what he had expected.</desc>
+  </programme>
+  <programme start="20260830164500 +0800" stop="20260830165000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is International Day at playgroup and Peppa and her friends have dressed up as countries of the world.</desc>
+  </programme>
+  <programme start="20260830165000 +0800" stop="20260830170000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig and Grandpa Dog are showing and sharing their lovely, tomato filled, Greenhouses to Peppa and George.</desc>
+  </programme>
+  <programme start="20260830170000 +0800" stop="20260830170500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is raining outside so Peppa and George have to stay indoors. While they wait for the rain to stop, Daddy Pig teaches them a fun game.</desc>
+  </programme>
+  <programme start="20260830170500 +0800" stop="20260830171500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Suzy Sheep has made up a new pretend friend, Leo Lion.</desc>
+  </programme>
+  <programme start="20260830171500 +0800" stop="20260830172000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Rabbit comes to visit with a big tummy. Everyone is excited to find out there is a baby rabbit inside, but they are in for an even bigger surprise.</desc>
+  </programme>
+  <programme start="20260830172000 +0800" stop="20260830173000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George have fun making potato prints and painting a lovely picture of a cherry tree.</desc>
+  </programme>
+  <programme start="20260830173000 +0800" stop="20260830173500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Pedro Pony spends the day just like a real cowboy would have in the Wild West: setting up camp in the garden and sharing stories with his friends.</desc>
+  </programme>
+  <programme start="20260830173500 +0800" stop="20260830174500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa, George and all their friends go for a ride on Grandpa Pig's fantastic little train.</desc>
+  </programme>
+  <programme start="20260830174500 +0800" stop="20260830175000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig brings some seeds for Peppa and George to grow a garden. Daddy Pig makes himself useful by being the scarecrow.</desc>
+  </programme>
+  <programme start="20260830175000 +0800" stop="20260830180000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George meet their new cousin, a tiny baby piggy called Alexander.</desc>
+  </programme>
+  <programme start="20260830180000 +0800" stop="20260830180500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Doctor Hamster is having a busy day - there are lots of helpless animals that need her help.</desc>
+  </programme>
+  <programme start="20260830180500 +0800" stop="20260830181500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's Richard Rabbit's birthday party and George is invited, and that can only mean one thing; Soft Play.</desc>
+  </programme>
+  <programme start="20260830181500 +0800" stop="20260830182000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny Pig places a large order of plastic gnomes and a wishing well for the garden, Peppa and George love them but Grandpa Pig is not happy. He wishes they would all disappear.</desc>
+  </programme>
+  <programme start="20260830182000 +0800" stop="20260830183000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family go for a day's cycle ride. Along the way, they meet all their friends and have a big bike race.</desc>
+  </programme>
+  <programme start="20260830183000 +0800" stop="20260830183500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle announces that she is leaving the playgroup. The children are very sad to lose their favourite teacher, so they decide to throw her a leaving party.</desc>
+  </programme>
+  <programme start="20260830183500 +0800" stop="20260830184500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and family find some great things to buy from the market and even get a special gift from Mr. Fox's stall.</desc>
+  </programme>
+  <programme start="20260830184500 +0800" stop="20260830185000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The family visit a museum. Peppa likes the room with things from Kings and Queens of long ago. George loves the dinosaur room.</desc>
+  </programme>
+  <programme start="20260830185000 +0800" stop="20260830190000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George go ice skating for the first time. Peppa finds it is quite difficult not to fall over.</desc>
+  </programme>
+  <programme start="20260830190000 +0800" stop="20260830190500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George meet Kylie Kangaroo and her brother Joey. Peppa shows Kylie how to jump up and down in muddy puddles, but who can jump the highest.</desc>
+  </programme>
+  <programme start="20260830190500 +0800" stop="20260830191500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig has not cut the lawn for ages and the grass has grown very long.</desc>
+  </programme>
+  <programme start="20260830191500 +0800" stop="20260830192000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Dog and Danny are very excited! Captain Daddy Dog is home from the sea, bearing gifts.</desc>
+  </programme>
+  <programme start="20260830192000 +0800" stop="20260830193000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Dr. Elephant the Dentist says that Peppa and George both have lovely clean teeth.</desc>
+  </programme>
+  <programme start="20260830193000 +0800" stop="20260830193500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The children go on a trip to a Dinosaur Park. With Grampy Rabbit as their leader, they follow dinosaur footprints to find a birthday treat for Freddy Fox.</desc>
+  </programme>
+  <programme start="20260830193500 +0800" stop="20260830194500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends go on a bus trip to the mountains and have fun making echoes.</desc>
+  </programme>
+  <programme start="20260830194500 +0800" stop="20260830195000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family have been on a trip to a mountain beauty spot. When Daddy Pig loses the car keys down a drain, Mr Bull offers to find them with his digger.</desc>
+  </programme>
+  <programme start="20260830195000 +0800" stop="20260830200000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Dr. Brown Bear comes to visit the playgroup and teach all of the children what to do when there's been an accident.</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260830200500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George pays a visit to Mr Fox's Shop after his favourite toy, Mr Dinosaur breaks. With all the additional features surely Dino Roar is a good replacement.</desc>
+  </programme>
+  <programme start="20260830200500 +0800" stop="20260830201500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George visit Rebecca Rabbit's house today. Rebecca's house is a bit different to Peppa's house - it is inside a hill! And instead of stairs and corridors, there are tunnels.</desc>
+  </programme>
+  <programme start="20260830201500 +0800" stop="20260830202000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig's Train To The Rescue: Miss Rabbit's train has broken down with a carriage full of passengers who need to get to work. Grandpa Pig lends Miss Rabbit his little train Gertrude.</desc>
+  </programme>
+  <programme start="20260830202000 +0800" stop="20260830202500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">When Tiddles the Tortoise gets stuck in a tree, Pedro Pony has trouble trying to rescue him.</desc>
   </programme>
   <programme start="20260830202500 +0800" stop="20260830202700 +0800" channel="Nick Jr"><title lang="zh">The Creature Cases</title><desc lang="zh">Sam and Kit save a town from being pulled underground by a legendary serpent. // The pals search for their team leader after crashing during a flight test.</desc>
   </programme>
-  <programme start="20260830202700 +0800" stop="20260830204900 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  <programme start="20260830202700 +0800" stop="20260830203000 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  </programme>
+  <programme start="20260830203000 +0800" stop="20260830203500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">There is a pet competition at playgroup, and everyone has brought in their pets. Dr Hamster is the judge, but finds it hard to choose the best pet.</desc>
+  </programme>
+  <programme start="20260830203500 +0800" stop="20260830204500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family go on a nature trail. They learn how to follow trails of footprints, which comes in handy when they get a bit lost..</desc>
+  </programme>
+  <programme start="20260830204500 +0800" stop="20260830204900 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Pig finds a spider in the house and orders Daddy Pig to get rid of it. Mr Skinny-Legs is set free in the garden, where he can spin all the webs he likes, wherever he likes.</desc>
   </programme>
   <programme start="20260830204900 +0800" stop="20260830205000 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP4</title>
   </programme>
-  <programme start="20260830205000 +0800" stop="20260830211500 +0800" channel="Nick Jr"><title lang="zh">The Creature Cases</title><desc lang="zh">No ones food is safe in the forest when a mysterious thief nabs everyones supply. // Sam and Kit are on the case when Gordy the giraffe goes missing.</desc>
+  <programme start="20260830205000 +0800" stop="20260830210000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr. Potato has come to visit the playgroup and he's brought along his superhero friend, Super Potato.</desc>
+  </programme>
+  <programme start="20260830210000 +0800" stop="20260830210500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa's family are staying at Cousin Chloe's house. After a long day everyone is tired and wants to go to sleep. But baby Alexander's crying is keeping everyone awake.</desc>
+  </programme>
+  <programme start="20260830210500 +0800" stop="20260830211500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grampy Rabbit saves the day when Grandpa Pig's boat sinks and drives everyone around on his Hovercraft.</desc>
+  </programme>
+  <programme start="20260830211500 +0800" stop="20260830212000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig reads Peppa and George a bedtime story to help them fall asleep. When George wakes up again Peppa has to make up a bedtime story to get him back to sleep.</desc>
+  </programme>
+  <programme start="20260830212000 +0800" stop="20260830213000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George are helping Granny and Grandpa Pig tidy their attic. Amongst the clutter, Peppa finds an old record player, along with some very funny old records.</desc>
+  </programme>
+  <programme start="20260830213000 +0800" stop="20260830213500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The school roof has a leak, again! The children organise a fete to raise money for a new roof.</desc>
+  </programme>
+  <programme start="20260830213500 +0800" stop="20260830214000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa gets her very first Playgroup Star in school for drawing a wonderful picture of her house.</desc>
   </programme>
   <programme start="20260830214000 +0800" stop="20260830214500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George and Rebecca Rabbits little brother Richard each have a toy dinosaur but they are not very good at sharing their toys. Mummy Pig shows them that they can have much more fun at the playground if</desc>
   </programme>
@@ -13308,15 +13596,37 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830215500 +0800" stop="20260830220000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her school friends are making a time capsule. They each put one of their favourite things inside and bury it in the school garden. The children discover that their parents made a time capsul</desc>
   </programme>
-  <programme start="20260830220000 +0800" stop="20260830222000 +0800" channel="Nick Jr"><title lang="zh">Ben  Hollys Little Kingdom</title><desc lang="zh">The Wise Old Elf plays a trick on Nanny Plum, but she gets her revenge by turning the Wise Old Elf into a snail. // Snooty King and Queen Marigold are coming to visit. When the Kings new clothes get</desc>
+  <programme start="20260830220000 +0800" stop="20260830220500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa, George and Grandpa Pig are watching motor racing on TV. Granny Pig tells them to go out and enjoy the sunshine. Inspired by the racing, Grandpa Pig builds a car for George.</desc>
   </programme>
-  <programme start="20260830224500 +0800" stop="20260830230000 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">A rockslide leaves Goodway, Farmer Yumi and Garby stranded on the side of a mountain.</desc>
+  <programme start="20260830220500 +0800" stop="20260830221500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are going camping. Madame Gazelle, their teacher, is in charge. First they put up their tents. Then they collect sticks to make a campfire.</desc>
   </programme>
-  <programme start="20260830230000 +0800" stop="20260830232000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">When Camila the truck driver needs a place to stop and eat, the pups and Café Carl have a fancy idea. But is it too fancy? // Park Ranger Rose and Rosie the goat are putting on a show! But when Rosie</desc>
+  <programme start="20260830221500 +0800" stop="20260830222000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is Granny and Grandpa's anniversary. Peppa and George go to Mr Fox's Shop to find them a present. Mr Fox's Shop sells everything.</desc>
+  </programme>
+  <programme start="20260830222000 +0800" stop="20260830223000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The family has all gone to the caves for a day out and Grampy Rabbit is their tour guide.</desc>
+  </programme>
+  <programme start="20260830223000 +0800" stop="20260830223500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">When a fishing trip goes wrong, leaving Grandpa Pig and Grampy Rabbit stranded on a desert island, Captain Daddy Dog is the only one able to save them. He realises he misses the sea.</desc>
+  </programme>
+  <programme start="20260830223500 +0800" stop="20260830224500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family borrow Grandpa Pig's boat for a day on the river. Daddy Pig is the captain, Peppa, George and Mummy Pig are the crew. But then the boat gets stuck.</desc>
+  </programme>
+  <programme start="20260830224500 +0800" stop="20260830225000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">After smelling Granny Pig's perfume de lavender, Peppa experiments with the flowers in the garden to create her own special smell.</desc>
+  </programme>
+  <programme start="20260830225000 +0800" stop="20260830230000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig shares with Peppa and George his love of building toy planes and there is one extra special plane that Granny Pig has yet to see.</desc>
+  </programme>
+  <programme start="20260830230000 +0800" stop="20260830230500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig is left behind when everyone takes Grampy Rabbit's little boat to the riverside picnic spot. Will someone remember him and save him some cake.</desc>
+  </programme>
+  <programme start="20260830230500 +0800" stop="20260830231500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">One day, the lights suddenly go out and Peppa's house is plunged into darkness. There has been a power cut. Peppa is surprised that even the television won't work without electricity.</desc>
+  </programme>
+  <programme start="20260830231500 +0800" stop="20260830232000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are building a desert island, in the sandpit. They add a forest, a lake, houses, and shops. It's all going very well until George and Richard's dinosaurs turn up.</desc>
   </programme>
   <programme start="20260830232000 +0800" stop="20260830233000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">The Crew build a feeder for Farmer Zoes chickens, but when they get loose, its up to the pups to safely rescue them.</desc>
   </programme>
-  <programme start="20260830235500 +0800" stop="20260831001500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">For the very first time, the Barbababies will take the train and sleep in a hotel. // Barbouille crafted a magnificent snowman that the children named Bobo.</desc>
+  <programme start="20260830233000 +0800" stop="20260830233500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is night time at Grandpa and Granny Pig's house, Peppa and George have stayed up late to help hunt for slugs and snails. But what other night animals will they find.</desc>
+  </programme>
+  <programme start="20260830233500 +0800" stop="20260830234500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig receives a letter saying he must go away on business to test some very important concrete.</desc>
+  </programme>
+  <programme start="20260830234500 +0800" stop="20260830235000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George has fun looking at himself in the mirror and tries to find other shiny things.</desc>
+  </programme>
+  <programme start="20260830235000 +0800" stop="20260831000000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Today is Daddy Pig's birthday. But Daddy Pig still has to go to work! While Daddy is out, Mummy Pig, Peppa and George prepare a "special birthday surprise".</desc>
   </programme>
   <programme start="20260830001500 +0800" stop="20260830002500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
   </programme>
@@ -13588,7 +13898,13 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260830235000 +0800" stop="20260831000000 +0800" channel="Nickelodeon"><title lang="zh">長尾豹馬修一家親 [英/普]</title><desc lang="zh">米卡來不及完成學校科學展要用的機器人,於是長尾豹馬修們偷跑進去操作.</desc>
   </programme>
-  <programme start="20260830060000 +0800" stop="20260831000000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing your classic favourites.</desc>
+  <programme start="20260830060000 +0800" stop="20260830100000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing your classic favourites.</desc>
+  </programme>
+  <programme start="20260830100000 +0800" stop="20260830150000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Bringing you a selection of enduring classics.</desc>
+  </programme>
+  <programme start="20260830150000 +0800" stop="20260830200000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing you the best of classical music.</desc>
+  </programme>
+  <programme start="20260830200000 +0800" stop="20260831060000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Bringing you the best in classical music.</desc>
   </programme>
   <programme start="20260830000000 +0800" stop="20260830010000 +0800" channel="Pet Club TV"><title lang="zh">Best Of Pets</title><desc lang="zh">Another episode of Best of Pets with funny pet clips.</desc>
   </programme>
@@ -14129,6 +14445,8 @@ If you want to raise a Samoyed, or already own one, we hope you can give them th
   <programme start="20260830230000 +0800" stop="20260830233000 +0800" channel="SBN全球财经台"><title lang="zh">籌碼贏家</title>
   </programme>
   <programme start="20260830233000 +0800" stop="20260831000000 +0800" channel="SBN全球财经台"><title lang="zh">豪門世家</title>
+  </programme>
+  <programme start="20260830002700 +0800" stop="20260830002800 +0800" channel="SONY MAX"><title lang="zh">Costao</title><desc lang="zh">In the 1990s, customs officer Costao Fernandes becomes a legend in Goa due to his bravery and tactics. His personal and professional life unravels when he kills a powerful drug lord in self-defence.</desc>
   </programme>
   <programme start="20260830025800 +0800" stop="20260830051100 +0800" channel="SONY MAX"><title lang="zh">Satellite Shankar</title><desc lang="zh">The film based on the life of Indian soldiers, tells a story of the adventures of Indian soldier</desc>
   </programme>
@@ -17160,15 +17478,15 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830000000 +0800" stop="20260830000001 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830000001 +0800" stop="20260830004000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  <programme start="20260830000001 +0800" stop="20260830004000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc lang="zh">三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
   </programme>
-  <programme start="20260830004000 +0800" stop="20260830012000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  <programme start="20260830004000 +0800" stop="20260830012000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
   </programme>
   <programme start="20260830012000 +0800" stop="20260830020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830020000 +0800" stop="20260830023000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  <programme start="20260830020000 +0800" stop="20260830023000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc lang="zh">三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
   </programme>
-  <programme start="20260830023000 +0800" stop="20260830030000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  <programme start="20260830023000 +0800" stop="20260830030000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc lang="zh">三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
   </programme>
   <programme start="20260830030000 +0800" stop="20260830033000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
   </programme>
@@ -17180,7 +17498,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830050000 +0800" stop="20260830054000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830060000 +0800" stop="20260830063000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc>三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
+  <programme start="20260830060000 +0800" stop="20260830063000 +0800" channel="三沙卫视"><title lang="zh">巡航祖宗海</title><desc lang="zh">三沙卫视纪实专题栏目，以“接地气、在一线”为特色，记者深入岛礁、渔船、执法船，与渔民、船员、执法人员同吃同住，挖掘海洋故事，通过“中国海岸行”等大型策划呈现沿海各地的海洋文化与风土人情。</desc>
   </programme>
   <programme start="20260830063000 +0800" stop="20260830070000 +0800" channel="三沙卫视"><title lang="zh">美眼看世界</title>
   </programme>
@@ -17194,7 +17512,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830082800 +0800" stop="20260830083000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830083000 +0800" stop="20260830084300 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20260830083000 +0800" stop="20260830084300 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
   <programme start="20260830084300 +0800" stop="20260830084500 +0800" channel="三沙卫视"><title lang="zh">滨海旅游环境预报</title><desc lang="zh">欢迎使用</desc>
   </programme>
@@ -17220,41 +17538,53 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830133000 +0800" stop="20260830140000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
   </programme>
+  <programme start="20260830140000 +0800" stop="20260830143000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20260830143000 +0800" stop="20260830150000 +0800" channel="三沙卫视"><title lang="zh">美眼看世界</title>
   </programme>
-  <programme start="20260830150000 +0800" stop="20260830171500 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  <programme start="20260830150000 +0800" stop="20260830162100 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
   </programme>
-  <programme start="20260830171500 +0800" stop="20260830174500 +0800" channel="三沙卫视"><title lang="zh">快乐海钓</title>
+  <programme start="20260830162100 +0800" stop="20260830170000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830174500 +0800" stop="20260830175700 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830170000 +0800" stop="20260830173000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830175700 +0800" stop="20260830180000 +0800" channel="三沙卫视"><title lang="zh">三沙海洋预报</title><desc>三沙市气象局与海洋预报部门联合发布的区域海洋气象服务产品，针对三沙海域提供风浪、潮汐、海温等精细化预报，保障南海海上航行安全与海洋开发活动。</desc>
+  <programme start="20260830174500 +0800" stop="20260830175700 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260830180000 +0800" stop="20260830183000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc>时尚文化栏目，聚焦潮流趋势与生活美学，涵盖服饰穿搭、美妆护肤、艺术设计、生活方式等领域，为观众提供前沿时尚资讯与品味指南。</desc>
+  <programme start="20260830175700 +0800" stop="20260830180000 +0800" channel="三沙卫视"><title lang="zh">三沙海洋预报</title><desc lang="zh">三沙市气象局与海洋预报部门联合发布的区域海洋气象服务产品，针对三沙海域提供风浪、潮汐、海温等精细化预报，保障南海海上航行安全与海洋开发活动。</desc>
+  </programme>
+  <programme start="20260830180000 +0800" stop="20260830182000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260830182000 +0800" stop="20260830183000 +0800" channel="三沙卫视"><title lang="zh">海洋音乐厅</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20260830183000 +0800" stop="20260830185500 +0800" channel="三沙卫视"><title lang="zh">美眼看世界</title>
   </programme>
-  <programme start="20260830185500 +0800" stop="20260830185700 +0800" channel="三沙卫视"><title lang="zh">丝绸之路环境预报</title><desc>国家海洋环境预报中心为“21世纪海上丝绸之路”建设的专业服务产品，覆盖沿线海域的海浪、风暴潮、海温等海洋环境要素预报，为海上贸易通道和航运安全提供保障。</desc>
+  <programme start="20260830185500 +0800" stop="20260830185700 +0800" channel="三沙卫视"><title lang="zh">丝绸之路环境预报</title><desc lang="zh">国家海洋环境预报中心为“21世纪海上丝绸之路”建设的专业服务产品，覆盖沿线海域的海浪、风暴潮、海温等海洋环境要素预报，为海上贸易通道和航运安全提供保障。</desc>
   </programme>
-  <programme start="20260830185700 +0800" stop="20260830190000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20260830185700 +0800" stop="20260830190000 +0800" channel="三沙卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20260830190000 +0800" stop="20260830193500 +0800" channel="三沙卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  <programme start="20260830190000 +0800" stop="20260830193500 +0800" channel="三沙卫视"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
   </programme>
-  <programme start="20260830193500 +0800" stop="20260830200000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830193500 +0800" stop="20260830200000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260830200000 +0800" stop="20260830203000 +0800" channel="三沙卫视"><title lang="zh">海南新闻联播</title><desc>海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
+  <programme start="20260830200000 +0800" stop="20260830203000 +0800" channel="三沙卫视"><title lang="zh">海南新闻联播</title><desc lang="zh">海南广播电视总台制作的时政新闻栏目，每日18:30在海南卫视首播，是唯一一档在上星频道播出的省级时政新闻栏目。节目立足海南、面向全国，全面报道海南政治、经济、社会发展动态，重点聚焦海南自贸港建设进程、封关运作进展、重大政策落地等核心议题。2022年改版后增设“自贸朋友圈”板块，由“朋友圈头条+国内资讯+国际速览”三部分组成，视野拓展至国内各自贸试验区及国际财经动态。节目采用全媒演播室与虚实结合技术，推动语态创新，是展示海南形象、传递自贸港声音的重要窗口。</desc>
   </programme>
   <programme start="20260830203000 +0800" stop="20260830210000 +0800" channel="三沙卫视"><title lang="zh">海南岛纪事</title>
   </programme>
   <programme start="20260830210000 +0800" stop="20260830213000 +0800" channel="三沙卫视"><title lang="zh">诗意时间</title>
   </programme>
-  <programme start="20260830213000 +0800" stop="20260830220000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc>三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
+  <programme start="20260830213000 +0800" stop="20260830220000 +0800" channel="三沙卫视"><title lang="zh">南海直播室</title><desc lang="zh">三沙卫视大型日播新闻资讯栏目，以“立足南海、放眼全球”为视野，围绕海洋权益维护和海洋经济发展，关注南海及其周边时政焦点，对海洋科技、经济、文化等领域展开深度报道。</desc>
   </programme>
-  <programme start="20260830220000 +0800" stop="20260830223000 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830220000 +0800" stop="20260830222400 +0800" channel="三沙卫视"><title lang="zh">三沙新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260830223000 +0800" stop="20260830224500 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830222400 +0800" stop="20260830223000 +0800" channel="三沙卫视"><title lang="zh">自宣段</title><desc lang="zh">欢迎使用</desc>
   </programme>
-  <programme start="20260830224500 +0800" stop="20260831000000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  <programme start="20260830223000 +0800" stop="20260830224500 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260830224500 +0800" stop="20260830225500 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260830225500 +0800" stop="20260830232000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260830232000 +0800" stop="20260831000000 +0800" channel="三沙卫视"><title lang="zh">自贸先行者</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20260830010000 +0800" stop="20260830020000 +0800" channel="三立新闻"><title lang="zh">消失的國界(iNEWS看世界)(重)(普)(N)</title>
   </programme>
@@ -27222,9 +27552,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830114000 +0800" stop="20260830115000 +0800" channel="天津体育"><title lang="zh">足够精彩</title>
   </programme>
-  <programme start="20260830115000 +0800" stop="20260830121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260830115000 +0800" stop="20260830121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260830121000 +0800" stop="20260830125000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260830121000 +0800" stop="20260830125000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260830125000 +0800" stop="20260830140000 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
@@ -27232,15 +27562,15 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830155000 +0800" stop="20260830172000 +0800" channel="天津体育"><title lang="zh">体育表演</title>
   </programme>
-  <programme start="20260830172000 +0800" stop="20260830180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830172000 +0800" stop="20260830180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830180000 +0800" stop="20260830185500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
-  <programme start="20260830185500 +0800" stop="20260830195000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260830185500 +0800" stop="20260830195000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260830195000 +0800" stop="20260830220500 +0800" channel="天津体育"><title lang="zh">直播:中超联赛第26轮 天津津门虎VS浙江</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260830195000 +0800" stop="20260830220500 +0800" channel="天津体育"><title lang="zh">直播:中超联赛第26轮 天津津门虎VS浙江</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260830220500 +0800" stop="20260830234000 +0800" channel="天津体育"><title lang="zh">直播:2026至2026赛季德甲联赛第2轮  汉堡VS美因茨</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260830220500 +0800" stop="20260830234000 +0800" channel="天津体育"><title lang="zh">直播:2026至2026赛季德甲联赛第2轮  汉堡VS美因茨</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260830234000 +0800" stop="20260831000000 +0800" channel="天津体育"><title lang="zh">2022年世界杯小组赛  阿根廷VS沙特</title>
   </programme>
@@ -34272,9 +34602,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830060500 +0800" stop="20260830062500 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260830062500 +0800" stop="20260830100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830062500 +0800" stop="20260830100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830100000 +0800" stop="20260830120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830120000 +0800" stop="20260830124000 +0800" channel="江西经济"><title lang="zh">午间解盘</title><desc lang="zh">午间解盘是一档股市解析栏目</desc>
   </programme>
@@ -35866,21 +36196,21 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830232500 +0800" stop="20260830234500 +0800" channel="济南生活"><title lang="zh">现在开庭</title>
   </programme>
-  <programme start="20260830111000 +0800" stop="20260830125000 +0800" channel="济南综合"><title lang="zh">作风监督面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  <programme start="20260830111000 +0800" stop="20260830125000 +0800" channel="济南综合"><title lang="zh">作风监督面对面</title><desc lang="zh">中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
   </programme>
-  <programme start="20260830125000 +0800" stop="20260830133100 +0800" channel="济南综合"><title lang="zh">今晚新闻版块</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830125000 +0800" stop="20260830133100 +0800" channel="济南综合"><title lang="zh">今晚新闻版块</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260830173000 +0800" stop="20260830180000 +0800" channel="济南综合"><title lang="zh">有么别有病</title>
   </programme>
-  <programme start="20260830183800 +0800" stop="20260830190000 +0800" channel="济南综合"><title lang="zh">济南新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830183800 +0800" stop="20260830190000 +0800" channel="济南综合"><title lang="zh">济南新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260830190000 +0800" stop="20260830193300 +0800" channel="济南综合"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  <programme start="20260830190000 +0800" stop="20260830193300 +0800" channel="济南综合"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
   </programme>
-  <programme start="20260830210600 +0800" stop="20260830215300 +0800" channel="济南综合"><title lang="zh">今晚新闻版块</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830210600 +0800" stop="20260830215300 +0800" channel="济南综合"><title lang="zh">今晚新闻版块</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20260830215300 +0800" stop="20260830232600 +0800" channel="济南综合"><title lang="zh">作风监督面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  <programme start="20260830215300 +0800" stop="20260830232600 +0800" channel="济南综合"><title lang="zh">作风监督面对面</title><desc lang="zh">中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
   </programme>
-  <programme start="20260830232600 +0800" stop="20260830235200 +0800" channel="济南综合"><title lang="zh">济南新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830232600 +0800" stop="20260830235200 +0800" channel="济南综合"><title lang="zh">济南新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260830235200 +0800" stop="20260831073000 +0800" channel="济南综合"><title lang="zh">有么别有病</title>
   </programme>
@@ -39866,35 +40196,35 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830220000 +0800" stop="20260830223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20260830050000 +0800" stop="20260830054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830050000 +0800" stop="20260830054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830081500 +0800" stop="20260830093200 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20260830114000 +0800" stop="20260830121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830114000 +0800" stop="20260830121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830121600 +0800" stop="20260830132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20260830132100 +0800" stop="20260830133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830132100 +0800" stop="20260830133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20260830155000 +0800" stop="20260830172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830155000 +0800" stop="20260830172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20260830172000 +0800" stop="20260830175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830172000 +0800" stop="20260830175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830175000 +0800" stop="20260830180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20260830180900 +0800" stop="20260830191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20260830191100 +0800" stop="20260830191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20260830191100 +0800" stop="20260830191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20260830191300 +0800" stop="20260830191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20260830191300 +0800" stop="20260830191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20260830191500 +0800" stop="20260830194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
-  <programme start="20260830194000 +0800" stop="20260830203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830194000 +0800" stop="20260830203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830203200 +0800" stop="20260830204500 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20260830204500 +0800" stop="20260830211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260830204500 +0800" stop="20260830211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260830211500 +0800" stop="20260830232000 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
@@ -41122,7 +41452,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830003800 +0800" stop="20260830004400 +0800" channel="生活时尚"><title lang="zh">漫步上海(36):上海京剧传习馆</title>
   </programme>
-  <programme start="20260830004400 +0800" stop="20260830005100 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830004400 +0800" stop="20260830005100 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830005100 +0800" stop="20260830005400 +0800" channel="生活时尚"><title lang="zh">闲着:梅奔餐厅</title><desc lang="zh">作品叙述了近来在上海这样一个大城市下的几个社会底层小人物的求生经历。他们由于不同的原因走在了一起，靠在街头卖艺卖唱来维持生活，他们用歌声寻找自己的尊严，表述着历史和现实，宣泄着快乐和忧愁，祈祷着心中的明天。</desc>
   </programme>
@@ -41178,7 +41508,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830040700 +0800" stop="20260830041200 +0800" channel="生活时尚"><title lang="zh">漫步上海(36):上海京剧传习馆</title>
   </programme>
-  <programme start="20260830041200 +0800" stop="20260830042000 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830041200 +0800" stop="20260830042000 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830042000 +0800" stop="20260830042300 +0800" channel="生活时尚"><title lang="zh">闲着:梅奔餐厅</title><desc lang="zh">作品叙述了近来在上海这样一个大城市下的几个社会底层小人物的求生经历。他们由于不同的原因走在了一起，靠在街头卖艺卖唱来维持生活，他们用歌声寻找自己的尊严，表述着历史和现实，宣泄着快乐和忧愁，祈祷着心中的明天。</desc>
   </programme>
@@ -41230,7 +41560,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830073700 +0800" stop="20260830074300 +0800" channel="生活时尚"><title lang="zh">漫步上海(36):上海京剧传习馆</title>
   </programme>
-  <programme start="20260830074300 +0800" stop="20260830075100 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830074300 +0800" stop="20260830075100 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830075100 +0800" stop="20260830075500 +0800" channel="生活时尚"><title lang="zh">闲着:梅奔餐厅</title><desc lang="zh">作品叙述了近来在上海这样一个大城市下的几个社会底层小人物的求生经历。他们由于不同的原因走在了一起，靠在街头卖艺卖唱来维持生活，他们用歌声寻找自己的尊严，表述着历史和现实，宣泄着快乐和忧愁，祈祷着心中的明天。</desc>
   </programme>
@@ -41278,7 +41608,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830110800 +0800" stop="20260830111400 +0800" channel="生活时尚"><title lang="zh">漫步上海(36):上海京剧传习馆</title>
   </programme>
-  <programme start="20260830111400 +0800" stop="20260830111800 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830111400 +0800" stop="20260830111800 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830111800 +0800" stop="20260830113200 +0800" channel="生活时尚"><title lang="zh">川味第一季4:坛子肉</title><desc lang="zh">《川味2》延续了第一部的拍摄模式，用时间的力量，记录美味的发生，用独特的手法展现美味最具诱惑的瞬间，影片从川菜的名菜开始，到民间风味，再到那些封藏在山间田野的食材，彬歌带着镜头与一群对美食执着的人，为大&amp;ensp;家道出美味是如何发生的。是一部探讨中国人与美食的关系的食物纪录片。自2012年精心筹备3年后才启动的美食系列片，影片旨在为众多热爱川菜的吃货们带去最具诱惑力的美食影像。</desc>
   </programme>
@@ -41326,7 +41656,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830141000 +0800" stop="20260830142600 +0800" channel="生活时尚"><title lang="zh">川味Ⅰ(3):泡菜</title>
   </programme>
-  <programme start="20260830142600 +0800" stop="20260830142900 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830142600 +0800" stop="20260830142900 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830142900 +0800" stop="20260830144900 +0800" channel="生活时尚"><title lang="zh">极限冰岛06</title><desc lang="zh">暂无节目描述</desc>
   </programme>
@@ -41338,7 +41668,7 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830154400 +0800" stop="20260830160000 +0800" channel="生活时尚"><title lang="zh">川味Ⅰ(4):坛子肉</title>
   </programme>
-  <programme start="20260830160000 +0800" stop="20260830160400 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc>面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
+  <programme start="20260830160000 +0800" stop="20260830160400 +0800" channel="生活时尚"><title lang="zh">大医来了</title><desc lang="zh">面向中老年观众的健康科普访谈节目，邀请三甲医院名医走进演播室，围绕公众关心的健康话题进行权威解读。节目内容涵盖肿瘤防治、慢病管理、眼科保健、皮肤疾病等领域，通过专家讲解与案例分析相结合的方式传播健康知识，打造贴近百姓生活的健康课堂。</desc>
   </programme>
   <programme start="20260830160400 +0800" stop="20260830161400 +0800" channel="生活时尚"><title lang="zh">直击上海滩</title><desc lang="zh">暂无节目描述</desc>
   </programme>
@@ -49060,29 +49390,29 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830233900 +0800" stop="20260831070200 +0800" channel="青岛QTV-5"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20260830003000 +0800" stop="20260830010500 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830003000 +0800" stop="20260830010500 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830010500 +0800" stop="20260830013700 +0800" channel="青海卫视"><title lang="zh">征战达喀尔</title><desc>青海卫视体育纪录片栏目，聚焦中国车手征战达喀尔拉力赛的艰辛历程，记录他们驰骋沙漠、挑战极限的勇气与坚持。</desc>
+  <programme start="20260830010500 +0800" stop="20260830013700 +0800" channel="青海卫视"><title lang="zh">征战达喀尔</title><desc lang="zh">青海卫视体育纪录片栏目，聚焦中国车手征战达喀尔拉力赛的艰辛历程，记录他们驰骋沙漠、挑战极限的勇气与坚持。</desc>
   </programme>
-  <programme start="20260830013700 +0800" stop="20260830022300 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830013700 +0800" stop="20260830022300 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830022300 +0800" stop="20260830030700 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830022300 +0800" stop="20260830030700 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830033500 +0800" stop="20260830040200 +0800" channel="青海卫视"><title lang="zh">深夜剧场:隋唐英雄传39</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830033500 +0800" stop="20260830040200 +0800" channel="青海卫视"><title lang="zh">深夜剧场:隋唐英雄传39</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260830040200 +0800" stop="20260830042500 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830040200 +0800" stop="20260830042500 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830042500 +0800" stop="20260830044600 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830042500 +0800" stop="20260830044600 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830044600 +0800" stop="20260830051000 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc>大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
+  <programme start="20260830044600 +0800" stop="20260830051000 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc lang="zh">大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
   </programme>
-  <programme start="20260830051000 +0800" stop="20260830054000 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc>大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
+  <programme start="20260830051000 +0800" stop="20260830054000 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc lang="zh">大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
   </programme>
-  <programme start="20260830054000 +0800" stop="20260830061100 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc>大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
+  <programme start="20260830054000 +0800" stop="20260830061100 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc lang="zh">大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
   </programme>
-  <programme start="20260830061100 +0800" stop="20260830070000 +0800" channel="青海卫视"><title lang="zh">动画片:乐比大冒险第二季</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260830061100 +0800" stop="20260830070000 +0800" channel="青海卫视"><title lang="zh">动画片:乐比大冒险第二季</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20260830070000 +0800" stop="20260830070100 +0800" channel="青海卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  <programme start="20260830070000 +0800" stop="20260830070100 +0800" channel="青海卫视"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
   <programme start="20260830070100 +0800" stop="20260830072600 +0800" channel="青海卫视"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
   </programme>
@@ -49090,23 +49420,23 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830073600 +0800" stop="20260830074500 +0800" channel="青海卫视"><title lang="zh">中国梦纪录片</title><desc lang="zh">响应国家新闻出版广电总局关于“中国梦”主题纪录片展播，中国梦纪录片展播是展播中国梦主题纪录片的平台。</desc>
   </programme>
-  <programme start="20260830074500 +0800" stop="20260830081100 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc>大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
+  <programme start="20260830074500 +0800" stop="20260830081100 +0800" channel="青海卫视"><title lang="zh">纪录时间</title><desc lang="zh">大型纪录影像展播栏目，以“记录历史，见证时代”为宗旨，精选国内外优秀纪录片作品进行集中展映。内容涵盖自然地理、人文历史、科技探索、社会现实等多元题材，通过系统化的主题编排和精心的剪辑呈现，为观众提供高水准的纪实影像观赏体验。</desc>
   </programme>
-  <programme start="20260830081800 +0800" stop="20260830084900 +0800" channel="青海卫视"><title lang="zh">动画片:乐比悠悠之快乐小伙伴</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20260830081800 +0800" stop="20260830084900 +0800" channel="青海卫视"><title lang="zh">动画片:乐比悠悠之快乐小伙伴</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20260830084900 +0800" stop="20260830091900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830084900 +0800" stop="20260830091900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830091900 +0800" stop="20260830093600 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830102400 +0800" stop="20260830110400 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830102400 +0800" stop="20260830110400 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830110400 +0800" stop="20260830113000 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
   <programme start="20260830113000 +0800" stop="20260830114200 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛丁山6</title><desc lang="zh">该剧讲述的是大唐贞观年间，苏凤父子反唐，薛仁贵元帅奉命征剿却惨遭奸人所害，其子薛丁山请缨，以无敌之势夺得帅印，与母亲及妹妹出发西征的故事。唐高宗年间，大唐所辖西凉封地西凉王,采纳其元帅舒宝同谋略，欲称霸中原，举兵长安。薛仁贵奉命挂帅征西平乱，高宗李治御驾亲征，但途中不幸被困锁阳城。舒宝同率军师铁板道人和飞钹禅师，以百万雄兵把锁阳城围得水泄不通。秦怀玉和尉迟宝林等将领突围时不幸牺牲，薛仁贵被舒宝同剧毒飞刀重创。老将程咬金奉旨回京搬救兵。薛仁贵之子薛丁山，在师傅王敖老祖教诲下，熟读兵书阵法，练得盖世武功。经殿试，薛丁山击败众英雄豪杰夺得征西二路元帅。他即点兵布将，命罗通为前部先锋。</desc>
   </programme>
-  <programme start="20260830114200 +0800" stop="20260830123000 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830114200 +0800" stop="20260830123000 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830123000 +0800" stop="20260830125700 +0800" channel="青海卫视"><title lang="zh">午间360</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20260830123000 +0800" stop="20260830125700 +0800" channel="青海卫视"><title lang="zh">午间360</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260830125700 +0800" stop="20260830133600 +0800" channel="青海卫视"><title lang="zh">郁金香剧场:薛丁山7</title><desc lang="zh">该剧讲述的是大唐贞观年间，苏凤父子反唐，薛仁贵元帅奉命征剿却惨遭奸人所害，其子薛丁山请缨，以无敌之势夺得帅印，与母亲及妹妹出发西征的故事。唐高宗年间，大唐所辖西凉封地西凉王,采纳其元帅舒宝同谋略，欲称霸中原，举兵长安。薛仁贵奉命挂帅征西平乱，高宗李治御驾亲征，但途中不幸被困锁阳城。舒宝同率军师铁板道人和飞钹禅师，以百万雄兵把锁阳城围得水泄不通。秦怀玉和尉迟宝林等将领突围时不幸牺牲，薛仁贵被舒宝同剧毒飞刀重创。老将程咬金奉旨回京搬救兵。薛仁贵之子薛丁山，在师傅王敖老祖教诲下，熟读兵书阵法，练得盖世武功。经殿试，薛丁山击败众英雄豪杰夺得征西二路元帅。他即点兵布将，命罗通为前部先锋。</desc>
   </programme>
@@ -49114,55 +49444,55 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260830133700 +0800" stop="20260830134100 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830134100 +0800" stop="20260830141300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830134100 +0800" stop="20260830141300 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830141300 +0800" stop="20260830143000 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830143000 +0800" stop="20260830150000 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830143000 +0800" stop="20260830150000 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830150000 +0800" stop="20260830151700 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830151700 +0800" stop="20260830154600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830151700 +0800" stop="20260830154600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830154600 +0800" stop="20260830161400 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830161400 +0800" stop="20260830164900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830161400 +0800" stop="20260830164900 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830164900 +0800" stop="20260830171600 +0800" channel="青海卫视"><title lang="zh">生活服务</title>
   </programme>
-  <programme start="20260830171600 +0800" stop="20260830174600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830171600 +0800" stop="20260830174600 +0800" channel="青海卫视"><title lang="zh">昆仑剧场:薛仁贵传奇</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260830174600 +0800" stop="20260830175700 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20260830174600 +0800" stop="20260830175700 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20260830175700 +0800" stop="20260830180900 +0800" channel="青海卫视"><title lang="zh">挑战无极限</title><desc>极限运动栏目，记录极限运动员挑战自我、超越极限的精彩瞬间，展现勇气、毅力与人类潜能的无限可能。</desc>
+  <programme start="20260830175700 +0800" stop="20260830180900 +0800" channel="青海卫视"><title lang="zh">挑战无极限</title><desc lang="zh">极限运动栏目，记录极限运动员挑战自我、超越极限的精彩瞬间，展现勇气、毅力与人类潜能的无限可能。</desc>
   </programme>
-  <programme start="20260830180900 +0800" stop="20260830182000 +0800" channel="青海卫视"><title lang="zh">国宝时刻</title><desc>《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
+  <programme start="20260830180900 +0800" stop="20260830182000 +0800" channel="青海卫视"><title lang="zh">国宝时刻</title><desc lang="zh">《国宝时刻》文物超高清影像记录工程由国家广播电视总局和国家文物局联合策划实施，作为深入学习贯彻习近平文化思想的生动实践，工程用视听语言讲述文物故事，用超高清技术赋能文化传承，以每集拍摄一件文物、每个文物5分钟的精炼体量制作传播，进一步推动文物从“馆舍展陈”融入“生活场景”，让广大人民共享文化遗产保护成果，也为世界人民更好地理解中国、读懂中国提供了深刻而生动的窗口。首批发布的50部作品包括新石器时代七孔骨笛、夏代镶嵌绿松石兽面纹铜牌饰、周代大克鼎、秦代铜车马、汉代长信宫灯、唐代八曲葵花形螺钿铜镜、宋代汝窑天蓝釉刻花鹅颈瓶、元代青花萧何月下追韩信图梅瓶、明代《坤舆万国全图》、清代广彩人物纹大碗等。</desc>
   </programme>
   <programme start="20260830182000 +0800" stop="20260830183000 +0800" channel="青海卫视"><title lang="zh">青海省天气预报</title><desc lang="zh">《天气预报》为您提供天气气象信息,及时发布天气预报、灾害预警、气象云图、台风、暴雨雪等气象信息,为人民的生产生活提供全面精确的气象服务。</desc>
   </programme>
-  <programme start="20260830183000 +0800" stop="20260830190000 +0800" channel="青海卫视"><title lang="zh">青海新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20260830183000 +0800" stop="20260830190000 +0800" channel="青海卫视"><title lang="zh">青海新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
   </programme>
-  <programme start="20260830190000 +0800" stop="20260830193000 +0800" channel="青海卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  <programme start="20260830190000 +0800" stop="20260830193000 +0800" channel="青海卫视"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
   </programme>
   <programme start="20260830193000 +0800" stop="20260830193500 +0800" channel="青海卫视"><title lang="zh">广告</title>
   </programme>
-  <programme start="20260830193500 +0800" stop="20260830202400 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:平凡的世界16</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830193500 +0800" stop="20260830202400 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:平凡的世界16</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260830202400 +0800" stop="20260830211000 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:平凡的世界17</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260830202400 +0800" stop="20260830211000 +0800" channel="青海卫视"><title lang="zh">第一挑战剧场:平凡的世界17</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260830211000 +0800" stop="20260830212000 +0800" channel="青海卫视"><title lang="zh">守望</title>
   </programme>
-  <programme start="20260830212000 +0800" stop="20260830213000 +0800" channel="青海卫视"><title lang="zh">昆仑眼</title><desc>青海卫视文化旅游纪录片栏目，聚焦昆仑山脉的地质奇观与人文传说，以“恶魔之眼”艾肯泉等自然景观为载体，探寻昆仑神话与丝路文明的深厚底蕴。</desc>
+  <programme start="20260830212000 +0800" stop="20260830213000 +0800" channel="青海卫视"><title lang="zh">昆仑眼</title><desc lang="zh">青海卫视文化旅游纪录片栏目，聚焦昆仑山脉的地质奇观与人文传说，以“恶魔之眼”艾肯泉等自然景观为载体，探寻昆仑神话与丝路文明的深厚底蕴。</desc>
   </programme>
   <programme start="20260830213000 +0800" stop="20260830220000 +0800" channel="青海卫视"><title lang="zh">纪录片</title><desc lang="zh">关注于各行各业的新兴企业的成长史，将企业鲜为人知的奋斗历程、资源优势、文化理念，以生动易懂的方式娓娓道来。以真实、客观、感人、详尽的纪录片形式呈现在大众面前。</desc>
   </programme>
-  <programme start="20260830220000 +0800" stop="20260830222000 +0800" channel="青海卫视"><title lang="zh">晚间播报</title><desc>晚间新闻资讯栏目，聚焦当日国内外重大新闻，涵盖时政要闻、民生热点、国际动态，为观众提供权威及时的新闻资讯。</desc>
+  <programme start="20260830220000 +0800" stop="20260830222000 +0800" channel="青海卫视"><title lang="zh">晚间播报</title><desc lang="zh">晚间新闻资讯栏目，聚焦当日国内外重大新闻，涵盖时政要闻、民生热点、国际动态，为观众提供权威及时的新闻资讯。</desc>
   </programme>
-  <programme start="20260830222000 +0800" stop="20260830223000 +0800" channel="青海卫视"><title lang="zh">今日青海</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  <programme start="20260830222000 +0800" stop="20260830223000 +0800" channel="青海卫视"><title lang="zh">今日青海</title><desc lang="zh">“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
   </programme>
   <programme start="20260830223000 +0800" stop="20260830233000 +0800" channel="青海卫视"><title lang="zh">龙斗之ONE冠军赛</title><desc lang="zh">暂无节目描述</desc>
   </programme>

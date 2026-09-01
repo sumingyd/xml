@@ -133,6 +133,8 @@
   </channel>
   <channel id="SUPER奖门人"><display-name lang="zh">SUPER奖门人</display-name>
   </channel>
+  <channel id="兰陵综合"><display-name lang="zh">兰陵综合</display-name>
+  </channel>
   <channel id="Sky News"><display-name lang="zh">Sky News</display-name>
   </channel>
   <channel id="HUB SPORTS 3 HD"><display-name lang="zh">HUB SPORTS 3 HD</display-name>
@@ -384,6 +386,8 @@
   <channel id="BBC News"><display-name lang="zh">BBC News</display-name><display-name lang="zh">BBC新闻</display-name><display-name lang="zh">BBCNEWS</display-name><display-name lang="zh">BBC News HD</display-name><display-name lang="zh">BBC NEWS HD</display-name><display-name lang="zh">BBC NEWS</display-name>
   </channel>
   <channel id="重庆农村"><display-name lang="zh">重庆农村</display-name><display-name lang="zh">重庆新农村</display-name>
+  </channel>
+  <channel id="枣庄新闻综合"><display-name lang="zh">枣庄新闻综合</display-name>
   </channel>
   <channel id="内蒙新闻综合"><display-name lang="zh">内蒙新闻综合</display-name>
   </channel>
@@ -1007,6 +1011,8 @@
   </channel>
   <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
   </channel>
+  <channel id="临淄TV-1"><display-name lang="zh">临淄TV-1</display-name>
+  </channel>
   <channel id="招远综合"><display-name lang="zh">招远综合</display-name><display-name lang="zh">招远综合</display-name><display-name lang="zh">CHANNEL00001113</display-name>
   </channel>
   <channel id="烟台综合"><display-name lang="zh">烟台综合</display-name><display-name lang="zh">烟台新闻综合</display-name><display-name lang="zh">烟台新闻</display-name><display-name lang="zh">CHANNEL00000280</display-name>
@@ -1299,6 +1305,8 @@
   </channel>
   <channel id="湖北综合"><display-name lang="zh">湖北综合</display-name>
   </channel>
+  <channel id="兰陵公共"><display-name lang="zh">兰陵公共</display-name>
+  </channel>
   <channel id="寰宇新闻台湾"><display-name lang="zh">寰宇新闻台湾</display-name>
   </channel>
   <channel id="江西都市"><display-name lang="zh">江西都市</display-name>
@@ -1545,7 +1553,41 @@
   </channel>
   <programme start="20260902010000 +0800" stop="20260902070000 +0800" channel="8TV"><title lang="zh">Eightfm@ 8tv</title>
   </programme>
-  <programme start="20260902070000 +0800" stop="20260903000000 +0800" channel="8TV"><title lang="zh">8 E-Pulse</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
+  <programme start="20260902070000 +0800" stop="20260902080000 +0800" channel="8TV"><title lang="zh">8 E-Pulse</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
+  </programme>
+  <programme start="20260902080000 +0800" stop="20260902083000 +0800" channel="8TV"><title lang="zh">Amusing Race</title><desc lang="zh">Empat orang hos mengembara ke Ipoh, Perak. Mereka melawat ke Taman Rekreasi Gunung Lang, sebuah ladang tanaman limau bali, Hentian Limau Tambun dan Air Terjun Lata Kinjang.</desc>
+  </programme>
+  <programme start="20260902083000 +0800" stop="20260902093000 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20260902093000 +0800" stop="20260902094500 +0800" channel="8TV"><title lang="zh">8TV Morning Express</title><desc lang="zh">8TV Morning Express brings the most immediate domestic and foreign news reports as well as daily financial information in the morning.</desc>
+  </programme>
+  <programme start="20260902094500 +0800" stop="20260902103500 +0800" channel="8TV"><title lang="zh">Great Times</title><desc lang="zh">Thian Yi menemui dokumen yang ditandatangani oleh Ruo Lan mengenai bayi 'test-tube'. Kemudian Thian Yi dan Chee Qian membawa bersama seorang peguam untuk menuntut hak penjagaan Toto.</desc>
+  </programme>
+  <programme start="20260902103500 +0800" stop="20260902123000 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20260902123000 +0800" stop="20260902130000 +0800" channel="8TV"><title lang="zh">Midday Mandarin News</title><desc lang="zh">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+  </programme>
+  <programme start="20260902130000 +0800" stop="20260902140000 +0800" channel="8TV"><title lang="zh">Anonymous Signal</title><desc lang="zh">Ka Lei berjaya diselamatkan oleh Chun Long, Hei Man, Pak Fei dan pasukan polis setelah berlaku pertempuran sengit dengan kumpulan Song Yew Hing.</desc>
+  </programme>
+  <programme start="20260902140000 +0800" stop="20260902150000 +0800" channel="8TV"><title lang="zh">The Promise</title><desc lang="zh">Dr Quek mengunjungi Ting dan mahu berbaik semula dengannya, tetapi Ting menolak secara tegas.</desc>
+  </programme>
+  <programme start="20260902150000 +0800" stop="20260902160000 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20260902160000 +0800" stop="20260902170000 +0800" channel="8TV"><title lang="zh">Fight for Justice</title><desc lang="zh">Ivan belasah dan didera oleh Chang Sheng tetapi menegas untuk merahsiakan tempat penyembunyian emas.</desc>
+  </programme>
+  <programme start="20260902170000 +0800" stop="20260902180000 +0800" channel="8TV"><title lang="zh">Fight for Justice</title><desc lang="zh">Zi Qian mengucapkan penghargaan kepada Ling Feng di atas tindakan cerdiknya meninggalkan telefon bimbitnya dalam poket Daisy.</desc>
+  </programme>
+  <programme start="20260902180000 +0800" stop="20260902190000 +0800" channel="8TV"><title lang="zh">8 E-Pulse</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
+  </programme>
+  <programme start="20260902190000 +0800" stop="20260902200000 +0800" channel="8TV"><title lang="zh">The Fading Gold</title><desc lang="zh">Youwei diculik dan terkurung, penculiknya berniat untuk memaksanya mendedahkan kebenaran di sebalik kemalangan kereta yang membawa maut.</desc>
+  </programme>
+  <programme start="20260902200000 +0800" stop="20260902210000 +0800" channel="8TV"><title lang="zh">Mandarin News</title><desc lang="zh">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+  </programme>
+  <programme start="20260902210000 +0800" stop="20260902220000 +0800" channel="8TV"><title lang="zh">The Company</title><desc lang="zh">Bi Zi, Bei Lu dan Lu Feng tiba di Guangling untuk menjejaki Ah Lan, ketua tukang masak istana.</desc>
+  </programme>
+  <programme start="20260902220000 +0800" stop="20260902230000 +0800" channel="8TV"><title lang="zh">My Star Family 2</title><desc lang="zh">Mengimbas kembali sewaktu Keira merakam iklan di studio. Keira kini lebih menghargai dan rapat dengan ahli-ahli keluarganya. Seluruh keluarga Keira kini giat menjimatkan wang akibat inflasi.</desc>
+  </programme>
+  <programme start="20260902230000 +0800" stop="20260903010000 +0800" channel="8TV"><title lang="zh">8 E-Pulse</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
   </programme>
   <programme start="20260902000000 +0800" stop="20260902003000 +0800" channel="ABCAUSTRALIA"><title lang="zh">Landline:2026 第28集</title><desc lang="zh">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
   </programme>
@@ -1981,7 +2023,79 @@
   </programme>
   <programme start="20260902070000 +0800" stop="20260902073000 +0800" channel="Astro AEC"><title lang="zh">Evening Edition</title><desc lang="zh">Catch the latest local &amp; international news headlines as depicted in major newspaper &amp; magazines, each from a range of different perspectives.</desc>
   </programme>
-  <programme start="20260902073000 +0800" stop="20260903000000 +0800" channel="Astro AEC"><title lang="zh">Every Body Knows</title><desc lang="zh">Don't miss this engaging health talk show as hosts Mark Lee, Lee Teng, &amp; Kym Ng discuss various complex health topics with medical practitioners from various fields.</desc>
+  <programme start="20260902073000 +0800" stop="20260902080000 +0800" channel="Astro AEC"><title lang="zh">Every Body Knows</title><desc lang="zh">Don't miss this engaging health talk show as hosts Mark Lee, Lee Teng, &amp; Kym Ng discuss various complex health topics with medical practitioners from various fields.</desc>
+  </programme>
+  <programme start="20260902080000 +0800" stop="20260902083000 +0800" channel="Astro AEC"><title lang="zh">Every Body Knows</title><desc lang="zh">Don't miss this engaging health talk show as hosts Mark Lee, Lee Teng, &amp; Kym Ng discuss various complex health topics with medical practitioners from various fields.</desc>
+  </programme>
+  <programme start="20260902083000 +0800" stop="20260902093000 +0800" channel="Astro AEC"><title lang="zh">Where The Heart Belongs</title><desc lang="zh">After the government banned the sale of public housing to individuals living alone, Ming Zhen, reeling from her fiance's betrayal, is compelled to adopt a solitary elder in order to secure a home.</desc>
+  </programme>
+  <programme start="20260902093000 +0800" stop="20260902100000 +0800" channel="Astro AEC"><title lang="zh">Garden of Treasure</title><desc lang="zh">Join professionals in the third series of Garden of Treasure as they show you which herbs work best for you and how to maximize them in your healthcare regime.</desc>
+  </programme>
+  <programme start="20260902100000 +0800" stop="20260902101300 +0800" channel="Astro AEC"><title lang="zh">Petronix</title><desc lang="zh">Meet Matt, Emma, Jia &amp; Tom, who may look like ordinary students at Doodlewitz Elementary School. But when animals are in danger, they sneak out to become the Petronix Defenders!</desc>
+  </programme>
+  <programme start="20260902101300 +0800" stop="20260902103000 +0800" channel="Astro AEC"><title lang="zh">Petronix</title><desc lang="zh">Meet Matt, Emma, Jia &amp; Tom, who may look like ordinary students at Doodlewitz Elementary School. But when animals are in danger, they sneak out to become the Petronix Defenders!</desc>
+  </programme>
+  <programme start="20260902103000 +0800" stop="20260902103400 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902103400 +0800" stop="20260902103800 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902103800 +0800" stop="20260902104200 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902104200 +0800" stop="20260902104500 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902104500 +0800" stop="20260902110000 +0800" channel="Astro AEC"><title lang="zh">Mighty Goat Squad</title><desc lang="zh">Weslie and his friends are off to help their insect neighbors! This time, with the help of magical carts and inventions, they embark on a journey to explore and to solve crises.</desc>
+  </programme>
+  <programme start="20260902110000 +0800" stop="20260902115600 +0800" channel="Astro AEC"><title lang="zh">Social Playlist</title><desc lang="zh">News anchor Hui Mei visits East Malaysia to learn how stateless people are struggling. Singer Gary Chaw unites with Malaysia's Shila, Priscilla Abby &amp; other great voices in a song of hope.</desc>
+  </programme>
+  <programme start="20260902115600 +0800" stop="20260902120000 +0800" channel="Astro AEC"><title lang="zh">Yang Sudi Tinggal</title><desc lang="zh">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902130000 +0800" channel="Astro AEC"><title lang="zh">Legend Of The Magnate</title><desc lang="zh">From a convict exiled to Ningguta to a business magnate who amassed immense wealth, Gu Ping Yuan rose from adversity through wisdom and courage to create a legendary commercial empire.</desc>
+  </programme>
+  <programme start="20260902130000 +0800" stop="20260902140000 +0800" channel="Astro AEC"><title lang="zh">Brighter Days</title><desc lang="zh">Following his father's footsteps, Li Yi Wei becomes a HDB officer. He reconnects with his childhood friend and discovers that his long-lost younger brother harbors deep resentment toward him.</desc>
+  </programme>
+  <programme start="20260902140000 +0800" stop="20260902145600 +0800" channel="Astro AEC"><title lang="zh">Taiwan No. 1</title><desc lang="zh">Explore the wonder that is Taiwan as the hosts share the island's most captivating stories. Discover gems from nature, local cuisines &amp; sceneries to history &amp; culture.</desc>
+  </programme>
+  <programme start="20260902145600 +0800" stop="20260902150000 +0800" channel="Astro AEC"><title lang="zh">Yang Sudi Tinggal</title><desc lang="zh">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+  </programme>
+  <programme start="20260902150000 +0800" stop="20260902153000 +0800" channel="Astro AEC"><title lang="zh">Garden of Treasure</title><desc lang="zh">Join professionals in the third series of Garden of Treasure as they show you which herbs work best for you and how to maximize them in your healthcare regime.</desc>
+  </programme>
+  <programme start="20260902153000 +0800" stop="20260902163000 +0800" channel="Astro AEC"><title lang="zh">A Better Life</title><desc lang="zh">At the peak of her career, insurance agent Hu Man Li suddenly faces challenges in her career &amp; marriage due to the actions of Xue Xiao Zhou, a newcomer to the industry, resulting in misunderstandings.</desc>
+  </programme>
+  <programme start="20260902163000 +0800" stop="20260902173000 +0800" channel="Astro AEC"><title lang="zh">Where The Heart Belongs</title><desc lang="zh">After the government banned the sale of public housing to individuals living alone, Ming Zhen, reeling from her fiance's betrayal, is compelled to adopt a solitary elder in order to secure a home.</desc>
+  </programme>
+  <programme start="20260902173000 +0800" stop="20260902174500 +0800" channel="Astro AEC"><title lang="zh">Petronix</title><desc lang="zh">Meet Matt, Emma, Jia &amp; Tom, who may look like ordinary students at Doodlewitz Elementary School. But when animals are in danger, they sneak out to become the Petronix Defenders!</desc>
+  </programme>
+  <programme start="20260902174500 +0800" stop="20260902180000 +0800" channel="Astro AEC"><title lang="zh">Petronix</title><desc lang="zh">Meet Matt, Emma, Jia &amp; Tom, who may look like ordinary students at Doodlewitz Elementary School. But when animals are in danger, they sneak out to become the Petronix Defenders!</desc>
+  </programme>
+  <programme start="20260902180000 +0800" stop="20260902180200 +0800" channel="Astro AEC"><title lang="zh">AI News Flash</title><desc lang="zh">Malaysia's first Chinese news program hosted by an AI anchor. In just 100 seconds, it provides viewers with a daily summary of the latest domestic and international news.</desc>
+  </programme>
+  <programme start="20260902180200 +0800" stop="20260902180500 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902180500 +0800" stop="20260902180900 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902180900 +0800" stop="20260902181200 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902181200 +0800" stop="20260902181700 +0800" channel="Astro AEC"><title lang="zh">David Backkom</title><desc lang="zh">In Season 7, polar bear Backkom heads out to explore a fairytale island. He encounters a group of alien ducks and travels between the deserts &amp; Iceland on a tri-world adventure.</desc>
+  </programme>
+  <programme start="20260902181700 +0800" stop="20260902183000 +0800" channel="Astro AEC"><title lang="zh">Mighty Goat Squad</title><desc lang="zh">Weslie and his friends are off to help their insect neighbors! This time, with the help of magical carts and inventions, they embark on a journey to explore and to solve crises.</desc>
+  </programme>
+  <programme start="20260902183000 +0800" stop="20260902190000 +0800" channel="Astro AEC"><title lang="zh">Garden of Treasure</title><desc lang="zh">Join professionals in the third series of Garden of Treasure as they show you which herbs work best for you and how to maximize them in your healthcare regime.</desc>
+  </programme>
+  <programme start="20260902190000 +0800" stop="20260902195600 +0800" channel="Astro AEC"><title lang="zh">Legend Of The Magnate</title><desc lang="zh">From a convict exiled to Ningguta to a business magnate who amassed immense wealth, Gu Ping Yuan rose from adversity through wisdom and courage to create a legendary commercial empire.</desc>
+  </programme>
+  <programme start="20260902195600 +0800" stop="20260902200000 +0800" channel="Astro AEC"><title lang="zh">Yang Sudi Tinggal</title><desc lang="zh">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+  </programme>
+  <programme start="20260902200000 +0800" stop="20260902203000 +0800" channel="Astro AEC"><title lang="zh">(L) 2000 Prime Talk</title><desc lang="zh">This primetime news programme delivers the latest in current affairs, international top stories &amp; human interest, with input from professionals in the field.</desc>
+  </programme>
+  <programme start="20260902203000 +0800" stop="20260902213000 +0800" channel="Astro AEC"><title lang="zh">Brighter Days</title><desc lang="zh">Following his father's footsteps, Li Yi Wei becomes a HDB officer. He reconnects with his childhood friend and discovers that his long-lost younger brother harbors deep resentment toward him.</desc>
+  </programme>
+  <programme start="20260902213000 +0800" stop="20260902222600 +0800" channel="Astro AEC"><title lang="zh">Freedom Travelers</title><desc lang="zh">Ultimate travel expert Ben teams up with Kornkamon Charoenchaichana for a grand comeback. They embark on a Thai adventure via unique modes of transport, immersing in the charm of the Land of Smiles.</desc>
+  </programme>
+  <programme start="20260902222600 +0800" stop="20260902223000 +0800" channel="Astro AEC"><title lang="zh">Yang Sudi Tinggal</title><desc lang="zh">From national athlete to educator, discover Emily's story and how Astro is changing her future.</desc>
+  </programme>
+  <programme start="20260902223000 +0800" stop="20260902230000 +0800" channel="Astro AEC"><title lang="zh">(L) Evening Edition</title><desc lang="zh">Catch the latest local &amp; international news headlines as depicted in major newspaper &amp; magazines, each from a range of different perspectives.</desc>
+  </programme>
+  <programme start="20260902230000 +0800" stop="20260903010000 +0800" channel="Astro AEC"><title lang="zh">Brighter Days</title><desc lang="zh">Following his father's footsteps, Li Yi Wei becomes a HDB officer. He reconnects with his childhood friend and discovers that his long-lost younger brother harbors deep resentment toward him.</desc>
   </programme>
   <programme start="20260902003000 +0800" stop="20260902012000 +0800" channel="Astro AOD"><title lang="zh">夫妻的博弈 第22集</title><desc lang="zh">姜幸如撞破丈夫与闺蜜的奸情，惨遭毒手却重生回到五年前。她以亮丽外型与预知能力重返职场，带领粉红兵团反击渣男势力，创作动人广告，女力觉醒，成就自己的人生。</desc>
   </programme>
@@ -2171,13 +2285,17 @@
   </programme>
   <programme start="20260902060000 +0800" stop="20260902063000 +0800" channel="BBCEARTH"><title lang="zh">羅布森週末逍遙遊 第4季第11集 -克里斯卡馬拉</title><desc lang="zh">羅布森帶著足球評論員克里斯卡馬拉, 一起去北約克沼澤國家公園度假。他們在蒸汽火車上享受高級下午茶、在豪華露營艙裡過夜, 還體驗了採集化石的樂趣。</desc>
   </programme>
+  <programme start="20260902063000 +0800" stop="20260902070000 +0800" channel="BBCEARTH"><title lang="zh">Newscast</title>
+  </programme>
   <programme start="20260902070000 +0800" stop="20260902073000 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
   </programme>
   <programme start="20260902073000 +0800" stop="20260902080000 +0800" channel="BBCEARTH"><title lang="zh">Newscast</title><desc lang="zh">Lighthearted discussion of the day&amp;#x27;s news.</desc>
   </programme>
   <programme start="20260902080000 +0800" stop="20260902083000 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
   </programme>
-  <programme start="20260902083000 +0800" stop="20260902090000 +0800" channel="BBCEARTH"><title lang="zh">The Road to Hope with Fergal Keane</title><desc lang="zh">The BBC&amp;#x27;s Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
+  <programme start="20260902083000 +0800" stop="20260902084500 +0800" channel="BBCEARTH"><title lang="zh">Business Today</title>
+  </programme>
+  <programme start="20260902084500 +0800" stop="20260902090000 +0800" channel="BBCEARTH"><title lang="zh">BBC Sport</title>
   </programme>
   <programme start="20260902090000 +0800" stop="20260902093000 +0800" channel="BBCEARTH"><title lang="zh">Newsday</title><desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
   </programme>
@@ -2219,7 +2337,11 @@
   </programme>
   <programme start="20260902170000 +0800" stop="20260902173000 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
   </programme>
-  <programme start="20260902173000 +0800" stop="20260902180000 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
+  <programme start="20260902173000 +0800" stop="20260902174500 +0800" channel="BBCEARTH"><title lang="zh">Business Today</title>
+  </programme>
+  <programme start="20260902174500 +0800" stop="20260902175500 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title>
+  </programme>
+  <programme start="20260902175500 +0800" stop="20260902180000 +0800" channel="BBCEARTH"><title lang="zh">Politics Live</title>
   </programme>
   <programme start="20260902180000 +0800" stop="20260902183000 +0800" channel="BBCEARTH"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
   </programme>
@@ -2233,7 +2355,9 @@
   </programme>
   <programme start="20260902200000 +0800" stop="20260902203000 +0800" channel="BBCEARTH"><title lang="zh">BBC News Now</title><desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
   </programme>
-  <programme start="20260902203000 +0800" stop="20260902210000 +0800" channel="BBCEARTH"><title lang="zh">BBC News Now</title><desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+  <programme start="20260902203000 +0800" stop="20260902204500 +0800" channel="BBCEARTH"><title lang="zh">Business Today (NYSE Opening Bell)</title>
+  </programme>
+  <programme start="20260902204500 +0800" stop="20260902210000 +0800" channel="BBCEARTH"><title lang="zh">BBC News Now</title>
   </programme>
   <programme start="20260902210000 +0800" stop="20260902213000 +0800" channel="BBCEARTH"><title lang="zh">BBC News Now</title><desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
   </programme>
@@ -2243,7 +2367,9 @@
   </programme>
   <programme start="20260902220000 +0800" stop="20260902223000 +0800" channel="BBCEARTH"><title lang="zh">Verified Live</title><desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
   </programme>
-  <programme start="20260902223000 +0800" stop="20260902230000 +0800" channel="BBCEARTH"><title lang="zh">Verified Live</title><desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+  <programme start="20260902223000 +0800" stop="20260902224500 +0800" channel="BBCEARTH"><title lang="zh">Business Today</title>
+  </programme>
+  <programme start="20260902224500 +0800" stop="20260902230000 +0800" channel="BBCEARTH"><title lang="zh">Verified Live</title>
   </programme>
   <programme start="20260902230000 +0800" stop="20260902233000 +0800" channel="BBCEARTH"><title lang="zh">Verified Live</title><desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
   </programme>
@@ -5828,7 +5954,7 @@
   </programme>
   <programme start="20260902145000 +0800" stop="20260902153600 +0800" channel="CCTV风云剧场"><title lang="zh">我的后半生</title><desc lang="zh">改编自王蒙小说《奇葩奇葩处处哀》的都市老年婚恋轻喜剧，由董富来执导，张国立、佟大为、梅婷、许娣领衔主演。年近七旬的文学系退休教授沈卓然在发妻离世后一度萎靡不振，在老友鼓励和家人的支持下开启相亲之旅，先后与四位性格迥异的女性相遇：温柔体贴却为患病儿子争取房产的护士长连亦怜、志趣相投却因病痛不告而别的天文学家聂娟娟、性格强势的工会主任吕原，以及长相酷似亡妻的乐水珊。不同的情感经历让沈卓然对爱和生活有了新的思考，同时也映照出子女辈的中年困境与代际关系，以诙谐犀利的笔触勾勒出都市老年群体的生存境遇。</desc>
   </programme>
-  <programme start="20260902161000 +0800" stop="20260902161800 +0800" channel="CCTV风云剧场"><title lang="zh">我是刑警</title><desc>2024年惠楷栋执导的刑侦剧，于和伟、富大龙、丁勇岱主演。上世纪90年代，基层民警秦川在师父、好友壮烈牺牲后坚定刑警信仰，在专家曹忠恕、武英德指导下屡破大案，从青涩刑警成长为刑侦队伍中的优秀代表。老中青三代刑警赓续奋斗，再现15起真实大案要案的侦破历程，展现中国刑侦事业的发展与警魂薪火相传。</desc>
+  <programme start="20260902161000 +0800" stop="20260902161800 +0800" channel="CCTV风云剧场"><title lang="zh">我是刑警</title><desc lang="zh">2024年惠楷栋执导的刑侦剧，于和伟、富大龙、丁勇岱主演。上世纪90年代，基层民警秦川在师父、好友壮烈牺牲后坚定刑警信仰，在专家曹忠恕、武英德指导下屡破大案，从青涩刑警成长为刑侦队伍中的优秀代表。老中青三代刑警赓续奋斗，再现15起真实大案要案的侦破历程，展现中国刑侦事业的发展与警魂薪火相传。</desc>
   </programme>
   <programme start="20260902161800 +0800" stop="20260902170400 +0800" channel="CCTV风云剧场"><title lang="zh">我是刑警--2/38</title><desc lang="zh">2024年惠楷栋执导的刑侦剧，于和伟、富大龙、丁勇岱主演。上世纪90年代，基层民警秦川在师父、好友壮烈牺牲后坚定刑警信仰，在专家曹忠恕、武英德指导下屡破大案，从青涩刑警成长为刑侦队伍中的优秀代表。老中青三代刑警赓续奋斗，再现15起真实大案要案的侦破历程，展现中国刑侦事业的发展与警魂薪火相传。</desc>
   </programme>
@@ -5838,7 +5964,11 @@
   </programme>
   <programme start="20260902175800 +0800" stop="20260902184500 +0800" channel="CCTV风云剧场"><title lang="zh">我的后半生--34/36</title><desc lang="zh">改编自王蒙小说《奇葩奇葩处处哀》的都市老年婚恋轻喜剧，由董富来执导，张国立、佟大为、梅婷、许娣领衔主演。年近七旬的文学系退休教授沈卓然在发妻离世后一度萎靡不振，在老友鼓励和家人的支持下开启相亲之旅，先后与四位性格迥异的女性相遇：温柔体贴却为患病儿子争取房产的护士长连亦怜、志趣相投却因病痛不告而别的天文学家聂娟娟、性格强势的工会主任吕原，以及长相酷似亡妻的乐水珊。不同的情感经历让沈卓然对爱和生活有了新的思考，同时也映照出子女辈的中年困境与代际关系，以诙谐犀利的笔触勾勒出都市老年群体的生存境遇。</desc>
   </programme>
-  <programme start="20260902184500 +0800" stop="20260902193500 +0800" channel="CCTV风云剧场"><title lang="zh">我的后半生--35/36</title><desc lang="zh">改编自王蒙小说《奇葩奇葩处处哀》的都市老年婚恋轻喜剧，由董富来执导，张国立、佟大为、梅婷、许娣领衔主演。年近七旬的文学系退休教授沈卓然在发妻离世后一度萎靡不振，在老友鼓励和家人的支持下开启相亲之旅，先后与四位性格迥异的女性相遇：温柔体贴却为患病儿子争取房产的护士长连亦怜、志趣相投却因病痛不告而别的天文学家聂娟娟、性格强势的工会主任吕原，以及长相酷似亡妻的乐水珊。不同的情感经历让沈卓然对爱和生活有了新的思考，同时也映照出子女辈的中年困境与代际关系，以诙谐犀利的笔触勾勒出都市老年群体的生存境遇。</desc>
+  <programme start="20260902184500 +0800" stop="20260902184700 +0800" channel="CCTV风云剧场"><title lang="zh">我的后半生--35/36</title><desc lang="zh">改编自王蒙小说《奇葩奇葩处处哀》的都市老年婚恋轻喜剧，由董富来执导，张国立、佟大为、梅婷、许娣领衔主演。年近七旬的文学系退休教授沈卓然在发妻离世后一度萎靡不振，在老友鼓励和家人的支持下开启相亲之旅，先后与四位性格迥异的女性相遇：温柔体贴却为患病儿子争取房产的护士长连亦怜、志趣相投却因病痛不告而别的天文学家聂娟娟、性格强势的工会主任吕原，以及长相酷似亡妻的乐水珊。不同的情感经历让沈卓然对爱和生活有了新的思考，同时也映照出子女辈的中年困境与代际关系，以诙谐犀利的笔触勾勒出都市老年群体的生存境遇。</desc>
+  </programme>
+  <programme start="20260902184700 +0800" stop="20260902193400 +0800" channel="CCTV风云剧场"><title lang="zh">我是刑警--11/38</title><desc>2024年惠楷栋执导的刑侦剧，于和伟、富大龙、丁勇岱主演。上世纪90年代，基层民警秦川在师父、好友壮烈牺牲后坚定刑警信仰，在专家曹忠恕、武英德指导下屡破大案，从青涩刑警成长为刑侦队伍中的优秀代表。老中青三代刑警赓续奋斗，再现15起真实大案要案的侦破历程，展现中国刑侦事业的发展与警魂薪火相传。</desc>
+  </programme>
+  <programme start="20260902193400 +0800" stop="20260902193500 +0800" channel="CCTV风云剧场"><title lang="zh">大奉打更人--24/40</title>
   </programme>
   <programme start="20260902193500 +0800" stop="20260902193600 +0800" channel="CCTV风云剧场"><title lang="zh">大奉打更人--18/40</title>
   </programme>
@@ -5848,9 +5978,11 @@
   </programme>
   <programme start="20260902211100 +0800" stop="20260902220000 +0800" channel="CCTV风云剧场"><title lang="zh">大奉打更人--20/40</title>
   </programme>
-  <programme start="20260902220000 +0800" stop="20260902224800 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会</title>
+  <programme start="20260902220000 +0800" stop="20260902224500 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会第二季8</title>
   </programme>
-  <programme start="20260902224900 +0800" stop="20260902233400 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会</title>
+  <programme start="20260902224500 +0800" stop="20260902233000 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会第二季9</title>
+  </programme>
+  <programme start="20260902233000 +0800" stop="20260902233400 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会第二季10</title>
   </programme>
   <programme start="20260902233400 +0800" stop="20260902233800 +0800" channel="CCTV风云剧场"><title lang="zh">红带协会</title>
   </programme>
@@ -8349,6 +8481,8 @@
   </programme>
   <programme start="20260902212900 +0800" stop="20260902214000 +0800" channel="DISCOVERY HD"><title lang="zh">Hello Kitty Super Style</title><desc lang="zh">Kitty, Frido, Zonty, Pinky e Rio formam uma banda, mas as brigas os separam. Pop Star Kitty precisa reunir o grupo a tempo do primeiro show.</desc>
   </programme>
+  <programme start="20260902214000 +0800" stop="20260902214500 +0800" channel="DISCOVERY HD"><title lang="zh">Mermicorno: A Queda das Estrelas</title>
+  </programme>
   <programme start="20260902215700 +0800" stop="20260902220400 +0800" channel="DISCOVERY HD"><title lang="zh">樂活發明家:太陽能(普)</title>
   </programme>
   <programme start="20260902220400 +0800" stop="20260902220900 +0800" channel="DISCOVERY HD"><title lang="zh">Peppa Pig</title><desc lang="zh">Mamãe, Papai, Peppa e George decidem ir à praia em um lindo dia de Sol. De repente, uma nuvenzinha cobre o Sol por um minuto, mas logo passa e o Sol reaparece.</desc>
@@ -10279,11 +10413,15 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902005000 +0800" stop="20260902011500 +0800" channel="HGTV (HD)"><title lang="zh">Caribbean Life</title><desc lang="zh">Beach lovers from Virginia that discovered Utila, Honduras, on a show pack their bags and move to the beautiful island.</desc>
   </programme>
-  <programme start="20260902011500 +0800" stop="20260902020000 +0800" channel="HGTV (HD)"><title lang="zh">Home Town</title><desc lang="zh">When moving great-grandmother's house seems risky, Ben and Erin offer an alternative: transforming a cozy cottage in town into a dream home for $100,000.</desc>
+  <programme start="20260902011500 +0800" stop="20260902012000 +0800" channel="HGTV (HD)"><title lang="zh">Home Town</title><desc lang="zh">When moving great-grandmother's house seems risky, Ben and Erin offer an alternative: transforming a cozy cottage in town into a dream home for $100,000.</desc>
   </programme>
-  <programme start="20260902020000 +0800" stop="20260902022500 +0800" channel="HGTV (HD)"><title lang="zh">Island Life</title><desc lang="zh">A pediatric doctor leaves Los Angeles for Amelia Island, Florida. An East Coast native who moved west for school, she wants to be closer to family.</desc>
+  <programme start="20260902012000 +0800" stop="20260902014500 +0800" channel="HGTV (HD)"><title lang="zh">Island Life</title>
   </programme>
-  <programme start="20260902022500 +0800" stop="20260902025000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters</title><desc lang="zh">Former work enemies-turned couple want to buy their first home. Old rivalries arise as one pushes for a classic row home and the other wants a suburban family home. S186 Ep6</desc>
+  <programme start="20260902014500 +0800" stop="20260902021000 +0800" channel="HGTV (HD)"><title lang="zh">Island Life</title>
+  </programme>
+  <programme start="20260902021000 +0800" stop="20260902023500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International:...</title>
+  </programme>
+  <programme start="20260902023500 +0800" stop="20260902030000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International:...</title>
   </programme>
   <programme start="20260902034500 +0800" stop="20260902041000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters</title><desc lang="zh">A family is living in a hotel with their daughter as they search for a new home. She wants new construction and he's looking for plenty of outdoor space. S187 Ep6</desc>
   </programme>
@@ -10291,53 +10429,63 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902043500 +0800" stop="20260902050000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International</title><desc lang="zh">Francophiles Todd and Jim want a vacation home in Villefranche-sur-Mer on the French Riviera. Can their budget afford Mediterranean views?</desc>
   </programme>
-  <programme start="20260902050000 +0800" stop="20260902052500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters</title><desc lang="zh">After dedicating her life to raising her sons, a single woman focuses on her own needs and looks to buy her first home outside Chicago.</desc>
+  <programme start="20260902051500 +0800" stop="20260902053500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
   </programme>
-  <programme start="20260902052500 +0800" stop="20260902055000 +0800" channel="HGTV (HD)"><title lang="zh">Mexico Life</title><desc lang="zh">After enduring a cold Canadian winter, a fitness-loving couple plan to move to the endless sun in Playa del Carmen, dreaming of a condo by the beach.</desc>
-  </programme>
-  <programme start="20260902055000 +0800" stop="20260902062000 +0800" channel="HGTV (HD)"><title lang="zh">Mediterranean Life</title><desc lang="zh">A couple with two sons leave South Africa for the calm, sunny island of Malta but must decide between living close to their sons' school or near the ocean.</desc>
+  <programme start="20260902053500 +0800" stop="20260902060500 +0800" channel="HGTV (HD)"><title lang="zh">Flip or Flop Ep11</title><desc lang="zh">Tarek and Christina take on a flip in a new town, but the distance and their uncertainty of what buyers expect in the area.</desc>
   </programme>
   <programme start="20260902062000 +0800" stop="20260902064500 +0800" channel="HGTV (HD)"><title lang="zh">Bahamas Life</title><desc lang="zh">An Atlanta native brings her grandson along to help her choose a waterfront condo in Freeport, Grand Bahama.</desc>
   </programme>
   <programme start="20260902064500 +0800" stop="20260902065000 +0800" channel="HGTV (HD)"><title lang="zh">Hawaii LIfe</title><desc lang="zh">After 15 years as a 911 dispatcher, Stephani moves to Maui to reclaim her spirit. Agent Jeff Onderko helps her find a sanctuary with ocean views.</desc>
   </programme>
-  <programme start="20260902065000 +0800" stop="20260902071500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S187) - Big Dispute In The Big Apple</title><desc lang="zh">A NYC couple searches for their first home. He wants a move-in ready condo, but she would prefer a spacious brownstone.</desc>
+  <programme start="20260902070500 +0800" stop="20260902072500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters</title>
   </programme>
-  <programme start="20260902071500 +0800" stop="20260902074000 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home (S12) - Millionaire Mama</title><desc lang="zh">A mother is excited to spend her $1,000,000 win on a Miami home. She wants a detached home, but David hopes to change her mind with some townhouses.</desc>
+  <programme start="20260902072500 +0800" stop="20260902075000 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
   </programme>
-  <programme start="20260902074000 +0800" stop="20260902080500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S3) - Waterfront Dreams, Long Island</title><desc lang="zh">A family of seven is ready to fulfil their dream of living on the water on Long Island's Merrick, New York. But finding a place is a challenge.</desc>
+  <programme start="20260902075000 +0800" stop="20260902081500 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
   </programme>
-  <programme start="20260902080500 +0800" stop="20260902083000 +0800" channel="HGTV (HD)"><title lang="zh">Flip Or Flop (S8) - Fish Out Of Water</title><desc lang="zh">Tarek and Christina take on a flip in a new town, but the distance and their uncertainty of what buyers expect in the area.</desc>
+  <programme start="20260902081500 +0800" stop="20260902083500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
   </programme>
-  <programme start="20260902083000 +0800" stop="20260902085500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International (S127) - Daughter Knows Best, Italy</title><desc lang="zh">An executive coach decides to pack up her home in Santa Barbara, CA, and start a new life in Bressanone, Italy.</desc>
+  <programme start="20260902083500 +0800" stop="20260902090000 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
   </programme>
-  <programme start="20260902085500 +0800" stop="20260902092000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S130) - Spend Big Or Fix Up In Naples</title><desc lang="zh">After relocating from Texas to pricey Naples, FL, a couple is still in sticker shock.</desc>
+  <programme start="20260902090000 +0800" stop="20260902092500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters Ep5</title><desc lang="zh">After relocating from Texas to pricey Naples, FL, a couple is still in sticker shock.</desc>
   </programme>
-  <programme start="20260902092000 +0800" stop="20260902094500 +0800" channel="HGTV (HD)"><title lang="zh">Wild Vacation Rentals (S1) - Florida Gets Wild</title><desc lang="zh">Best friends D'Arcy Carden and Sherry Cola head to Florida in search of the wildest rentals yet. Their stops include a candy-themed playland.</desc>
+  <programme start="20260902092500 +0800" stop="20260902095000 +0800" channel="HGTV (HD)"><title lang="zh">Wild Vacation Rentals Ep4</title><desc lang="zh">Best friends D&amp;#x27;Arcy Carden and Sherry Cola head to Florida in search of the wildest rentals yet. Their stops include a candy-themed playland.</desc>
   </programme>
-  <programme start="20260902094500 +0800" stop="20260902101000 +0800" channel="HGTV (HD)"><title lang="zh">World's Bargain Dream Homes (S1) - Granada, Spain</title><desc lang="zh">A Seattle couple's ready to start a family in Spain, and with a local property expert, they tour breathtaking bargain homes near Granada.</desc>
+  <programme start="20260902095000 +0800" stop="20260902101500 +0800" channel="HGTV (HD)"><title lang="zh">World's Bargain Dream Homes Ep2</title><desc lang="zh">A Seattle couple&amp;#x27;s ready to start a family in Spain, and with a local property expert, they tour breathtaking bargain homes near Granada.</desc>
   </programme>
-  <programme start="20260902104000 +0800" stop="20260902110500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters</title><desc lang="zh">A family is living in a hotel with their daughter as they search for a new home. She wants new construction and he's looking for plenty of outdoor space. S187 Ep6</desc>
+  <programme start="20260902101500 +0800" stop="20260902103000 +0800" channel="HGTV (HD)"><title lang="zh">Farmhouse Fixer Ep2</title><desc lang="zh">Jon and Kristina overhaul an old family home while honouring three generations of memories.</desc>
   </programme>
-  <programme start="20260902110500 +0800" stop="20260902113000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International</title><desc lang="zh">A family moving from Denver to Bangkok must reconcile their differing expectations.</desc>
+  <programme start="20260902103000 +0800" stop="20260902105000 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
   </programme>
-  <programme start="20260902113000 +0800" stop="20260902120000 +0800" channel="HGTV (HD)"><title lang="zh">Island Life</title><desc lang="zh">North Carolina natives want to move from Phoenix to Topsail Island, NC. Their desert city is too far from the beach, so they seek an oceanfront home.</desc>
+  <programme start="20260902105000 +0800" stop="20260902111500 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
   </programme>
-  <programme start="20260902124000 +0800" stop="20260902133000 +0800" channel="HGTV (HD)"><title lang="zh">Design Down Under (S1) - Retro 80s Home Turned Timeless</title><desc lang="zh">Georgia and Richie revamp a time capsule house that needs a modern makeover. They incorporate timeless touches while maintaining functionality.</desc>
+  <programme start="20260902111500 +0800" stop="20260902113500 +0800" channel="HGTV (HD)"><title lang="zh">Caribbean Life</title>
+  </programme>
+  <programme start="20260902113500 +0800" stop="20260902120000 +0800" channel="HGTV (HD)"><title lang="zh">Caribbean Life</title>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902122500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
+  </programme>
+  <programme start="20260902122500 +0800" stop="20260902124500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
+  </programme>
+  <programme start="20260902124500 +0800" stop="20260902131000 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
+  </programme>
+  <programme start="20260902131000 +0800" stop="20260902133000 +0800" channel="HGTV (HD)"><title lang="zh">Beachfront Bargain Hunt</title>
   </programme>
   <programme start="20260902133000 +0800" stop="20260902135500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S3) - Waterfront Dreams, Long Island</title><desc lang="zh">A family of seven is ready to fulfil their dream of living on the water on Long Island's Merrick, New York. But finding a place is a challenge.</desc>
   </programme>
-  <programme start="20260902135500 +0800" stop="20260902142000 +0800" channel="HGTV (HD)"><title lang="zh">Flip Or Flop (S8) - Fish Out Of Water</title><desc lang="zh">Tarek and Christina take on a flip in a new town, but the distance and their uncertainty of what buyers expect in the area.</desc>
+  <programme start="20260902135500 +0800" stop="20260902141500 +0800" channel="HGTV (HD)"><title lang="zh">Tropic Like It's Hot</title>
   </programme>
-  <programme start="20260902142000 +0800" stop="20260902144500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International (S127) - Heart Over Head In Edinburgh</title><desc lang="zh">After dating for two weeks, a couple decides to move to Edinburgh to follow her dream of living in the United Kingdom.</desc>
+  <programme start="20260902141500 +0800" stop="20260902144000 +0800" channel="HGTV (HD)"><title lang="zh">Tropic Like It's Hot</title>
   </programme>
-  <programme start="20260902144500 +0800" stop="20260902151000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S130) - West Side Or The Valley In LA</title><desc lang="zh">Buyers in LA weigh what they can get on the pricey west side versus the San Fernando Valley.</desc>
+  <programme start="20260902144000 +0800" stop="20260902150000 +0800" channel="HGTV (HD)"><title lang="zh">Tropic Like It's Hot</title>
   </programme>
-  <programme start="20260902151000 +0800" stop="20260902153500 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters (S187) - Big Dispute In The Big Apple</title><desc lang="zh">A NYC couple searches for their first home. He wants a move-in ready condo, but she would prefer a spacious brownstone.</desc>
+  <programme start="20260902150000 +0800" stop="20260902152500 +0800" channel="HGTV (HD)"><title lang="zh">Tropic Like It's Hot</title>
   </programme>
-  <programme start="20260902153500 +0800" stop="20260902160000 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home (S12) - Millionaire Mama</title><desc lang="zh">A mother is excited to spend her $1,000,000 win on a Miami home. She wants a detached home, but David hopes to change her mind with some townhouses.</desc>
+  <programme start="20260902152500 +0800" stop="20260902154500 +0800" channel="HGTV (HD)"><title lang="zh">Beach Around The World</title>
   </programme>
-  <programme start="20260902160000 +0800" stop="20260902162500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home Fab Faves (S10) - Most Outrageous Purchases</title><desc lang="zh">Recent lottery winners go on over-the-top house hunts for their new dream homes with David Bromstad.</desc>
+  <programme start="20260902154500 +0800" stop="20260902161000 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
+  </programme>
+  <programme start="20260902161000 +0800" stop="20260902162500 +0800" channel="HGTV (HD)"><title lang="zh">My Lottery Dream Home</title>
   </programme>
   <programme start="20260902162500 +0800" stop="20260902163000 +0800" channel="HGTV (HD)"><title lang="zh">Rock The Block (S7) - Goin To The Chapel</title><desc lang="zh">Teams create one-of-a-kind spaces in their multi-generation suites adding something old, new, borrowed or blue before they judge each other.</desc>
   </programme>
@@ -10393,6 +10541,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902070500 +0800" stop="20260902080000 +0800" channel="HISTORY"><title lang="zh">丹尼·崔橋的考古揭祕 第1季第8集 </title><desc lang="zh">從一項悄悄埋藏在國家公園深處的致命發現, 到一件沉沒於紐澤西外海、納粹時期的秘密武器。你永遠無法預測殺機潛藏何處, 抑或是誰會無意間揭開它的面紗。</desc>
   </programme>
+  <programme start="20260902080800 +0800" stop="20260902082000 +0800" channel="HISTORY"><title lang="zh">Необъяснимое – 6 | 7</title>
+  </programme>
   <programme start="20260902082000 +0800" stop="20260902082900 +0800" channel="HISTORY"><title lang="zh">Grandes Relíquias Da História Com Mike Wolfe</title>
   </programme>
   <programme start="20260902082900 +0800" stop="20260902090100 +0800" channel="HISTORY"><title lang="zh">B-52 Bomber</title>
@@ -10432,6 +10582,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260902162000 +0800" stop="20260902172000 +0800" channel="HISTORY"><title lang="zh">歷史重大謎團 第5季第9集 </title><desc lang="zh">在骸骨與石牆之中, 隱藏着五百年的秘密, 令馬丘比丘成為世上最撲朔迷離的考古遺址之一。究竟是誰建造了這座令人驚嘆的遺址?又為了甚麼?</desc>
   </programme>
   <programme start="20260902172000 +0800" stop="20260902181500 +0800" channel="HISTORY"><title lang="zh">歷史最強戰士 第2集 </title><desc lang="zh">維京人能夠在遼闊的距離內發動毀滅性的襲擊, 使他們成為從8世紀末到11世紀中期的精英力量。他們運用力量和策略來主宰敵人。</desc>
+  </programme>
+  <programme start="20260902183000 +0800" stop="20260902190000 +0800" channel="HISTORY"><title lang="zh">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title><desc lang="zh">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
   </programme>
   <programme start="20260902190100 +0800" stop="20260902193300 +0800" channel="HISTORY"><title lang="zh">B-52 Bomber</title>
   </programme>
@@ -13713,61 +13865,165 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902094200 +0800" stop="20260902094500 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP9</title>
   </programme>
-  <programme start="20260902094500 +0800" stop="20260902100500 +0800" channel="Nick Jr"><title lang="zh">DORA</title><desc lang="zh">Dora and Boots find the magical Ice Crystal Torch in time to save the Winter Wonderfest! // Dora and Boots help Rosa the Dolphin reach the top of Snowy Mountain and see snow for the first time!</desc>
+  <programme start="20260902094500 +0800" stop="20260902100000 +0800" channel="Nick Jr"><title lang="zh">DORA</title><desc lang="zh">Dora and Boots find the magical Ice Crystal Torch in time to save the Winter Wonderfest! // Dora and Boots help Rosa the Dolphin reach the top of Snowy Mountain and see snow for the first time!</desc>
   </programme>
-  <programme start="20260902100500 +0800" stop="20260902102800 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP1</title>
+  <programme start="20260902100000 +0800" stop="20260902100500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig's marathon training continues. There isn't long to go before the big day! Peppa takes the role as Daddy's coach and, with George, devises lots of fun games to help.</desc>
+  </programme>
+  <programme start="20260902100500 +0800" stop="20260902101500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of the London Marathon! Peppa and family come to cheer Daddy on. Peppa and George see many runners dressed in funny costumes - and then they spot Daddy.</desc>
+  </programme>
+  <programme start="20260902101500 +0800" stop="20260902102000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa is building something in his shed. It is his latest pet project. It's a robot called Frank.</desc>
+  </programme>
+  <programme start="20260902102000 +0800" stop="20260902102800 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are at playgroup. Madame Gazelle is teaching the children fun games to play with paper.</desc>
   </programme>
   <programme start="20260902102800 +0800" stop="20260902103000 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
   </programme>
-  <programme start="20260902103000 +0800" stop="20260902105000 +0800" channel="Nick Jr"><title lang="zh">Mr. Crocodile</title><desc lang="zh">Mr. Crocodile wants to be a good guest at Daisys birthday party since hes never been to one before. // Rushing to get to a concert on time, Mr. Crocodile and Daisy misplace their tickets at Moms Bo</desc>
+  <programme start="20260902103000 +0800" stop="20260902103500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy, Daddy, Peppa and George are going to the seaside. Mummy and Daddy explain clouds to Peppa and George who have a little sing and dance about clouds.</desc>
   </programme>
-  <programme start="20260902105000 +0800" stop="20260902111300 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
+  <programme start="20260902103500 +0800" stop="20260902104500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Bull Digs Up The River: Grandpa Pig is taking Peppa and George for a day on his boat. They see Mr. Bull, who's using his digger boat to remove all the rubbish in the river that shouldn't be there.</desc>
+  </programme>
+  <programme start="20260902104500 +0800" stop="20260902105000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is playing at Suzy's house and they find out that Granny Sheep is moving in! She transforms the dull spare room and attic into an exotic boudoir and creative studio.</desc>
+  </programme>
+  <programme start="20260902105000 +0800" stop="20260902110000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is at Suzy's house and there is a pile of cardboard boxes so, they take them outside to play with. Peppa turns the boxes into a cardboard shop, a spaceship and even a hospital.</desc>
+  </programme>
+  <programme start="20260902110000 +0800" stop="20260902110500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Suzy describes a takeaway and the children want to make their own. Together they 'cook' and deliver the pretend takeaways to the parents. They get great reviews too.</desc>
+  </programme>
+  <programme start="20260902110500 +0800" stop="20260902111300 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig has created a watering system, but he does not remember which button is which so Peppa and George help using walkie talkies. The Police hear their signal and are surprised.</desc>
   </programme>
   <programme start="20260902111300 +0800" stop="20260902111500 +0800" channel="Nick Jr"><title lang="zh">Satria Mega (Animasi) : EP3</title>
   </programme>
-  <programme start="20260902111500 +0800" stop="20260902113500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbabright acts strangely. What is he hiding ? The Barbabbabies will do anything to find out. // The Barbapapa decide to save energy. But their efforts are undermined by Barbabright and Barbabelle wh</desc>
+  <programme start="20260902111500 +0800" stop="20260902112000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy and Daddy Pig are working in their home office and Peppa wants to 'work' like them too. Peppa decides that she needs her own office, so she takes the cupboard under the stairs.</desc>
   </programme>
-  <programme start="20260902113500 +0800" stop="20260902120000 +0800" channel="Nick Jr"><title lang="zh">Tim Rex in Space</title><desc lang="zh">Tommy is in a Rocket Race, Tim supports his brother. // Tim distracts Tia when Tusky is in the washing machine. // The kids become the parents and the parents become the kids.</desc>
+  <programme start="20260902112000 +0800" stop="20260902113000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family take a poorly swift to the vet's. After a night of rest, the swift recovers and Doctor Hamster releases it so it can fly around the world again.</desc>
   </programme>
-  <programme start="20260902120000 +0800" stop="20260902122000 +0800" channel="Nick Jr"><title lang="zh">Blaze and the Monster Machines</title><desc lang="zh">When Crusher and Pickle are trapped inside a cage over a bubbling slime swap, its up to Blaze, AJ, and Sparkle to become...Knights! Will they be able to rescue Crusher and Pickle from the swamp befor</desc>
+  <programme start="20260902113000 +0800" stop="20260902113500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family are visiting Cousin Chloe's House to play with Baby Alexander. Peppa learns babies are not like dolls at all, and do lots of things every day.</desc>
   </programme>
-  <programme start="20260902122000 +0800" stop="20260902124500 +0800" channel="Nick Jr"><title lang="zh">Blaze and the Monster Machines</title><desc lang="zh">When Blazes friends need help, Ambulance Blaze, Paramedic AJ and Paramedic Gabby have all the tools they need to save the day!</desc>
+  <programme start="20260902113500 +0800" stop="20260902114500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa hands Penny and Pedro the wrong glasses by mistake and they can't see very well. Madame Gazelle then tells them the importance of lenses and how they're in all sorts of things.</desc>
   </programme>
-  <programme start="20260902124500 +0800" stop="20260902130500 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Park Ranger Rose and Rubble  Crew discover a meteorite outside of Builder Cove! But when Speed Meister and Mega Meister try to take it, the pups need their giant construction vehicles to save the tow</desc>
+  <programme start="20260902114500 +0800" stop="20260902115000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's a snowy day and Peppa's family build an igloo for their snowman. They then hide away in it during the snowstorm, but Penny Polar Bear and her parents love snowstorms and Peppa's igloo too.</desc>
   </programme>
-  <programme start="20260902133000 +0800" stop="20260902135000 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">When Eddie and Emmy get impatient at the carnival, they hide in Mayor Humdingers Humsquatch costume to chase everyone out. // Rubble dreams that he meets a ghost and learns that its not easy to help</desc>
+  <programme start="20260902115000 +0800" stop="20260902120000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends are at playgroup when everyone finds out that Mr Bull and Mrs Cow are going to get married the next day.</desc>
   </programme>
-  <programme start="20260902135000 +0800" stop="20260902141500 +0800" channel="Nick Jr"><title lang="zh">Deer Squad</title><desc lang="zh">Chitter upgrades the Forest Flyer with flight mode! But the Forest Squad go missing mid-flight. // Trickalien shows Lola how to be funny, but she takes it too far and brings a scary tree to life.</desc>
+  <programme start="20260902120000 +0800" stop="20260902120500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Everyone is getting ready for Mr Bull and Mrs Cow's wedding, going to the jewellers to get rings, to the dress makers... and to sort out the wedding cake.</desc>
   </programme>
-  <programme start="20260902144000 +0800" stop="20260902150000 +0800" channel="Nick Jr"><title lang="zh">Santiago of the Seas</title><desc lang="zh">Santi and crew go underwater to stop Escarlata la Pirata before she steals all the Magic Rubies from Giant Clam Reef! // Its a nighttime chase above and below the sea when Escarlata turns the moon in</desc>
+  <programme start="20260902120500 +0800" stop="20260902121500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of Mrs Cow and Mr Bull's wedding! Not everything goes to plan, but that doesn't stop it being the best wedding ever, and there is a lot of happy crying.</desc>
+  </programme>
+  <programme start="20260902121500 +0800" stop="20260902122000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa receives an invite to Candy Cat's birthday party - on a double decker bus.</desc>
+  </programme>
+  <programme start="20260902122000 +0800" stop="20260902123000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and friends are at Penny Polar Bear's house for a movie night. But before they can watch it, the children need to decide where to sit, and which popcorn to eat.</desc>
+  </programme>
+  <programme start="20260902123000 +0800" stop="20260902123500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny Sheep and Suzy take Granny Pig and Peppa around Art House Day. After a day full of screen printing and silhouette miniatures, Granny Pig finds the perfect artwork.</desc>
+  </programme>
+  <programme start="20260902123500 +0800" stop="20260902124500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle and Mr Bull lead the children to the wildflower wood to learn all about flowers. The children enjoy identifying Wild Garlic, Bluebells and even an orchid.</desc>
+  </programme>
+  <programme start="20260902124500 +0800" stop="20260902125000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George are playing at their grandparent's garden on a very hot day but they don't have a paddling pool.</desc>
+  </programme>
+  <programme start="20260902125000 +0800" stop="20260902130000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Elephant invites Peppa and Daddy Pig to perform magic at Emily's birthday party, and Peppa shows her friends how the magic trick works.</desc>
+  </programme>
+  <programme start="20260902130000 +0800" stop="20260902130500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa Pig goes to the park to play with friends and have new experiences.</desc>
+  </programme>
+  <programme start="20260902130500 +0800" stop="20260902131500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Miss Rabbit takes the children for swimming lessons in the little children's pool. At the end of the lesson, giant inflatables are brought out including an inflatable slide.</desc>
+  </programme>
+  <programme start="20260902131500 +0800" stop="20260902132000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and all her friends are having a sleepover - different friends in each of the apartments in the high street. So they play hide and seek across all the rooms.</desc>
+  </programme>
+  <programme start="20260902132000 +0800" stop="20260902133000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy and Daddy Pig are working in their home office and Peppa wants to 'work' like them too. Peppa decides that she needs her own office, so she takes the cupboard under the stairs.</desc>
+  </programme>
+  <programme start="20260902133000 +0800" stop="20260902133500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grampy Rabbit's new jet pack shoots off into the distance and he ends up on top of a snowy mountain.</desc>
+  </programme>
+  <programme start="20260902133500 +0800" stop="20260902134500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy and Daddy Pig take Peppa and George to a castle to feast on medieval banquets, play King and Queen and even meet a dragon. It's George's favourite day ever.</desc>
+  </programme>
+  <programme start="20260902134500 +0800" stop="20260902135000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr. Potato has come to visit the playgroup and he's brought along his superhero friend, Super Potato.</desc>
+  </programme>
+  <programme start="20260902135000 +0800" stop="20260902140000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends make a time capsule and bury it in the school garden.</desc>
+  </programme>
+  <programme start="20260902140000 +0800" stop="20260902140200 +0800" channel="Nick Jr"><title lang="zh">Blue's Clues &amp; You!</title><desc lang="zh">We've danced together, we've sang so many incredible songs, and now Josh and Blue are celebrating the best musical moments with a Top Ten Song Countdown.</desc>
+  </programme>
+  <programme start="20260902140200 +0800" stop="20260902142700 +0800" channel="Nick Jr"><title lang="zh">Portal Neksu: EP2</title>
+  </programme>
+  <programme start="20260902142700 +0800" stop="20260902143000 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  </programme>
+  <programme start="20260902143000 +0800" stop="20260902144500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Things are going missing all over the Little Kingdom - Holly has lost her wand and Ben has lost his horn! Soon they realise that ants are stealing their things.</desc>
+  </programme>
+  <programme start="20260902144500 +0800" stop="20260902150000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Barnaby Elf's uncle, Redbeard the Elf Pirate, comes to visit the Little Kingdom, but he has lost his treasure. Everyone must help Redbeard track down the treasure.</desc>
+  </programme>
+  <programme start="20260902150000 +0800" stop="20260902151500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Holly takes some frogspawn home from class to look after, but is surprised when the frogspawn turns into tadpoles overnight. Soon there are lots of little frogs for Holly to look after.</desc>
+  </programme>
+  <programme start="20260902151500 +0800" stop="20260902151800 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Queen Thistle decides to take a day off, so Holly, Ben, Nanny and the King have to look after the naughty twins Daisy and Poppy for the day.</desc>
   </programme>
   <programme start="20260902151800 +0800" stop="20260902152500 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP8</title>
   </programme>
   <programme start="20260902152500 +0800" stop="20260902153000 +0800" channel="Nick Jr"><title lang="zh">Tim Rex in Space</title><desc lang="zh">Tim goes to DinoStars training academy, but is confused by his heros training methods.</desc>
   </programme>
-  <programme start="20260902155500 +0800" stop="20260902161500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa finds refuge in the house that François parents built for him. // The house of Barbapapa is far too small now that Barbamama and the Barbabébé have arrived in his life.</desc>
+  <programme start="20260902153000 +0800" stop="20260902153500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Daddy Pig loses his title as Champion Puddle Jumper, until everyone helps him train to win it back.</desc>
+  </programme>
+  <programme start="20260902153500 +0800" stop="20260902154500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is Talent Day at Peppa's playgroup, and Madame Gazelle wants everyone to show the class their special talent.</desc>
+  </programme>
+  <programme start="20260902154500 +0800" stop="20260902155000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Pig joins with the other mummies to practise fighting fires at the fire station. The fire brigade demonstrate their practice using their motto.</desc>
+  </programme>
+  <programme start="20260902155000 +0800" stop="20260902160000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa gets shiny new red shoes and never, ever wants to take them off - until it's time to jump in muddy puddles.</desc>
+  </programme>
+  <programme start="20260902160000 +0800" stop="20260902160500 +0800" channel="Nick Jr"><title lang="zh">Gabby's Dollhouse</title><desc lang="zh">5...4...3...2...1. It's fairy o'clock - and the start of a fantastic festival, featuring rides, games, cotton candy and a new friend with a flower contest dream.</desc>
+  </programme>
+  <programme start="20260902160500 +0800" stop="20260902162800 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP1</title>
   </programme>
   <programme start="20260902164000 +0800" stop="20260902170000 +0800" channel="Nick Jr"><title lang="zh">Mr. Crocodile</title><desc lang="zh">Mr. Crocodile takes the motto finders, keepers a bit too far. // Daisy and Mr. Crocodile arrange a dance performance for Mrs. Flores after they find her old dance shoes.</desc>
   </programme>
-  <programme start="20260902172500 +0800" stop="20260902174500 +0800" channel="Nick Jr"><title lang="zh">Blaze and the Monster Machines</title><desc lang="zh">When a hungry Crusher accidentally turns the baker truck’s baker bots to messy mode, they sprout wheels and drive away! It’s up to AJ and Blaze to track down all the rampaging robots before Axle City</desc>
+  <programme start="20260902172500 +0800" stop="20260902173100 +0800" channel="Nick Jr"><title lang="zh">Blaze and the Monster Machines</title><desc lang="zh">When a hungry Crusher accidentally turns the baker truck’s baker bots to messy mode, they sprout wheels and drive away! It’s up to AJ and Blaze to track down all the rampaging robots before Axle City</desc>
   </programme>
-  <programme start="20260902181000 +0800" stop="20260902183000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Skye visits Rubble  Crew from Adventure Bay when their construction project needs some aerial support. But when Speed Meister tries to beat the pups to finish the job, Skye, Rubble, and the rest of t</desc>
+  <programme start="20260902173100 +0800" stop="20260902173500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George's visit a restaurant, where they have a great time asking for everything they would expect at a party.</desc>
   </programme>
-  <programme start="20260902185500 +0800" stop="20260902191500 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">Yumis Yummy Honey is all the buzz when it - and her beehive - go missing from her farm! // Mayor Goodways purse has disappeared! Along with its precious cargo - Chickaletta!</desc>
+  <programme start="20260902173500 +0800" stop="20260902174500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">During playgroup, Madame Gazelle takes everyone outside to play Parachute Games.</desc>
   </programme>
-  <programme start="20260902191500 +0800" stop="20260902194000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">On a ski trip, the Barbapapas build a giant igloo. Barbabravo and Barbalib challenge each other to find out who is braver. // Barbabright creates a vacuuming robot thats also very good at soccer. The</desc>
+  <programme start="20260902174500 +0800" stop="20260902175000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George are playing at their grandparent's garden on a very hot day but they don't have a paddling pool.</desc>
+  </programme>
+  <programme start="20260902175000 +0800" stop="20260902180000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa, Suzy Sheep, Mummy and Daddy help George understand what a potty is and how to avoid accidents. George gains confidence.</desc>
+  </programme>
+  <programme start="20260902180000 +0800" stop="20260902180500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George gets a dinosaur balloon, but keeping hold of it proves difficult. Who will save George's balloon from flying off to the moon.</desc>
+  </programme>
+  <programme start="20260902180500 +0800" stop="20260902181500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family have been on a trip to a mountain beauty spot. When Daddy Pig loses the car keys down a drain, Mr Bull offers to find them with his digger.</desc>
+  </programme>
+  <programme start="20260902181500 +0800" stop="20260902182000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Grandpa Pig and Grandpa Dog are showing and sharing their lovely, tomato filled, Greenhouses to Peppa and George.</desc>
+  </programme>
+  <programme start="20260902182000 +0800" stop="20260902183000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George notice they have shadows, and no matter how fast they walk, run, or jump - they can't lose them.</desc>
+  </programme>
+  <programme start="20260902183000 +0800" stop="20260902184500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Nanny Plum takes the Fairy children for a nature class in the woods, and bumps into the Wise Old Elf who is teaching a nature class to the Elf children.</desc>
+  </programme>
+  <programme start="20260902184500 +0800" stop="20260902190000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Out playing in the meadow, Holly, Ben and their friends find a broken toy robot. Holly fixes it with magic, but the robot does not behave as they thought it would.</desc>
+  </programme>
+  <programme start="20260902190000 +0800" stop="20260902191500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">King Thistle wants fish for dinner, so he goes out fishing with Mr Elf, Ben and Holly on Mr Elf's boat. Mr Elf tells them a story about the biggest, baddest fish ever - Big Bad Barry.</desc>
+  </programme>
+  <programme start="20260902191500 +0800" stop="20260902193000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">King Thistle does not want to get any older so decides that no one must celebrate his birthday. But all of the Little Kingdom has been waiting to celebrate.</desc>
+  </programme>
+  <programme start="20260902193700 +0800" stop="20260902194000 +0800" channel="Nick Jr"><title lang="zh">Portal Nek Su : EP1</title>
   </programme>
   <programme start="20260902194000 +0800" stop="20260902200000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbabright coats the house in magic product to prevent water leakage. The next day, The house deflates like a balloon. // A bird builds its nest on Barbazoos belly. Barbazoo wants to become a big tr</desc>
   </programme>
-  <programme start="20260902200000 +0800" stop="20260902202500 +0800" channel="Nick Jr"><title lang="zh">Bedtime Stories with Ryan</title><desc lang="zh">Ryan Reynolds reads stories to help the world fall asleep. Tonight Ryan shares some tales that dare.</desc>
+  <programme start="20260902200000 +0800" stop="20260902200500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Pedro Pony is in hospital with a broken leg! The class come to see him. Pedro is being well looked-after - there's always someone to scratch behind your ears. And soon his leg is all better.</desc>
+  </programme>
+  <programme start="20260902200500 +0800" stop="20260902201500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George isn't very good at hide and seek until Daddy Pig helps him to find somewhere to hide.</desc>
+  </programme>
+  <programme start="20260902201500 +0800" stop="20260902202000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">George finds a very friendly spider in the bathroom. Peppa doesn't like spiders and screams very loudly. But soon she realises that the little spider doesn't want to hurt her.</desc>
+  </programme>
+  <programme start="20260902202000 +0800" stop="20260902202500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her friends learn about climbing from Grampy Rabbit at the climbing centre. Mummy Pig is worried about George when he gets scared of heights.</desc>
   </programme>
   <programme start="20260902202500 +0800" stop="20260902202700 +0800" channel="Nick Jr"><title lang="zh">The Creature Cases</title><desc lang="zh">Sam and Kit track a legendary creature whos spreading an unstoppable itch among prairie dogs. // Who would steal a cute forest pikas dry flower pile?</desc>
   </programme>
-  <programme start="20260902202700 +0800" stop="20260902204900 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  <programme start="20260902202700 +0800" stop="20260902203000 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  </programme>
+  <programme start="20260902203000 +0800" stop="20260902203500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle teaches the playgroup to play the recorder. After lots of practice at home, they put on a concert for their parents.</desc>
+  </programme>
+  <programme start="20260902203500 +0800" stop="20260902204500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The children must walk to school in a walking bus! Miss Rabbit wears a high visibility jacket, leading Peppa and friends in a bus formation.</desc>
+  </programme>
+  <programme start="20260902204500 +0800" stop="20260902204900 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny Sheep is driving Vanessa, the art van along the road with Peppa, Suzy, Pedro, Mandy, Molly and Danny. They are taking her to the boat yard, for her first-ever outing.</desc>
   </programme>
   <programme start="20260902204900 +0800" stop="20260902205000 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP4</title>
   </programme>
-  <programme start="20260902205000 +0800" stop="20260902211500 +0800" channel="Nick Jr"><title lang="zh">The Creature Cases</title><desc lang="zh">Kits on the case when an innocent prairie dog is stung out of nowhere. // Somethings making a dripping noise thats been bothering some birds - but what?</desc>
+  <programme start="20260902205000 +0800" stop="20260902210000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">When Daddy's car goes missing it's up to Detective Potato to find it.</desc>
+  </programme>
+  <programme start="20260902210000 +0800" stop="20260902211500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Holly is going on a camping trip with Ben and his mum and dad, but they are soon joined by annoying Mr Gnome, who is always hungry and sings silly songs.</desc>
+  </programme>
+  <programme start="20260902211500 +0800" stop="20260902213000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Snooty King and Queen Marigold invite themselves round for dinner to King and Queen Thistle's castle to sample Nanny Plum's cooking. Nanny tries hard to cook special modern food.</desc>
+  </programme>
+  <programme start="20260902213000 +0800" stop="20260902214000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">King Thistle is bored and takes up the hobby of bird watching. Using his magic bird book, the King is pleased when another creature makes a nest in the Royal Castle.</desc>
   </programme>
   <programme start="20260902214000 +0800" stop="20260902214500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Pedro Pony wears glasses. Peppa thinks she might need glasses too, so Mummy Pig takes her to the optician. Peppa is a little disappointed to discover that she has perfect vision – but that doesn’t sto</desc>
   </programme>
@@ -13787,11 +14043,15 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902225000 +0800" stop="20260902230000 +0800" channel="Nick Jr"><title lang="zh">DORA</title><desc lang="zh">Dora and Boots save a mouse in time for him to show off his giant kite at the Rainforest Kite Festival.</desc>
   </programme>
-  <programme start="20260902230000 +0800" stop="20260902232000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Rubble  Crew are ready to replace the broken telescope lens at the Observatory. Until it starts a fiery fiasco during delivery! / Café Carls kittens cause construction chaos in the Bark Yard! Can th</desc>
+  <programme start="20260902230000 +0800" stop="20260902231500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">On a tour of the Elf Factory, the Elf and Fairy children learn about recycling and see how rubbish is re-used. When the factory runs out of material, they set out to find some more.</desc>
+  </programme>
+  <programme start="20260902231500 +0800" stop="20260902232000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">It's autumn and the Elves and Nanny Plum are busy clearing up all the leaves. Suddenly the squirrels arrive with a mission to store acorns in the Great Elf Tree. Acorn Day has arrived.</desc>
   </programme>
   <programme start="20260902232000 +0800" stop="20260902233000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Rubble  Crew build the first train station in Builder Cove just in time to welcome Farmer Zoes new cow Mooreen.</desc>
   </programme>
-  <programme start="20260902235500 +0800" stop="20260903001500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbabright captured a melody from Mars. The Barbapapas build a rocket to go to the red planet. // While travelling to Mars, the Barbapapas meet a family of Barbamartians. They have no time to get acq</desc>
+  <programme start="20260902233000 +0800" stop="20260902234500 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Ben and Holly set out to rescue Redbeard the Elf Pirate's sunken treasure. Mr Elf steers the Elf Submarine to the bottom of the lake, but then they are gobbled up by Big Bad Barry.</desc>
+  </programme>
+  <programme start="20260902234500 +0800" stop="20260903000000 +0800" channel="Nick Jr"><title lang="zh">Ben &amp; Holly's Little Kingdom</title><desc lang="zh">Everyone is visiting snooty King and Queen Marigold's Castle. King and Queen Marigold give them a tour, which is not without a few mishaps.</desc>
   </programme>
   <programme start="20260902001500 +0800" stop="20260902003000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
   </programme>
@@ -17369,6 +17629,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902000000 +0800" stop="20260902012000 +0800" channel="beIN SPORTS 1"><title lang="zh">ADAC GT4 Germany 2026</title><desc lang="zh">ADAC GT4 Germany 2026 : Nurburgring Race 2</desc>
   </programme>
+  <programme start="20260902012000 +0800" stop="20260902032000 +0800" channel="beIN SPORTS 1"><title lang="zh">Le Mans Cup 2026</title><desc lang="zh">Le Mans Cup 2026 : Spa Francorchamps - Race.</desc>
+  </programme>
   <programme start="20260902032000 +0800" stop="20260902035000 +0800" channel="beIN SPORTS 1"><title lang="zh">Mini Match - LaLiga : Alaves Vs Villarreal</title><desc lang="zh">Mini Match - LaLiga 2026/27 : Alaves vs Villarreal</desc>
   </programme>
   <programme start="20260902035000 +0800" stop="20260902042000 +0800" channel="beIN SPORTS 1"><title lang="zh">Mini Match - LaLiga : Levante Vs Real Betis</title><desc lang="zh">Mini Match - LaLiga 2026/27 : Levante vs Real Betis</desc>
@@ -17399,7 +17661,7 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902153000 +0800" stop="20260902160000 +0800" channel="beIN SPORTS 1"><title lang="zh">整裝待發 第8集 </title>
   </programme>
-  <programme start="20260902160000 +0800" stop="20260902171500 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 意大利甲組足球聯賽 第12集 </title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  <programme start="20260902160000 +0800" stop="20260902171500 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 意大利甲組足球聯賽 第12集 </title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
   <programme start="20260902171500 +0800" stop="20260902174500 +0800" channel="beIN SPORTS 1"><title lang="zh">Mini Match - LaLiga : Real Madrid Vs Malaga</title><desc lang="zh">Mini Match - LaLiga 2026/27 : Real Madrid vs Malaga</desc>
   </programme>
@@ -17413,7 +17675,7 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902200000 +0800" stop="20260902203000 +0800" channel="beIN SPORTS 1"><title lang="zh">意甲全面睇 第2集 </title>
   </programme>
-  <programme start="20260902203000 +0800" stop="20260902212000 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 意大利甲組足球聯賽 第11集 </title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  <programme start="20260902203000 +0800" stop="20260902212000 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 意大利甲組足球聯賽 第11集 </title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
   <programme start="20260902212000 +0800" stop="20260902222000 +0800" channel="beIN SPORTS 1"><title lang="zh">LFC Trending 2026/27</title><desc lang="zh">LFC Trending 2026/27 : Episode Number 2</desc>
   </programme>
@@ -17752,6 +18014,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260902032000 +0800" stop="20260902032500 +0800" channel="tvN"><title lang="zh">大叔再出招:1</title><desc lang="zh">講述三位已步入五十歲的前王牌人物——前國家情報院要員、北韓特殊工作員與黑幫二把手——在十年前任務失敗後各自隱退,過上普通生活。然而舊日陰謀再度浮現,迫使他們重新踏入危險世界。劇集以輕快節奏呈現中年男人重拾過去能力的荒誕與默契,在動作與幽默之間保持平衡,也描繪他們面對責任與人生第二次機會的選擇。</desc>
   </programme>
   <programme start="20260902032500 +0800" stop="20260902033000 +0800" channel="tvN"><title lang="zh">Kiri and Lou</title><desc lang="zh">Kiri and Lou follows the adventures of Kiri, a feisty little dinosaur with overpowering emotions and Lou, a gentle but thoughtful creature.</desc>
+  </programme>
+  <programme start="20260902033000 +0800" stop="20260902034000 +0800" channel="tvN"><title lang="zh">DeFacto 8 | S08E3/15</title>
   </programme>
   <programme start="20260902035000 +0800" stop="20260902041000 +0800" channel="tvN"><title lang="zh">Teen Titans Go!</title><desc lang="zh">The superheroes Robin, Cyborg, Starfire, Raven and Beast Boy love saving the world. But after they decide to stop fighting crime, things do not go as planned.</desc>
   </programme>
@@ -20189,6 +20453,30 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902233000 +0800" stop="20260903000000 +0800" channel="中视购物"><title lang="zh">活力新添29分374984饼干</title>
   </programme>
+  <programme start="20260902070000 +0800" stop="20260902074400 +0800" channel="临淄TV-1"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
+  </programme>
+  <programme start="20260902074400 +0800" stop="20260902081900 +0800" channel="临淄TV-1"><title lang="zh">政风行风热线</title>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902121600 +0800" channel="临淄TV-1"><title lang="zh">临淄新闻</title>
+  </programme>
+  <programme start="20260902121600 +0800" stop="20260902130600 +0800" channel="临淄TV-1"><title lang="zh">石化新闻</title>
+  </programme>
+  <programme start="20260902183000 +0800" stop="20260902190000 +0800" channel="临淄TV-1"><title lang="zh">转播山东省新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+
+节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
+
+节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
+  </programme>
+  <programme start="20260902190000 +0800" stop="20260902193300 +0800" channel="临淄TV-1"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  </programme>
+  <programme start="20260902193300 +0800" stop="20260902204600 +0800" channel="临淄TV-1"><title lang="zh">临淄新闻</title>
+  </programme>
+  <programme start="20260902204600 +0800" stop="20260902212200 +0800" channel="临淄TV-1"><title lang="zh">政风行风热线</title>
+  </programme>
+  <programme start="20260902225400 +0800" stop="20260902230700 +0800" channel="临淄TV-1"><title lang="zh">重播临淄新闻</title>
+  </programme>
+  <programme start="20260902230700 +0800" stop="20260903060000 +0800" channel="临淄TV-1"><title lang="zh">再见</title><desc lang="zh">此阶段没有电视节目播放。</desc>
+  </programme>
   <programme start="20260902070000 +0800" stop="20260902070100 +0800" channel="临清综合"><title lang="zh">国歌</title><desc>垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20260902090000 +0800" stop="20260902092000 +0800" channel="临清综合"><title lang="zh">临清新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
@@ -21776,6 +22064,30 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260902224300 +0800" stop="20260902232400 +0800" channel="公视戏剧"><title lang="zh">學生劇展-恭喜中獎【普】</title>
   </programme>
   <programme start="20260902232400 +0800" stop="20260902235900 +0800" channel="公视戏剧"><title lang="zh">學生劇展-風華大歌廳【普】</title>
+  </programme>
+  <programme start="20260902070000 +0800" stop="20260902070300 +0800" channel="兰陵公共"><title lang="zh">国歌</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
+  </programme>
+  <programme start="20260902080000 +0800" stop="20260902082000 +0800" channel="兰陵公共"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902121600 +0800" channel="兰陵公共"><title lang="zh">民生大视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  </programme>
+  <programme start="20260902121600 +0800" stop="20260902122800 +0800" channel="兰陵公共"><title lang="zh">平安兰陵</title>
+  </programme>
+  <programme start="20260902180000 +0800" stop="20260902182000 +0800" channel="兰陵公共"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260902182000 +0800" stop="20260902184000 +0800" channel="兰陵公共"><title lang="zh">文化兰陵</title>
+  </programme>
+  <programme start="20260902210000 +0800" stop="20260902213700 +0800" channel="兰陵公共"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260902070100 +0800" stop="20260902072000 +0800" channel="兰陵综合"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260902072000 +0800" stop="20260902073500 +0800" channel="兰陵综合"><title lang="zh">县宣传片</title>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902122000 +0800" channel="兰陵综合"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20260902122000 +0800" stop="20260902123700 +0800" channel="兰陵综合"><title lang="zh">文化兰陵</title>
+  </programme>
+  <programme start="20260902200000 +0800" stop="20260902202000 +0800" channel="兰陵综合"><title lang="zh">兰陵新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260902005400 +0800" stop="20260902005700 +0800" channel="兵团卫视"><title lang="zh">奋进的兵团</title><desc>新疆生产建设兵团成立七十周年主题宣传片，生动展现70年来兵团人不忘初心、牢记使命，以热爱祖国、无私奉献、艰苦创业、开拓进取的精神，在沙漠中披绿衣、将荒野变良田、让戈壁起新城的辉煌历程。呈现“生在井冈山，长在南泥湾，转战数万里，屯垦在天山”的伟大征程</desc>
   </programme>
@@ -33392,6 +33704,20 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902225600 +0800" stop="20260902235900 +0800" channel="杭州综合"><title lang="zh">房产零距离</title>
   </programme>
+  <programme start="20260902073000 +0800" stop="20260902074500 +0800" channel="枣庄新闻综合"><title lang="zh">枣庄新闻</title>
+  </programme>
+  <programme start="20260902120000 +0800" stop="20260902121500 +0800" channel="枣庄新闻综合"><title lang="zh">枣庄新闻</title>
+  </programme>
+  <programme start="20260902183000 +0800" stop="20260902185500 +0800" channel="枣庄新闻综合"><title lang="zh">转山东新闻联播</title><desc>《山东新闻联播》是山东省级频道中最重要的主流新闻节目，内容涵盖山东社会政治经济生活的各个层面，权威性强，影响力大。节目高度获得党政官员及社会主流人群的关注。</desc>
+  </programme>
+  <programme start="20260902190000 +0800" stop="20260902193000 +0800" channel="枣庄新闻综合"><title lang="zh">转中央新闻</title><desc lang="zh">转播中央电视台新闻节目，提供全国性重要新闻。</desc>
+  </programme>
+  <programme start="20260902193200 +0800" stop="20260902194700 +0800" channel="枣庄新闻综合"><title lang="zh">枣庄新闻</title>
+  </programme>
+  <programme start="20260902220000 +0800" stop="20260902221500 +0800" channel="枣庄新闻综合"><title lang="zh">枣庄新闻</title>
+  </programme>
+  <programme start="20260902231500 +0800" stop="20260903060000 +0800" channel="枣庄新闻综合"><title lang="zh">结束</title><desc lang="zh">此阶段没有电视节目播放。</desc>
+  </programme>
   <programme start="20260902070000 +0800" stop="20260902070200 +0800" channel="桓台综合"><title lang="zh">国歌</title><desc>垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20260902070200 +0800" stop="20260902071500 +0800" channel="桓台综合"><title lang="zh">桓台新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
@@ -34829,13 +35155,13 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902233500 +0800" stop="20260903000000 +0800" channel="江苏综艺"><title lang="zh">缘分进行时之桃花朵朵开</title><desc>江苏电视台综艺频道的婚恋交友栏目，为单身男女提供相识相知的平台。节目设置“桃花意中人”选择、亮灯灭灯等互动环节，通过真诚对话与情感交流，帮助参与者寻找人生伴侣，传递积极健康的婚恋观。</desc>
   </programme>
-  <programme start="20260902085200 +0800" stop="20260902093500 +0800" channel="江西公共"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260902085200 +0800" stop="20260902093500 +0800" channel="江西公共"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260902093500 +0800" stop="20260902101500 +0800" channel="江西公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260902093500 +0800" stop="20260902101500 +0800" channel="江西公共"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260902101500 +0800" stop="20260902115000 +0800" channel="江西公共"><title lang="zh">乡村栏目剧场</title>
   </programme>
-  <programme start="20260902115000 +0800" stop="20260902123000 +0800" channel="江西公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260902115000 +0800" stop="20260902123000 +0800" channel="江西公共"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260902123000 +0800" stop="20260902124000 +0800" channel="江西公共"><title lang="zh">晚高峰</title>
   </programme>
@@ -34845,11 +35171,11 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902132000 +0800" stop="20260902135500 +0800" channel="江西公共"><title lang="zh">食尚大转盘</title>
   </programme>
-  <programme start="20260902135500 +0800" stop="20260902144000 +0800" channel="江西公共"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260902135500 +0800" stop="20260902144000 +0800" channel="江西公共"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260902144000 +0800" stop="20260902152500 +0800" channel="江西公共"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260902144000 +0800" stop="20260902152500 +0800" channel="江西公共"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260902152500 +0800" stop="20260902160500 +0800" channel="江西公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260902152500 +0800" stop="20260902160500 +0800" channel="江西公共"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260902172000 +0800" stop="20260902175000 +0800" channel="江西公共"><title lang="zh">谈讬</title><desc lang="zh">江西首档方言娱乐新闻节目，涵盖老中青少所有人群。2014年栏目全新升级，以接地气的活动为纽带，与观众紧密互动。谈的不仅仅是柴米油盐，更有观众最关注的社会民生热点话题。形式百出，花样多变，大事，小事，天下事全部收入谈託。谈託就是一个让老百姓说话的地方。</desc>
   </programme>
@@ -34867,9 +35193,9 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902195500 +0800" stop="20260902202500 +0800" channel="江西公共"><title lang="zh">乡村大视界</title>
   </programme>
-  <programme start="20260902202500 +0800" stop="20260902210500 +0800" channel="江西公共"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20260902202500 +0800" stop="20260902210500 +0800" channel="江西公共"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20260902210500 +0800" stop="20260902214500 +0800" channel="江西公共"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20260902210500 +0800" stop="20260902214500 +0800" channel="江西公共"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20260902224500 +0800" stop="20260902231500 +0800" channel="江西公共"><title lang="zh">夜来香</title><desc lang="zh">这是一个发生在南方城市的故事，然而在南方那华丽的锦缎之下，却暗涌着激烈的冲撞，一群原本陌生的人，为了这个城市的安危，为了人民的解放走到了一起，从此他们的手再也无法松开，他们，他们和他们的敌人，生死缠斗，直至生命的终点。时代在更迭，不变的是那一曲柔肠百转的“夜来香”，娓娓向我们道来，个中人物细腻与激烈，秀丽与粗放，温情与热血并存的跌宕命运……</desc>
   </programme>
@@ -35133,9 +35459,9 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902060500 +0800" stop="20260902062500 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20260902062500 +0800" stop="20260902100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260902062500 +0800" stop="20260902100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20260902100000 +0800" stop="20260902120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20260902100000 +0800" stop="20260902120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20260902120000 +0800" stop="20260902124000 +0800" channel="江西经济"><title lang="zh">午间解盘</title><desc lang="zh">午间解盘是一档股市解析栏目</desc>
   </programme>
@@ -35145,7 +35471,7 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902183000 +0800" stop="20260902184800 +0800" channel="江西经济"><title lang="zh">经视播报</title><desc lang="zh">江西经视《经视播报》帮您跑腿，为您服务，揭露社会各行黑幕.</desc>
   </programme>
-  <programme start="20260902184800 +0800" stop="20260902190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc>垫片，播放中华人民共和国国歌。</desc>
+  <programme start="20260902184800 +0800" stop="20260902190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20260902190000 +0800" stop="20260902191500 +0800" channel="江西经济"><title lang="zh">财富故事</title><desc lang="zh">讲述财富故事&amp;ensp;分享财富资讯</desc>
   </programme>
@@ -40359,10 +40685,6 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902230000 +0800" stop="20260903000000 +0800" channel="滚动力ROLLOR"><title lang="zh">世界趴趴走(普)</title>
   </programme>
-  <programme start="20260902061800 +0800" stop="20260902061900 +0800" channel="滨州民生"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
-  </programme>
-  <programme start="20260902061900 +0800" stop="20260902062900 +0800" channel="滨州民生"><title lang="zh">健康诊聊室</title>
-  </programme>
   <programme start="20260902071500 +0800" stop="20260902072500 +0800" channel="滨州民生"><title lang="zh">重播开发区新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260902072500 +0800" stop="20260902073500 +0800" channel="滨州民生"><title lang="zh">重播北海新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
@@ -40610,8 +40932,6 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260902213000 +0800" stop="20260902220000 +0800" channel="烟台公共"><title lang="zh">烟台新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20260902220000 +0800" stop="20260902223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
-  </programme>
-  <programme start="20260902020000 +0800" stop="20260902050000 +0800" channel="烟台经济"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
   <programme start="20260902050000 +0800" stop="20260902054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
@@ -44021,35 +44341,35 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902015700 +0800" stop="20260902021100 +0800" channel="福建综合"><title lang="zh">调解有1套</title>
   </programme>
-  <programme start="20260902021100 +0800" stop="20260902023200 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902021100 +0800" stop="20260902023200 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902023200 +0800" stop="20260902025700 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902023200 +0800" stop="20260902025700 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902025700 +0800" stop="20260902031800 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902025700 +0800" stop="20260902031800 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902031800 +0800" stop="20260902034300 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902031800 +0800" stop="20260902034300 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902034300 +0800" stop="20260902040400 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902034300 +0800" stop="20260902040400 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902040400 +0800" stop="20260902042900 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902040400 +0800" stop="20260902042900 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902042900 +0800" stop="20260902045500 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902042900 +0800" stop="20260902045500 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902045500 +0800" stop="20260902051900 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902045500 +0800" stop="20260902051900 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902051900 +0800" stop="20260902054000 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902051900 +0800" stop="20260902054000 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902054000 +0800" stop="20260902060200 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902054000 +0800" stop="20260902060200 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20260902060200 +0800" stop="20260902062500 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20260902060200 +0800" stop="20260902062500 +0800" channel="福建综合"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
   <programme start="20260902062500 +0800" stop="20260902063500 +0800" channel="福建综合"><title lang="zh">新闻启示录</title><desc lang="zh">《新闻启示录》是2004年福建广播影视集团重点打造的新闻栏目之一。《新闻启示录》创办于2004年3月15日，节目时长15分钟，为福建广播影视集团重点打造的电视新闻评论栏目。它始终秉持“党和政府与人民群众的连心桥”的栏目定位，致力于构建党政部门、社会公众以及媒体本身的意见沟通平台，谋求公共利益的最大化。2005年，在《新闻启示录》的基础上创办了该栏目周末版——《新闻启示录·监督网》和《新闻启示录·道德鉴》栏目，这两档节目轮流在每周日播出。《新闻启示录·监督网》、《新闻启示录·道德鉴》栏目定位：守护公共利益&amp;ensp;弘扬人间真情。《新闻启示录》播出时间：首播：综合频道(周日——周五)19：15重播：综合频道（次日）07：25&amp;ensp;；新闻频道（次日）9：40；经济生活频道（次日）02：40《新闻启示录·监督网》、《新闻启示录·道德鉴》播出时间：首播：综合频道(周日)19：15重播：综合频道（次日）07：25&amp;ensp;；新闻频道（次日）9：40；经济生活频道（次日）02：40</desc>
   </programme>
   <programme start="20260902063500 +0800" stop="20260902070000 +0800" channel="福建综合"><title lang="zh">福建新闻联播</title>
   </programme>
-  <programme start="20260902070000 +0800" stop="20260902070600 +0800" channel="福建综合"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  <programme start="20260902070000 +0800" stop="20260902070600 +0800" channel="福建综合"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
-  <programme start="20260902070600 +0800" stop="20260902074000 +0800" channel="福建综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260902070600 +0800" stop="20260902074000 +0800" channel="福建综合"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260902074000 +0800" stop="20260902081700 +0800" channel="福建综合"><title lang="zh">流金剧场</title>
   </programme>
@@ -44111,11 +44431,11 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260902200500 +0800" stop="20260902202000 +0800" channel="福建综合"><title lang="zh">新闻启示录</title><desc lang="zh">《新闻启示录》是2004年福建广播影视集团重点打造的新闻栏目之一。《新闻启示录》创办于2004年3月15日，节目时长15分钟，为福建广播影视集团重点打造的电视新闻评论栏目。它始终秉持“党和政府与人民群众的连心桥”的栏目定位，致力于构建党政部门、社会公众以及媒体本身的意见沟通平台，谋求公共利益的最大化。2005年，在《新闻启示录》的基础上创办了该栏目周末版——《新闻启示录·监督网》和《新闻启示录·道德鉴》栏目，这两档节目轮流在每周日播出。《新闻启示录·监督网》、《新闻启示录·道德鉴》栏目定位：守护公共利益&amp;ensp;弘扬人间真情。《新闻启示录》播出时间：首播：综合频道(周日——周五)19：15重播：综合频道（次日）07：25&amp;ensp;；新闻频道（次日）9：40；经济生活频道（次日）02：40《新闻启示录·监督网》、《新闻启示录·道德鉴》播出时间：首播：综合频道(周日)19：15重播：综合频道（次日）07：25&amp;ensp;；新闻频道（次日）9：40；经济生活频道（次日）02：40</desc>
   </programme>
-  <programme start="20260902202000 +0800" stop="20260902210700 +0800" channel="福建综合"><title lang="zh">第一剧场</title><desc>优秀电视剧展播</desc>
+  <programme start="20260902202000 +0800" stop="20260902210700 +0800" channel="福建综合"><title lang="zh">第一剧场</title><desc lang="zh">优秀电视剧展播</desc>
   </programme>
-  <programme start="20260902210700 +0800" stop="20260902215500 +0800" channel="福建综合"><title lang="zh">第一剧场</title><desc>优秀电视剧展播</desc>
+  <programme start="20260902210700 +0800" stop="20260902215500 +0800" channel="福建综合"><title lang="zh">第一剧场</title><desc lang="zh">优秀电视剧展播</desc>
   </programme>
-  <programme start="20260902215500 +0800" stop="20260902220000 +0800" channel="福建综合"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260902215500 +0800" stop="20260902220000 +0800" channel="福建综合"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260902220000 +0800" stop="20260902223000 +0800" channel="福建综合"><title lang="zh">纪录片</title><desc lang="zh">暂无节目描述</desc>
   </programme>
@@ -45212,6 +45532,14 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260902232700 +0800" stop="20260902234100 +0800" channel="老故事"><title lang="zh">实业兴邦强国路《足迹》</title>
   </programme>
   <programme start="20260902234100 +0800" stop="20260903000000 +0800" channel="老故事"><title lang="zh">特别节目《跨越时空的四库全书》（八）</title>
+  </programme>
+  <programme start="20260902060000 +0800" stop="20260902060500 +0800" channel="聊城民生"><title lang="zh">形象宣传片</title>
+  </programme>
+  <programme start="20260902071000 +0800" stop="20260902074000 +0800" channel="聊城民生"><title lang="zh">民生大看台</title>
+  </programme>
+  <programme start="20260902074000 +0800" stop="20260902080000 +0800" channel="聊城民生"><title lang="zh">生活正前方</title>
+  </programme>
+  <programme start="20260902080000 +0800" stop="20260902083000 +0800" channel="聊城民生"><title lang="zh">民生面对面</title><desc lang="zh">民生访谈节目，邀请政府部门负责人和市民代表，就民生热点问题进行交流和解答，搭建政府与市民沟通的桥梁。</desc>
   </programme>
   <programme start="20260902085000 +0800" stop="20260902130000 +0800" channel="聊城民生"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>

@@ -1,6 +1,8 @@
 <tv generator-info-name="EPG采集系统" generator-info-url="https://github.com/yourusername/epg3">
   <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV9 高清</display-name><display-name lang="zh">CCTV-9(高清)</display-name><display-name lang="zh">CCTV-9高清</display-name><display-name lang="zh">CCTV9</display-name>
   </channel>
+  <channel id="三立综合"><display-name lang="zh">三立综合</display-name><display-name lang="zh">三立综合台</display-name>
+  </channel>
   <channel id="博斯运动二台"><display-name lang="zh">博斯运动二台</display-name>
   </channel>
   <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
@@ -8,6 +10,8 @@
   <channel id="汽摩"><display-name lang="zh">汽摩</display-name><display-name lang="zh">CHANNEL00000711</display-name><display-name lang="zh">汽摩频道</display-name>
   </channel>
   <channel id="博斯运动一台"><display-name lang="zh">博斯运动一台</display-name>
+  </channel>
+  <channel id="东森购物四台"><display-name lang="zh">东森购物四台</display-name>
   </channel>
   <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name>
   </channel>
@@ -19,6 +23,10 @@
   </channel>
   <channel id="KBS WORLD (MANDARIN) (HD)"><display-name lang="zh">KBS WORLD (MANDARIN) (HD)</display-name><display-name lang="zh">KBS World (Mandarin) (HD)</display-name>
   </channel>
+  <channel id="GINX Esports TV"><display-name lang="zh">GINX Esports TV</display-name>
+  </channel>
+  <channel id="DayStar"><display-name lang="zh">DayStar</display-name><display-name lang="zh">DAYSTAR HD</display-name>
+  </channel>
   <channel id="FashionTV HD"><display-name lang="zh">FashionTV HD</display-name><display-name lang="zh">Fashion TV</display-name>
   </channel>
   <channel id="上视新闻"><display-name lang="zh">上视新闻</display-name>
@@ -28,6 +36,8 @@
   <channel id="美亚电影"><display-name lang="zh">美亚电影</display-name>
   </channel>
   <channel id="动漫秀场"><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">动漫秀场</display-name><display-name lang="zh">CHANNEL00002000</display-name>
+  </channel>
+  <channel id="好消息2台"><display-name lang="zh">好消息2台</display-name>
   </channel>
   <channel id="MOMO亲子台"><display-name lang="zh">MOMO亲子台</display-name>
   </channel>
@@ -55,6 +65,8 @@
   </channel>
   <channel id="潮妈辣婆"><display-name lang="zh">潮妈辣婆</display-name>
   </channel>
+  <channel id="OPUS"><display-name lang="zh">OPUS</display-name>
+  </channel>
   <channel id="日照科教"><display-name lang="zh">日照科教</display-name><display-name lang="zh">日照科教</display-name><display-name lang="zh">CHANNEL00000263</display-name><display-name lang="zh">日照科教频道</display-name><display-name lang="zh">RZTV-2</display-name>
   </channel>
   <channel id="Action Hollywood Movies"><display-name lang="zh">Action Hollywood Movies</display-name><display-name lang="zh">ACTIONHOLLYWOODMOVIES</display-name>
@@ -66,6 +78,10 @@
   <channel id="禹城综艺"><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">禹城综艺</display-name><display-name lang="zh">CHANNEL00001062</display-name>
   </channel>
   <channel id="河南卫视"><display-name lang="zh">河南卫视</display-name><display-name lang="zh">河南</display-name><display-name lang="zh">CHANNEL00000358</display-name>
+  </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
+  <channel id="DW英语"><display-name lang="zh">DW英语</display-name><display-name lang="zh">DW (English)</display-name><display-name lang="zh">DW English</display-name>
   </channel>
   <channel id="CGTN纪录"><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CGTN英文纪录</display-name><display-name lang="zh">CHANNEL00000353</display-name><display-name lang="zh">CGTN纪录</display-name>
   </channel>
@@ -81,9 +97,13 @@
   </channel>
   <channel id="RTHK31"><display-name lang="zh">RTHK31</display-name>
   </channel>
+  <channel id="ERA FM"><display-name lang="zh">ERA FM</display-name>
+  </channel>
   <channel id="CCTV13"><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV13新闻</display-name><display-name lang="zh">CHANNEL00000345</display-name><display-name lang="zh">CCTV 13</display-name><display-name lang="zh">CCTV13 高清</display-name><display-name lang="zh">CCTV-13(高清)</display-name><display-name lang="zh">CCTV13</display-name><display-name lang="zh">CCTV-13高清</display-name>
   </channel>
   <channel id="DreamWorks Channel HD"><display-name lang="zh">DreamWorks Channel HD</display-name>
+  </channel>
+  <channel id="CLASSIC ROCK"><display-name lang="zh">CLASSIC ROCK</display-name>
   </channel>
   <channel id="SUPER识食"><display-name lang="zh">SUPER识食</display-name>
   </channel>
@@ -207,6 +227,8 @@
   </channel>
   <channel id="历城综合"><display-name lang="zh">历城综合</display-name><display-name lang="zh">历城综合</display-name><display-name lang="zh">CHANNEL00001105</display-name>
   </channel>
+  <channel id="HITZ FM"><display-name lang="zh">HITZ FM</display-name>
+  </channel>
   <channel id="广东经济"><display-name lang="zh">广东经济</display-name>
   </channel>
   <channel id="曲阜综合"><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">CHANNEL00001052</display-name>
@@ -311,6 +333,10 @@
   </channel>
   <channel id="Love Nature 4K"><display-name lang="zh">Love Nature 4K</display-name><display-name lang="zh">LOVENATURE4K</display-name>
   </channel>
+  <channel id="Nick Jr. 儿童频道"><display-name lang="zh">Nick Jr. 儿童频道</display-name><display-name lang="zh">NICKJR.儿童频道</display-name>
+  </channel>
+  <channel id="爱尔达娱乐"><display-name lang="zh">爱尔达娱乐</display-name>
+  </channel>
   <channel id="伊春新闻综合"><display-name lang="zh">伊春新闻综合</display-name>
   </channel>
   <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name><display-name lang="zh">CHANNEL00000275</display-name>
@@ -389,6 +415,8 @@
   </channel>
   <channel id="江苏教育"><display-name lang="zh">江苏教育</display-name>
   </channel>
+  <channel id="中天新闻"><display-name lang="zh">中天新闻</display-name>
+  </channel>
   <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
   </channel>
   <channel id="济宁综合"><display-name lang="zh">济宁综合</display-name><display-name lang="zh">济宁综合</display-name><display-name lang="zh">CHANNEL00000240</display-name><display-name lang="zh">济宁综合频道</display-name>
@@ -423,6 +451,8 @@
   </channel>
   <channel id="寰宇新闻"><display-name lang="zh">寰宇新闻</display-name><display-name lang="zh">寰宇新闻一台</display-name>
   </channel>
+  <channel id="My Cinema Europe HD 我的歐洲電影"><display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name>
+  </channel>
   <channel id="靖洋戏剧台"><display-name lang="zh">靖洋戏剧台</display-name>
   </channel>
   <channel id="劲爆体育"><display-name lang="zh">劲爆体育</display-name>
@@ -430,6 +460,8 @@
   <channel id="中视购物"><display-name lang="zh">中视购物</display-name>
   </channel>
   <channel id="莱西综合"><display-name lang="zh">莱西综合</display-name><display-name lang="zh">莱西综合</display-name><display-name lang="zh">CHANNEL00001067</display-name>
+  </channel>
+  <channel id="8TV"><display-name lang="zh">8TV</display-name>
   </channel>
   <channel id="卡酷少儿"><display-name lang="zh">卡酷少儿</display-name><display-name lang="zh">CHANNEL00000661</display-name><display-name lang="zh">北京卡酷少儿</display-name>
   </channel>
@@ -475,6 +507,8 @@
   </channel>
   <channel id="钱江都市"><display-name lang="zh">钱江都市</display-name><display-name lang="zh">浙江钱江都市</display-name>
   </channel>
+  <channel id="靖洋卡通Nice Bingo"><display-name lang="zh">靖洋卡通Nice Bingo</display-name><display-name lang="zh">靖洋卡通NICEBINGO</display-name>
+  </channel>
   <channel id="中国教育1"><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">CHANNEL00000076</display-name><display-name lang="zh">中国教育台-1</display-name><display-name lang="zh">中国教育1台</display-name><display-name lang="zh">中国教育3</display-name><display-name lang="zh">中国教育一台</display-name><display-name lang="zh">中国教育台-1(高清)</display-name>
   </channel>
   <channel id="南通社教"><display-name lang="zh">南通社教</display-name><display-name lang="zh">南通二套</display-name><display-name lang="zh">南通社教频道</display-name><display-name lang="zh">南通社会教育</display-name>
@@ -499,7 +533,11 @@
   </channel>
   <channel id="云南卫视"><display-name lang="zh">云南卫视</display-name><display-name lang="zh">云南</display-name><display-name lang="zh">CHANNEL00000367</display-name>
   </channel>
+  <channel id="MY FM"><display-name lang="zh">MY FM</display-name>
+  </channel>
   <channel id="Thrill"><display-name lang="zh">Thrill</display-name><display-name lang="zh">THRILL</display-name>
+  </channel>
+  <channel id="民视"><display-name lang="zh">民视</display-name>
   </channel>
   <channel id="民视综艺"><display-name lang="zh">民视综艺</display-name>
   </channel>
@@ -559,6 +597,8 @@
   </channel>
   <channel id="CinemaWorld"><display-name lang="zh">CinemaWorld</display-name>
   </channel>
+  <channel id="LUXE TV Channel"><display-name lang="zh">LUXE TV Channel</display-name>
+  </channel>
   <channel id="NOWSPORTS4"><display-name lang="zh">NOWSPORTS4</display-name>
   </channel>
   <channel id="河北经济"><display-name lang="zh">河北经济</display-name>
@@ -592,6 +632,8 @@
   <channel id="CTI TV HD"><display-name lang="zh">CTI TV HD</display-name>
   </channel>
   <channel id="安徽卫视"><display-name lang="zh">安徽卫视</display-name><display-name lang="zh">安徽</display-name><display-name lang="zh">CHANNEL00000328</display-name>
+  </channel>
+  <channel id="好消息"><display-name lang="zh">好消息</display-name>
   </channel>
   <channel id="福州生活"><display-name lang="zh">福州生活</display-name><display-name lang="zh">福州3-生活</display-name>
   </channel>
@@ -651,6 +693,8 @@
   </channel>
   <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
   </channel>
+  <channel id="TVBJADE"><display-name lang="zh">TVBJADE</display-name><display-name lang="zh">TVB Jade</display-name>
+  </channel>
   <channel id="居家购物"><display-name lang="zh">居家购物</display-name><display-name lang="zh">CHANNEL00000700</display-name>
   </channel>
   <channel id="无锡新闻综合"><display-name lang="zh">无锡新闻综合</display-name>
@@ -696,6 +740,8 @@
   <channel id="国会频道2台"><display-name lang="zh">国会频道2台</display-name>
   </channel>
   <channel id="快乐垂钓"><display-name lang="zh">快乐垂钓</display-name><display-name lang="zh">CHANNEL00000648</display-name>
+  </channel>
+  <channel id="GOLD"><display-name lang="zh">GOLD</display-name>
   </channel>
   <channel id="Nick Jr"><display-name lang="zh">Nick Jr</display-name><display-name lang="zh">NICKJR</display-name><display-name lang="zh">NICKJR.</display-name><display-name lang="zh">Nick Jr.</display-name><display-name lang="zh">Nick Jr. HD</display-name>
   </channel>
@@ -842,6 +888,8 @@
   <channel id="欢笑剧场"><display-name lang="zh">欢笑剧场</display-name>
   </channel>
   <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
+  </channel>
+  <channel id="Astro AEC"><display-name lang="zh">Astro AEC</display-name><display-name lang="zh">Astro AEC HD</display-name>
   </channel>
   <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name><display-name lang="zh">HITS Movies HD</display-name>
   </channel>
@@ -1057,6 +1105,12 @@
   </channel>
   <channel id="DreamWorks 梦工厂动画"><display-name lang="zh">DreamWorks 梦工厂动画</display-name><display-name lang="zh">DREAMWORKS梦工厂动画</display-name>
   </channel>
+  <programme start="20260905010000 +0800" stop="20260905070000 +0800" channel="8TV"><title lang="zh">Eightfm@ 8tv</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905074500 +0800" channel="8TV"><title lang="zh">Proud of You</title><desc lang="zh">Wenxue dan ibunya, Kimura serta Qianna/ Xiao Ai datang ke lokasi di mana Yitonggao akan mengadakan sidang akhbar.</desc>
+  </programme>
+  <programme start="20260905074500 +0800" stop="20260906000000 +0800" channel="8TV"><title lang="zh">Proud of You</title><desc lang="zh">Kimura Kenji berasa tidak selesa apabila Liu muncul di depan Xiulian. Xiulian terkejut kerana Liu menyerupai Zhilong dan menjemputnya makan di rumah.</desc>
+  </programme>
   <programme start="20260905002000 +0800" stop="20260905004500 +0800" channel="ABCAUSTRALIA"><title lang="zh">Every Bite Takes You Home 第1季第8集 -Nazeem Hussain</title><desc lang="zh">Comedian Nazeem Hussain talks about being born and raised in Melbourne as the son of Sri Lankan Muslim parents. He cooks traditional Sri Lankan dishes with Kylie Kwong to celebrate his background.</desc>
   </programme>
   <programme start="20260905004500 +0800" stop="20260905011500 +0800" channel="ABCAUSTRALIA"><title lang="zh">Loving Gluten Free 第1季第8集</title><desc lang="zh">Helen shares the perfect recipe for your next taco Tuesday, &amp;#x27;Mexican Pulled Pork Tacos&amp;#x27;. The Mexican theme continues as Helen checks out &amp;#x27;Hotel Jesus&amp;#x27; with head chef Matt Lane.</desc>
@@ -1454,6 +1508,22 @@
   <programme start="20260905230000 +0800" stop="20260905233000 +0800" channel="Arirang TV"><title lang="zh">DIPLOMAT'S ARCHIVE: HIDDEN STORIES(普)</title>
   </programme>
   <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="Arirang TV"><title lang="zh">VIBE IN ACTION: K-INITIATIVE(普)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="Astro AEC"><title lang="zh">Social Playlist</title><desc lang="zh">No matter how bad life gets, there is always a better tomorrow waiting if we work for it. Join celebrities &amp; entertainment industry experts behind the scenes of Social Playlist.</desc>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="Astro AEC"><title lang="zh">Perfectly Imperfect</title><desc lang="zh">Newly appointed Yan Wang tries to initiate a reformation in the underworld, but faces suppression from the elders despite the crisis they face due to the declining birth rates in the human world.</desc>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="Astro AEC"><title lang="zh">A Better Life</title><desc lang="zh">At the peak of her career, insurance agent Hu Man Li suddenly faces challenges in her career &amp; marriage due to the actions of Xue Xiao Zhou, a newcomer to the industry, resulting in misunderstandings.</desc>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="Astro AEC"><title lang="zh">Local Heroes or Village Idiots</title><desc lang="zh">Honduras join hands with Shih Ming Shuai, Huang Pei Jia, Andrew Chau, &amp; village dog Qiubao to form the Most \"Kiang\" Squad. Crossing the Central Mountain Range, the team embarks on an upgraded mission.</desc>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="Astro AEC"><title lang="zh">Social Playlist</title><desc lang="zh">No matter how bad life gets, there is always a better tomorrow waiting if we work for it. Join celebrities &amp; entertainment industry experts behind the scenes of Social Playlist.</desc>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905070000 +0800" channel="Astro AEC"><title lang="zh">A Better Life</title><desc lang="zh">At the peak of her career, insurance agent Hu Man Li suddenly faces challenges in her career &amp; marriage due to the actions of Xue Xiao Zhou, a newcomer to the industry, resulting in misunderstandings.</desc>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="Astro AEC"><title lang="zh">Evening Edition</title><desc lang="zh">Catch the latest local &amp; international news headlines as depicted in major newspaper &amp; magazines, each from a range of different perspectives.</desc>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260906000000 +0800" channel="Astro AEC"><title lang="zh">Pedal On For Love</title><desc lang="zh">11 Singapore celebrities will embark on an unprecedented relay cycling journey from Yunnan to Singapore. For this epic 5000km ride, the casts will face unprecedented challenges.</desc>
   </programme>
   <programme start="20260905003000 +0800" stop="20260905012000 +0800" channel="Astro AOD"><title lang="zh">夫妻的博弈 第25集</title><desc lang="zh">姜幸如撞破丈夫与闺蜜的奸情，惨遭毒手却重生回到五年前。她以亮丽外型与预知能力重返职场，带领粉红兵团反击渣男势力，创作动人广告，女力觉醒，成就自己的人生。</desc>
   </programme>
@@ -2759,33 +2829,35 @@
   </programme>
   <programme start="20260905230000 +0800" stop="20260905235900 +0800" channel="CCTV13"><title lang="zh">24小时</title><desc>中央电视台新闻频道夜间新闻资讯栏目，2009年8月10日开播，由原23点《晚间新闻》改版而来。每晚23:00首播，时长60分钟，以“为您梳理全天重要新闻”为宗旨，回顾当日国内外重大新闻，设有“主播关注”“声音”“今日面孔”“图说今天”等板块，集纳财经、体育、文化、国际等各类资讯，采用“说新闻”的口语化表达方式，让观众对全天新闻有清晰全面的了解。</desc>
   </programme>
-  <programme start="20260905060000 +0800" stop="20260905074500 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末早间版）-2026-74</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  <programme start="20260905004400 +0800" stop="20260905060000 +0800" channel="CCTV14"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
-  <programme start="20260905074500 +0800" stop="20260905084500 +0800" channel="CCTV14"><title lang="zh">七巧板-2026-36</title><desc>《七巧板》是中央广播电视总台推出的专门服务于学龄前儿童的教育节目。节目秉承在游戏中认知、启智的主旨，通过亲子游戏、音乐舞蹈、故事戏剧、科学育儿等内容的精心设计，带给小朋友们开心快乐的童年记忆和温馨美好的亲子时光。</desc>
+  <programme start="20260905060000 +0800" stop="20260905074500 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末早间版）-2026-74</title><desc lang="zh">CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  </programme>
+  <programme start="20260905074500 +0800" stop="20260905084500 +0800" channel="CCTV14"><title lang="zh">七巧板-2026-36</title><desc lang="zh">《七巧板》是中央广播电视总台推出的专门服务于学龄前儿童的教育节目。节目秉承在游戏中认知、启智的主旨，通过亲子游戏、音乐舞蹈、故事戏剧、科学育儿等内容的精心设计，带给小朋友们开心快乐的童年记忆和温馨美好的亲子时光。</desc>
   </programme>
   <programme start="20260905084500 +0800" stop="20260905092000 +0800" channel="CCTV14"><title lang="zh">知危险会避险2026年秋季开学交通安全主题课-儿童篇</title>
   </programme>
-  <programme start="20260905092000 +0800" stop="20260905120000 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末黄金版）-2026-128</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  <programme start="20260905092000 +0800" stop="20260905120000 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末黄金版）-2026-128</title><desc lang="zh">CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
   </programme>
-  <programme start="20260905120000 +0800" stop="20260905133000 +0800" channel="CCTV14"><title lang="zh">动漫世界-2026-302</title><desc>《动漫世界》是一档全新的播出世界经典动画片的少儿栏目。主要播放以“名著名篇”和“科普科幻”为内容的世界经典动画作品。</desc>
+  <programme start="20260905120000 +0800" stop="20260905133000 +0800" channel="CCTV14"><title lang="zh">动漫世界-2026-302</title><desc lang="zh">《动漫世界》是一档全新的播出世界经典动画片的少儿栏目。主要播放以“名著名篇”和“科普科幻”为内容的世界经典动画作品。</desc>
   </programme>
-  <programme start="20260905133000 +0800" stop="20260905153000 +0800" channel="CCTV14"><title lang="zh">动画大放映（影院版）-美影厂动画1</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  <programme start="20260905133000 +0800" stop="20260905153000 +0800" channel="CCTV14"><title lang="zh">动画大放映（影院版）-美影厂动画1</title><desc lang="zh">CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
   </programme>
-  <programme start="20260905153000 +0800" stop="20260905170000 +0800" channel="CCTV14"><title lang="zh">动漫世界-2026-303</title><desc>《动漫世界》是一档全新的播出世界经典动画片的少儿栏目。主要播放以“名著名篇”和“科普科幻”为内容的世界经典动画作品。</desc>
+  <programme start="20260905153000 +0800" stop="20260905170000 +0800" channel="CCTV14"><title lang="zh">动漫世界-2026-303</title><desc lang="zh">《动漫世界》是一档全新的播出世界经典动画片的少儿栏目。主要播放以“名著名篇”和“科普科幻”为内容的世界经典动画作品。</desc>
   </programme>
-  <programme start="20260905170000 +0800" stop="20260905183500 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末下午版）-2026-68</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  <programme start="20260905170000 +0800" stop="20260905183500 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末下午版）-2026-68</title><desc lang="zh">CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
   </programme>
-  <programme start="20260905183500 +0800" stop="20260905192500 +0800" channel="CCTV14"><title lang="zh">名师有名堂（第三季）-2</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20260905183500 +0800" stop="20260905192500 +0800" channel="CCTV14"><title lang="zh">名师有名堂（第三季）-2</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
-  <programme start="20260905192500 +0800" stop="20260905194500 +0800" channel="CCTV14"><title lang="zh">名师有名堂（第三季）-12</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20260905192500 +0800" stop="20260905194500 +0800" channel="CCTV14"><title lang="zh">名师有名堂（第三季）-12</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
-  <programme start="20260905194500 +0800" stop="20260905215000 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末黄金版）-2026-129</title><desc>CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
+  <programme start="20260905194500 +0800" stop="20260905215000 +0800" channel="CCTV14"><title lang="zh">动画大放映（周末黄金版）-2026-129</title><desc lang="zh">CCTV-14少儿频道推出全新动画栏目《动画大放映》，为各年龄段小朋友们量身打造，分时段呈现不同精彩内容，《动画大放映》栏目播出最新的国产动画片、最火爆的海外动画片以及小朋友们最爱看的人气动画片！国产动画荟萃的同时，海外好剧播不停，陪伴小朋友度过快乐的童年。</desc>
   </programme>
   <programme start="20260905215000 +0800" stop="20260905225800 +0800" channel="CCTV14"><title lang="zh">电影-小铃铛</title>
   </programme>
-  <programme start="20260905225800 +0800" stop="20260905234800 +0800" channel="CCTV14"><title lang="zh">天下同心-6/21</title><desc>大会受到世界瞩目，记者采访热烈。台盟主席谢雪红称，台湾人民三百年来反抗侵略，盼人民当家作主，要求民族独立、人民解放、国家统一。梅兰芳和程砚秋称：戏剧工作者能够真正地参与到国家的建设当中，在中国历史上还是第一次。许德珩接受外国记者采访，明确指出人民政协与旧政协的不同。沈钧儒、程潜等代表亦表达对新政协的兴奋与期待。美国，宋美龄依旧不明白为什么美国不再继续支持国民政府。台湾，农民与地主之间矛盾加剧，蒋介石欲推行改革，嘱蒋经国重振党国雄心。北平北京饭店，农民代表和学生代表也聚在一起畅想今后如何为新中国的建设出力。周恩来与宗教界民主人士吴耀宗会面，向他解释新中国保护正常的宗教活动，并且要团结一切可以团结的力量、调动一切可以调动的积极因素，建立一个爱国的统一战线。毛泽东与张元济同游故宫，张元济深感历史变迁。九三学社欲因完成任务而解散，但被毛泽东等劝阻。新中国仍需一个各民主党派合作的舞台，中国人民政治协商会议还要继续。国歌的讨论很激烈，郭沫若担心“中华民族到了最危险的时候”这句歌词不符现状况。</desc>
+  <programme start="20260905225800 +0800" stop="20260905234800 +0800" channel="CCTV14"><title lang="zh">天下同心-6/21</title><desc lang="zh">大会受到世界瞩目，记者采访热烈。台盟主席谢雪红称，台湾人民三百年来反抗侵略，盼人民当家作主，要求民族独立、人民解放、国家统一。梅兰芳和程砚秋称：戏剧工作者能够真正地参与到国家的建设当中，在中国历史上还是第一次。许德珩接受外国记者采访，明确指出人民政协与旧政协的不同。沈钧儒、程潜等代表亦表达对新政协的兴奋与期待。美国，宋美龄依旧不明白为什么美国不再继续支持国民政府。台湾，农民与地主之间矛盾加剧，蒋介石欲推行改革，嘱蒋经国重振党国雄心。北平北京饭店，农民代表和学生代表也聚在一起畅想今后如何为新中国的建设出力。周恩来与宗教界民主人士吴耀宗会面，向他解释新中国保护正常的宗教活动，并且要团结一切可以团结的力量、调动一切可以调动的积极因素，建立一个爱国的统一战线。毛泽东与张元济同游故宫，张元济深感历史变迁。九三学社欲因完成任务而解散，但被毛泽东等劝阻。新中国仍需一个各民主党派合作的舞台，中国人民政治协商会议还要继续。国歌的讨论很激烈，郭沫若担心“中华民族到了最危险的时候”这句歌词不符现状况。</desc>
   </programme>
-  <programme start="20260905234800 +0800" stop="20260905235900 +0800" channel="CCTV14"><title lang="zh">天下同心-7/21</title><desc>大会受到世界瞩目，记者采访热烈。台盟主席谢雪红称，台湾人民三百年来反抗侵略，盼人民当家作主，要求民族独立、人民解放、国家统一。梅兰芳和程砚秋称：戏剧工作者能够真正地参与到国家的建设当中，在中国历史上还是第一次。许德珩接受外国记者采访，明确指出人民政协与旧政协的不同。沈钧儒、程潜等代表亦表达对新政协的兴奋与期待。美国，宋美龄依旧不明白为什么美国不再继续支持国民政府。台湾，农民与地主之间矛盾加剧，蒋介石欲推行改革，嘱蒋经国重振党国雄心。北平北京饭店，农民代表和学生代表也聚在一起畅想今后如何为新中国的建设出力。周恩来与宗教界民主人士吴耀宗会面，向他解释新中国保护正常的宗教活动，并且要团结一切可以团结的力量、调动一切可以调动的积极因素，建立一个爱国的统一战线。毛泽东与张元济同游故宫，张元济深感历史变迁。九三学社欲因完成任务而解散，但被毛泽东等劝阻。新中国仍需一个各民主党派合作的舞台，中国人民政治协商会议还要继续。国歌的讨论很激烈，郭沫若担心“中华民族到了最危险的时候”这句歌词不符现状况。</desc>
+  <programme start="20260905234800 +0800" stop="20260905235900 +0800" channel="CCTV14"><title lang="zh">天下同心-7/21</title><desc lang="zh">大会受到世界瞩目，记者采访热烈。台盟主席谢雪红称，台湾人民三百年来反抗侵略，盼人民当家作主，要求民族独立、人民解放、国家统一。梅兰芳和程砚秋称：戏剧工作者能够真正地参与到国家的建设当中，在中国历史上还是第一次。许德珩接受外国记者采访，明确指出人民政协与旧政协的不同。沈钧儒、程潜等代表亦表达对新政协的兴奋与期待。美国，宋美龄依旧不明白为什么美国不再继续支持国民政府。台湾，农民与地主之间矛盾加剧，蒋介石欲推行改革，嘱蒋经国重振党国雄心。北平北京饭店，农民代表和学生代表也聚在一起畅想今后如何为新中国的建设出力。周恩来与宗教界民主人士吴耀宗会面，向他解释新中国保护正常的宗教活动，并且要团结一切可以团结的力量、调动一切可以调动的积极因素，建立一个爱国的统一战线。毛泽东与张元济同游故宫，张元济深感历史变迁。九三学社欲因完成任务而解散，但被毛泽东等劝阻。新中国仍需一个各民主党派合作的舞台，中国人民政治协商会议还要继续。国歌的讨论很激烈，郭沫若担心“中华民族到了最危险的时候”这句歌词不符现状况。</desc>
   </programme>
   <programme start="20260905001730 +0800" stop="20260905060000 +0800" channel="CCTV15"><title lang="zh">风华国乐-2026-253</title><desc>央视音乐频道《风华国乐》是全国唯一一档专注中国民乐的音乐节目，自中央电视台音乐频道2004年开播以来延续至今。栏目秉承传承民族音乐精髓，推广民乐新理念，推出了大量的民乐新人新秀。 栏目为以介绍中华民族传统音乐文化，展示民族音乐艺术家魅力为主要内容，集中展示了国内外知名的民乐演奏家及年轻一代民乐新秀。</desc>
   </programme>
@@ -5598,6 +5670,8 @@
   </programme>
   <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="CINEMAX"><title lang="zh">好萊塢好好看第1季:1185</title><desc lang="zh">每個星期，「好萊塢好好看」為觀眾揭露三部強檔電影的幕後，為您捕捉拍攝時的鏡頭，同時訪問演員和製片。</desc>
   </programme>
+  <programme start="20260905040000 +0800" stop="20260905040800 +0800" channel="CINEMAX"><title lang="zh">幽靈刺客</title><desc lang="zh">擁有不死之身、人類的靈魂及英雄的胸懷，衛斯理史奈普擔綱演出本片主角：吸血鬼獵人刀鋒戰士。</desc>
+  </programme>
   <programme start="20260905052000 +0800" stop="20260905065500 +0800" channel="CINEMAX"><title lang="zh">х/ф День курка</title>
   </programme>
   <programme start="20260905065500 +0800" stop="20260905074500 +0800" channel="CINEMAX"><title lang="zh">х/ф Вальдо</title>
@@ -5622,11 +5696,15 @@
   </programme>
   <programme start="20260905165000 +0800" stop="20260905182500 +0800" channel="CINEMAX"><title lang="zh">集結風暴</title><desc lang="zh">HBO的「集結風暴」將呈現給您一位英國偉大的戰爭英雄。這部HBO自製電影贏得3項艾美獎帶領我們重回難忘的歷史旅程，見證一個偉人如何扭轉局勢</desc>
   </programme>
-  <programme start="20260905193500 +0800" stop="20260905210500 +0800" channel="CINEMAX"><title lang="zh">х/ф 24 часа на жизнь</title>
+  <programme start="20260905190900 +0800" stop="20260905203600 +0800" channel="CINEMAX"><title lang="zh">Cegonhas: A História que não Te Contaram</title><desc lang="zh">Há muito tempo, as cegonhas entregavam os bebês. As coisas iam muito bem, até que um dia algo deu errado e elas começaram a trabalhar para uma loja online.</desc>
   </programme>
-  <programme start="20260905210500 +0800" stop="20260905224000 +0800" channel="CINEMAX"><title lang="zh">х/ф Такси</title>
+  <programme start="20260905203600 +0800" stop="20260905220500 +0800" channel="CINEMAX"><title lang="zh">O Bicho Vai Pegar 4</title>
+  </programme>
+  <programme start="20260905220500 +0800" stop="20260905224000 +0800" channel="CINEMAX"><title lang="zh">Harry Potter e a Câmara Secreta</title><desc lang="zh">De férias na casa de seus tios Dursley, Harry Potter recebe a inesperada visita de Dobby, um elfo doméstico, que veio avisá-lo para não retornar à Escola de Magia de Hogwarts, pois lá correrá um grande perigo.</desc>
   </programme>
   <programme start="20260905224000 +0800" stop="20260906000500 +0800" channel="CINEMAX"><title lang="zh">х/ф Такси 2</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260906000000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
   </programme>
   <programme start="20260905001500 +0800" stop="20260905012500 +0800" channel="CLASSICA"><title lang="zh">Franz à Vienne : Mozart et Schoenberg</title>
   </programme>
@@ -6037,8 +6115,6 @@
   <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="CTI TV HD"><title lang="zh">前进战略高地</title><desc lang="zh">以全球华人战略观点与思维製作的大国政治、经济与军武版图角力的深度解析节目；锁定全球最新的第一线军事动态、强权政治博弈与国际经济衝击，拆解大国角力背後的战略思维。</desc>
   </programme>
   <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="CTI TV HD"><title lang="zh">cti talk网路论坛</title><desc lang="zh">精选国际新闻事件，从新闻报导、专题剖析到名家对谈，第一手现场直播，提供全面多元的角度，深受全球华人信赖！</desc>
-  </programme>
-  <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="Channel 5"><title lang="zh">Expedition With Steve Backshall - Series 2 - EP 2</title><desc lang="zh">Returning season. Features three-time BAFTA-winning adventurer and wildlife expert, Steve Backshall as he ventures into uncharted territory in pursuit of new discoveries and world firsts.</desc>
   </programme>
   <programme start="20260905010000 +0800" stop="20260905013000 +0800" channel="Channel 5"><title lang="zh">Planet Action S4 - EP 3</title><desc lang="zh">Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets, and get insight information on how the filmmakers make giant monsters come to life. This show is a sci-fi, cowboy, world-destruction, action-combo that will litera</desc>
   </programme>
@@ -6695,6 +6771,162 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="DW"><title lang="zh">Euromaxx</title>
   </programme>
+  <programme start="20260905010000 +0800" stop="20260905011500 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905011500 +0800" stop="20260905013000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="DW英语"><title lang="zh">Afrimaxx: African Lifestyle</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="DW英语"><title lang="zh">Best Of DW Podcasts</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905030200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905030200 +0800" stop="20260905031500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905031500 +0800" stop="20260905033000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="DW英语"><title lang="zh">Eco Africa: The Environment</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="DW英语"><title lang="zh">The Day: News In Review</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905050200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905050200 +0800" stop="20260905051500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905051500 +0800" stop="20260905060000 +0800" channel="DW英语"><title lang="zh">DocFilm</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905060200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905060200 +0800" stop="20260905063000 +0800" channel="DW英语"><title lang="zh">The Day: News In Review</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="DW英语"><title lang="zh">Eco India: The Environment</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905070200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905070200 +0800" stop="20260905071500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905071500 +0800" stop="20260905073000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="DW英语"><title lang="zh">DW News Africa</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905080200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905080200 +0800" stop="20260905083000 +0800" channel="DW英语"><title lang="zh">The Day: News In Review</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="DW英语"><title lang="zh">REV: Auto &amp; Mobility Show</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905090200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905090200 +0800" stop="20260905091500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905091500 +0800" stop="20260905093000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905093000 +0800" stop="20260905100000 +0800" channel="DW英语"><title lang="zh">Tomorrow Today: Science</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905100200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905100200 +0800" stop="20260905101500 +0800" channel="DW英语"><title lang="zh">Shift: Living In Digital Age</title>
+  </programme>
+  <programme start="20260905101500 +0800" stop="20260905110000 +0800" channel="DW英语"><title lang="zh">DocFilm</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905110200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905110200 +0800" stop="20260905111500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905111500 +0800" stop="20260905113000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="DW英语"><title lang="zh">To The Point: Int'l Debate</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905120200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905120200 +0800" stop="20260905121500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905121500 +0800" stop="20260905123000 +0800" channel="DW英语"><title lang="zh">Shift: Living In Digital Age</title>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="DW英语"><title lang="zh">Euromaxx: Lifestyle Europe</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905130200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905130200 +0800" stop="20260905133000 +0800" channel="DW英语"><title lang="zh">Arts Unveiled: The Art World</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="DW英语"><title lang="zh">The 77 Percent</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905140200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905140200 +0800" stop="20260905141500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905141500 +0800" stop="20260905143000 +0800" channel="DW英语"><title lang="zh">Best Of DW-Online Content</title>
+  </programme>
+  <programme start="20260905143000 +0800" stop="20260905150000 +0800" channel="DW英语"><title lang="zh">REV: Auto &amp; Mobility Show</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905150200 +0800" channel="DW英语"><title lang="zh">DW News</title>
+  </programme>
+  <programme start="20260905150200 +0800" stop="20260905151500 +0800" channel="DW英语"><title lang="zh">DW News Focus</title>
+  </programme>
+  <programme start="20260905151500 +0800" stop="20260905153000 +0800" channel="DW英语"><title lang="zh">Sports Life</title>
+  </programme>
+  <programme start="20260905153000 +0800" stop="20260906000000 +0800" channel="DW英语"><title lang="zh">Tomorrow Today: Science</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="DayStar"><title lang="zh">Healing Time with Dr. Doug Weiss</title><desc lang="zh">Fighting Fair. Dr. Doug Weiss shows how to resolve conflict in relationships and turn disagreements into opportunities for deeper connection.</desc>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="DayStar"><title lang="zh">Joni Table Talk</title><desc lang="zh">The Love Awakening. Leif Hetland joins us to share the transformative force that empowers us to fulfill our divine purpose from his book, The Love Awakening.</desc>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="DayStar"><title lang="zh">Ministry Now</title><desc lang="zh">Benny Hinn. Benny Hinn discusses the importance of having a deeper faith walk, while sharing memorable testimonies from 50 years in ministry and how God is using him today.</desc>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="DayStar"><title lang="zh">Jesus the Healer with Nancy Dufresne</title><desc lang="zh">Host Nancy Dufresne shares messages addressing the topics of faith, healing, renewing the mind, following the Holy Spirit and a life in Christ.</desc>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905043000 +0800" stop="20260905053000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905060000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905063000 +0800" channel="DayStar"><title lang="zh">Kingdom Connection with Jentezen Franklin</title><desc lang="zh">Life-changing, sensible messages, including dramatic plays, musical acts and commanding storytelling with the Gospel.</desc>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="DayStar"><title lang="zh">Prophecy Live</title><desc lang="zh">Joseph Z's faith-filled journalism and Bible teaching for the Last Days will provide prophetic insights and predictions of global events.</desc>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="DayStar"><title lang="zh">Joni Table Talk</title><desc lang="zh">The Whole Armor of Immunity . Dr. Bryan Ardis reveals how we can arm our bodies with vital nutrients to maximize its ability to deal with all the things life brings our way.</desc>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="DayStar"><title lang="zh">Joel Osteen</title><desc lang="zh">Daily Renewal. Pastor Joel Osteen shepherds the largest and fastest growing congregation in America, following in step with his father's lead when he founded Lakewood Church.</desc>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="DayStar"><title lang="zh">Life Today with James &amp; Betty Robison</title><desc lang="zh">Christmas Shoes and Smiles. Betty and Randy look back at the impact of this special Christmas outreach while looking forward to the gifts given this year.</desc>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="DayStar"><title lang="zh">Gospel Truth with Andrew Wommack</title><desc lang="zh">Andrew Wommack shares religious messages about God's Word and discusses how he believes in God's power and his profound teachings.</desc>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905093000 +0800" channel="DayStar"><title lang="zh">Jewish Voice with Jonathan Bernis</title><desc lang="zh">Lion of Judah. Rabbi Jonathan Bernis, founder of Jewish Voice Ministries, provides valuable insights as they help the Abandoned Jews of Ethiopia.</desc>
+  </programme>
+  <programme start="20260905093000 +0800" stop="20260905100000 +0800" channel="DayStar"><title lang="zh">Jesus the Healer with Nancy Dufresne</title><desc lang="zh">Host Nancy Dufresne shares messages addressing the topics of faith, healing, renewing the mind, following the Holy Spirit and a life in Christ.</desc>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905103000 +0800" channel="DayStar"><title lang="zh">Kenneth Copeland</title><desc lang="zh">Kenneth and Gloria Copeland teach the principles of victorious Christian living through the uncompromising word of God.</desc>
+  </programme>
+  <programme start="20260905103000 +0800" stop="20260905110000 +0800" channel="DayStar"><title lang="zh">Creflo Dollar</title><desc lang="zh">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit.</desc>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="DayStar"><title lang="zh">Reflections</title><desc lang="zh">Daily devotion featuring scenic landscapes from around the world, accompanied by hymns and songs of worship along with scripture from the Holy Bible.</desc>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="DayStar"><title lang="zh">Rick Renner</title><desc lang="zh">Jesus' Miraculous Provision. Peter had to trust and obey in order to receive the money Jesus promised was inside the fish. Discover how obedience leads to prosperity.</desc>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="DayStar"><title lang="zh">Marcus Lamb</title><desc lang="zh">Going Through A Storm. Marcus Lamb delivers a powerful teaching from Seacoast Church about finding a way to brave the storms that can impact your life.</desc>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="DayStar"><title lang="zh">Marcus Lamb</title><desc lang="zh">Three Things to Never Forget. Find encouragement for everyday life as Marcus Lamb reveals how God's presence, promises and power are yours to experience.</desc>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="DayStar"><title lang="zh">Gary Keesee, Fixing the Money Thing</title><desc lang="zh">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="DayStar"><title lang="zh">John Ankerberg</title><desc lang="zh">Viewers are invited to join host John Ankerberg as he presents a broad span of contemporary spiritual issues and defends biblical answers.</desc>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="DayStar"><title lang="zh">Sid Roth's It's Supernatural!</title><desc lang="zh">Messianic-Jewish host Sid Roth features a wide array of guests who have experienced divine visitations, deliverance and other supernatural events.</desc>
+  </programme>
+  <programme start="20260905143000 +0800" stop="20260906000000 +0800" channel="DayStar"><title lang="zh">Miracle Word Today with Marilyn Hickey</title><desc lang="zh">Biblical teaching, inspirational guests, and classic messages from Marilyn Hickey meant to help viewers experience the transforming power of God's Word.</desc>
+  </programme>
   <programme start="20260905001300 +0800" stop="20260905004300 +0800" channel="Discovery Turbo TV"><title lang="zh">Border Control: Spain Ep4</title><desc lang="zh">At the borders of Spain, it&amp;#x27;s the job of the Security and Customs Services to detect threats from drugs, weapons, and suspected terrorists.</desc>
   </programme>
   <programme start="20260905004300 +0800" stop="20260905011000 +0800" channel="Discovery Turbo TV"><title lang="zh">Body Cam Ep5</title><desc lang="zh">In New Mexico, a car chase ends with lasting consequences for a lieutenant, and a lone officer must keep her cool to safely detain a homicide suspect.</desc>
@@ -7094,6 +7326,8 @@ From money woes to health problems, strife with the teenagers and love life trou
   <programme start="20260905193000 +0800" stop="20260905223000 +0800" channel="Duck TV兒童卡通-FastTV飛速看"><title lang="zh">Evening Show</title><desc lang="zh">Relax and unwind with this entertaining movie that makes your evening exciting.</desc>
   </programme>
   <programme start="20260905223000 +0800" stop="20260906013000 +0800" channel="Duck TV兒童卡通-FastTV飛速看"><title lang="zh">Superhit Iravukaatchi</title><desc lang="zh">Enjoy this blockbuster movie that offers various emotions.</desc>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260906000000 +0800" channel="ERA FM"><title lang="zh">Non-Stop Era</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905001400 +0800" channel="EURONEWS"><title lang="zh">The European debrief</title>
   </programme>
@@ -7885,6 +8119,64 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260905235500 +0800" stop="20260906000000 +0800" channel="France 24"><title lang="zh">L'instant mobile</title><desc lang="zh">Une émission d&amp;#x27;information au format court qui traite des sujets les plus captivants venus du monde entier. À travers des reportages dynamiques et un regard incisif, elle propose un condensé de l&amp;#x27;actualité internationale pour rester informé rapidement et efficacement.</desc>
   </programme>
+  <programme start="20260905000000 +0800" stop="20260905013000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：袋狼大進擊瘋狂三部曲</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="GINX Esports TV"><title lang="zh">瘋傳起來吧：Barnaby Slater</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="GINX Esports TV"><title lang="zh">遊戲起源：樂高星際大戰</title>
+  </programme>
+  <programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="GINX Esports TV"><title lang="zh">公仔大冒險：公仔大冒險</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：樂高要塞英雄</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：人中之龍8 外傳夏威夷海盜</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905063000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：霰彈警長   Moroi</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905073000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：漫威爭鋒</title>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="GINX Esports TV"><title lang="zh">遊戲起源：小精靈</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="GINX Esports TV"><title lang="zh">絕對武力連線專訪：JustHarry 第一部</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905100000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：The Executive - Movie Industry Tycoon</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905113000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：魔法風雲會：競技場</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="GINX Esports TV"><title lang="zh">電玩檔案室：2002</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="GINX Esports TV"><title lang="zh">公仔大冒險：公仔大冒險</title>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905133000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：瑪利歐激戰前鋒戰鬥聯賽</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="GINX Esports TV"><title lang="zh">遊戲起源：寶貝龍</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="GINX Esports TV"><title lang="zh">電玩檔案室：2007</title>
+  </programme>
+  <programme start="20260905143000 +0800" stop="20260905150000 +0800" channel="GINX Esports TV"><title lang="zh">遊戲起源：虛擬人生</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：拉捷特與克拉克：時空裂縫</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905173000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：高爾夫之家2</title>
+  </programme>
+  <programme start="20260905173000 +0800" stop="20260905190000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：高爾夫之家2</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905193000 +0800" channel="GINX Esports TV"><title lang="zh">電玩國度：當個創世神</title>
+  </programme>
+  <programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="GINX Esports TV"><title lang="zh">電玩國度：最後生還者重製版</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905210000 +0800" channel="GINX Esports TV"><title lang="zh">電玩之初：戰鎚：40K 星際戰士2</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905223000 +0800" channel="GINX Esports TV"><title lang="zh">話不多說，玩遊戲：魔法風雲會：競技場</title>
+  </programme>
+  <programme start="20260905223000 +0800" stop="20260905233000 +0800" channel="GINX Esports TV"><title lang="zh">電玩點評：Inel Tomlinson</title>
+  </programme>
+  <programme start="20260905233000 +0800" stop="20260905234500 +0800" channel="GINX Esports TV"><title lang="zh">十大精選：開放世界</title>
+  </programme>
+  <programme start="20260905234500 +0800" stop="20260906000000 +0800" channel="GINX Esports TV"><title lang="zh">十大精選：值得拍成影集的遊戲</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260906000000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Let's open the door to the past, SYOK Gold.</desc>
+  </programme>
   <programme start="20260905003000 +0800" stop="20260905013000 +0800" channel="Global Trekker"><title lang="zh">丹佐華盛頓:美國代表人物</title><desc lang="zh">這部深度紀錄片探討丹佐・華盛頓的非凡歷程,這位影壇巨星重新定義了好萊塢領銜男演員的形象與影響力.</desc>
   </programme>
   <programme start="20260905013000 +0800" stop="20260905021500 +0800" channel="Global Trekker"><title lang="zh">俯瞰義大利 #2</title><desc lang="zh">從時尚之都米蘭出發,渡過威尼斯大運河,到達脫俗的多羅米提山脈和色彩繽紛的五漁村海岸,以前所未有的方式從空中探索義大利北部.</desc>
@@ -8261,7 +8553,11 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260905234000 +0800" stop="20260906003000 +0800" channel="HGTV (HD)"><title lang="zh">Renovation Aloha (S3) - Condo Chaos</title><desc lang="zh">The Kalamas pivot to flipping a hoarder condo after a shutdown stalls another job, but tight margins put their profit at risk.</desc>
   </programme>
-  <programme start="20260905004900 +0800" stop="20260905012100 +0800" channel="HISTORY"><title lang="zh">The Century Series Fighter Jets</title>
+  <programme start="20260905004500 +0800" stop="20260905011000 +0800" channel="HISTORY"><title lang="zh">Pawn Stars</title><desc lang="zh">Monumental Pawn: Rick has a big decision to make when a programme from the unveiling of the Statue of Liberty shows up. He also hits the road to check out a 1966 Chevy II. (S16, ep 8)</desc>
+  </programme>
+  <programme start="20260905011000 +0800" stop="20260905011400 +0800" channel="HISTORY"><title lang="zh">Junk &amp; Disorderly:...</title><desc lang="zh">...Henry's Wreck-trospective.The Stratford Wreck- Trospective: Henry's Wreck-trospective dives headfirst into the archives to celebrate the very best bits from the series. (S1, ep 2)</desc>
+  </programme>
+  <programme start="20260905011400 +0800" stop="20260905012100 +0800" channel="HISTORY"><title lang="zh">Древние пришельцы – 3 | 3</title>
   </programme>
   <programme start="20260905012100 +0800" stop="20260905015400 +0800" channel="HISTORY"><title lang="zh">The Learjet Legacy</title>
   </programme>
@@ -8353,6 +8649,10 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260905194500 +0800" stop="20260905202500 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 5 | 30</title>
   </programme>
+  <programme start="20260905202500 +0800" stop="20260905205000 +0800" channel="HISTORY"><title lang="zh">Mistérios Revelados</title><desc lang="zh">Objetos misteriosos vistos sobre Miami e México provam a existência de OVNIs? Os restos mortais encontrados em uma praia da Carolina do Norte pertenciam a um macaco mutante?</desc>
+  </programme>
+  <programme start="20260905205000 +0800" stop="20260905205200 +0800" channel="HISTORY"><title lang="zh">Mistérios Revelados</title><desc lang="zh">Tony e sua equipe examinam se um vídeo apresentado recentemente no Congresso Americano é uma prova definitiva da existência de OVNIs.</desc>
+  </programme>
   <programme start="20260905205200 +0800" stop="20260905212500 +0800" channel="HISTORY"><title lang="zh">Early Space Exploration</title>
   </programme>
   <programme start="20260905215000 +0800" stop="20260905221100 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 3 | 08</title>
@@ -8430,6 +8730,10 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="HITS"><title lang="zh">The Jeffersons S9 - My Girl, Louise</title><desc lang="zh">Lillian mistreated Louise by being condescending to her when she worked as Lillian's maid 14 years ago. But Louise may have to contact her for a donation when the Help Center is dangerously short on funds.</desc>
   </programme>
   <programme start="20260905001500 +0800" stop="20260906000000 +0800" channel="HITS MOVIES"><title lang="zh">You Can't Take It With You</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905070000 +0800" channel="HITZ FM"><title lang="zh">Non-Stop Hitz</title><desc lang="zh">No talk, all hitz.</desc>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260906000000 +0800" channel="HITZ FM"><title lang="zh">Best of the Hitz Morning Crew</title><desc lang="zh">Weekend breakfast made better with the Hitz Morning Crew!</desc>
   </programme>
   <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="HOY 76"><title lang="zh">Bloomberg 時段</title>
   </programme>
@@ -9089,7 +9393,9 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="ITV1"><title lang="zh">Чергова частина</title>
   </programme>
-  <programme start="20260905010000 +0800" stop="20260905014500 +0800" channel="ITV1"><title lang="zh">Говоримо, як є</title>
+  <programme start="20260905010000 +0800" stop="20260905013000 +0800" channel="ITV1"><title lang="zh">ITV News London</title><desc lang="zh">The latest news and weather from London and the South East.</desc>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905014500 +0800" channel="ITV1"><title lang="zh">ITV Evening News</title><desc lang="zh">National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
   </programme>
   <programme start="20260905014500 +0800" stop="20260905020000 +0800" channel="ITV1"><title lang="zh">Вечірня казка</title>
   </programme>
@@ -9100,6 +9406,10 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   <programme start="20260905030000 +0800" stop="20260905031500 +0800" channel="ITV1"><title lang="zh">Prima Facie</title><desc lang="zh">Prima Facie adalah merupakan program yang membincangkan tentang seksyen undang-undang yang terdapat dalam sistem perundangan Malaysia.</desc>
   </programme>
   <programme start="20260905031500 +0800" stop="20260905033000 +0800" channel="ITV1"><title lang="zh">Promo / PSA / Kapsul</title><desc lang="zh">Paparan promo semasa, PSA, kapsul kenegaraan dan nilai-nilai murni.</desc>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="ITV1"><title lang="zh">Coronation Street</title><desc lang="zh">Shona leaves Harper unattended in the car, Jodie invites Kit to Number 8 for a rematch, Lauren drags a reluctant Betsy to the bistro, and the Websters plan Debbie's birthday party.</desc>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905041000 +0800" channel="ITV1"><title lang="zh">The Rainmaker</title><desc lang="zh">Thrilling crime drama series adaptation of John Grisham's novel. Rudy and Deck have a tense encounter with a witness and make a crucial discovery about their client.</desc>
   </programme>
   <programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="ITV1"><title lang="zh">Eksplorasi Halal</title><desc lang="zh">Program Eksplorasi Halal menyingkap isu, proses dan kepentingan pensijilan halal di Malaysia serta memberi pendedahan kepada masyarakat tentang pematuhan standard halal dalam pelbagai industri.</desc>
   </programme>
@@ -9378,6 +9688,54 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   <programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="KTV HD"><title lang="zh">Rome Reports – Nachrichten aus dem Vatikan</title><desc lang="zh">ROME REPORTS für K-TV. Die halbstündige Sendung bringt wöchentlich Nachrichten, Informationen und Neuigkeiten aus dem Vatikan und der katholischen Welt. Berichte über die Audienzen des Heiligen Vaters, Apostolische Reisen sowie Kultur und Events. Schalten Sie ein! (Senderinfo).</desc>
   </programme>
   <programme start="20260905073000 +0800" stop="20260906000000 +0800" channel="KTV HD"><title lang="zh">Stunde der Seelsorge</title><desc lang="zh">Stunde der Seelsorge – in der "Stunde der Seelsorge" gehen Pfarrer Dr. Thomas Maria Rimmel und Pater Dr. Karl Wallner immer Dienstag bis Freitag 14:30 Uhr aktuell auf Ihre Anliegen ein. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.SPOTLIGHT(普)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905070000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS MONTH(普)</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905080000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.SPOTLIGHT(普)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905130000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS MONTH(普)</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905140000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905150000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905170000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.SPOTLIGHT(普)</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905180000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905190000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905200000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905210000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS MONTH(普)</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905220000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL RIVIERA(普)</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
   </programme>
   <programme start="20260905040000 +0800" stop="20260905080000 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">此頻道於2026年09月01日停播</title>
   </programme>
@@ -9769,6 +10127,8 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   </programme>
   <programme start="20260905234400 +0800" stop="20260905235900 +0800" channel="MOMO亲子台"><title lang="zh">做菜ABC S1 EP09  清蒸魚</title>
   </programme>
+  <programme start="20260905070000 +0800" stop="20260906000000 +0800" channel="MY FM"><title lang="zh">MY FM What Do You Know? (Full Version Repeat) with Jack Yap &amp; Yoon</title><desc lang="zh">Fun common knowledge test with Jack Yap &amp; Yoon.</desc>
+  </programme>
   <programme start="20260905005400 +0800" stop="20260905022200 +0800" channel="Mezzo Live"><title lang="zh">音樂會／歐洲青年古典音樂節：葉里溫青年交響樂團與斯姆巴特揚(普)</title>
   </programme>
   <programme start="20260905022200 +0800" stop="20260905030000 +0800" channel="Mezzo Live"><title lang="zh">InterMezzo 愛樂間奏(普)</title>
@@ -9806,6 +10166,80 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   <programme start="20260905212000 +0800" stop="20260905230000 +0800" channel="Mezzo Live"><title lang="zh">音樂會/赫斯佩里翁21世紀古樂團演奏早期與克里奧福利亞舞曲 - 出自《邁向新世界》(普)</title>
   </programme>
   <programme start="20260905230000 +0800" stop="20260906004800 +0800" channel="Mezzo Live"><title lang="zh">歌劇/香榭麗舍劇院:史特拉汶斯基《夜鶯》與普朗克《蒂雷西亞的乳房》(普)</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Earthrise</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905013000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Inside Story</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">TechKnow</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Head to Head</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905063000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Counting the Cost</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905080000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Inside Story</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">7Up South Africa</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">101 East</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Talk to Al Jazeera</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Earthrise</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905150000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Witness</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905153000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Inside Story</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">The Listening Post</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Counting the Cost</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905190000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905193000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Inside Story</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905210000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Head to Head</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905220000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">Newshour</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905223000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">News Live</title>
+  </programme>
+  <programme start="20260905223000 +0800" stop="20260905230000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">TechKnow</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="My Cinema Europe HD 我的歐洲電影"><title lang="zh">newsgrid</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="NEWSWORLD"><title lang="zh">The News</title><desc lang="zh">Current news summaries and breaking stories about politics, business, health, sports, technology, and entertainment.</desc>
   </programme>
@@ -10929,9 +11363,23 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   </programme>
   <programme start="20260905224500 +0800" stop="20260906003500 +0800" channel="NOW爆谷星影台"><title lang="zh">男人四十</title><desc lang="zh">中學老師林耀國與陳文靖結婚多年, 感情已淡, 耀國有合適的職業和美滿家庭, 背後卻藏伏着中年的困擾。女學生胡彩藍暗戀自己, 師生關係曖昧複雜。文靖當年的國文老師盛世年出現, 揭開塵封多年的情感往事...</desc>
   </programme>
-  <programme start="20260905001500 +0800" stop="20260905003000 +0800" channel="Nick Jr"><title lang="zh">Barbapapa - One Big Happy Family!</title><desc lang="zh">Barbabelle watches Balis kittens. Shes scared something will happen and wont let them out. Barbamama must intervene to help the kittens.</desc>
+  <programme start="20260905000000 +0800" stop="20260905000200 +0800" channel="Nick Jr"><title lang="zh">Klip Video</title>
   </programme>
-  <programme start="20260905003000 +0800" stop="20260905005100 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">When Capn Turbots ship disappears, the Paw Patrol must venture into the mysterious Adventure Bay Triangle to find the missing vessel. // When Alex and Mr. Porter swap roles, the pups must help track</desc>
+  <programme start="20260905000200 +0800" stop="20260905000500 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP1</title>
+  </programme>
+  <programme start="20260905000500 +0800" stop="20260905001500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family go on a nature trail. They learn how to follow trails of footprints, which comes in handy when they get a bit lost..</desc>
+  </programme>
+  <programme start="20260905001500 +0800" stop="20260905002000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle is getting Peppa and her playgroup friends to dance to all different styles of music.</desc>
+  </programme>
+  <programme start="20260905002000 +0800" stop="20260905003000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Madame Gazelle gives the class a music lesson. There's lots of crashing and banging at first, but it's not long before the grown-ups visit and lay down some notes of their own.</desc>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905003500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny Pig shows Peppa and George her chickens, whilst something has been eating Grandpa Pig's lettuces.</desc>
+  </programme>
+  <programme start="20260905003500 +0800" stop="20260905004500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is back to Granny Pig's historical re-enactment society for a space adventure, as Peppa and George re-enact the Apollo moon landing.</desc>
+  </programme>
+  <programme start="20260905004500 +0800" stop="20260905005000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George make everyone laugh when they dress up as Mummy Pig and Daddy Pig.</desc>
+  </programme>
+  <programme start="20260905005000 +0800" stop="20260905005100 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Granny and Grandpa Pig decide to go and pick their own strawberries at Miss Rabbit's strawberry farm.</desc>
   </programme>
   <programme start="20260905005100 +0800" stop="20260905010000 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">Farmer Yumi and Als baby goat birthday party goes up in flames.</desc>
   </programme>
@@ -10941,11 +11389,25 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   </programme>
   <programme start="20260905020000 +0800" stop="20260905022000 +0800" channel="Nick Jr"><title lang="zh">Bedtime Stories with Ryan</title><desc lang="zh">Ryan Reynolds reads stories to help the world fall asleep. Tonight Ryan shares stories that are playful.</desc>
   </programme>
-  <programme start="20260905024500 +0800" stop="20260905025500 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">A dance contest being judged by Luke Stars goes wrong when a floating dancefloor carries the contestants away.</desc>
+  <programme start="20260905022700 +0800" stop="20260905023100 +0800" channel="Nick Jr"><title lang="zh">Legasi Kuasa: EP3</title>
+  </programme>
+  <programme start="20260905023100 +0800" stop="20260905023500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and family are watching TV... until it breaks! While Grampy Rabbit fixes it, the family get a new TV which can do everything... but it doesn't beat their old TV.</desc>
+  </programme>
+  <programme start="20260905023500 +0800" stop="20260905024500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of the duck race! When Miss Rabbit gives the sign, everyone drops their ducks in the river at the first bridge - whose will make it to the second bridge first.</desc>
+  </programme>
+  <programme start="20260905024500 +0800" stop="20260905025000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">While drawing pictures at playgroup, Peppa and her friends learn about each other's families, from Suzy sheep who lives with Mummy Sheep to Freddy Fox who lives with Mr. Fox.</desc>
+  </programme>
+  <programme start="20260905025000 +0800" stop="20260905030000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It is fruit day at the supermarket, and Miss Rabbit is making fruit smoothies.</desc>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905030500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The children go on a trip to a Dinosaur Park. With Grampy Rabbit as their leader, they follow dinosaur footprints to find a birthday treat for Freddy Fox.</desc>
+  </programme>
+  <programme start="20260905030500 +0800" stop="20260905031500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's Captain Daddy Dog's birthday and Mummy Dog surprises him with the gift of a boat trip, which isn't quite what he had expected.</desc>
+  </programme>
+  <programme start="20260905031500 +0800" stop="20260905031800 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Tiddles the Tortoise, Doctor Hamster's pet, has got stuck up a tree, again! Who can save him.</desc>
   </programme>
   <programme start="20260905031800 +0800" stop="20260905032000 +0800" channel="Nick Jr"><title lang="zh">Takraw Warrior : EP8</title>
   </programme>
-  <programme start="20260905032000 +0800" stop="20260905034000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Its the first day of school in Builder Cove... if Rubble  Crew can finish the building in time! / The pups need a construction solution to save Farmer Zoes crops and to keep Crunchy the beaver from</desc>
+  <programme start="20260905032000 +0800" stop="20260905033000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Pig gives her old computer to Granny and Grandpa Pig. They use it for lots of important work - as well as Happy Mrs Chicken. But who will fix it when it breaks.</desc>
   </programme>
   <programme start="20260905034000 +0800" stop="20260905034200 +0800" channel="Nick Jr"><title lang="zh">DORA</title><desc lang="zh">Dora and Boots help the Bunny Boyz boy band get super clean and sparkly before their big show! // Dora and Boots track down Osito, Isabelas lost teddy bear, and get him back before she wakes up.</desc>
   </programme>
@@ -10955,17 +11417,49 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   </programme>
   <programme start="20260905042500 +0800" stop="20260905042800 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa and Barbamama have announced to their dear barbababies that they are going on a trip to Easter Island. // The Barbababies, the twins, and Mr. Strict set sail on Thésée, a magnificent sailb</desc>
   </programme>
-  <programme start="20260905042800 +0800" stop="20260905045000 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
+  <programme start="20260905042800 +0800" stop="20260905043100 +0800" channel="Nick Jr"><title lang="zh">Satria Chibi : EP2</title>
   </programme>
-  <programme start="20260905045000 +0800" stop="20260905051000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">While everyone sleeps peacefully, one may wonder what the Barbababies could be dreaming about. // To dream makes you grow... But what can Barbidur, Barbalala, Barbotine and Barbidou possibly dream of?</desc>
+  <programme start="20260905043100 +0800" stop="20260905043500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The children must walk to school in a walking bus! Miss Rabbit wears a high visibility jacket, leading Peppa and friends in a bus formation.</desc>
   </programme>
-  <programme start="20260905053500 +0800" stop="20260905055500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Young François witnesses the birth of Barbapapa. // Barbapapa is a prisoner in a zoo.</desc>
+  <programme start="20260905043500 +0800" stop="20260905044500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and all her friends are having a sleepover - different friends in each of the apartments in the high street. So they play hide and seek across all the rooms.</desc>
+  </programme>
+  <programme start="20260905044500 +0800" stop="20260905045000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">There's a new friend for Peppa at her playgroup, Lotte Lama. She can speak a foreign language. Peppa loves talking. Everyone loves talking.</desc>
+  </programme>
+  <programme start="20260905045000 +0800" stop="20260905050000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is playing with Candy Cat when Emily Elephant's Granny moves out of the apartment. When the new neighbours arrive, Peppa recognises her holiday friend Rohan Rhino.</desc>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905050500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and family come to help make a garden on the roof of the apartments. Mr Bull assists with a big truck and crane. There is even a little something for Mrs Duck.</desc>
+  </programme>
+  <programme start="20260905050500 +0800" stop="20260905051500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">The new club house has a little counter, ideal for playing shop. But what will the children's new club house shop sell.</desc>
+  </programme>
+  <programme start="20260905051500 +0800" stop="20260905052000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa is playing with Freddy Fox at his home, in an apartment above the shops. Peggi and Pandora Panda, and Candy Cat live there too, and help show Peppa around.</desc>
+  </programme>
+  <programme start="20260905052000 +0800" stop="20260905053000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mr Bull builds a brand-new club house and slide for Peppa and her friends.</desc>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905053500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Miss Rabbit arrives with the broken bus. This is a job for Grampy Rabbit! Once fixed, Mummy Rabbit and Rebecca Rabbit arrive with a cake for Grampy Rabbit's birthday.</desc>
+  </programme>
+  <programme start="20260905053500 +0800" stop="20260905054500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa, George, Molly Mole and Freddy Fox play in the garden. Molly digs a tunnel and hits a box of pirate treasure.</desc>
+  </programme>
+  <programme start="20260905054500 +0800" stop="20260905055000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">At Chloe's party, the children and grownups struggle to finish the obstacle course to reach the prize. George is the last to try and finds the birthday cake.</desc>
+  </programme>
+  <programme start="20260905055000 +0800" stop="20260905055500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">After Peppa and family visit a tourist spot with her new friend Birgit Bear, the caravan unhooks from the car! Luckily, the bear family stop it just in time.</desc>
   </programme>
   <programme start="20260905055500 +0800" stop="20260905060000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa finds refuge in the house that François parents built for him. // The house of Barbapapa is far too small now that Barbamama and the Barbabébé have arrived in his life.</desc>
   </programme>
-  <programme start="20260905060000 +0800" stop="20260905062000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa finds refuge in the house that François parents built for him. // The house of Barbapapa is far too small now that Barbamama and the Barbabébé have arrived in his life.</desc>
+  <programme start="20260905060000 +0800" stop="20260905060500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and her family are on a caravan adventure and the first stop is The Biggest Potato in the World. When it starts to get foggy, they park up before another busy day.</desc>
   </programme>
-  <programme start="20260905062000 +0800" stop="20260905064000 +0800" channel="Nick Jr"><title lang="zh">Rubble  Crew</title><desc lang="zh">Rubble  Crew build the first train station in Builder Cove just in time to welcome Farmer Zoes new cow Mooreen. // Popstar Sierra Sparkle is moving to Builder Cove! But when the pups plan a surprise</desc>
+  <programme start="20260905060500 +0800" stop="20260905061500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Miss Rabbit gives Peppa and friends a tennis lesson, but the tennis balls get everywhere! So, the children play badminton instead and it's a lot easier.</desc>
+  </programme>
+  <programme start="20260905061500 +0800" stop="20260905062000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa spots a new playground! The children race over to it and discover that it's rather odd. Grampy Rabbit explains, this isn't a playground - it's an exercise park.</desc>
+  </programme>
+  <programme start="20260905062000 +0800" stop="20260905063000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Dr Hamster is visiting the playgroup today and has brought a giant ant farm. But nobody notices when they escape and start moving things in the classroom.</desc>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905063500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Mummy Elephant invites Peppa and Daddy Pig to perform magic at Emily's birthday party, and Peppa shows her friends how the magic trick works.</desc>
+  </programme>
+  <programme start="20260905063500 +0800" stop="20260905064500 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">At the gym, Madame Gazelle is teaching the children about martial arts. Along with Mr Bull, the children learn how to fall safely, balance and how to take the right stance.</desc>
+  </programme>
+  <programme start="20260905064500 +0800" stop="20260905065000 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">Peppa and George are playing at their grandparent's garden on a very hot day but they don't have a paddling pool.</desc>
+  </programme>
+  <programme start="20260905065000 +0800" stop="20260905065200 +0800" channel="Nick Jr"><title lang="zh">Peppa Pig</title><desc lang="zh">It's the day of the duck race! When Miss Rabbit gives the sign, everyone drops their ducks in the river at the first bridge - whose will make it to the second bridge first.</desc>
   </programme>
   <programme start="20260905070500 +0800" stop="20260905072500 +0800" channel="Nick Jr"><title lang="zh">PAW Patrol</title><desc lang="zh">The postmans truck gets stuck in the mud and the mail gets stuck in a tree. // Mayor Goodway turns into a frog.</desc>
   </programme>
@@ -11068,6 +11562,156 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   <programme start="20260905232500 +0800" stop="20260905234500 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">Barbapapa and Barbamama return to the tree they were born under. Its in bad condition. They must rescue it quickly without disturbing the nearby animals. // Its the Barbababiess birthday. They all</desc>
   </programme>
   <programme start="20260905234500 +0800" stop="20260906000000 +0800" channel="Nick Jr"><title lang="zh">BARBAPAPA - One Big Happy Family!</title><desc lang="zh">During a walk, the Barbapapa family discovers a megalith.</desc>
+  </programme>
+  <programme start="20260905001500 +0800" stop="20260905003000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905005100 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905005100 +0800" stop="20260905010000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905012500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">聖提亞哥的海洋冒險(普)</title>
+  </programme>
+  <programme start="20260905012500 +0800" stop="20260905014500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905014500 +0800" stop="20260905020000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905022000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">萊恩的睡前故事(普)</title>
+  </programme>
+  <programme start="20260905022000 +0800" stop="20260905024500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905024500 +0800" stop="20260905025500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905025500 +0800" stop="20260905032000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905032000 +0800" stop="20260905034000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905034000 +0800" stop="20260905040500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905040500 +0800" stop="20260905042500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905042500 +0800" stop="20260905045000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905045000 +0800" stop="20260905051000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905051000 +0800" stop="20260905053500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905053500 +0800" stop="20260905055500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905055500 +0800" stop="20260905062000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905062000 +0800" stop="20260905064000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905064000 +0800" stop="20260905070500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905070500 +0800" stop="20260905072500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905072500 +0800" stop="20260905075000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905075000 +0800" stop="20260905081000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">無敵鹿戰隊(普)</title>
+  </programme>
+  <programme start="20260905081000 +0800" stop="20260905083500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">花園小精靈(普)</title>
+  </programme>
+  <programme start="20260905083500 +0800" stop="20260905085500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905085500 +0800" stop="20260905092000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905092000 +0800" stop="20260905094500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">聖提亞哥的海洋冒險(普)</title>
+  </programme>
+  <programme start="20260905094500 +0800" stop="20260905100500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905100500 +0800" stop="20260905103000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">旋風戰車隊(普)</title>
+  </programme>
+  <programme start="20260905103000 +0800" stop="20260905105000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">鱷魚先生(普)</title>
+  </programme>
+  <programme start="20260905105000 +0800" stop="20260905111500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905111500 +0800" stop="20260905113500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905113500 +0800" stop="20260905120000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905122000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905122000 +0800" stop="20260905124500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905124500 +0800" stop="20260905131000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905131000 +0800" stop="20260905133000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905135500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905135500 +0800" stop="20260905141500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">無敵鹿戰隊(普)</title>
+  </programme>
+  <programme start="20260905141500 +0800" stop="20260905144000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905144000 +0800" stop="20260905150000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">聖提亞哥的海洋冒險(普)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905152500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905152500 +0800" stop="20260905153500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">星際小恐龍提姆(普)</title>
+  </programme>
+  <programme start="20260905153500 +0800" stop="20260905155500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">花園小精靈(普)</title>
+  </programme>
+  <programme start="20260905155500 +0800" stop="20260905161500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905161500 +0800" stop="20260905164000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905164000 +0800" stop="20260905170000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905172500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">鱷魚先生(普)</title>
+  </programme>
+  <programme start="20260905172500 +0800" stop="20260905174500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">動物謎案(普)</title>
+  </programme>
+  <programme start="20260905174500 +0800" stop="20260905181000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905181000 +0800" stop="20260905183000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊之小礫與工程家族(普)</title>
+  </programme>
+  <programme start="20260905183000 +0800" stop="20260905185500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905185500 +0800" stop="20260905192000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">汪汪隊立大功(普)</title>
+  </programme>
+  <programme start="20260905192000 +0800" stop="20260905194000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905194000 +0800" stop="20260905200500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905200500 +0800" stop="20260905202500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">聖提亞哥的海洋冒險(普)</title>
+  </programme>
+  <programme start="20260905202500 +0800" stop="20260905205000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">聖提亞哥的海洋冒險(普)</title>
+  </programme>
+  <programme start="20260905205000 +0800" stop="20260905211500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">無敵鹿戰隊(普)</title>
+  </programme>
+  <programme start="20260905211500 +0800" stop="20260905213500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">動物謎案(普)</title>
+  </programme>
+  <programme start="20260905213500 +0800" stop="20260905214000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905214000 +0800" stop="20260905214500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905214500 +0800" stop="20260905215000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905215000 +0800" stop="20260905215500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905215500 +0800" stop="20260905220000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905220500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905220500 +0800" stop="20260905221000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905221000 +0800" stop="20260905221500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905221500 +0800" stop="20260905222000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905222000 +0800" stop="20260905222500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905222500 +0800" stop="20260905223000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">粉紅豬小妹(普)</title>
+  </programme>
+  <programme start="20260905223000 +0800" stop="20260905225000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905225000 +0800" stop="20260905230000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">Dora(普)</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260905232500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">鱷魚先生(普)</title>
+  </programme>
+  <programme start="20260905232500 +0800" stop="20260905234500 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
+  </programme>
+  <programme start="20260905234500 +0800" stop="20260906000000 +0800" channel="Nick Jr. 儿童频道"><title lang="zh">泡泡先生一家(普)</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905002500 +0800" channel="Nickelodeon"><title lang="zh">勞德之家 [英/普]</title><desc lang="zh">阿玲找到料想不到的體育節目觀賞搭檔,就是她的鄰居碎碎念先生. // 麗莎領悟到外公不可能長生不死,於是她想利用科學,確保他長壽.</desc>
   </programme>
@@ -11188,6 +11832,8 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
   <programme start="20260905232500 +0800" stop="20260905235000 +0800" channel="Nickelodeon"><title lang="zh">長尾豹馬修一家親 [英/普]</title><desc lang="zh">潔德同時答應幫助太多人,導致她分身乏術,反而製造更多混亂! // 答應等包裹卻錯過了的長尾豹們,一路追著宅配人員追到了物流站.</desc>
   </programme>
   <programme start="20260905235000 +0800" stop="20260906000000 +0800" channel="Nickelodeon"><title lang="zh">長尾豹馬修一家親 [英/普]</title><desc lang="zh">馬塞趁沒人在家時,偷偷跑進茶壺塔,長尾豹讓他嚇了一大跳.</desc>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260906000000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing your classic favourites.</desc>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="PHOENIXCHINESECHANNELHD"><title lang="zh">凤凰洲际快车 (5/9/26)</title><desc lang="zh">凤凰洲际快车为您带来两岸三地，以及国际社会的大小新闻、最新动态和局势发展。</desc>
   </programme>
@@ -12800,7 +13446,35 @@ They are 5 to 7 centimeters tall at birth, with bright black eyes that are super
   </programme>
   <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
   </programme>
-  <programme start="20260905060000 +0800" stop="20260906000000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  <programme start="20260905060000 +0800" stop="20260905120000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="Star TV"><title lang="zh">Fitness</title><desc lang="zh">Die Gymnastik-Übungen aus dem Fitnessprogramm von Star TV können jederzeit in den Alltag integriert werden. Ob im Büro, zu Hause oder auf Reisen – die Übungen sind flexibel und leicht durchführbar. Sie bieten eine praktische Möglichkeit, Bewegung in den Tagesablauf einzubauen und fit zu bleiben, unabhängig vom Aufenthaltsort oder Zeitplan. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="Star TV"><title lang="zh">Fit mit Luisa</title><desc lang="zh">Fit mit Luisa ist eine Bewegungssendung für den Alltag. Moderatorin Luisa Pfister zeigt einfache Übungen für Fitness, Kraft und Beweglichkeit, die sich leicht zu Hause oder im Freien umsetzen lassen. Ergänzt wird die Sendung durch gesunde Rezeptideen und praktische Tipps für einen aktiven Lebensstil. Die Übungen sind für verschiedene Fitnesslevel geeignet und motivieren dazu, Bewegung unkomplizier</desc>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="Star TV"><title lang="zh">Arche</title><desc lang="zh">Die ARCHE-Fernsehkanzel ist ein Mitschnitt der wöchentlichen Predigten aus der Evangelisch-reformierten Freikirche ARCHE aus Hamburg. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="Star TV"><title lang="zh">ERF MenschGott</title><desc lang="zh">Simons Vater ist Berufssoldat und fordert absoluten Gehorsam von seinem Sohn. Gefühle sind verpönt. Irgendwann stellt Simon sich quer und rebelliert. Auch den auf diktierten Glauben an Gott wirft er über Bord. Seine Verletzungen verdrängt er – bis er selbst Vater wird. Er hält sein Kind im Arm und registriert mit Schrecken, welche Altlast noch in ihm schlummert. Aus Liebe zu seinem kleinen Sohn ma</desc>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="Star TV"><title lang="zh">Kraftvoll leben</title><desc lang="zh">Das 30-minütige TV-Programm mit Andreas Herrmann aus der Move Church in Wiesbaden. Lebensnah, motivierend und ermutigend vermittelt die Sendung positive Denkanstösse und gute Laune. Mit Geschichten und Erfahrungen aus dem echten Leben zeigt Andreas Herrmann neue Wege auf und inspiriert alle, die mehr aus ihrem Leben machen wollen. Folge uns auf unseren Social Media-Kanälen! (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905143000 +0800" stop="20260905150000 +0800" channel="Star TV"><title lang="zh">Arche</title><desc lang="zh">Die ARCHE-Fernsehkanzel ist ein Mitschnitt der wöchentlichen Predigten aus der Evangelisch-reformierten Freikirche ARCHE aus Hamburg. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905153000 +0800" channel="Star TV"><title lang="zh">Inspiration4Today</title><desc lang="zh">Die Sendungen von Inspiration4Today zeigen, wie man eine persönliche Beziehung zu Gott haben und den christlichen Glauben im Alltag ganz praktisch leben kann. Das Besondere an Inspiration4Today ist das sehr abwechslungsreiche Programm. Die Sendungen bestehen aus einem Mix von Predigten, Bibelbetrachtungen, Seminaren und Gesprächsrunden mit ganz unterschiedlichen Rednern und Pastoren. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="Star TV"><title lang="zh">Gunst der Stunde</title><desc lang="zh">Gunst der Stunde' ist der Fernsehgottesdienst mit Pfarrer a.D. Heiko Bräuning. 30 Minuten für einen persönlichen Moment mit Gott: Talk, Musik, Impulse. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="Star TV"><title lang="zh">Kraftvoll leben</title><desc lang="zh">Das 30-minütige TV-Programm mit Andreas Herrmann aus der Move Church in Wiesbaden. Lebensnah, motivierend und ermutigend vermittelt die Sendung positive Denkanstösse und gute Laune. Mit Geschichten und Erfahrungen aus dem echten Leben zeigt Andreas Herrmann neue Wege auf und inspiriert alle, die mehr aus ihrem Leben machen wollen. Folge uns auf unseren Social Media-Kanälen! (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="Star TV"><title lang="zh">Online Kirche</title><desc lang="zh">Pastor Gert Hoinle leitet das Christliche Glaubenszentrum. Er absolvierte Bibelschulen in München und in Tulsa, Oklahoma. 1991 erhielt er aus der Hand von Pastor Bob Yandian (Grace Church, Tulsa) seine Ordinationsurkunde zum evangelisch-freikirchlichen Pastor. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="Star TV"><title lang="zh">Antworten mit Bayless Conley</title><desc lang="zh">Die Sendung widmet sich den Predigten von Pastor Bayless Conley, einem Mann, der einst tief in der Drogensucht und Alkoholabhängigkeit gefangen war. Durch seine eindrucksvolle Lebensgeschichte und seine spirituelle Transformation erreicht er heute Menschen weltweit. In seinen Predigten teilt er nicht nur seine eigenen Erfahrungen, sondern bietet auch Hoffnung und Orientierung für diejenigen, die s</desc>
+  </programme>
+  <programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="Star TV"><title lang="zh">Getragen von Gnade mt Erich Engler</title><desc lang="zh">"Getragen von Gnade" – das TV Programm der Grace Family Church Schweiz Jetzt auf Sendung in der Schweiz! Pastor Erich Engler bringt in seinen Predigten das Evangelium der Gnade auf den Punkt – es geht allein um Jesus Christus. Als leitender Pastor der Grace Family Church im Zürcher Oberland und Präsident der Grace Academy in der Schweiz, lehrt er seit 2011 das unvermischte Evangelium der Gnade und</desc>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905200000 +0800" channel="Star TV"><title lang="zh">Shiva Live TV</title><desc lang="zh">Manchmal braucht es ein Gespräch, das neue Klarheit schenkt. Die erfahrenen Beraterinnen und Berater von Shiva Live TV begleiten dich bei Fragen zu Liebe, Partnerschaft, Beruf und Zukunft. Mit Kartenlegen, Hellsehen, Wahrsagen und Astrologie erhältst du persönliche Impulse und neue Perspektiven für deinen Lebensweg. Mehr erfahren auf shivalive.tv (Senderinfo).</desc>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260906010000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
   </programme>
   <programme start="20260905004300 +0800" stop="20260905013800 +0800" channel="TLC"><title lang="zh">Bbq High Ep4</title><desc lang="zh">Marc begins to take steps towards his future while Zane stands at a crossroads. Team Seriously Smokin&amp;#x27; hustles to try and get to State.</desc>
   </programme>
@@ -12928,6 +13602,8 @@ They are 5 to 7 centimeters tall at birth, with bright black eyes that are super
   </programme>
   <programme start="20260905150000 +0800" stop="20260905153000 +0800" channel="TRACE Sport Stars"><title lang="zh">Foul Play. Boris Onishchenko/Roy Jones Jr</title>
   </programme>
+  <programme start="20260905161500 +0800" stop="20260905170000 +0800" channel="TRACE Sport Stars"><title lang="zh">Alithies Me Tin Zina</title>
+  </programme>
   <programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="TRACE Sport Stars"><title lang="zh">Star Block Workout - South Africa - EP5</title><desc lang="zh">Meet @mrblockworkout, ex-bad boy who has created his own fitness method using only the urban environment! See @danilo_acquisto, @Thamarh, @Zanetvsa and @uphillrunner78 take up his challenges at Stellenberg high school in Cape Town!</desc>
   </programme>
   <programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="TRACE Sport Stars"><title lang="zh">Flashpoint - Griffith-Joyner / Djokovich - EP38</title><desc lang="zh">The flamboyant Flo-Jo opens the way to the Seoul Olympic Games in 1988 and Novak Djokovic jumps for joy at the French Open in 2023.</desc>
@@ -12950,7 +13626,9 @@ They are 5 to 7 centimeters tall at birth, with bright black eyes that are super
   </programme>
   <programme start="20260905220000 +0800" stop="20260905223000 +0800" channel="TRACE Sport Stars"><title lang="zh">Flashpoint. Aguero and Aaron</title>
   </programme>
-  <programme start="20260905223000 +0800" stop="20260905230000 +0800" channel="TRACE Sport Stars"><title lang="zh">Flashpoint. Maradona, Marquez &amp; Pacquiao</title>
+  <programme start="20260905223000 +0800" stop="20260905224500 +0800" channel="TRACE Sport Stars"><title lang="zh">Live: News</title>
+  </programme>
+  <programme start="20260905224500 +0800" stop="20260905230000 +0800" channel="TRACE Sport Stars"><title lang="zh">Gyrismata Stin Ellaga</title>
   </programme>
   <programme start="20260905230000 +0800" stop="20260905233000 +0800" channel="TRACE Sport Stars"><title lang="zh">Flashpoint. Canelo vs Mayweather, Torres Goal, Roger Bannister</title>
   </programme>
@@ -13317,6 +13995,32 @@ They are 5 to 7 centimeters tall at birth, with bright black eyes that are super
   <programme start="20260905232500 +0800" stop="20260905234000 +0800" channel="TVBJ"><title lang="zh">晚间新闻 第5集</title><desc lang="zh">报道当日本港及国际即时新闻，并以专题形式报道特别新闻，深入浅出探讨每日大事。</desc>
   </programme>
   <programme start="20260905234000 +0800" stop="20260906001000 +0800" channel="TVBJ"><title lang="zh">周六聊Teen谷 第35集</title><desc lang="zh">三位TVB女神陈星妤、陈懿德和王菲为观众搜罗最新的资讯，分享世界各地最流行的潮流事物，包括科技、文艺、医学、日常生活和网络热点等，你轻松掌握全球脉搏动向。</desc>
+  </programme>
+  <programme start="20260905001000 +0800" stop="20260905004000 +0800" channel="TVBJADE"><title lang="zh">Big Boys Club</title><desc lang="zh">Hosted by Bob Lam, Jonathan Wong, Oscar Leung, Penny Chan and Ricky Fan, each episode brings fun and relaxed interviews with stars and icons from all walks of life!</desc>
+  </programme>
+  <programme start="20260905004000 +0800" stop="20260905014000 +0800" channel="TVBJADE"><title lang="zh">The Tang Mist</title><desc lang="zh">Five strange cases strike the realm. Di Ren Jie investigates in the south, uncovering court intrigue and a hidden imperial conspiracy behind \"supernatural\" event.</desc>
+  </programme>
+  <programme start="20260905014000 +0800" stop="20260905024000 +0800" channel="TVBJADE"><title lang="zh">Mrs. Revenge</title><desc lang="zh">After Keung Hang Yu discovers her husband cheating, she's viciously attacked and left for dead. Then she woke up five years earlier, with the power to glimpse the future and a plan for revenge.</desc>
+  </programme>
+  <programme start="20260905024000 +0800" stop="20260905024500 +0800" channel="TVBJADE"><title lang="zh">What's On Today</title>
+  </programme>
+  <programme start="20260905024500 +0800" stop="20260905031000 +0800" channel="TVBJADE"><title lang="zh">Like Mother, Like Daughter</title><desc lang="zh">Queen of PR Tong Man Lei raises her daughter Tong Sum alone. Her mother Tong Cho Ka Bing's return sparks a family clash, while rival Yeung Fan threatens her career. Can she save her family and empire?</desc>
+  </programme>
+  <programme start="20260905031000 +0800" stop="20260905034000 +0800" channel="TVBJADE"><title lang="zh">Scoop 2026</title><desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260905034000 +0800" stop="20260905041000 +0800" channel="TVBJADE"><title lang="zh">Her Railway Trip</title><desc lang="zh">Carmen Ngai and Honey Ho become railway enthusiasts, journeying across Japan to discover stunning landscapes, charming towns and fascinating local culture along the tracks.</desc>
+  </programme>
+  <programme start="20260905041000 +0800" stop="20260905051000 +0800" channel="TVBJADE"><title lang="zh">Story of Kunning Palace</title><desc lang="zh">Adapted from the novel 'Kun Ning', this drama portrays Jiang Xue Ning's adverse journey to reclaim her destiny as an Empress. Starring Bai Lu, Zhang Ling He and Wang Xing Yue.</desc>
+  </programme>
+  <programme start="20260905051000 +0800" stop="20260905055500 +0800" channel="TVBJADE"><title lang="zh">Big City Shop 2026</title><desc lang="zh">Get firsthand recommendations as hosts try out the hottest products in health and wellness, fitness, skin care and beauty, fashion and accessories , baby care, food - and more.</desc>
+  </programme>
+  <programme start="20260905055500 +0800" stop="20260905061000 +0800" channel="TVBJADE"><title lang="zh">Happy Old Buddies</title><desc lang="zh">Doctors and Chinese medicine practitioners discuss illnesses and treatment options related to the elderly. Learn how to maximize your golden years through diet, activity and social interests.</desc>
+  </programme>
+  <programme start="20260905061000 +0800" stop="20260905064000 +0800" channel="TVBJADE"><title lang="zh">Gourmet Express</title><desc lang="zh">Discover the latest dining gems with Icy Wong, Carmaney Wong and friends! From must-try eateries to hidden takeout spots, get the inside scoop on flavors and stories behind your favorite bites.</desc>
+  </programme>
+  <programme start="20260905064000 +0800" stop="20260905071000 +0800" channel="TVBJADE"><title lang="zh">Scoop 2026</title><desc lang="zh">Get the inside scoop on artistes, social events and the entertainment industry, and go behind the scenes of current drama series.</desc>
+  </programme>
+  <programme start="20260905071000 +0800" stop="20260906000000 +0800" channel="TVBJADE"><title lang="zh">Good Morning Hong Kong</title><desc lang="zh">This news bulletin keeps you ahead with breaking HK and international news, current affairs, finance, sports, weather and traffic updates.</desc>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="TVBS"><title lang="zh">國民大會</title>
   </programme>
@@ -14386,21 +15090,39 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905003000 +0800" stop="20260905005500 +0800" channel="beIN SPORTS 3"><title lang="zh">法甲特輯 第4集 -里昂 2002/03</title>
   </programme>
-  <programme start="20260905005500 +0800" stop="20260905030000 +0800" channel="beIN SPORTS 3"><title lang="zh">法國甲組足球聯賽 第27集 -里昂 對 歐塞爾[直播]</title>
+  <programme start="20260905005500 +0800" stop="20260905013000 +0800" channel="beIN SPORTS 3"><title lang="zh">法國甲組足球聯賽 第27集 -里昂 對 歐塞爾[直播]</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905030000 +0800" channel="beIN SPORTS 3"><title lang="zh">Premier Padel 2026: Madrid (L)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="beIN SPORTS 3"><title lang="zh">RIDE FEI Originals 2026</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905043000 +0800" channel="beIN SPORTS 3"><title lang="zh">Le Marathon des Sables</title>
+  </programme>
+  <programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="beIN SPORTS 3"><title lang="zh">Mini Match UCL: ARS Vs SCP</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905050500 +0800" channel="beIN SPORTS 3"><title lang="zh">UCI Women's World Tour 2026</title>
   </programme>
   <programme start="20260905050500 +0800" stop="20260905063000 +0800" channel="beIN SPORTS 3"><title lang="zh">板式網球超級聯賽 第514集 -西班牙站 第4天 半準決賽5</title>
   </programme>
-  <programme start="20260905063000 +0800" stop="20260905072000 +0800" channel="beIN SPORTS 3"><title lang="zh">板式網球超級聯賽 第515集 -西班牙站 第4天 半準決賽6</title>
+  <programme start="20260905070000 +0800" stop="20260905072000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Highlights 2026/27</title>
   </programme>
   <programme start="20260905072000 +0800" stop="20260905073000 +0800" channel="beIN SPORTS 3"><title lang="zh">Tottenham vs Benfica (2013/14) UEL Classic Matches</title>
   </programme>
   <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="beIN SPORTS 3"><title lang="zh">MD1 Preview UEFA Champions League Magazine Show 2026/27</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
-  <programme start="20260905080000 +0800" stop="20260905093000 +0800" channel="beIN SPORTS 3"><title lang="zh">板式網球超級聯賽 第516集 -西班牙站 第4天 半準決賽7</title>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Magazine Show 2026/27</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905093000 +0800" channel="beIN SPORTS 3"><title lang="zh">LaLiga 2 2026/27: LPM Vs LEG</title>
   </programme>
   <programme start="20260905093000 +0800" stop="20260905100000 +0800" channel="beIN SPORTS 3"><title lang="zh">歐洲聯賽冠軍盃雜誌 第2集 -比賽日1前瞻</title>
   </programme>
-  <programme start="20260905100000 +0800" stop="20260905113000 +0800" channel="beIN SPORTS 3"><title lang="zh">板式網球超級聯賽 第517集 -西班牙站 第4天 半準決賽8</title>
+  <programme start="20260905100000 +0800" stop="20260905102000 +0800" channel="beIN SPORTS 3"><title lang="zh">板式網球超級聯賽 第517集 -西班牙站 第4天 半準決賽8</title>
+  </programme>
+  <programme start="20260905102000 +0800" stop="20260905103000 +0800" channel="beIN SPORTS 3"><title lang="zh">UEL Classic Matches: TOT Vs SLB</title>
+  </programme>
+  <programme start="20260905103000 +0800" stop="20260905110000 +0800" channel="beIN SPORTS 3"><title lang="zh">MUTV Treble 20: MUN Vs COV</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Magazine Show 2026/27</title>
   </programme>
   <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="beIN SPORTS 3"><title lang="zh">歐聯賽事精華</title>
   </programme>
@@ -14408,11 +15130,19 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="beIN SPORTS 3"><title lang="zh">Episode Number 3 Bundesliga Weekly 2026/27</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
+  <programme start="20260905130000 +0800" stop="20260905135000 +0800" channel="beIN SPORTS 3"><title lang="zh">Stuttgart vs Cologne Bundesliga 2026/27</title>
+  </programme>
+  <programme start="20260905135000 +0800" stop="20260905140000 +0800" channel="beIN SPORTS 3"><title lang="zh">UEL Classic Matches: SVW Vs VAL</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Magazine Show 2026/27</title>
+  </programme>
   <programme start="20260905143000 +0800" stop="20260905145000 +0800" channel="beIN SPORTS 3"><title lang="zh">歐洲聯賽冠軍盃雜誌 第2集 -比賽日1前瞻</title>
   </programme>
   <programme start="20260905145000 +0800" stop="20260905150000 +0800" channel="beIN SPORTS 3"><title lang="zh">Barcelona vs Arsenal (2005/06) UCL Classic Matches</title>
   </programme>
-  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Imola Race 1 Formula Regional European Championship Race 2026</title>
+  <programme start="20260905150000 +0800" stop="20260905153000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Imola Race 1 Formula Regional European Championship Race 2026</title>
+  </programme>
+  <programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="beIN SPORTS 3"><title lang="zh">GKA Kite World Tour 2026</title>
   </programme>
   <programme start="20260905160000 +0800" stop="20260905165000 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Imola Race 1 Formula 4 Italian Championship 2026</title>
   </programme>
@@ -14422,9 +15152,15 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905173000 +0800" stop="20260905175000 +0800" channel="beIN SPORTS 3"><title lang="zh">Common Ground MUTV: One Love</title>
   </programme>
-  <programme start="20260905175000 +0800" stop="20260905185500 +0800" channel="beIN SPORTS 3"><title lang="zh">⋗ Wolfsburg vs Energie Cottbus Bundesliga 2 2026/27</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  <programme start="20260905175000 +0800" stop="20260905180000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Classic Matches: BAR Vs SHK</title>
   </programme>
-  <programme start="20260905185500 +0800" stop="20260905192500 +0800" channel="beIN SPORTS 3"><title lang="zh">歐洲聯賽冠軍盃雜誌 第2集 -比賽日1前瞻</title>
+  <programme start="20260905180000 +0800" stop="20260905183000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Magazine Show 2026/27</title>
+  </programme>
+  <programme start="20260905183000 +0800" stop="20260905190000 +0800" channel="beIN SPORTS 3"><title lang="zh">SFT Surf Foil World Tour 2026</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905191000 +0800" channel="beIN SPORTS 3"><title lang="zh">MUTV Top 20 Goals: Defenders</title>
+  </programme>
+  <programme start="20260905191000 +0800" stop="20260905192500 +0800" channel="beIN SPORTS 3"><title lang="zh">MUTV Top 20 Goals: Paul Scholes</title>
   </programme>
   <programme start="20260905192500 +0800" stop="20260905200000 +0800" channel="beIN SPORTS 3"><title lang="zh">英格蘭女子足球超級聯賽 第2集 -車路士 對 阿士東維拉[直播]</title>
   </programme>
@@ -14432,7 +15168,13 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905201000 +0800" stop="20260905202000 +0800" channel="beIN SPORTS 3"><title lang="zh">Frankfurt vs Bayern – 2022/23 Bundesliga Club Classic Archive</title>
   </programme>
-  <programme start="20260905212500 +0800" stop="20260905223000 +0800" channel="beIN SPORTS 3"><title lang="zh">德國甲組足球聯賽 第11集 -賀芬咸 對 多蒙特[直播]</title>
+  <programme start="20260905212500 +0800" stop="20260905213000 +0800" channel="beIN SPORTS 3"><title lang="zh">德國甲組足球聯賽 第11集 -賀芬咸 對 多蒙特[直播]</title>
+  </programme>
+  <programme start="20260905213000 +0800" stop="20260905214000 +0800" channel="beIN SPORTS 3"><title lang="zh">UEL Classic Matches: SVW Vs VAL</title>
+  </programme>
+  <programme start="20260905214000 +0800" stop="20260905221000 +0800" channel="beIN SPORTS 3"><title lang="zh">UCL Magazine Show 2026/27</title>
+  </programme>
+  <programme start="20260905221000 +0800" stop="20260905223000 +0800" channel="beIN SPORTS 3"><title lang="zh">LaLiga 2026/27: ATH Vs ATM (L)</title>
   </programme>
   <programme start="20260905223000 +0800" stop="20260905230000 +0800" channel="beIN SPORTS 3"><title lang="zh">MD1 Preview UEFA Champions League Magazine Show 2026/27</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
@@ -14804,13 +15546,49 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905224000 +0800" stop="20260905230500 +0800" channel="tvN"><title lang="zh">Niezwykłe przypadki medyczne 2 | S02E6/8</title>
   </programme>
+  <programme start="20260905232500 +0800" stop="20260905233000 +0800" channel="tvN"><title lang="zh">3 Meals A Day: Light</title>
+  </programme>
   <programme start="20260905233000 +0800" stop="20260905234500 +0800" channel="tvN"><title lang="zh">Infomercials</title><desc lang="zh">Infomercials is an umbrella title for independent, quarter-hour television comedy specials airing on Adult Swim. Unlike actual paid programming, all of the programs are fictitious and maintain no continuity with each other.</desc>
   </programme>
   <programme start="20260905234500 +0800" stop="20260905235500 +0800" channel="tvN"><title lang="zh">DeFacto 4 | S04E3/16</title>
   </programme>
   <programme start="20260905235500 +0800" stop="20260906002000 +0800" channel="tvN"><title lang="zh">Nauka jazdy 6 | S06E20/25</title>
   </programme>
+  <programme start="20260905000000 +0800" stop="20260905000001 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20260905000001 +0800" stop="20260905004000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  </programme>
+  <programme start="20260905012000 +0800" stop="20260905020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="三立综合"><title lang="zh">女神在線(普)(N)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905030000 +0800" channel="三立综合"><title lang="zh">新戲說台灣(普)(N)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="三立综合"><title lang="zh">人浮於愛(輔12)(N)</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="三立综合"><title lang="zh">人浮於愛(輔12)(N)</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="三立综合"><title lang="zh">型男大主廚(普)(N)</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905080000 +0800" channel="三立综合"><title lang="zh">宇宙啦啦隊(普)(N)</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="三立综合"><title lang="zh">旅行東西軍(普)(N)</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905110000 +0800" channel="三立综合"><title lang="zh">綜藝玩很大(普)(N)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905130000 +0800" channel="三立综合"><title lang="zh">新戲說台灣(普)(N)</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905150000 +0800" channel="三立综合"><title lang="zh">綜藝玩很大安可場(普)(N)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905170000 +0800" channel="三立综合"><title lang="zh">宇宙啦啦隊(普)(N)</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905180000 +0800" channel="三立综合"><title lang="zh">綜藝大熱門(普)(N)</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905200000 +0800" channel="三立综合"><title lang="zh">新戲說台灣(普)(N)</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905220000 +0800" channel="三立综合"><title lang="zh">全明星辯論會(普)(N)</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260906000000 +0800" channel="三立综合"><title lang="zh">宇宙啦啦隊(普)(N)</title>
   </programme>
   <programme start="20260905000001 +0800" stop="20260905002000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
@@ -15093,6 +15871,54 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905200000 +0800" stop="20260905220000 +0800" channel="东森新闻台"><title lang="zh">東森世界日報</title>
   </programme>
   <programme start="20260905220000 +0800" stop="20260905235900 +0800" channel="东森新闻台"><title lang="zh">東森夜線新聞</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905070000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905080000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905130000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905140000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905150000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905170000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905180000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905190000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905200000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905210000 +0800" channel="东森购物四台"><title lang="zh">天天下單送》9月消費送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905220000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.49、CH.69，四季會員獨享！</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="东森购物四台"><title lang="zh">下單送》9月天天送99元現金券(每人每天限一次)</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="东森购物四台"><title lang="zh">下單送99》遙控器轉CH.29、CH.90，四季會員獨享！</title>
   </programme>
   <programme start="20260905070000 +0800" stop="20260905090200 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -16097,6 +16923,54 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905223000 +0800" stop="20260905223300 +0800" channel="中国电影频道"><title lang="zh">香港合集3分</title>
   </programme>
   <programme start="20260905223300 +0800" stop="20260906001900 +0800" channel="中国电影频道"><title lang="zh">半個喜劇</title><desc lang="zh">三個年輕人各懷心思:有人急著脫單,有人想在婚前放蕩,有人想在大城市站穩腳。因為一次出軌,三人扭結成了一團“嬉笑怒駡的亂麻。當價值觀碰撞在一起,當需要平衡親情友情與愛情,他們慌亂的生活,就像半個喜劇。</desc>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="中天新闻"><title lang="zh">18中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="中天新闻"><title lang="zh">19中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="中天新闻"><title lang="zh">頭條開講【普】</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="中天新闻"><title lang="zh">頭條開講【普】</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="中天新闻"><title lang="zh">中天SUPER夜線【普】</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905060000 +0800" channel="中天新闻"><title lang="zh">全球大視野【普】</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905070000 +0800" channel="中天新闻"><title lang="zh">06中天晨報【普】</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905080000 +0800" channel="中天新闻"><title lang="zh">07中天晨報【普】</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905090000 +0800" channel="中天新闻"><title lang="zh">08中天晨報【普】</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="中天新闻"><title lang="zh">09中天新聞【普】</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="中天新闻"><title lang="zh">10中天新聞【普】</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="中天新闻"><title lang="zh">11中天新聞【普】</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905130000 +0800" channel="中天新闻"><title lang="zh">12午間新聞【普】</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905140000 +0800" channel="中天新闻"><title lang="zh">13午間新聞【普】</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905150000 +0800" channel="中天新闻"><title lang="zh">14周未大爆卦【普】</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="中天新闻"><title lang="zh">15周未大爆卦【普】</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905170000 +0800" channel="中天新闻"><title lang="zh">16全球大爆卦【普】</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905180000 +0800" channel="中天新闻"><title lang="zh">17中天新聞【普】</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905190000 +0800" channel="中天新闻"><title lang="zh">18中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905200000 +0800" channel="中天新闻"><title lang="zh">19中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905210000 +0800" channel="中天新闻"><title lang="zh">20中天新聞【普】</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905220000 +0800" channel="中天新闻"><title lang="zh">21前進戰略高地【普】</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="中天新闻"><title lang="zh">22前進戰略高地【普】</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260905235900 +0800" channel="中天新闻"><title lang="zh">23cti網路論壇【普】</title>
   </programme>
   <programme start="20260905080100 +0800" stop="20260905084200 +0800" channel="中学生"><title lang="zh">人物</title>
   </programme>
@@ -20629,17 +21503,27 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905023400 +0800" stop="20260905043600 +0800" channel="国会频道1台"><title lang="zh">外交及國防委員會(普)</title>
   </programme>
-  <programme start="20260905043600 +0800" stop="20260905050000 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  <programme start="20260905043600 +0800" stop="20260905045700 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
   </programme>
-  <programme start="20260905050000 +0800" stop="20260905090000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260905045700 +0800" stop="20260905062400 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
   </programme>
-  <programme start="20260905090000 +0800" stop="20260905130000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260905062400 +0800" stop="20260905090000 +0800" channel="国会频道1台"><title lang="zh">財政委員會(普)</title>
   </programme>
-  <programme start="20260905130000 +0800" stop="20260905170000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260905090000 +0800" stop="20260905124500 +0800" channel="国会频道1台"><title lang="zh">外交及國防委員會(普)</title>
   </programme>
-  <programme start="20260905170000 +0800" stop="20260905210000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260905124500 +0800" stop="20260905164000 +0800" channel="国会频道1台"><title lang="zh">內政委員會(普)</title>
   </programme>
-  <programme start="20260905210000 +0800" stop="20260906010000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260905164000 +0800" stop="20260905170200 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260905170200 +0800" stop="20260905180100 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260905180100 +0800" stop="20260905194200 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260905194200 +0800" stop="20260905200000 +0800" channel="国会频道1台"><title lang="zh">經濟委員會(普)</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905230900 +0800" channel="国会频道1台"><title lang="zh">經濟委員會(普)</title>
+  </programme>
+  <programme start="20260905230900 +0800" stop="20260906013500 +0800" channel="国会频道1台"><title lang="zh">內政委員會(普)</title>
   </programme>
   <programme start="20260905010200 +0800" stop="20260905020600 +0800" channel="国会频道2台"><title lang="zh">黨團協商(普)</title>
   </programme>
@@ -21474,6 +22358,186 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905230000 +0800" stop="20260905233000 +0800" channel="天津都市"><title lang="zh">健康直播间</title>
   </programme>
   <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="天津都市"><title lang="zh">消费者</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="好消息"><title lang="zh">恩雨之聲</title>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905003500 +0800" channel="好消息"><title lang="zh">遇見祝福</title>
+  </programme>
+  <programme start="20260905003500 +0800" stop="20260905013000 +0800" channel="好消息"><title lang="zh">真情部落格</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="好消息"><title lang="zh">福氣人生</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905021500 +0800" channel="好消息"><title lang="zh">為祢唱新歌</title>
+  </programme>
+  <programme start="20260905021500 +0800" stop="20260905023000 +0800" channel="好消息"><title lang="zh">為祢唱新歌</title>
+  </programme>
+  <programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="好消息"><title lang="zh">穿越古今</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905040000 +0800" channel="好消息"><title lang="zh">道在人間-國語</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="好消息"><title lang="zh">真情部落格</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905053000 +0800" channel="好消息"><title lang="zh">禱告大軍迎接復興</title>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905060000 +0800" channel="好消息"><title lang="zh">空中聖經學院</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905062500 +0800" channel="好消息"><title lang="zh">天堂敬拜</title>
+  </programme>
+  <programme start="20260905062500 +0800" stop="20260905063000 +0800" channel="好消息"><title lang="zh">恩典365</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="好消息"><title lang="zh">福氣人生</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="好消息"><title lang="zh">禱告大軍迎接復興</title>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="好消息"><title lang="zh">空中主日學</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="好消息"><title lang="zh">恩雨之聲</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="好消息"><title lang="zh">CWN世界新聞</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="好消息"><title lang="zh">道在人間 台語</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="好消息"><title lang="zh">頌泉親近神特會</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="好消息"><title lang="zh">國度視野-好消息會客室</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="好消息"><title lang="zh">國度視野-好消息會客室</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="好消息"><title lang="zh">好消息國度瞭望</title>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="好消息"><title lang="zh">CWN世界新聞</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="好消息"><title lang="zh">生命的贏家(雙語)</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="好消息"><title lang="zh">寇住幸福</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905145000 +0800" channel="好消息"><title lang="zh">家庭８點檔轉轉發現愛</title>
+  </programme>
+  <programme start="20260905145000 +0800" stop="20260905150000 +0800" channel="好消息"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905170000 +0800" channel="好消息"><title lang="zh">家庭電影院</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="好消息"><title lang="zh">大家說英語</title>
+  </programme>
+  <programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="好消息"><title lang="zh">烤箱讀書會</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905183000 +0800" channel="好消息"><title lang="zh">好消息國度瞭望</title>
+  </programme>
+  <programme start="20260905183000 +0800" stop="20260905190000 +0800" channel="好消息"><title lang="zh">CWN世界新聞</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905191500 +0800" channel="好消息"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905191500 +0800" stop="20260905193000 +0800" channel="好消息"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="好消息"><title lang="zh">神奇故事屋</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905203000 +0800" channel="好消息"><title lang="zh">寇住幸福</title>
+  </programme>
+  <programme start="20260905203000 +0800" stop="20260905210000 +0800" channel="好消息"><title lang="zh">愛＋好醫生</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905210500 +0800" channel="好消息"><title lang="zh">遇見祝福</title>
+  </programme>
+  <programme start="20260905210500 +0800" stop="20260905220000 +0800" channel="好消息"><title lang="zh">真情部落格</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905223000 +0800" channel="好消息"><title lang="zh">生命的贏家(雙語)</title>
+  </programme>
+  <programme start="20260905223000 +0800" stop="20260906000000 +0800" channel="好消息"><title lang="zh">家庭電影院</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905001500 +0800" channel="好消息2台"><title lang="zh">經典音樂河</title>
+  </programme>
+  <programme start="20260905001500 +0800" stop="20260905004500 +0800" channel="好消息2台"><title lang="zh">禱告大軍迎接復興</title>
+  </programme>
+  <programme start="20260905004500 +0800" stop="20260905005500 +0800" channel="好消息2台"><title lang="zh">恩典365</title>
+  </programme>
+  <programme start="20260905005500 +0800" stop="20260905010000 +0800" channel="好消息2台"><title lang="zh">維他命施</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905020000 +0800" channel="好消息2台"><title lang="zh">幸福學堂</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905030000 +0800" channel="好消息2台"><title lang="zh">空中禮拜堂</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="好消息2台"><title lang="zh">空中主日學</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="好消息2台"><title lang="zh">生命的觸動(雙語)</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905050000 +0800" channel="好消息2台"><title lang="zh">葉光明講座</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905050500 +0800" channel="好消息2台"><title lang="zh">恩典365</title>
+  </programme>
+  <programme start="20260905050500 +0800" stop="20260905053000 +0800" channel="好消息2台"><title lang="zh">為祢唱新歌</title>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905054500 +0800" channel="好消息2台"><title lang="zh">經典音樂河</title>
+  </programme>
+  <programme start="20260905054500 +0800" stop="20260905060000 +0800" channel="好消息2台"><title lang="zh">經典音樂河</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905063000 +0800" channel="好消息2台"><title lang="zh">禱告大軍迎接復興</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="好消息2台"><title lang="zh">天堂敬拜</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905071500 +0800" channel="好消息2台"><title lang="zh">共享觀點</title>
+  </programme>
+  <programme start="20260905071500 +0800" stop="20260905073000 +0800" channel="好消息2台"><title lang="zh">共享觀點</title>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="好消息2台"><title lang="zh">禱告大軍迎接復興</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905081500 +0800" channel="好消息2台"><title lang="zh">經典音樂河</title>
+  </programme>
+  <programme start="20260905081500 +0800" stop="20260905083000 +0800" channel="好消息2台"><title lang="zh">為祢唱新歌</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="好消息2台"><title lang="zh">空中主日學</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905100000 +0800" channel="好消息2台"><title lang="zh">葉光明講座</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905103000 +0800" channel="好消息2台"><title lang="zh">生命導航(雙語)</title>
+  </programme>
+  <programme start="20260905103000 +0800" stop="20260905110000 +0800" channel="好消息2台"><title lang="zh">生命的觸動(雙語)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905120000 +0800" channel="好消息2台"><title lang="zh">空中禮拜堂</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905120500 +0800" channel="好消息2台"><title lang="zh">維他命施</title>
+  </programme>
+  <programme start="20260905120500 +0800" stop="20260905130000 +0800" channel="好消息2台"><title lang="zh">真情部落格</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905133000 +0800" channel="好消息2台"><title lang="zh">寇住幸福</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905134500 +0800" channel="好消息2台"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905134500 +0800" stop="20260905140000 +0800" channel="好消息2台"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905150000 +0800" channel="好消息2台"><title lang="zh">兒子的身分</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="好消息2台"><title lang="zh">兒子的身分</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="好消息2台"><title lang="zh">神奇故事屋</title>
+  </programme>
+  <programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="好消息2台"><title lang="zh">空中主日學</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905180000 +0800" channel="好消息2台"><title lang="zh">葉光明講座</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905181500 +0800" channel="好消息2台"><title lang="zh">共享觀點</title>
+  </programme>
+  <programme start="20260905181500 +0800" stop="20260905183000 +0800" channel="好消息2台"><title lang="zh">共享觀點</title>
+  </programme>
+  <programme start="20260905183000 +0800" stop="20260905184500 +0800" channel="好消息2台"><title lang="zh">愛我們的家</title>
+  </programme>
+  <programme start="20260905184500 +0800" stop="20260905190000 +0800" channel="好消息2台"><title lang="zh">愛我們的家</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905193000 +0800" channel="好消息2台"><title lang="zh">好消息國度瞭望</title>
+  </programme>
+  <programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="好消息2台"><title lang="zh">穿越古今</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905200500 +0800" channel="好消息2台"><title lang="zh">維他命施</title>
+  </programme>
+  <programme start="20260905200500 +0800" stop="20260905210000 +0800" channel="好消息2台"><title lang="zh">真情部落格</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905213000 +0800" channel="好消息2台"><title lang="zh">寇住幸福</title>
+  </programme>
+  <programme start="20260905213000 +0800" stop="20260905214500 +0800" channel="好消息2台"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905214500 +0800" stop="20260905220000 +0800" channel="好消息2台"><title lang="zh">機智青年生活</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="好消息2台"><title lang="zh">空中禮拜堂</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="好消息2台"><title lang="zh">相約在會幕</title>
   </programme>
   <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="威海综合"><title lang="zh">重播《威海新闻》</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
@@ -24082,6 +25146,62 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905230000 +0800" stop="20260905234000 +0800" channel="武术世界"><title lang="zh">武林人物周刊:啸谈武林</title>
   </programme>
   <programme start="20260905234000 +0800" stop="20260906000000 +0800" channel="武术世界"><title lang="zh">巅峰擂台</title>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905020000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E3090)</title>
+  </programme>
+  <programme start="20260905020000 +0800" stop="20260905023000 +0800" channel="民视"><title lang="zh">消費高手【普】(E7995)</title>
+  </programme>
+  <programme start="20260905023000 +0800" stop="20260905030000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E3063)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E3051)</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="民视"><title lang="zh">消費高手【普】(E7929)</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="民视"><title lang="zh">美鳳有約【普】(E5338)</title>
+  </programme>
+  <programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E2824)</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905053000 +0800" channel="民视"><title lang="zh">美鳳有約【普】(E5325)</title>
+  </programme>
+  <programme start="20260905053000 +0800" stop="20260905060000 +0800" channel="民视"><title lang="zh">消費高手【普】(E8008)</title>
+  </programme>
+  <programme start="20260905060000 +0800" stop="20260905070000 +0800" channel="民视"><title lang="zh">民視六點晨間新聞【普】</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905080000 +0800" channel="民视"><title lang="zh">民視七點晨間新聞【普】</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="民视"><title lang="zh">美鳳有約【普】(E5347)</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="民视"><title lang="zh">消費高手【普】(E7999)</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905093000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E2974)</title>
+  </programme>
+  <programme start="20260905093000 +0800" stop="20260905100000 +0800" channel="民视"><title lang="zh">生命醫視界【普】(E2)</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905110000 +0800" channel="民视"><title lang="zh">民視異言堂【普】(E1432)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="民视"><title lang="zh">元氣加油站【普】(E2673)</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="民视"><title lang="zh">感動心台灣【普】(E125)</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905123000 +0800" channel="民视"><title lang="zh">民視午間新聞【普】</title>
+  </programme>
+  <programme start="20260905123000 +0800" stop="20260905130000 +0800" channel="民视"><title lang="zh">美鳳有約【普】(E5339)</title>
+  </programme>
+  <programme start="20260905130000 +0800" stop="20260905150000 +0800" channel="民视"><title lang="zh">綜藝大集合【普】(E1284)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905160000 +0800" channel="民视"><title lang="zh">我們一家人 多元新力量【普】(E20)</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905180000 +0800" channel="民视"><title lang="zh">豆腐媽媽【普】(E72)</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905190000 +0800" channel="民视"><title lang="zh">綜藝新時代【普】(E359)</title>
+  </programme>
+  <programme start="20260905190000 +0800" stop="20260905200000 +0800" channel="民视"><title lang="zh">民視晚間新聞【普】</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905220000 +0800" channel="民视"><title lang="zh">超級冰冰Show【普】(E127)</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="民视"><title lang="zh">你好，我是誰【普】(E24)</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="民视"><title lang="zh">神之鄉【普】(E4)</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="民视台湾"><title lang="zh">民視國際新聞【普】</title>
   </programme>
@@ -27185,7 +28305,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905004400 +0800" stop="20260905005700 +0800" channel="浙江民生"><title lang="zh">TC-2广告（9.2）</title>
   </programme>
-  <programme start="20260905005700 +0800" stop="20260905011200 +0800" channel="浙江民生"><title lang="zh">TC-3广告（9.2）</title>
+  <programme start="20260905005700 +0800" stop="20260905011100 +0800" channel="浙江民生"><title lang="zh">TC-3广告（9.3）</title>
+  </programme>
+  <programme start="20260905011100 +0800" stop="20260905011200 +0800" channel="浙江民生"><title lang="zh">TC-4广告（9.3）</title>
   </programme>
   <programme start="20260905011200 +0800" stop="20260905012400 +0800" channel="浙江民生"><title lang="zh">TC-4广告（9.2）</title>
   </programme>
@@ -27197,11 +28319,33 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905015700 +0800" stop="20260905020000 +0800" channel="浙江民生"><title lang="zh">宣传片D（6.1）</title>
   </programme>
-  <programme start="20260905020000 +0800" stop="20260905060000 +0800" channel="浙江民生"><title lang="zh">停播--播出机房检修</title>
+  <programme start="20260905020000 +0800" stop="20260905023500 +0800" channel="浙江民生"><title lang="zh">停播--播出机房检修</title>
   </programme>
-  <programme start="20260905060000 +0800" stop="20260905062000 +0800" channel="浙江民生"><title lang="zh">人文周刊32025-001（中华第一舟）</title>
+  <programme start="20260905023500 +0800" stop="20260905032000 +0800" channel="浙江民生"><title lang="zh">金牌赛场2026-236（浙BA下）</title>
   </programme>
-  <programme start="20260905062000 +0800" stop="20260905064500 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-243</title>
+  <programme start="20260905032000 +0800" stop="20260905032500 +0800" channel="浙江民生"><title lang="zh">1818黄金眼2026-245（公众版高清）</title>
+  </programme>
+  <programme start="20260905032500 +0800" stop="20260905033300 +0800" channel="浙江民生"><title lang="zh">TC-6广告（9.3）</title>
+  </programme>
+  <programme start="20260905033300 +0800" stop="20260905034500 +0800" channel="浙江民生"><title lang="zh">TC-7广告（9.3）</title>
+  </programme>
+  <programme start="20260905034500 +0800" stop="20260905035300 +0800" channel="浙江民生"><title lang="zh">TC-8广告（9.3）</title>
+  </programme>
+  <programme start="20260905035300 +0800" stop="20260905040000 +0800" channel="浙江民生"><title lang="zh">TC-9广告（9.3）</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905044100 +0800" channel="浙江民生"><title lang="zh">人文周刊22023-001（西泠印社（亚运版））</title>
+  </programme>
+  <programme start="20260905044100 +0800" stop="20260905044300 +0800" channel="浙江民生"><title lang="zh">宣传片E（6.1）</title>
+  </programme>
+  <programme start="20260905044300 +0800" stop="20260905053300 +0800" channel="浙江民生"><title lang="zh">人文周刊22023-001（26县纪事（亚运版））</title>
+  </programme>
+  <programme start="20260905053300 +0800" stop="20260905055300 +0800" channel="浙江民生"><title lang="zh">我要惠生活2026-245（晚间20分钟版）</title>
+  </programme>
+  <programme start="20260905055300 +0800" stop="20260905061300 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-243</title>
+  </programme>
+  <programme start="20260905061300 +0800" stop="20260905062500 +0800" channel="浙江民生"><title lang="zh">MS专题2026-245（华飞A）</title>
+  </programme>
+  <programme start="20260905062500 +0800" stop="20260905064500 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-244</title>
   </programme>
   <programme start="20260905064500 +0800" stop="20260905065700 +0800" channel="浙江民生"><title lang="zh">MS专题2026-244（华飞B）</title>
   </programme>
@@ -27287,7 +28431,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905121400 +0800" stop="20260905122700 +0800" channel="浙江民生"><title lang="zh">TC-2广告（9.2）</title>
   </programme>
-  <programme start="20260905122700 +0800" stop="20260905124200 +0800" channel="浙江民生"><title lang="zh">TC-3广告（9.2）</title>
+  <programme start="20260905122700 +0800" stop="20260905124100 +0800" channel="浙江民生"><title lang="zh">TC-3广告（9.3）</title>
+  </programme>
+  <programme start="20260905124100 +0800" stop="20260905124200 +0800" channel="浙江民生"><title lang="zh">TC-4广告（9.3）</title>
   </programme>
   <programme start="20260905124200 +0800" stop="20260905125400 +0800" channel="浙江民生"><title lang="zh">TC-4广告（9.2）</title>
   </programme>
@@ -28127,6 +29273,16 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260905235500 +0800" stop="20260906000000 +0800" channel="深圳卫视"><title lang="zh">湾区财经</title>
   </programme>
+  <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="游戏风云"><title lang="zh">休闲街区:游民复仇者(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="游戏风云"><title lang="zh">休闲街区:游民复仇者(3)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:狩猎模拟2(3)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260905011500 +0800" stop="20260905013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅:索尼克力量(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20260905013000 +0800" stop="20260905014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:索尼克力量(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20260905000000 +0800" stop="20260905004400 +0800" channel="湖北卫视"><title lang="zh">激战</title><desc>抗日战争时期，新四军太湖游击纵队，发扬中华民族顽强不屈的精神，同敌人展开了争锋相对的斗争。在司令员薛宏晖的领导下，侦察科长秦天刚和情报员关竹青智取了日军总部的作战密件，游击纵队袭击了苏州浒墅关火车站，炸毁了日军上海虹桥军用机场，爆破了日军的军用仓库，铲除了铁杆汉奸卖国贼，争取了伪军主力团的起义，并获得了太湖冲山岛保卫战大捷。一次又一次的激战，重创了日伪军的有生力量，彻底粉碎了日军对江南地区的第二次清乡计划。江南新四军不但牵制了抗日战争正面战场上日伪军的大批军力，而且似一把锋利的匕首，牢牢地插在敌人的心脏里。</desc>
   </programme>
   <programme start="20260905004400 +0800" stop="20260905013000 +0800" channel="湖北卫视"><title lang="zh">激战</title><desc>抗日战争时期，新四军太湖游击纵队，发扬中华民族顽强不屈的精神，同敌人展开了争锋相对的斗争。在司令员薛宏晖的领导下，侦察科长秦天刚和情报员关竹青智取了日军总部的作战密件，游击纵队袭击了苏州浒墅关火车站，炸毁了日军上海虹桥军用机场，爆破了日军的军用仓库，铲除了铁杆汉奸卖国贼，争取了伪军主力团的起义，并获得了太湖冲山岛保卫战大捷。一次又一次的激战，重创了日伪军的有生力量，彻底粉碎了日军对江南地区的第二次清乡计划。江南新四军不但牵制了抗日战争正面战场上日伪军的大批军力，而且似一把锋利的匕首，牢牢地插在敌人的心脏里。</desc>
@@ -28734,6 +29890,82 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905214500 +0800" stop="20260905233000 +0800" channel="爱尔达体育1台"><title lang="zh">LIVE F1 義大利站 排位賽(普)</title>
   </programme>
   <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="爱尔达体育1台"><title lang="zh">體壇最前線 9/5 (新)(普)</title>
+  </programme>
+  <programme start="20260905001700 +0800" stop="20260905004500 +0800" channel="爱尔达娱乐"><title lang="zh">拯救地球大作戰</title>
+  </programme>
+  <programme start="20260905004500 +0800" stop="20260905011600 +0800" channel="爱尔达娱乐"><title lang="zh">女足夢想隊:多爾金魂永不滅</title>
+  </programme>
+  <programme start="20260905011600 +0800" stop="20260905014700 +0800" channel="爱尔达娱乐"><title lang="zh">女足夢想隊:多爾金魂永不滅</title>
+  </programme>
+  <programme start="20260905014700 +0800" stop="20260905023900 +0800" channel="爱尔达娱乐"><title lang="zh">踢起新人生</title>
+  </programme>
+  <programme start="20260905023900 +0800" stop="20260905033300 +0800" channel="爱尔达娱乐"><title lang="zh">踢起新人生</title>
+  </programme>
+  <programme start="20260905033300 +0800" stop="20260905042100 +0800" channel="爱尔达娱乐"><title lang="zh">城市節奏</title>
+  </programme>
+  <programme start="20260905042100 +0800" stop="20260905044500 +0800" channel="爱尔达娱乐"><title lang="zh">滑板啟示錄</title>
+  </programme>
+  <programme start="20260905044500 +0800" stop="20260905050000 +0800" channel="爱尔达娱乐"><title lang="zh">金卡納車手檔案</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905052400 +0800" channel="爱尔达娱乐"><title lang="zh">Franco Morbidelli:MotoGP賽道上的逐夢騎士</title>
+  </programme>
+  <programme start="20260905052400 +0800" stop="20260905054800 +0800" channel="爱尔达娱乐"><title lang="zh">Franco Morbidelli:MotoGP賽道上的逐夢騎士</title>
+  </programme>
+  <programme start="20260905054800 +0800" stop="20260905064300 +0800" channel="爱尔达娱乐"><title lang="zh">擊越壘外</title>
+  </programme>
+  <programme start="20260905064300 +0800" stop="20260905073800 +0800" channel="爱尔达娱乐"><title lang="zh">擊越壘外</title>
+  </programme>
+  <programme start="20260905073800 +0800" stop="20260905080300 +0800" channel="爱尔达娱乐"><title lang="zh">百萬房仲</title>
+  </programme>
+  <programme start="20260905080300 +0800" stop="20260905082800 +0800" channel="爱尔达娱乐"><title lang="zh">百萬房仲</title>
+  </programme>
+  <programme start="20260905082800 +0800" stop="20260905092300 +0800" channel="爱尔达娱乐"><title lang="zh">勇往直前</title>
+  </programme>
+  <programme start="20260905092300 +0800" stop="20260905101100 +0800" channel="爱尔达娱乐"><title lang="zh">超跑美女開箱車城</title>
+  </programme>
+  <programme start="20260905101100 +0800" stop="20260905105900 +0800" channel="爱尔达娱乐"><title lang="zh">超跑美女開箱車城</title>
+  </programme>
+  <programme start="20260905105900 +0800" stop="20260905111000 +0800" channel="爱尔达娱乐"><title lang="zh">飛天老爺車</title>
+  </programme>
+  <programme start="20260905111000 +0800" stop="20260905112000 +0800" channel="爱尔达娱乐"><title lang="zh">飛天老爺車</title>
+  </programme>
+  <programme start="20260905112000 +0800" stop="20260905113900 +0800" channel="爱尔达娱乐"><title lang="zh">音樂聲學</title>
+  </programme>
+  <programme start="20260905113900 +0800" stop="20260905115600 +0800" channel="爱尔达娱乐"><title lang="zh">音樂聲學</title>
+  </programme>
+  <programme start="20260905115600 +0800" stop="20260905125100 +0800" channel="爱尔达娱乐"><title lang="zh">斯巴達生存賽</title>
+  </programme>
+  <programme start="20260905125100 +0800" stop="20260905134600 +0800" channel="爱尔达娱乐"><title lang="zh">斯巴達生存賽</title>
+  </programme>
+  <programme start="20260905134600 +0800" stop="20260905144000 +0800" channel="爱尔达娱乐"><title lang="zh">挑戰極限</title>
+  </programme>
+  <programme start="20260905144000 +0800" stop="20260905153500 +0800" channel="爱尔达娱乐"><title lang="zh">挑戰極限</title>
+  </programme>
+  <programme start="20260905153500 +0800" stop="20260905162900 +0800" channel="爱尔达娱乐"><title lang="zh">荒土求生紀</title>
+  </programme>
+  <programme start="20260905162900 +0800" stop="20260905172400 +0800" channel="爱尔达娱乐"><title lang="zh">荒土求生紀</title>
+  </programme>
+  <programme start="20260905172400 +0800" stop="20260905181600 +0800" channel="爱尔达娱乐"><title lang="zh">街頭藝戰</title>
+  </programme>
+  <programme start="20260905181600 +0800" stop="20260905190500 +0800" channel="爱尔达娱乐"><title lang="zh">街頭藝戰</title>
+  </programme>
+  <programme start="20260905190500 +0800" stop="20260905192000 +0800" channel="爱尔达娱乐"><title lang="zh">科學大突破</title>
+  </programme>
+  <programme start="20260905192000 +0800" stop="20260905193500 +0800" channel="爱尔达娱乐"><title lang="zh">科學大突破</title>
+  </programme>
+  <programme start="20260905193500 +0800" stop="20260905200100 +0800" channel="爱尔达娱乐"><title lang="zh">藍色世界</title>
+  </programme>
+  <programme start="20260905200100 +0800" stop="20260905202700 +0800" channel="爱尔达娱乐"><title lang="zh">藍色世界</title>
+  </programme>
+  <programme start="20260905202700 +0800" stop="20260905212200 +0800" channel="爱尔达娱乐"><title lang="zh">七日大挑戰</title>
+  </programme>
+  <programme start="20260905212200 +0800" stop="20260905221600 +0800" channel="爱尔达娱乐"><title lang="zh">七日大挑戰</title>
+  </programme>
+  <programme start="20260905221600 +0800" stop="20260905231100 +0800" channel="爱尔达娱乐"><title lang="zh">主題樂園大比拚</title>
+  </programme>
+  <programme start="20260905231100 +0800" stop="20260905233800 +0800" channel="爱尔达娱乐"><title lang="zh">越野大師們的世界</title>
+  </programme>
+  <programme start="20260905233800 +0800" stop="20260906000000 +0800" channel="爱尔达娱乐"><title lang="zh">越野大師們的世界</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905013000 +0800" channel="爱尔达宠物运动台"><title lang="zh">2025 與狗共舞賽 自由編舞 國際組(第6集) (普)</title>
   </programme>
@@ -33586,6 +34818,84 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260905220000 +0800" stop="20260905230000 +0800" channel="靖天育乐"><title lang="zh">台灣啟示錄(363)(普)</title>
   </programme>
   <programme start="20260905230000 +0800" stop="20260906000000 +0800" channel="靖天育乐"><title lang="zh">全民星攻略(146)(普)</title>
+  </programme>
+  <programme start="20260905000000 +0800" stop="20260905003000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905003000 +0800" stop="20260905010000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905010000 +0800" stop="20260905030000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">週末電影時光：勇鼠闖天堂(普)</title>
+  </programme>
+  <programme start="20260905030000 +0800" stop="20260905033000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905033000 +0800" stop="20260905040000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905040000 +0800" stop="20260905043000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905043000 +0800" stop="20260905050000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905050000 +0800" stop="20260905063000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">小飛象(普)</title>
+  </programme>
+  <programme start="20260905063000 +0800" stop="20260905070000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">頑皮豹(普)</title>
+  </programme>
+  <programme start="20260905070000 +0800" stop="20260905073000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905073000 +0800" stop="20260905080000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905080000 +0800" stop="20260905083000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905083000 +0800" stop="20260905090000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905090000 +0800" stop="20260905093000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905093000 +0800" stop="20260905100000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905100000 +0800" stop="20260905103000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905103000 +0800" stop="20260905110000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905110000 +0800" stop="20260905113000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905113000 +0800" stop="20260905120000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905120000 +0800" stop="20260905133000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">小飛象(普)</title>
+  </programme>
+  <programme start="20260905133000 +0800" stop="20260905140000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">頑皮豹(普)</title>
+  </programme>
+  <programme start="20260905140000 +0800" stop="20260905143000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905143000 +0800" stop="20260905150000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905150000 +0800" stop="20260905153000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905153000 +0800" stop="20260905160000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">黏土變變樂(普)</title>
+  </programme>
+  <programme start="20260905160000 +0800" stop="20260905163000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905163000 +0800" stop="20260905170000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905170000 +0800" stop="20260905173000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905173000 +0800" stop="20260905180000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905180000 +0800" stop="20260905193000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">小飛象(普)</title>
+  </programme>
+  <programme start="20260905193000 +0800" stop="20260905200000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">頑皮豹(普)</title>
+  </programme>
+  <programme start="20260905200000 +0800" stop="20260905203000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905203000 +0800" stop="20260905210000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905210000 +0800" stop="20260905213000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905213000 +0800" stop="20260905220000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">地球防疫戰(普)</title>
+  </programme>
+  <programme start="20260905220000 +0800" stop="20260905223000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905223000 +0800" stop="20260905230000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">哞哞橘牛家族(普)</title>
+  </programme>
+  <programme start="20260905230000 +0800" stop="20260905233000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
+  </programme>
+  <programme start="20260905233000 +0800" stop="20260906000000 +0800" channel="靖洋卡通Nice Bingo"><title lang="zh">超人力霸王傑洛：英雄傳(普)</title>
   </programme>
   <programme start="20260905000000 +0800" stop="20260905010000 +0800" channel="靖洋戏剧台"><title lang="zh">【首選卡司系列】上海灘(19)(護)</title>
   </programme>

@@ -11,6 +11,8 @@
   </channel>
   <channel id="Arirang TV"><display-name lang="zh">Arirang TV</display-name><display-name lang="zh">ARIRANG阿里郎频道</display-name><display-name lang="zh">ARIRANGTV</display-name><display-name lang="zh">Arirang TV HD</display-name>
   </channel>
+  <channel id="FOX NEWS CHANNEL"><display-name lang="zh">FOX NEWS CHANNEL</display-name><display-name lang="zh">FOX News Channel</display-name>
+  </channel>
   <channel id="KBS WORLD (MANDARIN) (HD)"><display-name lang="zh">KBS WORLD (MANDARIN) (HD)</display-name><display-name lang="zh">KBS World (Mandarin) (HD)</display-name>
   </channel>
   <channel id="FashionTV HD"><display-name lang="zh">FashionTV HD</display-name><display-name lang="zh">Fashion TV</display-name>
@@ -82,6 +84,8 @@
   <channel id="金光布袋戏"><display-name lang="zh">金光布袋戏</display-name>
   </channel>
   <channel id="ZEE TAMIL"><display-name lang="zh">ZEE TAMIL</display-name><display-name lang="zh">Zee Tamil HD</display-name>
+  </channel>
+  <channel id="Star TV"><display-name lang="zh">Star TV</display-name><display-name lang="zh">STAR TV</display-name>
   </channel>
   <channel id="Mezzo Live"><display-name lang="zh">Mezzo Live</display-name><display-name lang="zh">MEZZOLIVEHD</display-name><display-name lang="zh">Mezzo Live HD</display-name>
   </channel>
@@ -266,6 +270,8 @@
   <channel id="四川经济"><display-name lang="zh">四川经济</display-name><display-name lang="zh">SCTV3</display-name><display-name lang="zh">四川经济频道</display-name>
   </channel>
   <channel id="江苏教育"><display-name lang="zh">江苏教育</display-name>
+  </channel>
+  <channel id="中天新闻"><display-name lang="zh">中天新闻</display-name>
   </channel>
   <channel id="辽宁卫视"><display-name lang="zh">辽宁卫视</display-name><display-name lang="zh">辽宁</display-name><display-name lang="zh">CHANNEL00000326</display-name>
   </channel>
@@ -571,6 +577,8 @@
   </channel>
   <channel id="四川乡村"><display-name lang="zh">四川乡村</display-name><display-name lang="zh">四川乡村频道</display-name>
   </channel>
+  <channel id="KTV HD"><display-name lang="zh">KTV HD</display-name><display-name lang="zh">K-TV</display-name>
+  </channel>
   <channel id="SUPER Kids Channel"><display-name lang="zh">SUPER Kids Channel</display-name><display-name lang="zh">SUPERKIDSCHANNEL</display-name>
   </channel>
   <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
@@ -604,6 +612,8 @@
   <channel id="欢笑剧场"><display-name lang="zh">欢笑剧场</display-name>
   </channel>
   <channel id="陕西卫视"><display-name lang="zh">陕西卫视</display-name><display-name lang="zh">陕西</display-name><display-name lang="zh">CHANNEL00000029</display-name>
+  </channel>
+  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name><display-name lang="zh">HITS Movies HD</display-name>
   </channel>
   <channel id="EUROSPORT 1"><display-name lang="zh">EUROSPORT 1</display-name><display-name lang="zh">Eurosport 1</display-name>
   </channel>
@@ -4869,7 +4879,17 @@
   </programme>
   <programme start="20260906041000 +0800" stop="20260906054000 +0800" channel="CLASSICA"><title lang="zh">Fantasymphony – A Concert of Fire and Magic</title>
   </programme>
-  <programme start="20260906054000 +0800" stop="20260906120000 +0800" channel="CLASSICA"><title lang="zh">Mozart – Symphonie no 35</title>
+  <programme start="20260906054000 +0800" stop="20260906055000 +0800" channel="CLASSICA"><title lang="zh">Mozart – Symphonie no 35</title>
+  </programme>
+  <programme start="20260906055000 +0800" stop="20260906060000 +0800" channel="CLASSICA"><title lang="zh">Classica Spotlight</title>
+  </programme>
+  <programme start="20260906060000 +0800" stop="20260906070100 +0800" channel="CLASSICA"><title lang="zh">Mahler – Sinfonie Nr. 1 in D-Dur: "Titan"</title><desc lang="zh">Der Maggio Musicale Fiorentino (Florentiner Musikmai) ist das älteste Opern- und Musikfestival Italiens. Es wurde 1933 gegründet, ursprünglich mit dem Ziel, zeitgenössische und vergessene Opern zu präsentieren. Im Laufe der Jahre hat sich das Spektrum jedoch erheblich erweitert, und Orchesterkonzerte sind längst ein fester Bestandteil des Festivals. Im Rahmen der Ausgabe 2021, dirigiert Maestro Da</desc>
+  </programme>
+  <programme start="20260906070100 +0800" stop="20260906075000 +0800" channel="CLASSICA"><title lang="zh">Ravel – Klavierkonzert für die linke Hand &amp; Boléro</title><desc lang="zh">Péter Csaba leitet die spanische Orquesta Sinfónica Freixenet del Encuentro bei diesem Eröffnungskonzert des Encuentro de Música y Academia de Santander. Das Programm beginnt mit Ravels Klavierkonzert für die linke Hand in D-Dur, mit dem in Usbekistan geborenen amerikanischen Pianisten Stanislav Ioudenitch als Solist. Das zwischen 1929 und 1930 komponierte Werk wurde von Paul Wittgenstein in Auftr</desc>
+  </programme>
+  <programme start="20260906075000 +0800" stop="20260906100000 +0800" channel="CLASSICA"><title lang="zh">In der Probe: Zubin Mehta</title><desc lang="zh">Der indische Dirigent Zubin Mehta wurde 1977 Musikdirektor des Israel Philharmonic Orchestra und 1981 zum Musikdirektor auf Lebenszeit ernannt. Am 18. Juli 1996 führte das IPO unter der Leitung von Mehta erstmals die Tondichtung "Till Eulenspiegels lustige Streiche.</desc>
+  </programme>
+  <programme start="20260906100000 +0800" stop="20260906120000 +0800" channel="CLASSICA"><title lang="zh">Stingray Popular Classical</title><desc lang="zh">Listening to the classical music melodies; Beethoven's "Für Elise," Tchaikovsky's 1812 Overture, Strauss's waltzes and more.</desc>
   </programme>
   <programme start="20260906120000 +0800" stop="20260906122500 +0800" channel="CLASSICA"><title lang="zh">Copland – Appalachian Spring</title>
   </programme>
@@ -6463,7 +6483,9 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260906003000 +0800" stop="20260906010000 +0800" channel="EUROSPORT 1"><title lang="zh">UCI Cross-country Short Track World Cup | Women Elite | Haute Savoie(普)</title>
   </programme>
-  <programme start="20260906010000 +0800" stop="20260906014500 +0800" channel="EUROSPORT 1"><title lang="zh">Netherlands | MX2 | Race 1(普)</title>
+  <programme start="20260906010000 +0800" stop="20260906013000 +0800" channel="EUROSPORT 1"><title lang="zh">Netherlands | MX2 | Race 1(普)</title>
+  </programme>
+  <programme start="20260906013000 +0800" stop="20260906014500 +0800" channel="EUROSPORT 1"><title lang="zh">Eurosport Tennis Club</title><desc lang="zh">En Direct.</desc>
   </programme>
   <programme start="20260906014500 +0800" stop="20260906023000 +0800" channel="EUROSPORT 1"><title lang="zh">Netherlands | MXGP | Race 1(普)</title>
   </programme>
@@ -6504,6 +6526,8 @@ From money woes to health problems, strife with the teenagers and love life trou
   <programme start="20260906221500 +0800" stop="20260906233000 +0800" channel="EUROSPORT 1"><title lang="zh">T100 Triathlon World Tour | Vancouver(普)</title>
   </programme>
   <programme start="20260906233000 +0800" stop="20260907010000 +0800" channel="EUROSPORT 1"><title lang="zh">Trail Running(普)</title>
+  </programme>
+  <programme start="20260906000000 +0800" stop="20260907000000 +0800" channel="FOX NEWS CHANNEL"><title lang="zh">Fox News Live</title>
   </programme>
   <programme start="20260906000000 +0800" stop="20260906030000 +0800" channel="FashionBox"><title lang="zh">FashionBox (Ch 603) has ended broadcasting</title>
   </programme>
@@ -7393,9 +7417,15 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260906233500 +0800" stop="20260907000000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International</title><desc lang="zh">College sweethearts move to Dublin, Ireland with their dog. They don't know anyone there, and their budget might be stretched by her extensive wish list.</desc>
   </programme>
-  <programme start="20260906001600 +0800" stop="20260906003600 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 5 | 18</title>
+  <programme start="20260906001600 +0800" stop="20260906001700 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 5 | 18</title>
   </programme>
-  <programme start="20260906003600 +0800" stop="20260906011700 +0800" channel="HISTORY"><title lang="zh">Звёзды ломбарда – 17 | 10</title>
+  <programme start="20260906001700 +0800" stop="20260906002000 +0800" channel="HISTORY"><title lang="zh">Aqui Tem Historia</title><desc lang="zh">O episódio desmistifica o ato do grito da independência de Dom Pedro I às margens do riacho do Ipiranga, em setembro de 1822. Também traz curiosidades sobre o alimento que o teria feito passar mal no dia.</desc>
+  </programme>
+  <programme start="20260906002000 +0800" stop="20260906002200 +0800" channel="HISTORY"><title lang="zh">Construindo um Império</title><desc lang="zh">Durante 600 anos, existiu um império que se apoderou do Mediterrâneo e constituiu um dos poderios mais lendários do Mundo Antigo: Cartago. Suas construções sobreviveram à passagem de eras e homens. Descubra-as!</desc>
+  </programme>
+  <programme start="20260906002200 +0800" stop="20260906010000 +0800" channel="HISTORY"><title lang="zh">Неизвестное об Известном</title>
+  </programme>
+  <programme start="20260906011500 +0800" stop="20260906011700 +0800" channel="HISTORY"><title lang="zh">д/с Морские сражения (Александр Маринеско: Битва за «чистую» воду)</title>
   </programme>
   <programme start="20260906011700 +0800" stop="20260906013800 +0800" channel="HISTORY"><title lang="zh">Звёзды ломбарда – 7 | 8</title>
   </programme>
@@ -7447,11 +7477,25 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260906105800 +0800" stop="20260906111900 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 4 | 12</title>
   </programme>
+  <programme start="20260906111900 +0800" stop="20260906112200 +0800" channel="HISTORY"><title lang="zh">Звёзды ломбарда – 16 | 3</title>
+  </programme>
+  <programme start="20260906112200 +0800" stop="20260906112500 +0800" channel="HISTORY"><title lang="zh">Aqui Tem Historia</title><desc lang="zh">O Solar da Marquesa, casarão no qual vivia a Marquesa de Santos, Domitila de Castro, é cenário para que os apresentadores abordem hábitos alimentares, fatos marcantes e curiosidades que aconteceram no local.</desc>
+  </programme>
+  <programme start="20260906112500 +0800" stop="20260906113700 +0800" channel="HISTORY"><title lang="zh">Projetos Incríveis</title><desc lang="zh">Conheça superestruturas que desafiam o impossível: estruturas de isolamento nuclear, em Chernobyl; o estádio Mercedes Benz, em Atlanta; a ponte Bayonne em Nova York e o arranha-céu Wilshire Grand em Los Angeles.</desc>
+  </programme>
   <programme start="20260906113700 +0800" stop="20260906120800 +0800" channel="HISTORY"><title lang="zh">UH-1 Iroquois</title>
   </programme>
   <programme start="20260906120800 +0800" stop="20260906121000 +0800" channel="HISTORY"><title lang="zh">Huey</title>
   </programme>
-  <programme start="20260906124400 +0800" stop="20260906130500 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 2 | 19</title>
+  <programme start="20260906124400 +0800" stop="20260906125300 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 2 | 19</title>
+  </programme>
+  <programme start="20260906125300 +0800" stop="20260906125600 +0800" channel="HISTORY"><title lang="zh">Aqui Tem Historia</title><desc lang="zh">O episódio se passa no Largo da Memória, local com grande concentração de botequins do período do Brasil Colônia. Os apresentadores contam quais os hábitos de consumo e quem eram os frequentadores de botecos da ...</desc>
+  </programme>
+  <programme start="20260906125600 +0800" stop="20260906125700 +0800" channel="HISTORY"><title lang="zh">Armas Modernas da 1ª Guerra Mundial</title><desc lang="zh">Os tanques foram os primeiros equipamentos de guerra blindados a ser usados no campo de batalha. Estes "barcosterrestres", como eram chamados, foram patrocinados por Winston Churchill, o chefe do almirantado britânico.</desc>
+  </programme>
+  <programme start="20260906125700 +0800" stop="20260906130000 +0800" channel="HISTORY"><title lang="zh">х/ф Судьба любви (2022)</title>
+  </programme>
+  <programme start="20260906130000 +0800" stop="20260906130500 +0800" channel="HISTORY"><title lang="zh">Starożytna apokalipsa – Sodoma i Gomora | S01E02</title>
   </programme>
   <programme start="20260906130500 +0800" stop="20260906134600 +0800" channel="HISTORY"><title lang="zh">Звёзды ломбарда – 16 | 5</title>
   </programme>
@@ -7465,7 +7509,11 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260906155800 +0800" stop="20260906161900 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 1 | 14</title>
   </programme>
-  <programme start="20260906161900 +0800" stop="20260906165900 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 4 | 13</title>
+  <programme start="20260906161900 +0800" stop="20260906165501 +0800" channel="HISTORY"><title lang="zh">Между молотом и наковальней – 4 | 13</title>
+  </programme>
+  <programme start="20260906165501 +0800" stop="20260906165714 +0800" channel="HISTORY"><title lang="zh">No listing available</title>
+  </programme>
+  <programme start="20260906165714 +0800" stop="20260906165900 +0800" channel="HISTORY"><title lang="zh">No listing available</title>
   </programme>
   <programme start="20260906165900 +0800" stop="20260906172000 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 2 | 23</title>
   </programme>
@@ -7487,9 +7535,11 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   </programme>
   <programme start="20260906213847 +0800" stop="20260906215500 +0800" channel="HISTORY"><title lang="zh">The Apollo Program</title>
   </programme>
-  <programme start="20260906221200 +0800" stop="20260906225300 +0800" channel="HISTORY"><title lang="zh">Звёзды ломбарда – 20 | 7</title>
+  <programme start="20260906215500 +0800" stop="20260906220900 +0800" channel="HISTORY"><title lang="zh">建構世界的大廠牌 第1季第4集 </title><desc lang="zh">在1800年代晚期, 美國人很少洗澡, 生活在骯髒的環境中, 致命的疾病也稀鬆平常。但詹姆斯·甘布爾和哈利·波克特發明了革命性的新肥皂, 革新了美國。</desc>
   </programme>
-  <programme start="20260906225300 +0800" stop="20260906233400 +0800" channel="HISTORY"><title lang="zh">Проклятие острова Оук – 4 | 8</title>
+  <programme start="20260906220900 +0800" stop="20260906224000 +0800" channel="HISTORY"><title lang="zh">Beechcraft Model 18</title>
+  </programme>
+  <programme start="20260906224000 +0800" stop="20260906231300 +0800" channel="HISTORY"><title lang="zh">Firefighting Fire From the Sky</title>
   </programme>
   <programme start="20260906233400 +0800" stop="20260906235500 +0800" channel="HISTORY"><title lang="zh">Хватай не глядя – 2 | 21</title>
   </programme>
@@ -7556,6 +7606,8 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   <programme start="20260906230000 +0800" stop="20260906233000 +0800" channel="HITS"><title lang="zh">I Dream Of Jeannie S5 - One Of Our Hotels Is Growing</title><desc lang="zh">Jeannie 's secret powers are saved and everyone is satisfied with the explanation.</desc>
   </programme>
   <programme start="20260906233000 +0800" stop="20260907000000 +0800" channel="HITS"><title lang="zh">I Dream Of Jeannie S5 - The Solid Gold Jeannie</title><desc lang="zh">Jeannie crashes the Isolation Chamber and becomes a creature from outer space.</desc>
+  </programme>
+  <programme start="20260906000000 +0800" stop="20260907000000 +0800" channel="HITS MOVIES"><title lang="zh">E.T. The Extra-Terrestrial</title>
   </programme>
   <programme start="20260906015500 +0800" stop="20260906040000 +0800" channel="HOY 76"><title lang="zh">沙特職業足球聯賽-伊蒂哈德 對 艾納斯</title>
   </programme>
@@ -8476,6 +8528,36 @@ She ends up back home in New York eating cupcakes from one of her favorite baker
   <programme start="20260906210000 +0800" stop="20260906224000 +0800" channel="KIX"><title lang="zh">天之書</title><desc lang="zh">世界陷入無盡黑暗,人們在大漠深處的地宮中發現一本遠古天之書,傳說擁有者可掌握乾坤。各路探險者紛紛前往,當地宮陰門大開,異象頻生,隊伍接連遭遇危險,而更大的危機正逐步逼近……</desc>
   </programme>
   <programme start="20260906224000 +0800" stop="20260907001500 +0800" channel="KIX"><title lang="zh">I Am Rage</title><desc lang="zh">Erin,一名飽受創傷與怒火困擾的女子,前往偏遠莊園探訪男友的家人,卻發現對方竟是操控血腥交易的邪教。當她被擄並成為獵物時,壓抑已久的怒火徹底爆發,反轉局勢,展開一場殘酷的求生之戰。</desc>
+  </programme>
+  <programme start="20260906000000 +0800" stop="20260906003000 +0800" channel="KTV HD"><title lang="zh">Terra Santa News – Nachrichten aus dem Heiligen Land</title><desc lang="zh">Nachrichten aus dem Heiligen Land. In Kooperation mit dem Christlichen Medienzentrum der Franziskaner, sendet K-TV exklusiv aktuelle Nachrichten aus dem Heiligen Land. Dazu gehören Berichte über die Hochfeste der katholischen Kirche, Besondere Veranstaltungen und Jubiläen aber auch eher Alltägliches aus dem Land, in dem Jesus für uns Mensch wurde. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906003000 +0800" stop="20260906013000 +0800" channel="KTV HD"><title lang="zh">Heilige Messe aus dem Freiburger Münster</title>
+  </programme>
+  <programme start="20260906013000 +0800" stop="20260906020000 +0800" channel="KTV HD"><title lang="zh">Zurück zu Dir</title><desc lang="zh">In "Zurück zu dir" spreche ich mit Menschen, die ihren Weg (zurück) zum katholischen Glauben gefunden haben. Ihre Geschichten sind inspirierend, ehrlich und zeigen eine aufrichtige Glaubensreise mit teilweise großen Herausforderungen! (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906020000 +0800" stop="20260906021500 +0800" channel="KTV HD"><title lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan</title><desc lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan (Aufzeichnung vom Vormittag) Am 8. Mai 2025 erhielt die Kirche ihr neues Oberhaupt, den 267. Nachfolger des Apostels Petrus, Papst Leo XIV. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906021500 +0800" stop="20260906034500 +0800" channel="KTV HD"><title lang="zh">David &amp; Goliat – Familienmusical</title><desc lang="zh">Der Hirtenjunge David gegen den schwer bewaffneten Riesen Goliat – ein ungleicher Kampf, der seit jeher Groß und Klein fasziniert. Das Kindermusical von Markus Heusser bringt diese alte, spannende Geschichte in die Gegenwart. Denn die Herausforderung, sich dem ganz persönlichen Goliat stellen zu müssen, kennt jeder… (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906034500 +0800" stop="20260906040000 +0800" channel="KTV HD"><title lang="zh">Echt ansteckend</title><desc lang="zh">Maribel ist eine von vielen Menschen, die mit Mühe und Leidenschaft unseren Kindern die Schönheit der Liebe Gottes vermitteln, ihre Freude ist sehr ansteckend!!! Eine Produktion von Infinito +1 (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906040000 +0800" stop="20260906043000 +0800" channel="KTV HD"><title lang="zh">Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie "Das Werk" in Bregenz</title>
+  </programme>
+  <programme start="20260906043000 +0800" stop="20260906053000 +0800" channel="KTV HD"><title lang="zh">Vater unser – Leben im Reich Gottes</title><desc lang="zh">Wem ist es nicht irgendwie vertraut – dieses althergebrachte Vater-Unser-Gebet? Doch kennen wir es wirklich? Vermögen wir in unserer heutigen "Hochgeschwindigkeits-Gesellschaft" noch die Tiefendimension dieses Herzensgespräches zwischen Jesus und seinem Vater in seiner ganzen Tiefe zu erahnen? Wir möchten uns an diese Herausforderung wagen! Glaubensseminar mit Pfr. Leo Tanner. Siebter Vortrag: Hof</desc>
+  </programme>
+  <programme start="20260906053000 +0800" stop="20260906053900 +0800" channel="KTV HD"><title lang="zh">Abendgebet mit Angelus</title>
+  </programme>
+  <programme start="20260906053900 +0800" stop="20260906054800 +0800" channel="KTV HD"><title lang="zh">Weihe an Maria</title>
+  </programme>
+  <programme start="20260906054800 +0800" stop="20260906060000 +0800" channel="KTV HD"><title lang="zh">Programmvorschau</title><desc lang="zh">Bei der Programmvorschau kann es sich wahlweise um eine einfache Liste mit den Programmpunkten handeln oder um eine detaillierte Darstellung dessen, womit K-TV sie in den nächsten Tagen erfreuen wird. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906060000 +0800" stop="20260906061500 +0800" channel="KTV HD"><title lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan</title><desc lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan (Aufzeichnung vom Vormittag) Am 8. Mai 2025 erhielt die Kirche ihr neues Oberhaupt, den 267. Nachfolger des Apostels Petrus, Papst Leo XIV. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906061500 +0800" stop="20260906070000 +0800" channel="KTV HD"><title lang="zh">Natürliche Empfängnisregelung – im Einklang mit Körper und Beziehung</title><desc lang="zh">Dr. Claudia Kaminski spricht mit der NER Multiplikatorin Wilma Lerchen über die Natürliche Empfängnisregelung. Ein Blick auf eine Methode, die Gesundheit, Verantwortung und Beziehung in Einklang bringt – ganz auf dem Boden der Lehre der katholischen Kirche (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906070000 +0800" stop="20260906073000 +0800" channel="KTV HD"><title lang="zh">Terra Santa News – Nachrichten aus dem Heiligen Land</title><desc lang="zh">Nachrichten aus dem Heiligen Land. In Kooperation mit dem Christlichen Medienzentrum der Franziskaner, sendet K-TV exklusiv aktuelle Nachrichten aus dem Heiligen Land. Dazu gehören Berichte über die Hochfeste der katholischen Kirche, Besondere Veranstaltungen und Jubiläen aber auch eher Alltägliches aus dem Land, in dem Jesus für uns Mensch wurde. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906073000 +0800" stop="20260907000000 +0800" channel="KTV HD"><title lang="zh">David &amp; Goliat – Familienmusical</title><desc lang="zh">Der Hirtenjunge David gegen den schwer bewaffneten Riesen Goliat – ein ungleicher Kampf, der seit jeher Groß und Klein fasziniert. Das Kindermusical von Markus Heusser bringt diese alte, spannende Geschichte in die Gegenwart. Denn die Herausforderung, sich dem ganz persönlichen Goliat stellen zu müssen, kennt jeder… (Senderinfo).</desc>
   </programme>
   <programme start="20260906040000 +0800" stop="20260906080000 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">此頻道於2026年09月01日停播</title>
   </programme>
@@ -11881,6 +11963,20 @@ If you want to raise a Samoyed, or already own one, we hope you can give them th
   </programme>
   <programme start="20260906230000 +0800" stop="20260907000000 +0800" channel="Sony Entertainment Television"><title lang="zh">Indian Game Show With Bharti And Harssh Ep9</title><desc lang="zh">Comedian power couple Bharti &amp;amp; Harssh host a high-energy game show featuring over 100 stars! Watch as they mix wildly creative challenges with hilarious comedy for an ultimate family entertainment</desc>
   </programme>
+  <programme start="20260906010000 +0800" stop="20260906011500 +0800" channel="Star TV"><title lang="zh">Alpabfahrt</title><desc lang="zh">Die Alpabfahrt im Heidiland ist ein farbenfroher Brauch, bei dem die geschmückten Kühe nach dem Alpsommer ins Tal zurückkehren. Begleitet von Musik, Trachten und festlicher Stimmung wird die Rückkehr des Viehs gemeinsam gefeiert. Die Star TV Medien zeigen Highlights mit Liveinterviews mit Gästen aus der Region, direkt vom Dorfplatz in Mels, moderiert von Nosara Altmann (Senderinfo).</desc>
+  </programme>
+  <programme start="20260906011500 +0800" stop="20260906030000 +0800" channel="Star TV"><title lang="zh">Madame Annie und ihre Familie</title><desc lang="zh">Als Annie (Alexandra Lamy) im Mülleimer einen positiven Schwangerschaftstest findet, will sie wissen: Wem aus ihrer sechsköpfigen Familie gehört der? Natürlich will keiner darauf antworten… \n\nHumorvolles, turbulentes Familienchaos, das eher auf leise Situationskomik als brachial-quatschigen Klamauk setzt.</desc>
+  </programme>
+  <programme start="20260906030000 +0800" stop="20260906040000 +0800" channel="Star TV"><title lang="zh">Reise nach Mallorca</title><desc lang="zh">Die Dokuserie führt nach Mallorca – Teil 2: Serra de Tramuntana und Westküste. Gezeigt werden Bergdörfer (Valldemossa, Deià), Oliven- und Mandelplantagen, Terrassenlandschaften, Wanderwege, traditionelle Landwirtschaft, Dorffeste und Santuariums-Pilgerorte. Musikalisch: traditionelle Balearen-Folkmusik, Gitarren-Begleitung, Chöre und Strassenmusik. Handwerkliche Künste: Steinbau, Trockenmauer-Tech</desc>
+  </programme>
+  <programme start="20260906040000 +0800" stop="20260906044500 +0800" channel="Star TV"><title lang="zh">Reise nach Mallorca</title><desc lang="zh">Die Dokuserie führt nach Mallorca – Teil 3: Ost- und Nordküste, Strände, Höhlen (Drach, Hams) und ländliche Dörfer. Gezeigt werden Fischerhäfen, Naturschutzgebiete, Strandleben, saisonale Feste und traditionelle Handwerke. Musikalisch: Strand- und Festmusik, traditionelle Tänze, Gospel und Strassenmusik. Handwerkliche Künste: Netzmacherei, Bootspflege, Korbflechterei, Schmuck- und Textilhandwerk s</desc>
+  </programme>
+  <programme start="20260906044500 +0800" stop="20260906050000 +0800" channel="Star TV"><title lang="zh">StarNews</title><desc lang="zh">Das Szenenmagazin von Star TV ist Ihre erste Anlaufstelle für alles rund um Fun, Sport, Musik und Kultur. Mit packenden Berichten und exklusiven Interviews bringt das Magazin die neuesten Trends und Highlights direkt zu Ihnen nach Hause. Erleben Sie spannende Sportereignisse, entdecken Sie die angesagtesten Musiktrends und tauchen Sie ein in die bunte Welt der Kultur. Star TV sorgt dafür, dass Sie</desc>
+  </programme>
+  <programme start="20260906050000 +0800" stop="20260906060000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
+  </programme>
+  <programme start="20260906060000 +0800" stop="20260907000000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  </programme>
   <programme start="20260906004300 +0800" stop="20260906010800 +0800" channel="TLC"><title lang="zh">Girl Meets Farm Ep1</title><desc lang="zh">Molly Yeh submits her chocolatey cookies to the harvest bake-off before making a hearty lunch of sandwiches, soup and tangy mac and cheese!</desc>
   </programme>
   <programme start="20260906010800 +0800" stop="20260906013800 +0800" channel="TLC"><title lang="zh">Girl Meets Farm Ep2</title><desc lang="zh">Molly Yeh jump-starts her sisters&amp;#x27; trip to Mexico with breakfast tostadas, turkey tacos, an extra savoury salad and a cream float.</desc>
@@ -12097,27 +12193,49 @@ If you want to raise a Samoyed, or already own one, we hope you can give them th
   </programme>
   <programme start="20260906234500 +0800" stop="20260907000000 +0800" channel="TRACE Urban"><title lang="zh">It's still sunday</title>
   </programme>
-  <programme start="20260906000000 +0800" stop="20260906002700 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title>
+  <programme start="20260906000000 +0800" stop="20260906002600 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title><desc lang="zh">Rendez-vous de l'information et de la culture francophone proposé par la rédaction de TV5 Monde, "64' Le monde en français" met l'accent sur l'actualité mondiale, l'actualité francophone, culturelle, politique, économique, sociale, et sociétale ainsi que sur l'information développée par les partenaires historiques de TV5 Monde : la RTBF, la RTS, Radio Canada, Télé-Québec, France 2, France 3.</desc>
+  </programme>
+  <programme start="20260906002600 +0800" stop="20260906002700 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
   </programme>
   <programme start="20260906002700 +0800" stop="20260906003000 +0800" channel="TV5MONDE HD"><title lang="zh">Meteo</title>
   </programme>
   <programme start="20260906003000 +0800" stop="20260906005300 +0800" channel="TV5MONDE HD"><title lang="zh">64' Debat</title>
   </programme>
-  <programme start="20260906005300 +0800" stop="20260906010400 +0800" channel="TV5MONDE HD"><title lang="zh">L'invite</title>
+  <programme start="20260906005300 +0800" stop="20260906010000 +0800" channel="TV5MONDE HD"><title lang="zh">L'invité</title><desc lang="zh">Rencontre avec des artistes, des écrivains, des acteurs et tous ceux qui font vibrer notre époque. "L'invité" est le rendez-vous des personnalités qui font l'actualité.</desc>
   </programme>
-  <programme start="20260906010400 +0800" stop="20260906013000 +0800" channel="TV5MONDE HD"><title lang="zh">Papilles</title>
+  <programme start="20260906010000 +0800" stop="20260906010200 +0800" channel="TV5MONDE HD"><title lang="zh">Papilles</title><desc lang="zh">Itinéraire gourmand à travers les territoires, à la découverte de leurs spécialités et des artisans qui perpétuent les traditions culinaires locales.</desc>
   </programme>
-  <programme start="20260906013000 +0800" stop="20260906020000 +0800" channel="TV5MONDE HD"><title lang="zh">Rassemblance</title>
+  <programme start="20260906010200 +0800" stop="20260906010400 +0800" channel="TV5MONDE HD"><title lang="zh">Rassemblance</title><desc lang="zh">Briser les idées reçues, défaire les préjugés, quelle que soit sa culture, sa religion, sa nationalité, son orientation sexuelle, sa position sociale : incarnée par Magloire, cette série documentaire montre que l'intégration est possible, que la différence est salutaire pour le bien commun et le vivre ensemble.</desc>
+  </programme>
+  <programme start="20260906011500 +0800" stop="20260906014000 +0800" channel="TV5MONDE HD"><title lang="zh">64' Le Monde En Français</title>
+  </programme>
+  <programme start="20260906014000 +0800" stop="20260906015300 +0800" channel="TV5MONDE HD"><title lang="zh">L'Invité</title>
+  </programme>
+  <programme start="20260906015300 +0800" stop="20260906020000 +0800" channel="TV5MONDE HD"><title lang="zh">Skate Le Monde</title>
   </programme>
   <programme start="20260906020000 +0800" stop="20260906022600 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De La RTS</title>
   </programme>
   <programme start="20260906022600 +0800" stop="20260906024000 +0800" channel="TV5MONDE HD"><title lang="zh">Femmes De Science</title>
   </programme>
+  <programme start="20260906024000 +0800" stop="20260906030000 +0800" channel="TV5MONDE HD"><title lang="zh">Ligue 1 McDonald's</title>
+  </programme>
+  <programme start="20260906030000 +0800" stop="20260906033400 +0800" channel="TV5MONDE HD"><title lang="zh">Si je veux</title><desc lang="zh">Amélie aime tellement donner la vie qu'elle veut porter l'enfant d'un couple qui ne peut pas en avoir, tandis que sa sour Flora dit à peine bonjour à son fils de 6 ans. Leur mère, Bertille, est le pilier de la famille. Ces trois femmes, qui ont chacune une conception très différente de la maternité, vont voir leurs liens se renforcer au travers des épreuves qu'elles traversent, jusqu'à les amener </desc>
+  </programme>
+  <programme start="20260906033400 +0800" stop="20260906034200 +0800" channel="TV5MONDE HD"><title lang="zh">Si je veux</title><desc lang="zh">Amélie aime tellement donner la vie qu'elle veut porter l'enfant d'un couple qui ne peut pas en avoir, tandis que sa sour Flora dit à peine bonjour à son fils de 6 ans. Leur mère, Bertille, est le pilier de la famille. Ces trois femmes, qui ont chacune une conception très différente de la maternité, vont voir leurs liens se renforcer au travers des épreuves qu'elles traversent, jusqu'à les amener </desc>
+  </programme>
   <programme start="20260906034200 +0800" stop="20260906034500 +0800" channel="TV5MONDE HD"><title lang="zh">Merci Professeur!</title>
   </programme>
-  <programme start="20260906044300 +0800" stop="20260906050900 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De France 2</title>
+  <programme start="20260906044300 +0800" stop="20260906050200 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De France 2</title>
   </programme>
-  <programme start="20260906050900 +0800" stop="20260906072200 +0800" channel="TV5MONDE HD"><title lang="zh">Taratata 100% Live</title>
+  <programme start="20260906050200 +0800" stop="20260906050400 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20260906050400 +0800" stop="20260906050900 +0800" channel="TV5MONDE HD"><title lang="zh">OPJ</title><desc lang="zh">Tahia Etheve, 22 ans, intègre la brigade. Pour le capitaine Gaspard Watson, c'est un choc des générations, pour Joséphine Fleury la légiste, c'est un choc émotionnel, et enfin c'est un choc tout court pour Clarissa lorsque la nouvelle recrue disparaît. De son côté, le lieutenant Jackson Bellerose doit gérer une vie personnelle compliquée entre son ex-compagne enceinte et sa fiancée partie à l'autr</desc>
+  </programme>
+  <programme start="20260906050900 +0800" stop="20260906053000 +0800" channel="TV5MONDE HD"><title lang="zh">Taratata 100% Live</title>
+  </programme>
+  <programme start="20260906053000 +0800" stop="20260906055900 +0800" channel="TV5MONDE HD"><title lang="zh">Journal 20h00</title>
+  </programme>
+  <programme start="20260906055900 +0800" stop="20260906072200 +0800" channel="TV5MONDE HD"><title lang="zh">On N'est Pas Des Pigeons</title>
   </programme>
   <programme start="20260906072200 +0800" stop="20260906074800 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal Afrique</title>
   </programme>
@@ -14755,6 +14873,54 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20260906224000 +0800" stop="20260906224300 +0800" channel="中国电影频道"><title lang="zh">香港合集3分</title>
   </programme>
   <programme start="20260906224300 +0800" stop="20260907003100 +0800" channel="中国电影频道"><title lang="zh">望道</title><desc lang="zh">從日本留學歸來的陳望道接下了翻譯《共產黨宣言》的任務,從此改變了人生軌跡;陳獨秀、俞秀松、施存統、蔡慕暉等歷史人物一一出場。歷經時代動盪變革,朋友或犧牲或離去,陳望道面臨生死抉擇的考驗。</desc>
+  </programme>
+  <programme start="20260906000000 +0800" stop="20260906010000 +0800" channel="中天新闻"><title lang="zh">18中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260906010000 +0800" stop="20260906020000 +0800" channel="中天新闻"><title lang="zh">19中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260906020000 +0800" stop="20260906030000 +0800" channel="中天新闻"><title lang="zh">20中天新聞【普】</title>
+  </programme>
+  <programme start="20260906030000 +0800" stop="20260906040000 +0800" channel="中天新闻"><title lang="zh">前進戰略高地【普】</title>
+  </programme>
+  <programme start="20260906040000 +0800" stop="20260906050000 +0800" channel="中天新闻"><title lang="zh">前進戰略高地【普】</title>
+  </programme>
+  <programme start="20260906050000 +0800" stop="20260906060000 +0800" channel="中天新闻"><title lang="zh">cti網路論壇【普】</title>
+  </programme>
+  <programme start="20260906060000 +0800" stop="20260906070000 +0800" channel="中天新闻"><title lang="zh">06中天晨報【普】</title>
+  </programme>
+  <programme start="20260906070000 +0800" stop="20260906080000 +0800" channel="中天新闻"><title lang="zh">07中天晨報【普】</title>
+  </programme>
+  <programme start="20260906080000 +0800" stop="20260906090000 +0800" channel="中天新闻"><title lang="zh">08中天晨報【普】</title>
+  </programme>
+  <programme start="20260906090000 +0800" stop="20260906100000 +0800" channel="中天新闻"><title lang="zh">09中天新聞【普】</title>
+  </programme>
+  <programme start="20260906100000 +0800" stop="20260906110000 +0800" channel="中天新闻"><title lang="zh">10中天新聞【普】</title>
+  </programme>
+  <programme start="20260906110000 +0800" stop="20260906120000 +0800" channel="中天新闻"><title lang="zh">11中天新聞【普】</title>
+  </programme>
+  <programme start="20260906120000 +0800" stop="20260906130000 +0800" channel="中天新闻"><title lang="zh">12午間新聞【普】</title>
+  </programme>
+  <programme start="20260906130000 +0800" stop="20260906140000 +0800" channel="中天新闻"><title lang="zh">13午間新聞【普】</title>
+  </programme>
+  <programme start="20260906140000 +0800" stop="20260906150000 +0800" channel="中天新闻"><title lang="zh">14周未大爆卦【普】</title>
+  </programme>
+  <programme start="20260906150000 +0800" stop="20260906160000 +0800" channel="中天新闻"><title lang="zh">15周未大爆卦【普】</title>
+  </programme>
+  <programme start="20260906160000 +0800" stop="20260906170000 +0800" channel="中天新闻"><title lang="zh">cti網路論壇【普】</title>
+  </programme>
+  <programme start="20260906170000 +0800" stop="20260906180000 +0800" channel="中天新闻"><title lang="zh">17中天新聞【普】</title>
+  </programme>
+  <programme start="20260906180000 +0800" stop="20260906190000 +0800" channel="中天新闻"><title lang="zh">18中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260906190000 +0800" stop="20260906200000 +0800" channel="中天新闻"><title lang="zh">19中天辣晚報【普】</title>
+  </programme>
+  <programme start="20260906200000 +0800" stop="20260906210000 +0800" channel="中天新闻"><title lang="zh">20中天新聞【普】</title>
+  </programme>
+  <programme start="20260906210000 +0800" stop="20260906220000 +0800" channel="中天新闻"><title lang="zh">21CTI TALK國際直球對決【普】</title>
+  </programme>
+  <programme start="20260906220000 +0800" stop="20260906230000 +0800" channel="中天新闻"><title lang="zh">22CTI TALK國際直球對決【普】</title>
+  </programme>
+  <programme start="20260906230000 +0800" stop="20260906235900 +0800" channel="中天新闻"><title lang="zh">洪流洞見【普】</title>
   </programme>
   <programme start="20260906080100 +0800" stop="20260906084700 +0800" channel="中学生"><title lang="zh">人物</title>
   </programme>
@@ -18430,17 +18596,31 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260906234500 +0800" stop="20260907000000 +0800" channel="四海钓鱼"><title lang="zh">钓赛最前线:2025自然水域武汉站</title>
   </programme>
-  <programme start="20260906010000 +0800" stop="20260906050000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260906013500 +0800" stop="20260906041900 +0800" channel="国会频道1台"><title lang="zh">外交及國防委員會(普)</title>
   </programme>
-  <programme start="20260906050000 +0800" stop="20260906090000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260906041900 +0800" stop="20260906051300 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260906051300 +0800" stop="20260906073700 +0800" channel="国会频道1台"><title lang="zh">經濟委員會(普)</title>
+  </programme>
+  <programme start="20260906073700 +0800" stop="20260906090000 +0800" channel="国会频道1台"><title lang="zh">財政委員會(普)</title>
   </programme>
   <programme start="20260906090000 +0800" stop="20260906130000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
   </programme>
-  <programme start="20260906130000 +0800" stop="20260906170000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260906130000 +0800" stop="20260906130200 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
   </programme>
-  <programme start="20260906170000 +0800" stop="20260906210000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260906130200 +0800" stop="20260906160600 +0800" channel="国会频道1台"><title lang="zh">財政委員會(普)</title>
   </programme>
-  <programme start="20260906210000 +0800" stop="20260907010000 +0800" channel="国会频道1台"><title lang="zh">本週立法院會議轉播(普)</title>
+  <programme start="20260906160600 +0800" stop="20260906171700 +0800" channel="国会频道1台"><title lang="zh">黨團協商(普)</title>
+  </programme>
+  <programme start="20260906171700 +0800" stop="20260906173300 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260906173300 +0800" stop="20260906191800 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260906191800 +0800" stop="20260906200000 +0800" channel="国会频道1台"><title lang="zh">經濟委員會(普)</title>
+  </programme>
+  <programme start="20260906200000 +0800" stop="20260906234500 +0800" channel="国会频道1台"><title lang="zh">立法院院會(普)</title>
+  </programme>
+  <programme start="20260906234500 +0800" stop="20260907031400 +0800" channel="国会频道1台"><title lang="zh">經濟委員會(普)</title>
   </programme>
   <programme start="20260906010000 +0800" stop="20260906050000 +0800" channel="国会频道2台"><title lang="zh">本週立法院會議轉播(普)</title>
   </programme>
@@ -18838,9 +19018,9 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260906114000 +0800" stop="20260906115000 +0800" channel="天津体育"><title lang="zh">足够精彩</title>
   </programme>
-  <programme start="20260906115000 +0800" stop="20260906121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260906115000 +0800" stop="20260906121000 +0800" channel="天津体育"><title lang="zh">直播:天视体育新闻</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260906121000 +0800" stop="20260906125000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20260906121000 +0800" stop="20260906125000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20260906125000 +0800" stop="20260906140000 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
@@ -18848,15 +19028,15 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20260906155000 +0800" stop="20260906172000 +0800" channel="天津体育"><title lang="zh">体育表演</title>
   </programme>
-  <programme start="20260906172000 +0800" stop="20260906180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20260906172000 +0800" stop="20260906180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20260906180000 +0800" stop="20260906185500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
-  <programme start="20260906185500 +0800" stop="20260906195000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260906185500 +0800" stop="20260906195000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260906195000 +0800" stop="20260906220500 +0800" channel="天津体育"><title lang="zh">直播:中超联赛第26轮 天津津门虎VS浙江</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260906195000 +0800" stop="20260906220500 +0800" channel="天津体育"><title lang="zh">直播:中超联赛第26轮 天津津门虎VS浙江</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
-  <programme start="20260906220500 +0800" stop="20260906234000 +0800" channel="天津体育"><title lang="zh">直播:2026至2026赛季德甲联赛第2轮  汉堡VS美因茨</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20260906220500 +0800" stop="20260906234000 +0800" channel="天津体育"><title lang="zh">直播:2026至2026赛季德甲联赛第2轮  汉堡VS美因茨</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20260906234000 +0800" stop="20260907000000 +0800" channel="天津体育"><title lang="zh">2022年世界杯小组赛  阿根廷VS沙特</title>
   </programme>

@@ -13,6 +13,8 @@
   </channel>
   <channel id="HGTV (HD)"><display-name lang="zh">HGTV (HD)</display-name><display-name lang="zh">HGTV HD</display-name>
   </channel>
+  <channel id="Star TV"><display-name lang="zh">Star TV</display-name><display-name lang="zh">STAR TV</display-name>
+  </channel>
   <channel id="AXN"><display-name lang="zh">AXN</display-name>
   </channel>
   <channel id="Sky News"><display-name lang="zh">Sky News</display-name>
@@ -50,6 +52,8 @@
   <channel id="ROCK Action"><display-name lang="zh">ROCK Action</display-name><display-name lang="zh">ROCKACTION</display-name>
   </channel>
   <channel id="CCTV11"><display-name lang="zh">CCTV-11 戏曲</display-name><display-name lang="zh">CCTV11戏曲</display-name><display-name lang="zh">CHANNEL00000344</display-name><display-name lang="zh">CCTV 11</display-name><display-name lang="zh">CCTV11 高清</display-name><display-name lang="zh">CCTV戏曲频道</display-name><display-name lang="zh">CCTV-11(高清)</display-name><display-name lang="zh">CCTV11</display-name><display-name lang="zh">CCTV-11高清</display-name>
+  </channel>
+  <channel id="FOX NEWS CHANNEL"><display-name lang="zh">FOX NEWS CHANNEL</display-name><display-name lang="zh">FOX News Channel</display-name>
   </channel>
   <channel id="EUROSPORT 1"><display-name lang="zh">EUROSPORT 1</display-name><display-name lang="zh">Eurosport 1</display-name>
   </channel>
@@ -283,6 +287,10 @@
   </channel>
   <channel id="戏曲"><display-name lang="zh">戏曲</display-name>
   </channel>
+  <channel id="CLASSICA"><display-name lang="zh">CLASSICA</display-name><display-name lang="zh">Classica</display-name>
+  </channel>
+  <channel id="TV5MONDE HD"><display-name lang="zh">TV5MONDE HD</display-name><display-name lang="zh">TV5 monde</display-name><display-name lang="zh">TV5 Monde</display-name>
+  </channel>
   <channel id="天津体育"><display-name lang="zh">天津体育</display-name><display-name lang="zh">天津体育</display-name>
   </channel>
   <channel id="龙华戏剧"><display-name lang="zh">龙华戏剧</display-name>
@@ -492,6 +500,8 @@
   <channel id="HUB PREMIER 4"><display-name lang="zh">HUB PREMIER 4</display-name>
   </channel>
   <channel id="黑龙江卫视"><display-name lang="zh">黑龙江卫视</display-name><display-name lang="zh">黑龙江</display-name><display-name lang="zh">CHANNEL00000306</display-name>
+  </channel>
+  <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name><display-name lang="zh">HITS Movies HD</display-name>
   </channel>
   <channel id="镜电视新闻台"><display-name lang="zh">镜电视新闻台</display-name>
   </channel>
@@ -740,6 +750,8 @@
   <channel id="NOWSPORTS7"><display-name lang="zh">NOWSPORTS7</display-name>
   </channel>
   <channel id="天元围棋"><display-name lang="zh">天元围棋</display-name>
+  </channel>
+  <channel id="KTV HD"><display-name lang="zh">KTV HD</display-name><display-name lang="zh">K-TV</display-name>
   </channel>
   <channel id="苏州综合"><display-name lang="zh">苏州综合</display-name><display-name lang="zh">苏州新闻</display-name><display-name lang="zh">苏州新闻综合</display-name>
   </channel>
@@ -4809,6 +4821,22 @@
   </programme>
   <programme start="20260916235500 +0800" stop="20260917020500 +0800" channel="CINEMAX"><title lang="zh">縮小人生</title><desc lang="zh">電影講述了一對夫婦決定利用新科技的發明來把身體縮小，以便在實驗社區開始新的生活。</desc>
   </programme>
+  <programme start="20260916003800 +0800" stop="20260916024000 +0800" channel="CLASSICA"><title lang="zh">Schostakowitsch – 24 Präludien und Fugen: Op. 87</title><desc lang="zh">Der britisch-französische Pianist David Levy interpretiert Dmitri Schostakowitschs 24 Präludien und Fugen, Op. 87. Dieses Werk besteht aus 24 Stücken für Klavier, jeweils in einer der Dur- und Molltonarten der chromatischen Skala. Jedes Stück besteht aus einem Präludium, gefolgt von einer Fuge. Der Komponist ließ sich zweifellos von J. S. Bachs berühmtem "Das Wohltemperierte Klavier" (BWV 846-893)</desc>
+  </programme>
+  <programme start="20260916024000 +0800" stop="20260916030700 +0800" channel="CLASSICA"><title lang="zh">Schumann – Humoreske: op. 20</title><desc lang="zh">Nachdem er alle 32 Klaviersonaten von Ludwig van Beethoven aufgenommen hatte, um den 250. Geburtstag des Komponisten zu feiern, entschied sich Riccardo Schwartz dazu, Soloklavierwerke von Robert Schumann aufzunehmen. In dieser Aufführung präsentiert Schwartz die Humoreske in B-Dur, Op. 20. Schumann komponierte das Werk im Jahr 1839 und widmete es Julie von Webenau. Der Titel des Werks bezieht sich</desc>
+  </programme>
+  <programme start="20260916030700 +0800" stop="20260916044800 +0800" channel="CLASSICA"><title lang="zh">Mahler: Symphonie Nr. 9</title><desc lang="zh">Mahlers 9. Symphonie besticht durch ihre tiefgreifende emotionale Tiefe und Verletzlichkeit, insbesondere durch das atemberaubend schöne und spirituell nachhallende Adagio, das das Werk abschließt und ein tiefes Gefühl von Abschluss und Transzendenz vermittelt. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916044800 +0800" stop="20260916051200 +0800" channel="CLASSICA"><title lang="zh">Haydn – Sinfonie Nr. 94 G-Dur, Hob. I:94</title><desc lang="zh">Joseph Haydn (1732-1809): Symphonie Nr. 94 G-Dur "Mit dem Paukenschlag" . Berliner Philharmoniker; Leitung: Mariss Jansons. Die Europakonzerte der Berliner Philharmoniker sind ein Beitrag des renommierten Orchesters zur europäischen Vereinigung. Sie finden jedes Jahr am 1. Mai (der Wiederkehr des Gründungstages des Orchesters 1882) in einem anderen europäischen Ort statt; 2001 in der byzantinische</desc>
+  </programme>
+  <programme start="20260916051200 +0800" stop="20260916055100 +0800" channel="CLASSICA"><title lang="zh">Beethoven – Streichquartett Nr. 12, op. 127</title><desc lang="zh">Das renommierte französische Streichquartett Quatuor Ébène feierte den 250. Geburtstag von Ludwig van Beethoven (1770-1827) mit einem außergewöhnlichen Projekt: der Aufnahme aller sechzehn Streichquartette des großen Komponisten. Fünf Jahre lang tauchten die Geiger Pierre Colombet und Gabriel Le Magadure, die Bratschistin Marie Chilemme und der Cellist Raphaël Merlin in Beethovens 650 Seiten umfas</desc>
+  </programme>
+  <programme start="20260916055100 +0800" stop="20260916060000 +0800" channel="CLASSICA"><title lang="zh">Classica Spotlight</title>
+  </programme>
+  <programme start="20260916060000 +0800" stop="20260916100000 +0800" channel="CLASSICA"><title lang="zh">Stingray Popular Classical</title><desc lang="zh">Listening to the classical music melodies; Beethoven's "Für Elise," Tchaikovsky's 1812 Overture, Strauss's waltzes and more.</desc>
+  </programme>
+  <programme start="20260916100000 +0800" stop="20260917000000 +0800" channel="CLASSICA"><title lang="zh">Stingray Popular Classical</title><desc lang="zh">Listening to the classical music melodies; Beethoven's "Für Elise," Tchaikovsky's 1812 Overture, Strauss's waltzes and more.</desc>
+  </programme>
   <programme start="20260916000000 +0800" stop="20260916003000 +0800" channel="CNBC"><title lang="zh">Halftime Report</title><desc lang="zh">Halftime Report is on the front lines of CNBC's market coverage. Host CNBC’s Scott Wapner and the Street's top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day</desc>
   </programme>
   <programme start="20260916003000 +0800" stop="20260916010000 +0800" channel="CNBC"><title lang="zh">Halftime Report</title><desc lang="zh">Halftime Report is on the front lines of CNBC's market coverage. Host CNBC’s Scott Wapner and the Street's top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day</desc>
@@ -5111,7 +5139,9 @@
   </programme>
   <programme start="20260916054000 +0800" stop="20260916062500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS</title><desc lang="zh">Gibbs is forced to come out of retirement to help Fornell, who is being threatened by an ex-sailor who escaped from prison. The investigation will lead the NCIS team to a surprising discovery.</desc>
   </programme>
-  <programme start="20260916062500 +0800" stop="20260916072000 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS</title><desc lang="zh">The NCIS team are called in to investigate when an abandoned car full of blood is found, registered to a missing Navy Lieutenant. Meanwhile, Tony is made an offer that could change his career.</desc>
+  <programme start="20260916062500 +0800" stop="20260916071000 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">Murder in the 21st – Digitale Spurensuche</title><desc lang="zh">Eine sitzengelassene Geliebte nutzt das Internet, um ihren Ex zu stalken und seine Freundin zu bedrohen. Als sie schließlich ihre gewalttätigen Drohungen wahr macht, finden sich die Ermittler in einem tödlichen Netz der Täuschung wieder. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916071000 +0800" stop="20260916072000 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">Mordkommission New Orleans</title><desc lang="zh">Detective Matt Riffle ermittelt in einem Mordfall in einer eng verbundenen Gemeinde und stößt dabei auf widersprüchliche Aussagen darüber, wer die Tat begangen hat. (Senderinfo).</desc>
   </programme>
   <programme start="20260916072000 +0800" stop="20260916081500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS</title><desc lang="zh">The murder of a petty officer who was working undercover as part of an arms operation leads the NCIS agents to a Russian spy, however Homeland Security claims that the spy is working for them.</desc>
   </programme>
@@ -5149,7 +5179,9 @@
   </programme>
   <programme start="20260916221000 +0800" stop="20260916225500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS: Los Angeles</title><desc lang="zh">Callen and Sam are assigned protection duty for Deputy Crown Prince Kamal after an unknown assassin targets his decoy upon his arrival in Los Angeles.</desc>
   </programme>
-  <programme start="20260916233500 +0800" stop="20260917002500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">The First 48 (S26) - Sudden Impact</title><desc lang="zh">In Tulsa, a late-night meeting spins out of control, leaving a young father dead, his friend critically injured, and their SUV crashed through a child's bedroom.</desc>
+  <programme start="20260916225500 +0800" stop="20260916234000 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">FBI</title><desc lang="zh">After a bomb explosion devastates a residential apartment building, special agents Maggie Bell and Omar Adom 'OA' Zidan of the New York office of the FBI investigate a possible war between rival gangs.</desc>
+  </programme>
+  <programme start="20260916234000 +0800" stop="20260917002500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">FBI: International</title><desc lang="zh">When an American founder of an illegal adults-only site is killed in Prague, the team is tasked to locate his co-founder, who is still on the run in the Czech Republic. Also, Kellett struggles to maintain a relationship with her mother.</desc>
   </programme>
   <programme start="20260916000000 +0800" stop="20260916010000 +0800" channel="CTI TV HD"><title lang="zh">MIT台湾志</title><desc lang="zh">MIT台湾誌, 记录台湾各地丰富多样的历史人文、风土产物、自然景观，以及特殊珍贵动、植物研究等自然生态、人物特写，高山风情等Made In Taiwan的主题内容。期使将近1小时的观影，是一种律动清新、如行云流水，令阅听人感动并收穫丰富的知性旅程</desc>
   </programme>
@@ -6353,6 +6385,8 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme start="20260916232000 +0800" stop="20260917005000 +0800" channel="EUROSPORT 1"><title lang="zh">Tour of Luxembourg | Stage 1(普)</title>
   </programme>
+  <programme start="20260916000000 +0800" stop="20260917000000 +0800" channel="FOX NEWS CHANNEL"><title lang="zh">Outnumbered</title>
+  </programme>
   <programme start="20260916000000 +0800" stop="20260916003000 +0800" channel="FashionTV HD"><title lang="zh">Lingerie</title><desc lang="zh">Don’t miss the latest trends in the most sensual pieces of fashion, we’re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
   </programme>
   <programme start="20260916003000 +0800" stop="20260916010000 +0800" channel="FashionTV HD"><title lang="zh">Lingerie</title><desc lang="zh">Don’t miss the latest trends in the most sensual pieces of fashion, we’re talking about the latest lingerie collections presented on the world podiums! Sizzling hot looks from top lingerie designers</desc>
@@ -7269,6 +7303,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260916233500 +0800" stop="20260917000000 +0800" channel="HGTV (HD)"><title lang="zh">House Hunters International</title><desc lang="zh">A newlywed couple searches for a vacation home with beautiful views in Guardia Sanframondi, Italy. S150 E13</desc>
   </programme>
+  <programme start="20260916010000 +0800" stop="20260916011000 +0800" channel="HISTORY"><title lang="zh">Holy Marvels With Dennis Quaid</title><desc lang="zh">From the strict, brutal codes of Hammurabi and the Samurai to the secretly malevolent evil eye and Voodoo dolls, history is full of stories of acts committed in the name of revenge.</desc>
+  </programme>
   <programme start="20260916013500 +0800" stop="20260916023000 +0800" channel="HISTORY"><title lang="zh">湯姆漢克斯: 二戰風雲 第11集 </title><desc lang="zh">盟軍原本希望能經由義大利迅速突破納粹德國的防線, 結果卻陷入長達數個月的苦戰泥淖, 並付出慘重代價。</desc>
   </programme>
   <programme start="20260916023000 +0800" stop="20260916032500 +0800" channel="HISTORY"><title lang="zh">湯姆漢克斯: 二戰風雲 第12集 </title><desc lang="zh">盟軍空軍在歐洲上空, 與德國空軍展開一場極其凶猛、代價高昂的激烈空戰。</desc>
@@ -7277,19 +7313,27 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   </programme>
   <programme start="20260916042000 +0800" stop="20260916051500 +0800" channel="HISTORY"><title lang="zh">歷史重大謎團 第5季第11集 </title><desc lang="zh">數十年來, 許多專家一直深信自己早已掌握興登堡號飛船災難的主因, 也就是外洩的氫氣被引燃, 最終導致整起悲劇的發生。然而, 事情也許並沒有這麼單純, 這個廣為流傳的說法背後, 或許還隱藏著其他被忽略的細節。那麼, 真正造成興登堡號災難的原因, 究竟是什麼?</desc>
   </programme>
-  <programme start="20260916054800 +0800" stop="20260916062100 +0800" channel="HISTORY"><title lang="zh">Earth from Space</title>
+  <programme start="20260916052000 +0800" stop="20260916054500 +0800" channel="HISTORY"><title lang="zh">Aberto Para Compras</title>
   </programme>
-  <programme start="20260916062100 +0800" stop="20260916065400 +0800" channel="HISTORY"><title lang="zh">The New Space Race</title>
+  <programme start="20260916054500 +0800" stop="20260916061000 +0800" channel="HISTORY"><title lang="zh">Aberto Para Compras</title>
+  </programme>
+  <programme start="20260916061000 +0800" stop="20260916064000 +0800" channel="HISTORY"><title lang="zh">Parados Na Fronteira</title><desc lang="zh">Parados na Fronteira mostra as técnicas de contrabando e as dramáticas situações vividas. Por terra, céu e mar os agentes deverão barrar o tráfico ilegal de divisas, pessoas, mercadorias, armas e drogas.</desc>
+  </programme>
+  <programme start="20260916064000 +0800" stop="20260916065400 +0800" channel="HISTORY"><title lang="zh">Caçadores de Relíquias</title>
   </programme>
   <programme start="20260916065400 +0800" stop="20260916072700 +0800" channel="HISTORY"><title lang="zh">The Next Frontier in Space</title>
   </programme>
-  <programme start="20260916080000 +0800" stop="20260916085500 +0800" channel="HISTORY"><title lang="zh">歷史重大謎團 第5季第11集 </title><desc lang="zh">數十年來, 許多專家一直深信自己早已掌握興登堡號飛船災難的主因, 也就是外洩的氫氣被引燃, 最終導致整起悲劇的發生。然而, 事情也許並沒有這麼單純, 這個廣為流傳的說法背後, 或許還隱藏著其他被忽略的細節。那麼, 真正造成興登堡號災難的原因, 究竟是什麼?</desc>
+  <programme start="20260916072700 +0800" stop="20260916073000 +0800" channel="HISTORY"><title lang="zh">Hedgerow Hell: The Fury of Normandy - 1944</title>
+  </programme>
+  <programme start="20260916073000 +0800" stop="20260916082000 +0800" channel="HISTORY"><title lang="zh">Caçadores de Relíquias</title>
   </programme>
   <programme start="20260916085500 +0800" stop="20260916095500 +0800" channel="HISTORY"><title lang="zh">歷史最強戰士 第4集 </title><desc lang="zh">12世紀的聖殿騎士通過在聖地的精英訓練, 培養出一些歷史上最偉大的戰士, 將宗教的虔誠與非凡的戰鬥技能相結合。</desc>
   </programme>
   <programme start="20260916095500 +0800" stop="20260916105000 +0800" channel="HISTORY"><title lang="zh">生死攸關: 武漢紅區內部 第2集 </title><desc lang="zh">這部三集的記錄片系列深入武漢紅區, 提供最獨家的資訊。在目前的Covid-19疫情當中, 這裡是全球第一個遭受病毒侵襲的地區。2020年和致命的病毒讓全世界都驚恐不安。</desc>
   </programme>
   <programme start="20260916105000 +0800" stop="20260916114500 +0800" channel="HISTORY"><title lang="zh">湯姆漢克斯: 二戰風雲 第11集 </title><desc lang="zh">盟軍原本希望能經由義大利迅速突破納粹德國的防線, 結果卻陷入長達數個月的苦戰泥淖, 並付出慘重代價。</desc>
+  </programme>
+  <programme start="20260916114500 +0800" stop="20260916115200 +0800" channel="HISTORY"><title lang="zh">湯姆漢克斯: 二戰風雲 第12集 </title><desc lang="zh">盟軍空軍在歐洲上空, 與德國空軍展開一場極其凶猛、代價高昂的激烈空戰。</desc>
   </programme>
   <programme start="20260916122400 +0800" stop="20260916125500 +0800" channel="HISTORY"><title lang="zh">Beechcraft Model 18</title>
   </programme>
@@ -7378,6 +7422,8 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260916220000 +0800" stop="20260916230000 +0800" channel="HITS"><title lang="zh">Knight Rider S1 - The Final Verdict</title><desc lang="zh">Michael responds to a call for help from an old girlfriend who has been put in jail, wrong accused of murder.</desc>
   </programme>
   <programme start="20260916230000 +0800" stop="20260917000000 +0800" channel="HITS"><title lang="zh">T. J. Hooker S3 - Hot Property</title><desc lang="zh">Stacy's joyous wedding plans are jolted when she's stripped of her badge and gun after "losing" a huge amount of heroin from a major drug bust -- and Hooker suspects her fiancée.</desc>
+  </programme>
+  <programme start="20260916004500 +0800" stop="20260917000000 +0800" channel="HITS MOVIES"><title lang="zh">Notting Hill</title>
   </programme>
   <programme start="20260916020000 +0800" stop="20260916030000 +0800" channel="HOY 76"><title lang="zh">Bloomberg 時段</title>
   </programme>
@@ -8234,6 +8280,40 @@ The Episode starts off with a visit to a Street Tandoori hub that makes Kababs t
   <programme start="20260916210000 +0800" stop="20260916223500 +0800" channel="KIX"><title lang="zh">Iron Squad W #5</title><desc lang="zh">Iron Squad W 是個韓國軍事求生真人秀。新一季的節目將選出最精銳的女軍人。節目匯聚了六個特種部隊單位,在陸地、海洋和空中執行極具挑戰性的任務。每隊特種部隊都有4名最精銳的預備役女軍人參加比賽..</desc>
   </programme>
   <programme start="20260916223500 +0800" stop="20260917000500 +0800" channel="KIX"><title lang="zh">虛擬特攻</title><desc lang="zh">金牌保鏢龍威在妻子慘死後患上了創傷後應激障礙,心情低落。他意外結識高科技公司職員Amy,在她邀請下參加了新產品的虛擬測試。龍威測試成功後即成為該公司的虛擬特攻,更獲試用新發明的防護機甲,不料遭遇神秘武..</desc>
+  </programme>
+  <programme start="20260916000000 +0800" stop="20260916003000 +0800" channel="KTV HD"><title lang="zh">Schmerzhafter Rosenkranz mit der Schweizer Garde</title><desc lang="zh">Rosenkranzgebet der päpstlichen Schweizergarde. Der Schmerzhafte Rosenkranz gebetet von P. Thomas Widmer (Kaplan der Schweizergarde). (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916003000 +0800" stop="20260916013000 +0800" channel="KTV HD"><title lang="zh">Heilige Messe aus der Klosterkirche Neuzelle</title>
+  </programme>
+  <programme start="20260916013000 +0800" stop="20260916014500 +0800" channel="KTV HD"><title lang="zh">Glaubenszeugnisse by @tini</title><desc lang="zh">Eine Begegnung mit Gott kann alles verändern und von dieser Erfahrung gibt Tini Zeugnis. Gott lässt sich im Alltag finden und mit Impulsen über Tinis persönliches Glaubensleben möchten wir dich für dein Abenteuer mit Gott inspirieren! Dich erwarten außerdem neue Gesichter mit spannenden Geschichten. Let's share the good news and get ready for your godly meeting! (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916014500 +0800" stop="20260916021500 +0800" channel="KTV HD"><title lang="zh">Orientierung</title><desc lang="zh">Mit dem Format "Orientierung" erweitert K-TV sein Programm. Im Blick auf das Lehramt der römisch-katholischen Kirche erörtern unsere Redakteure im Gespräch mit verschiedenen Gästen aktuelle Themen aus Kirche und Welt. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916021500 +0800" stop="20260916030000 +0800" channel="KTV HD"><title lang="zh">Geschichten am Pragser Wildsee</title><desc lang="zh">Der Pragser Wildsee, auch "Perle der Dolomitenseen" genannt, befindet sich in einmaliger Lage inmitten der Pragser Dolomiten. Diese Dokumentation erzählt in beeindruckender Weise die Geschichte des Sees und den Menschen die ihn schon von jeher als großen Anziehungspunkt war nahmen. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916030000 +0800" stop="20260916033000 +0800" channel="KTV HD"><title lang="zh">Stunde der Seelsorge</title><desc lang="zh">Stunde der Seelsorge – in der "Stunde der Seelsorge" gehen Pfarrer Dr. Thomas Maria Rimmel und Pater Dr. Karl Wallner immer Dienstag bis Freitag 14:30 Uhr aktuell auf Ihre Anliegen ein. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916033000 +0800" stop="20260916040000 +0800" channel="KTV HD"><title lang="zh">Portugal – Maria spricht in Fatima</title><desc lang="zh">Ein Missionar, der sich für minderjährige Prostituierte auf den Philippinen einsetzt, ein anderer der für die Rechte der Urbevölkerung einer Insel im Pazifik kämpft, ein weiterer, der Asylbewerbern in Deutschland Kirchenasyl gewährt. Begleitet wurden sie und viele andere Steyler Missionare durch das Kamerateam von steyl medien – auf allen Kontinenten dieser Welt. Dabei entstanden die mittlerweile </desc>
+  </programme>
+  <programme start="20260916040000 +0800" stop="20260916043000 +0800" channel="KTV HD"><title lang="zh">Freudenreicher Rosenkranz aus der Wallfahrtsbasilika Maria Brünnlein</title><desc lang="zh">Der Freudenreiche Rosenkranz aus der Wallfahrtsbasilika Maria Brünnlein bei Wemding. Gebetet von Wallfahrtsrektor Norbert Traub. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916043000 +0800" stop="20260916051000 +0800" channel="KTV HD"><title lang="zh">Der PAGE – ein Helfer, Probleme vor Gott zu bringen</title><desc lang="zh">Problem benennen, dieses anschauen (und nicht wegschauen), das Gefühl (bzw. die falschen Glaubenssätze) dahinter ermitteln und die damit verbundenen Erinnerungen erkennen. Diese Erinnerungen werden dann im Gebet vor Gott gebracht mit der Bitte um Heilung. Dieser Weg hat sich als sehr fruchtbar erwiesen. Exerzitien mit Pfarrer Stefan Eisert. Aufgezeichnet im Januar 2025, Gebetsstätte Marienfried. (</desc>
+  </programme>
+  <programme start="20260916051000 +0800" stop="20260916053000 +0800" channel="KTV HD"><title lang="zh">Die Kirchenlehrer</title><desc lang="zh">Vortrag von Pfr. Werner Maria Hess zum Thema: Hieronymus. Beitrag aus der Sendereihe: "Die Kirchenlehrer". (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916053000 +0800" stop="20260916053900 +0800" channel="KTV HD"><title lang="zh">Abendgebet mit Angelus</title>
+  </programme>
+  <programme start="20260916053900 +0800" stop="20260916054800 +0800" channel="KTV HD"><title lang="zh">Weihe an Maria</title>
+  </programme>
+  <programme start="20260916054800 +0800" stop="20260916060000 +0800" channel="KTV HD"><title lang="zh">Programmvorschau</title><desc lang="zh">Bei der Programmvorschau kann es sich wahlweise um eine einfache Liste mit den Programmpunkten handeln oder um eine detaillierte Darstellung dessen, womit K-TV sie in den nächsten Tagen erfreuen wird. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916060000 +0800" stop="20260916061500 +0800" channel="KTV HD"><title lang="zh">Angelus mit Papst Leo XIV., Petersplatz im Vatikan (Wiederholung)</title>
+  </programme>
+  <programme start="20260916061500 +0800" stop="20260916070000 +0800" channel="KTV HD"><title lang="zh">Bruder Klaus. Mensch, Mystiker und Mittler</title><desc lang="zh">Der Schweizer Bruder-Klausen-Biograf Dr. Roland Gröbli spricht über seinen Weg zu Niklaus von Flüe und was ihn an diesem Heiligen als Mensch, Mittler und Mystiker fasziniert. In Zentrum steht dessen Sehnsucht und Suche nach dem "einig Wesen". (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916070000 +0800" stop="20260916073000 +0800" channel="KTV HD"><title lang="zh">Rome Reports – Nachrichten aus dem Vatikan</title><desc lang="zh">ROME REPORTS für K-TV. Die halbstündige Sendung bringt wöchentlich Nachrichten, Informationen und Neuigkeiten aus dem Vatikan und der katholischen Welt. Berichte über die Audienzen des Heiligen Vaters, Apostolische Reisen sowie Kultur und Events. Schalten Sie ein! (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916073000 +0800" stop="20260917000000 +0800" channel="KTV HD"><title lang="zh">Stunde der Seelsorge</title><desc lang="zh">Stunde der Seelsorge – in der "Stunde der Seelsorge" gehen Pfarrer Dr. Thomas Maria Rimmel und Pater Dr. Karl Wallner immer Dienstag bis Freitag 14:30 Uhr aktuell auf Ihre Anliegen ein. (Senderinfo).</desc>
   </programme>
   <programme start="20260916010500 +0800" stop="20260916020500 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">僵屍房大改造 第6季S6(89)(普)</title>
   </programme>
@@ -11467,6 +11547,20 @@ White rhino &amp;quot;Xiqi&amp;quot; was loaned to Shoushan Zoo in hope that he 
   </programme>
   <programme start="20260916233000 +0800" stop="20260917000000 +0800" channel="Sony Entertainment Television"><title lang="zh">Taarak Mehta Ka Ooltah Chashmah Ep2896</title><desc lang="zh">The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other&amp;#x27;s company.</desc>
   </programme>
+  <programme start="20260916010000 +0800" stop="20260916011500 +0800" channel="Star TV"><title lang="zh">StarNews</title><desc lang="zh">Das Szenenmagazin von Star TV ist Ihre erste Anlaufstelle für alles rund um Fun, Sport, Musik und Kultur. Mit packenden Berichten und exklusiven Interviews bringt das Magazin die neuesten Trends und Highlights direkt zu Ihnen nach Hause. Erleben Sie spannende Sportereignisse, entdecken Sie die angesagtesten Musiktrends und tauchen Sie ein in die bunte Welt der Kultur. Star TV sorgt dafür, dass Sie</desc>
+  </programme>
+  <programme start="20260916011500 +0800" stop="20260916020000 +0800" channel="Star TV"><title lang="zh">Reise nach Wales</title><desc lang="zh">Die Dokuserie entführt dich nach Wales – einer geschichtsträchtigen Nation im Westen Grossbritanniens. Bekannt für wilde Küsten, zerklüftete Berge und zahlreiche Burgen, besticht Wales durch seine dramatischen Landschaften und keltische Kultur. Die Hauptstadt Cardiff ist ein lebendiges Verwaltungs- und Kulturzentrum. Wales zeichnet sich zudem durch die walisische Sprache (Cymraeg), eine starke Ber</desc>
+  </programme>
+  <programme start="20260916020000 +0800" stop="20260916030000 +0800" channel="Star TV"><title lang="zh">Flowcast – der Talk</title><desc lang="zh">Jeder Mensch sollte seinem Flow nachgehen. Doch was ist Flow überhaupt? Dieser Frage geht der \"Flowcast\" nach. Flavio Camenzind spricht mit erfolgreichen Zeitgenossen über ihr ganz persönliches Flow-Rezept: Wie wurden sie zu dem, was sie heute sind? Was treibt sie an? Und was hält sie im Flow? Viele haben beruflich oder privat viel erreicht. Einige, sogar alles. Weil sie täglich im Flow sind. An</desc>
+  </programme>
+  <programme start="20260916030000 +0800" stop="20260916043000 +0800" channel="Star TV"><title lang="zh">Wäschle Wills Wissen</title><desc lang="zh">Schluss mit Smalltalk – Zeit für echte Insights. In "Wäschle Wills Wissen" bricht Host Timo Wäschle mit den Konventionen herkömmlicher Talkformate. Als profilierter Kommunikationsstratege und erfahrener Medienprofi schafft er eine Bühne für intime, ungefilterte Gespräche, in denen die Geschichten hinter den Erfolgen und die Menschen hinter den Schlagzeilen im Mittelpunkt stehen. Das Format ist ein</desc>
+  </programme>
+  <programme start="20260916043000 +0800" stop="20260916050000 +0800" channel="Star TV"><title lang="zh">First Moments</title><desc lang="zh">Bei First Moments begrüsst Moderator Peter Grimberg spannende Persönlichkeiten aus Film, Musik und Unterhaltung. In persönlichen Gesprächen erzählen die Gäste von ihrer Karriere, prägenden Momenten, Erfolgen und Schicksalsschlägen. Offen, emotional und ganz nah. (Senderinfo).</desc>
+  </programme>
+  <programme start="20260916050000 +0800" stop="20260916060000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
+  </programme>
+  <programme start="20260916060000 +0800" stop="20260917000000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  </programme>
   <programme start="20260916001300 +0800" stop="20260916004300 +0800" channel="TLC"><title lang="zh">In the Kitchen With Abner and Amanda Ep6</title><desc lang="zh">Abner and Amanda show us that feeding our family on special occasions doesn&amp;#x27;t mean we have to stress.</desc>
   </programme>
   <programme start="20260916004300 +0800" stop="20260916010800 +0800" channel="TLC"><title lang="zh">Recipe Lost and Found Ep9</title><desc lang="zh">Casey Corn helps recreate an Italian family&amp;#x27;s Pastiera Napoletana recipe, a traditional Italian Easter tart made with sweet ricotta.</desc>
@@ -11534,10 +11628,6 @@ White rhino &amp;quot;Xiqi&amp;quot; was loaned to Shoushan Zoo in hope that he 
   <programme start="20260916225300 +0800" stop="20260916234800 +0800" channel="TLC"><title lang="zh">Bbq High Ep6</title><desc lang="zh">Tempers and temperatures flare up as all the hard work over the past year culminates at the Texas High School BBQ State Championship.</desc>
   </programme>
   <programme start="20260916234800 +0800" stop="20260917001300 +0800" channel="TLC"><title lang="zh">Everyday Cooking Ep5</title><desc lang="zh">Samantha Seneviratne demonstrates how to make a surprisingly quick and delicious comfort meal of savory, creamy spinach soup along with crunchy.</desc>
-  </programme>
-  <programme start="20260916000000 +0800" stop="20260916003000 +0800" channel="TRACE Sport Stars"><title lang="zh">Reunion Island St Paul</title><desc lang="zh">In the &amp;#x27;Urban Fit Special Guests&amp;#x27; series, travel from Paris to London, via Johannesburg, and meet &amp;quot;Boost&amp;quot; (@mrblockworkout). This 23-year-old former bad boy has created his own fitness training, exclusively using his body and the surrounding urban environment.</desc>
-  </programme>
-  <programme start="20260916003000 +0800" stop="20260916005900 +0800" channel="TRACE Sport Stars"><title lang="zh">Michael Jordan/ Agnes Keliti/ India 1983</title><desc lang="zh">Michael Jordan danced for the last time for the Chicago Bulls in 1998. Agnes Keleti dominated the Melbourne Olympic Games in 1956. And India stunned the world by carrying off the cricketing World Cup in 1983.</desc>
   </programme>
   <programme start="20260916005900 +0800" stop="20260916013000 +0800" channel="TRACE Sport Stars"><title lang="zh">Olympics - All Sports</title><desc lang="zh">In Tokyo, Denmark&amp;#x27;s Viktor Axelsen surprised a billion Chinese by winning the badminton gold medal, Valerie Adams brought Kiwi athleticism into the spotlight, while the Brownlee brothers realised a historic triathlon double.</desc>
   </programme>
@@ -11666,6 +11756,44 @@ White rhino &amp;quot;Xiqi&amp;quot; was loaned to Shoushan Zoo in hope that he 
   <programme start="20260916180000 +0800" stop="20260916200000 +0800" channel="TRACE Urban"><title lang="zh">URBAN VIBES</title><desc lang="zh">All the 'original' Urban hits.</desc>
   </programme>
   <programme start="20260916200000 +0800" stop="20260917000000 +0800" channel="TRACE Urban"><title lang="zh">HITS NON STOP</title><desc lang="zh">All the big tunes from around the world.</desc>
+  </programme>
+  <programme start="20260916000000 +0800" stop="20260916002600 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title><desc lang="zh">Rendez-vous de l'information et de la culture francophone proposé par la rédaction de TV5 Monde, "64' Le monde en français" met l'accent sur l'actualité mondiale, l'actualité francophone, culturelle, politique, économique, sociale, et sociétale ainsi que sur l'information développée par les partenaires historiques de TV5 Monde : la RTBF, la RTS, Radio Canada, Télé-Québec, France 2, France 3.</desc>
+  </programme>
+  <programme start="20260916002600 +0800" stop="20260916002700 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20260916002700 +0800" stop="20260916003000 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20260916005300 +0800" stop="20260916010100 +0800" channel="TV5MONDE HD"><title lang="zh">L'invité</title><desc lang="zh">Rencontre avec des artistes, des écrivains, des acteurs et tous ceux qui font vibrer notre époque. "L'invité" est le rendez-vous des personnalités qui font l'actualité.</desc>
+  </programme>
+  <programme start="20260916010100 +0800" stop="20260916012300 +0800" channel="TV5MONDE HD"><title lang="zh">Un si grand soleil</title><desc lang="zh">Alors que Fourneau ment à sa femme pour passer du temps avec Elisabeth, de son côté, Clémence n'a pas dit son dernier mot.</desc>
+  </programme>
+  <programme start="20260916012300 +0800" stop="20260916014500 +0800" channel="TV5MONDE HD"><title lang="zh">Un si grand soleil</title><desc lang="zh">Le petit jeu d'Elisabeth porte ses fruits. De son côté, Marc s'apprête à visionner le mystérieux film super 8 qu'il a découvert chez Alix.</desc>
+  </programme>
+  <programme start="20260916014500 +0800" stop="20260916020000 +0800" channel="TV5MONDE HD"><title lang="zh">Tendance XXI</title><desc lang="zh">Une émission consacrée à la création française et à la mode. Elle dresse le portrait de créateurs passionnés et analyse des tendances actuelles ou qui ont profondément marqué l'histoire de la mode.</desc>
+  </programme>
+  <programme start="20260916020000 +0800" stop="20260916022600 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal de la RTS</title>
+  </programme>
+  <programme start="20260916022600 +0800" stop="20260916023000 +0800" channel="TV5MONDE HD"><title lang="zh">Merci Professeur</title><desc lang="zh">Bernard Cerquiglini décortique les curiosités de la langue française et détaille les règles de grammaire, d'accords, ou les tournures de phrases parfois curieuses.</desc>
+  </programme>
+  <programme start="20260916023000 +0800" stop="20260916023400 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal de France 2</title>
+  </programme>
+  <programme start="20260916023400 +0800" stop="20260916030000 +0800" channel="TV5MONDE HD"><title lang="zh">Coloré</title>
+  </programme>
+  <programme start="20260916030000 +0800" stop="20260916030100 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20260916030100 +0800" stop="20260916030500 +0800" channel="TV5MONDE HD"><title lang="zh">Capitaine Marleau</title><desc lang="zh">Elément atypique de la gendarmerie nationale, la capitaine Marleau détonne par son franc-parler, sa gouaille et son accent ch'ti marqué. Sarcastique, déconcertante, coiffée d'une improbable chapka, elle promène sa silhouette filiforme et son flegme sur les lieux de crime les plus divers. Derrière ses manières peu orthodoxes, elle cache en effet une ténacité redoutable et un flair aiguisé qui lui p</desc>
+  </programme>
+  <programme start="20260916030500 +0800" stop="20260916033000 +0800" channel="TV5MONDE HD"><title lang="zh">Un autre père</title><desc lang="zh">Thibaut, un homme de quarante ans, élève seul son fils adoptif de sept ans, Gabriel. Face au profond mal-être et aux interrogations grandissantes de l'enfant sur son passé, le père décide de l'emmener au Sénégal pour tenter de retrouver sa mère biologique, Yawa. Ce voyage initiatique sur sa terre natale se transforme rapidement en un parcours intime inattendu. Entre la quête des origines, les souv</desc>
+  </programme>
+  <programme start="20260916033000 +0800" stop="20260916040000 +0800" channel="TV5MONDE HD"><title lang="zh">Journal 20h00</title>
+  </programme>
+  <programme start="20260916040000 +0800" stop="20260916043000 +0800" channel="TV5MONDE HD"><title lang="zh">Population D'Afrique</title>
+  </programme>
+  <programme start="20260916043000 +0800" stop="20260916050000 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De L'Afrique</title>
+  </programme>
+  <programme start="20260916050000 +0800" stop="20260916051300 +0800" channel="TV5MONDE HD"><title lang="zh">Détectives... Ou Presque</title>
+  </programme>
+  <programme start="20260916051300 +0800" stop="20260917000000 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
   </programme>
   <programme start="20260916000300 +0800" stop="20260916010900 +0800" channel="TV5MONDE STYLE HD 生活時尚"><title lang="zh">MÉTÉO À LA CARTE(普)</title>
   </programme>

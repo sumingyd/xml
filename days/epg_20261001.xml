@@ -41,6 +41,8 @@
   </channel>
   <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV14 高清</display-name><display-name lang="zh">CCTV-14(高清)</display-name><display-name lang="zh">CCTV14</display-name><display-name lang="zh">CCTV-14高清</display-name>
   </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
   <channel id="TRACE Urban"><display-name lang="zh">TRACE Urban</display-name><display-name lang="zh">TRACEURBAN</display-name><display-name lang="zh">Trace Urban</display-name>
   </channel>
   <channel id="NOWSPORTS精选"><display-name lang="zh">NOWSPORTS精选</display-name>
@@ -715,6 +717,8 @@
   </channel>
   <channel id="Love Nature HD"><display-name lang="zh">Love Nature HD</display-name><display-name lang="zh">LOVENATURE</display-name><display-name lang="zh">LOVENATUREHD</display-name><display-name lang="zh">Love Nature</display-name>
   </channel>
+  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  </channel>
   <channel id="桓台综合"><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓综合</display-name><display-name lang="zh">CHANNEL00001020</display-name>
   </channel>
   <channel id="烟台公共"><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟公共</display-name><display-name lang="zh">CHANNEL00000281</display-name><display-name lang="zh">烟台公共频道</display-name>
@@ -973,7 +977,7 @@
   </channel>
   <channel id="西部电影"><display-name lang="zh">西部电影</display-name>
   </channel>
-  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <programme start="20261001000000 +0800" stop="20261001005500 +0800" channel="ABCAUSTRALIA"><title lang="zh">Restoration Australia 第8季第6集 -Moruya Homestead</title><desc lang="zh">Host Anthony Burke meets a horse-loving former cop, rebuilding her life after a catastrophic fall and determined to rescue an historically important farmhouse on the NSW South Coast. (Final)</desc>
   </programme>
@@ -12651,6 +12655,10 @@ Today&amp;#x27;s Cute Pet Coming is going to subvert everyone’s impression on 
   <programme start="20261001232000 +0800" stop="20261001234000 +0800" channel="tvN"><title lang="zh">Brooklyn Nine Nine</title><desc lang="zh">Jake spends the day with a former crime-reporter, but finds himself in a pickle when he discovers that his remarks about the precinct were considered on the record.</desc>
   </programme>
   <programme start="20261001234000 +0800" stop="20261002000000 +0800" channel="tvN"><title lang="zh">TVNZ2 Returns At 5am</title>
+  </programme>
+  <programme start="20261001000000 +0800" stop="20261001004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261001012000 +0800" stop="20261001020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261001000001 +0800" stop="20261001002000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
@@ -25908,6 +25916,16 @@ Today&amp;#x27;s Cute Pet Coming is going to subvert everyone’s impression on 
   </programme>
   <programme start="20261001234300 +0800" stop="20261002000000 +0800" channel="深圳卫视"><title lang="zh">科创最前沿</title>
   </programme>
+  <programme start="20261001000000 +0800" stop="20261001003000 +0800" channel="游戏风云"><title lang="zh">休闲街区</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261001003000 +0800" stop="20261001010000 +0800" channel="游戏风云"><title lang="zh">休闲街区</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261001010000 +0800" stop="20261001011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261001011500 +0800" stop="20261001013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261001013000 +0800" stop="20261001014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261001000000 +0800" stop="20261001001700 +0800" channel="湖北卫视"><title lang="zh">神枪</title>
   </programme>
   <programme start="20261001001700 +0800" stop="20261001010200 +0800" channel="湖北卫视"><title lang="zh">激战</title><desc>抗日战争时期，新四军太湖游击纵队，发扬中华民族顽强不屈的精神，同敌人展开了争锋相对的斗争。在司令员薛宏晖的领导下，侦察科长秦天刚和情报员关竹青智取了日军总部的作战密件，游击纵队袭击了苏州浒墅关火车站，炸毁了日军上海虹桥军用机场，爆破了日军的军用仓库，铲除了铁杆汉奸卖国贼，争取了伪军主力团的起义，并获得了太湖冲山岛保卫战大捷。一次又一次的激战，重创了日伪军的有生力量，彻底粉碎了日军对江南地区的第二次清乡计划。江南新四军不但牵制了抗日战争正面战场上日伪军的大批军力，而且似一把锋利的匕首，牢牢地插在敌人的心脏里。</desc>
@@ -26770,7 +26788,7 @@ Today&amp;#x27;s Cute Pet Coming is going to subvert everyone’s impression on 
   </programme>
   <programme start="20261001234000 +0800" stop="20261002000000 +0800" channel="珠海综合"><title lang="zh">珠海新闻</title>
   </programme>
-  <programme start="20261001005200 +0800" stop="20261001012900 +0800" channel="甘肃卫视"><title lang="zh">纪录30分</title><desc>中央电视台国防军事频道军事纪录栏目板块，以“记录强军征程，典藏国防记忆”为宗旨，展播国内外优秀军事题材纪录片。节目形态涵盖历史文献纪录片、人物传记片、事件纪实片等，既有《长征》《抗美援朝保家卫国》等重大历史题材，也有《新兵》《兵锋》等反映新时代军营生活的纪实作品。每周一至周五18:29播出。</desc>
+  <programme start="20261001005100 +0800" stop="20261001012600 +0800" channel="甘肃卫视"><title lang="zh">纪录30分</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261001012900 +0800" stop="20261001015900 +0800" channel="甘肃卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>

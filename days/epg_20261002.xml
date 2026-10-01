@@ -59,6 +59,8 @@
   </channel>
   <channel id="深圳卫视"><display-name lang="zh">深圳卫视</display-name><display-name lang="zh">深圳</display-name><display-name lang="zh">深圳卫视-4K</display-name><display-name lang="zh">CHANNEL00000308</display-name>
   </channel>
+  <channel id="Willow Sports"><display-name lang="zh">Willow Sports</display-name>
+  </channel>
   <channel id="EURONEWS"><display-name lang="zh">EURONEWS</display-name><display-name lang="zh">EuroNews</display-name><display-name lang="zh">Euronews</display-name>
   </channel>
   <channel id="靖天综合"><display-name lang="zh">靖天综合</display-name><display-name lang="zh">靖天电视台</display-name>
@@ -6291,6 +6293,8 @@
   <programme start="20261002060000 +0800" stop="20261003000000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
   </programme>
   <programme start="20261002000000 +0800" stop="20261002001600 +0800" channel="CLASSICA"><title lang="zh">巴哈：詠嘆調、獨奏與二重奏作品</title>
+  </programme>
+  <programme start="20261002001600 +0800" stop="20261002003400 +0800" channel="CLASSICA"><title lang="zh">布魯克納-第五號交響曲</title>
   </programme>
   <programme start="20261002012000 +0800" stop="20261002020500 +0800" channel="CLASSICA"><title lang="zh">Beethoven – Symphonie no 6 en fa majeur, op. 68</title>
   </programme>
@@ -15416,6 +15420,10 @@
   </programme>
   <programme start="20261002233500 +0800" stop="20261003003000 +0800" channel="ViuTV6"><title lang="zh">日本第一的爛男人-我的假家人們 第3集</title><desc lang="zh">一平得知向陽最近不去上學，他向黑岩議員提及此事。黑岩建議他利用不去上學的孩子，跟他們的家長打好關係…</desc>
   </programme>
+  <programme start="20261002000000 +0800" stop="20261002003000 +0800" channel="Willow Sports"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261002003000 +0800" stop="20261002010000 +0800" channel="Willow Sports"><title lang="zh">Cricket Highlights</title><desc lang="zh">Highlights of all the action from international cricket tournaments, where teams compete to win the title.</desc>
+  </programme>
   <programme start="20261002000000 +0800" stop="20261002003000 +0800" channel="ZEE TAMIL"><title lang="zh">Varisu Ep380</title><desc lang="zh">The story follows a village girl who marries a wealthy but toxic man. Influenced by her supportive mother-in-law, she learns to assert herself.</desc>
   </programme>
   <programme start="20261002003000 +0800" stop="20261002010000 +0800" channel="ZEE TAMIL"><title lang="zh">Zee Flix</title><desc lang="zh">Enjoy unforgettable scenes from various Tamil films.</desc>
@@ -15874,43 +15882,113 @@
   </programme>
   <programme start="20261002234000 +0800" stop="20261003003000 +0800" channel="iQIYI"><title lang="zh">念无双 第2集</title><desc lang="zh">神魔大战后，神器&amp;quot;神之左手&amp;quot;坠入人界，狐族少年源仲获神器之力封印战鬼，自此被尊为新神。神女無雙奉命潜入狐族夺回神器，却目睹源仲遭族人排挤诬陷，决心守护他，携手对抗命运，揭开封印背后的真相。</desc>
   </programme>
-  <programme start="20261002010000 +0800" stop="20261002023000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002010000 +0800" stop="20261002020000 +0800" channel="myTV SUPER 18台"><title lang="zh">Barbarossa Ep74</title><desc lang="zh">During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
   </programme>
-  <programme start="20261002023000 +0800" stop="20261002035400 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002020000 +0800" stop="20261002023000 +0800" channel="myTV SUPER 18台"><title lang="zh">Kubah Borneo Ep11</title><desc lang="zh">&amp;quot;Kubah Borneo&amp;quot; will bring viewers a closer look of mosques located at several districts in Borneo Island. The host will visit a mosque at a different location to learn and share the history of the mosque.</desc>
   </programme>
-  <programme start="20261002035400 +0800" stop="20261002043000 +0800" channel="myTV SUPER 18台"><title lang="zh">精彩節目即將送上</title><desc lang="zh">請留意下一個精彩節目</desc>
+  <programme start="20261002023000 +0800" stop="20261002030000 +0800" channel="myTV SUPER 18台"><title lang="zh">Ready, Set, Go Kids! Ep1</title><desc lang="zh">Ready, Set, Go Kids! is a children&amp;#x27;s educational program where they travel to Kuching, complete challenges, and win prizes, while learning about the local culture.</desc>
   </programme>
-  <programme start="20261002043000 +0800" stop="20261002060000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002030000 +0800" stop="20261002033000 +0800" channel="myTV SUPER 18台"><title lang="zh">Khazanah Kenyalang Ep3</title><desc lang="zh">Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
   </programme>
-  <programme start="20261002060000 +0800" stop="20261002071000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002033000 +0800" stop="20261002040000 +0800" channel="myTV SUPER 18台"><title lang="zh">Sarawak Angler Ep12</title><desc lang="zh">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
   </programme>
-  <programme start="20261002071000 +0800" stop="20261002074500 +0800" channel="myTV SUPER 18台"><title lang="zh">精彩節目即將送上</title><desc lang="zh">請留意下一個精彩節目</desc>
+  <programme start="20261002040000 +0800" stop="20261002043000 +0800" channel="myTV SUPER 18台"><title lang="zh">3D Jobs Ep1</title><desc lang="zh">Aims to highlight and honor the unsung heroes of our communities who bravely perform challenging, hazardous, and dangerous jobs, showcasing their daily lives and their life stories beyond their work.</desc>
   </programme>
-  <programme start="20261002074500 +0800" stop="20261002090000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002043000 +0800" stop="20261002050000 +0800" channel="myTV SUPER 18台"><title lang="zh">Suara Alam Borneo Ep3</title><desc lang="zh">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
   </programme>
-  <programme start="20261002090000 +0800" stop="20261002101500 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002050000 +0800" stop="20261002053000 +0800" channel="myTV SUPER 18台"><title lang="zh">Kek &amp; Pastri Ep13</title><desc lang="zh">Kek and Pastri Siri 2 menampilkan selebriti mencipta resepi kek, pastri, dan hidangan savouri menggunakan bahan tempatan dan teknik membakar serta mengukus untuk hasil yang lazat dan inovatif.</desc>
   </programme>
-  <programme start="20261002101500 +0800" stop="20261002113000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002053000 +0800" stop="20261002060000 +0800" channel="myTV SUPER 18台"><title lang="zh">Marriage of the Bidayuh Ep1</title><desc lang="zh">Marriage of the Bidayuh is a documentary series exploring the rich wedding traditions of the Bidayuh people, from the revival of the Bi Singai wedding to the vibrant Bukar-Sadung celebration.</desc>
   </programme>
-  <programme start="20261002113000 +0800" stop="20261002124500 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002060000 +0800" stop="20261002070000 +0800" channel="myTV SUPER 18台"><title lang="zh">State of Energy Ep2</title><desc lang="zh">The State of Sarawak is poised to become the energy powerhouse for the region. Follow this docuseries and learn how this state works towards a stronger and brighter future.</desc>
   </programme>
-  <programme start="20261002124500 +0800" stop="20261002140000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002070000 +0800" stop="20261002073000 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) TVS Pagi</title><desc lang="zh">TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
   </programme>
-  <programme start="20261002140000 +0800" stop="20261002151500 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002073000 +0800" stop="20261002080000 +0800" channel="myTV SUPER 18台"><title lang="zh">River Tales of Borneo Ep5</title><desc lang="zh">Sarawakian show that tells forgotten stories and folktales from historical times, starting from the mouth of Rejang to Iran Mountain, focusing on ethnic groups living along the rivers.</desc>
   </programme>
-  <programme start="20261002151500 +0800" stop="20261002163000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002080000 +0800" stop="20261002080500 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) World News</title><desc lang="zh">Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
   </programme>
-  <programme start="20261002163000 +0800" stop="20261002174500 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002080500 +0800" stop="20261002081500 +0800" channel="myTV SUPER 18台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
   </programme>
-  <programme start="20261002174500 +0800" stop="20261002190000 +0800" channel="myTV SUPER 18台"><title lang="zh">賽馬結果</title><desc lang="zh">賽事結束後, 與大家一同重溫賽事過程, 檢討騎師和馬匹的表現。到底是水準之作、抑或表現失準呢? 透過重溫, 大家可以看清楚! 主持更會從中發掘潛質馬匹, 推介給大家往後跟進。</desc>
+  <programme start="20261002081500 +0800" stop="20261002083000 +0800" channel="myTV SUPER 18台"><title lang="zh">Changemakers Ep6</title><desc lang="zh">This 6 episode series delves into the journeys of Sarawakian changemakers who have made significant impacts in their communities and beyond.</desc>
   </programme>
-  <programme start="20261002190000 +0800" stop="20261002194100 +0800" channel="myTV SUPER 18台"><title lang="zh">試閘一周</title><desc lang="zh">一次過看清一周沙田、跑馬地和從化各組試閘</desc>
+  <programme start="20261002083000 +0800" stop="20261002090000 +0800" channel="myTV SUPER 18台"><title lang="zh">Aroma Malaysia Ep12</title><desc lang="zh">Aroma Malaysia menampilkan eksplorasi kulinari yang memperkenalkan hidangan tradisional dan tempatan, diperkaya dengan pengalaman pengembaraan merentasi pelbagai destinasi budaya</desc>
+  </programme>
+  <programme start="20261002090000 +0800" stop="20261002091500 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) TVS Sana Sini</title><desc lang="zh">A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
+  </programme>
+  <programme start="20261002091500 +0800" stop="20261002093000 +0800" channel="myTV SUPER 18台"><title lang="zh">Jelajah Sarawakku Sayang</title><desc lang="zh">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
+  </programme>
+  <programme start="20261002093000 +0800" stop="20261002094500 +0800" channel="myTV SUPER 18台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261002094500 +0800" stop="20261002100000 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261002100000 +0800" stop="20261002100500 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261002100500 +0800" stop="20261002101500 +0800" channel="myTV SUPER 18台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261002101500 +0800" stop="20261002104500 +0800" channel="myTV SUPER 18台"><title lang="zh">The Cloth Story Ep13</title><desc lang="zh">The Cloth Story season 2 focuses on textiles,such as Pua,Songket,Tenun,Batik and Keringkam from the Borneo region. The cloth,the raw materials, the artisans, the history, the evolution and so much more.</desc>
+  </programme>
+  <programme start="20261002104500 +0800" stop="20261002110000 +0800" channel="myTV SUPER 18台"><title lang="zh">Sine Siti Makan Ep3</title><desc lang="zh">Season 3 of &amp;#x27;Sine Siti Makan&amp;#x27; takes viewers on a culinary journey across Malaysia, showcasing local eateries, restaurants, and food markets to satisfy food cravings.</desc>
+  </programme>
+  <programme start="20261002110000 +0800" stop="20261002111500 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261002111500 +0800" stop="20261002114500 +0800" channel="myTV SUPER 18台"><title lang="zh">Bujang Berani Ep5</title><desc lang="zh">Menyingkap sejarah pasukan keselamatan yang terdiri daripada anak Sarawak seperti Iban Trackers, Sarawak Rangers,Pasukan Polis Hutan, Rajang Area Security Command(RASCOM) dan Rejimen Renjer Diraja.</desc>
+  </programme>
+  <programme start="20261002114500 +0800" stop="20261002120000 +0800" channel="myTV SUPER 18台"><title lang="zh">Borneo From Above Ep14</title><desc lang="zh">To promote and highlighting development of Sarawak</desc>
+  </programme>
+  <programme start="20261002120000 +0800" stop="20261002121500 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) TVS Tengahari</title><desc lang="zh">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
+  </programme>
+  <programme start="20261002121500 +0800" stop="20261002123000 +0800" channel="myTV SUPER 18台"><title lang="zh">Jelajah Sarawakku Sayang</title><desc lang="zh">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
+  </programme>
+  <programme start="20261002123000 +0800" stop="20261002130000 +0800" channel="myTV SUPER 18台"><title lang="zh">3D Jobs Ep1</title><desc lang="zh">Aims to highlight and honor the unsung heroes of our communities who bravely perform challenging, hazardous, and dangerous jobs, showcasing their daily lives and their life stories beyond their work.</desc>
+  </programme>
+  <programme start="20261002130000 +0800" stop="20261002140000 +0800" channel="myTV SUPER 18台"><title lang="zh">Dialog TVS Ep148</title><desc lang="zh">Dialog TVS merupakan program bual bicara yang membincangkan mengenai perkembangan terkini serta topik-topik tertentu bersama pemimpin, pakar, penganalisis dan pemain industri.</desc>
+  </programme>
+  <programme start="20261002140000 +0800" stop="20261002140500 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261002140500 +0800" stop="20261002141500 +0800" channel="myTV SUPER 18台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261002141500 +0800" stop="20261002143000 +0800" channel="myTV SUPER 18台"><title lang="zh">Living Wild Ep5</title><desc lang="zh">Living Wild is a nature documentary in Sarawak, Borneo, showcasing diverse wildlife-from tarsiers and flying snakes to turtles-across Kubah, Bako, and Talang Satang, promoting eco-tourism.</desc>
+  </programme>
+  <programme start="20261002143000 +0800" stop="20261002150000 +0800" channel="myTV SUPER 18台"><title lang="zh">Grandstand Liga Premier Sarawak 2026 Ep1</title><desc lang="zh">Menyajikan sorotan perlawanan, analisis taktikal, dan perbincangan mendalam bersama hos dan tetamu jemputan tentang perkembangan pasukan dan pemain dalam Liga Bola Sepak Premier Sarawak.</desc>
+  </programme>
+  <programme start="20261002150000 +0800" stop="20261002150500 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) TVS Highlight</title><desc lang="zh">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+  </programme>
+  <programme start="20261002150500 +0800" stop="20261002160000 +0800" channel="myTV SUPER 18台"><title lang="zh">Anggun Mikayla Ep2</title><desc lang="zh">Born out of wedlock,a beautiful young lady,Mikayla works as a makeup artist who struggles to be acknowledged by her biological mom.She chose to embark on a new journey finding self-worth deserving love.</desc>
+  </programme>
+  <programme start="20261002160000 +0800" stop="20261002160500 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261002160500 +0800" stop="20261002161500 +0800" channel="myTV SUPER 18台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261002161500 +0800" stop="20261002164500 +0800" channel="myTV SUPER 18台"><title lang="zh">Marriage of the Bidayuh Ep1</title><desc lang="zh">Marriage of the Bidayuh is a documentary series exploring the rich wedding traditions of the Bidayuh people, from the revival of the Bi Singai wedding to the vibrant Bukar-Sadung celebration.</desc>
+  </programme>
+  <programme start="20261002164500 +0800" stop="20261002170000 +0800" channel="myTV SUPER 18台"><title lang="zh">Jelajah Sarawakku Sayang</title><desc lang="zh">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
+  </programme>
+  <programme start="20261002170000 +0800" stop="20261002173000 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) Berita Wilayah TVS</title><desc lang="zh">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20261002173000 +0800" stop="20261002180000 +0800" channel="myTV SUPER 18台"><title lang="zh">Sarawak Angler Ep12</title><desc lang="zh">Program realiti memancing laut dalam di perairan Sarawak diadakan bagi menduga dan mencari spesies ikan hebat.Pemancing profesional dari Sarawak telah dipilih untuk bertanding dalam program realiti ini.</desc>
+  </programme>
+  <programme start="20261002180000 +0800" stop="20261002181500 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) Re Bao</title><desc lang="zh">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20261002181500 +0800" stop="20261002183000 +0800" channel="myTV SUPER 18台"><title lang="zh">Ripples of Time Ep8</title><desc lang="zh">Ripples of Time explores the history of Kuching&amp;#x27;s kampungs along Sungai Sarawak, tracing their journey from early settlements to modern-day development, highlighting stories of heritage, displacement.</desc>
+  </programme>
+  <programme start="20261002183000 +0800" stop="20261002190000 +0800" channel="myTV SUPER 18台"><title lang="zh">3 Mak Dara Ep10</title><desc lang="zh">3 Mak Dara kembali untuk Musim Kedua dengan nafas baharu yang lebih bersahaja dan santai. Dihoskan oleh tiga orang selebriti tanah air iaitu Raja Azura, Sharifah Shahora dan Rita Rudaini.</desc>
+  </programme>
+  <programme start="20261002190000 +0800" stop="20261002193000 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261002193000 +0800" stop="20261002194000 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) Menarik Sepuluh</title><desc lang="zh">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20261002194000 +0800" stop="20261002194100 +0800" channel="myTV SUPER 18台"><title lang="zh">(L) UTAMA 740</title><desc lang="zh">UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
   </programme>
   <programme start="20261002194100 +0800" stop="20261002200000 +0800" channel="myTV SUPER 18台"><title lang="zh">精彩節目即將送上</title><desc lang="zh">請留意下一個精彩節目</desc>
   </programme>
   <programme start="20261002200000 +0800" stop="20261002201500 +0800" channel="myTV SUPER 18台"><title lang="zh">排位焦點</title><desc lang="zh">從不同賽馬數據, 尋找賽事重心; 並會分析馬房形勢, 看清哪個馬房, 佈下強陣, 準備大舉出撃的「進擊馬房」; 以及哪些騎師手上坐騎, 具備實力成就佳績的「強駒在手」, 亦會為大家介紹初出馬。</desc>
   </programme>
-  <programme start="20261002201500 +0800" stop="20261002214500 +0800" channel="myTV SUPER 18台"><title lang="zh">睇排位 做功課</title><desc lang="zh">與觀眾一同為賽日做準備, 看清排位形勢、人馬配搭、馬匹配備變動, 並同時參考馬匹過去陣上走勢或近期試閘表現, 以掌握馬匹實力、了解賽事, 助計算馬匹的勝算機會。</desc>
+  <programme start="20261002201500 +0800" stop="20261002203000 +0800" channel="myTV SUPER 18台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261002203000 +0800" stop="20261002213000 +0800" channel="myTV SUPER 18台"><title lang="zh">Gerak Khas 2.0 Ep14</title><desc lang="zh">Pasukan elit polis menyiasat jenayah berprofil tinggi di Kuala Lumpur yang semakin berleluasa di Malaysia, di mana setiap kes bukan sahaja mencabar undang-undang, tetapi menguji kepercayaan, integriti.</desc>
+  </programme>
+  <programme start="20261002213000 +0800" stop="20261002214500 +0800" channel="myTV SUPER 18台"><title lang="zh">Boneka Ep5</title><desc lang="zh">Demi mengejar kehidupan sempurna, pengkhianatan seorang wanita terhadap suami yang pernah menyelamatkannya bermula apabila dia hanyut dalam godaan cinta dan kemewahan lelaki lain.</desc>
   </programme>
   <programme start="20261002214500 +0800" stop="20261002223000 +0800" channel="myTV SUPER 18台"><title lang="zh">試閘一周</title><desc lang="zh">一次過看清一周沙田、跑馬地和從化各組試閘</desc>
   </programme>
@@ -16422,23 +16500,23 @@
   </programme>
   <programme start="20261002070000 +0800" stop="20261002090000 +0800" channel="上视新闻"><title lang="zh">上海早晨</title>
   </programme>
-  <programme start="20261002090000 +0800" stop="20261002094900 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002090000 +0800" stop="20261002094900 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261002094900 +0800" stop="20261002104300 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002094900 +0800" stop="20261002104300 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261002104300 +0800" stop="20261002113000 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002104300 +0800" stop="20261002113000 +0800" channel="上视新闻"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261002113000 +0800" stop="20261002120000 +0800" channel="上视新闻"><title lang="zh">东方110</title>
   </programme>
-  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="上视新闻"><title lang="zh">午间新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="上视新闻"><title lang="zh">午间新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20261002123000 +0800" stop="20261002130000 +0800" channel="上视新闻"><title lang="zh">媒体大搜索</title>
   </programme>
   <programme start="20261002130000 +0800" stop="20261002133000 +0800" channel="上视新闻"><title lang="zh">环球新记录</title>
   </programme>
-  <programme start="20261002133000 +0800" stop="20261002142000 +0800" channel="上视新闻"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002133000 +0800" stop="20261002142000 +0800" channel="上视新闻"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261002142000 +0800" stop="20261002151000 +0800" channel="上视新闻"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002142000 +0800" stop="20261002151000 +0800" channel="上视新闻"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261002151000 +0800" stop="20261002160500 +0800" channel="上视新闻"><title lang="zh">超级家长会</title>
   </programme>
@@ -16452,9 +16530,9 @@
   </programme>
   <programme start="20261002191300 +0800" stop="20261002194500 +0800" channel="上视新闻"><title lang="zh">法制特勤组</title>
   </programme>
-  <programme start="20261002194500 +0800" stop="20261002203800 +0800" channel="上视新闻"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261002194500 +0800" stop="20261002203800 +0800" channel="上视新闻"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261002203800 +0800" stop="20261002212500 +0800" channel="上视新闻"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261002203800 +0800" stop="20261002212500 +0800" channel="上视新闻"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261002212500 +0800" stop="20261002213000 +0800" channel="上视新闻"><title lang="zh">《 新闻夜线 》抢先看</title>
   </programme>
@@ -25690,35 +25768,35 @@
   </programme>
   <programme start="20261002005000 +0800" stop="20261002010100 +0800" channel="地理"><title lang="zh">活力·源</title><desc lang="zh">《活力·源》是CCTV-9纪录频道关注科技、创新与可持续发展的纪录片时段。节目聚焦新能源、新技术及人类探索未知的历程，讲述科技创新背后的故事，展现人类如何通过智慧与努力寻找发展的源头活水，传递积极向上的时代精神。</desc>
   </programme>
-  <programme start="20261002010100 +0800" stop="20261002014300 +0800" channel="地理"><title lang="zh">《远方的家》 20260820 宝藏之城 绿野无垠 呼伦贝尔HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002010100 +0800" stop="20261002014300 +0800" channel="地理"><title lang="zh">《远方的家》 20260820 宝藏之城 绿野无垠 呼伦贝尔HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002014300 +0800" stop="20261002022500 +0800" channel="地理"><title lang="zh">《远方的家》 20260821 山水之城 阳光奉化HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002014300 +0800" stop="20261002022500 +0800" channel="地理"><title lang="zh">《远方的家》 20260821 山水之城 阳光奉化HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002022500 +0800" stop="20261002025000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250929 可爱的中国??匠心</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002022500 +0800" stop="20261002025000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250929 可爱的中国??匠心</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002025000 +0800" stop="20261002031600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250930 可爱的中国??给力</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002025000 +0800" stop="20261002031600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250930 可爱的中国??给力</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002031600 +0800" stop="20261002035700 +0800" channel="地理"><title lang="zh">《远方的家》 20260820 宝藏之城 绿野无垠 呼伦贝尔HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002031600 +0800" stop="20261002035700 +0800" channel="地理"><title lang="zh">《远方的家》 20260820 宝藏之城 绿野无垠 呼伦贝尔HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002035700 +0800" stop="20261002040000 +0800" channel="地理"><title lang="zh">《远方的家》 20260821 山水之城 阳光奉化HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002035700 +0800" stop="20261002040000 +0800" channel="地理"><title lang="zh">《远方的家》 20260821 山水之城 阳光奉化HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002040000 +0800" stop="20261002042500 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002040000 +0800" stop="20261002042500 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002042500 +0800" stop="20261002045100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002042500 +0800" stop="20261002045100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002045100 +0800" stop="20261002053200 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002045100 +0800" stop="20261002053200 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002053200 +0800" stop="20261002061400 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002053200 +0800" stop="20261002061400 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002061400 +0800" stop="20261002063900 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002061400 +0800" stop="20261002063900 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002063900 +0800" stop="20261002070500 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002063900 +0800" stop="20261002070500 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002070500 +0800" stop="20261002074700 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002070500 +0800" stop="20261002074700 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002074700 +0800" stop="20261002082800 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002074700 +0800" stop="20261002082800 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002082800 +0800" stop="20261002083200 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002082800 +0800" stop="20261002083200 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261002083200 +0800" stop="20261002083700 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25726,11 +25804,11 @@
   </programme>
   <programme start="20261002090200 +0800" stop="20261002092700 +0800" channel="地理"><title lang="zh">活力·源</title><desc lang="zh">《活力·源》是CCTV-9纪录频道关注科技、创新与可持续发展的纪录片时段。节目聚焦新能源、新技术及人类探索未知的历程，讲述科技创新背后的故事，展现人类如何通过智慧与努力寻找发展的源头活水，传递积极向上的时代精神。</desc>
   </programme>
-  <programme start="20261002100100 +0800" stop="20261002104300 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002100100 +0800" stop="20261002104300 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002104300 +0800" stop="20261002110800 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002104300 +0800" stop="20261002110800 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002110800 +0800" stop="20261002111700 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002110800 +0800" stop="20261002111700 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261002111700 +0800" stop="20261002112200 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25740,7 +25818,7 @@
   </programme>
   <programme start="20261002120300 +0800" stop="20261002123300 +0800" channel="地理"><title lang="zh">味道</title><desc lang="zh">《味道》是中央广播电视总台央视科教频道（CCTV-10）打造的大型美食文化探索类全媒体品牌栏目。节目运用'美食+'思维，由主持人与美食专家组成'味道调查团'，深入全国各地及海外，以悬念任务形式探寻地道美食与风俗文化。内容涵盖节日特辑、地域风味等，旨在品鉴美食文化，留住乡愁记忆，展现中国美食生态与美好生活。</desc>
   </programme>
-  <programme start="20261002125700 +0800" stop="20261002130300 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002125700 +0800" stop="20261002130300 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261002130300 +0800" stop="20261002130800 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25748,7 +25826,7 @@
   </programme>
   <programme start="20261002133300 +0800" stop="20261002135800 +0800" channel="地理"><title lang="zh">活力·源</title><desc lang="zh">《活力·源》是CCTV-9纪录频道关注科技、创新与可持续发展的纪录片时段。节目聚焦新能源、新技术及人类探索未知的历程，讲述科技创新背后的故事，展现人类如何通过智慧与努力寻找发展的源头活水，传递积极向上的时代精神。</desc>
   </programme>
-  <programme start="20261002143000 +0800" stop="20261002144000 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002143000 +0800" stop="20261002144000 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261002144000 +0800" stop="20261002144500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25756,11 +25834,11 @@
   </programme>
   <programme start="20261002163000 +0800" stop="20261002170000 +0800" channel="地理"><title lang="zh">味道</title><desc lang="zh">《味道》是中央广播电视总台央视科教频道（CCTV-10）打造的大型美食文化探索类全媒体品牌栏目。节目运用'美食+'思维，由主持人与美食专家组成'味道调查团'，深入全国各地及海外，以悬念任务形式探寻地道美食与风俗文化。内容涵盖节日特辑、地域风味等，旨在品鉴美食文化，留住乡愁记忆，展现中国美食生态与美好生活。</desc>
   </programme>
-  <programme start="20261002172600 +0800" stop="20261002175100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002172600 +0800" stop="20261002175100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002175100 +0800" stop="20261002181700 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002175100 +0800" stop="20261002181700 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002181700 +0800" stop="20261002183000 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002181700 +0800" stop="20261002183000 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261002183000 +0800" stop="20261002183500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25768,11 +25846,11 @@
   </programme>
   <programme start="20261002185500 +0800" stop="20261002191700 +0800" channel="地理"><title lang="zh">跟着书本去旅行</title><desc lang="zh">由中央广播电视总台央视科教频道倾力打造的行进体验式文化教育节目 《跟着书本去旅行》 ，于12月9日每周一至周五18：54在科教频道播出。作为一档原创的节目，《跟着书本去旅行》突破传统模式，创新表达方式。旨在让经典文学、历史名著“新”起来，让书本“厚”起来，让陈列在广阔大地上的遗产“活”起来！节目从书本出发，在文学、历史著作中选取融思想性、艺术性、观赏性为一体的作品，由领队带着同学们寻访文中古迹，听专家讲故事。通过读文、走访、纪录，拓展了教育专题节目的传统模式。在节目多维度的呈现下让经典文章、诗词不仅可以在笔墨中书写，在琅琅的读书声中回荡，当同学们置身实景实地，还可以体会其作品中的文化和精神的力量。</desc>
   </programme>
-  <programme start="20261002194000 +0800" stop="20261002200600 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002194000 +0800" stop="20261002200600 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002200600 +0800" stop="20261002203100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002200600 +0800" stop="20261002203100 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002203100 +0800" stop="20261002205000 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002203100 +0800" stop="20261002205000 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261002205000 +0800" stop="20261002205500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -25786,13 +25864,13 @@
   </programme>
   <programme start="20261002215000 +0800" stop="20261002215400 +0800" channel="地理"><title lang="zh">特别呈现</title><desc lang="zh">特别呈现是央视纪录频道的特别纪录片展播子栏目，精选重大题材与精品纪录片特别呈现，展现高品质纪实影像的深度与人文关怀。</desc>
   </programme>
-  <programme start="20261002215400 +0800" stop="20261002222000 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002215400 +0800" stop="20261002222000 +0800" channel="地理"><title lang="zh">《走遍中国》 20251001 可爱的中国??荣耀</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002222000 +0800" stop="20261002224600 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261002222000 +0800" stop="20261002224600 +0800" channel="地理"><title lang="zh">《走遍中国》 20251002 可爱的中国??乡见</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261002224600 +0800" stop="20261002232700 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002224600 +0800" stop="20261002232700 +0800" channel="地理"><title lang="zh">《远方的家》 20260824 山河锦绣看中国 浪漫之都 乐享夏天HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261002232700 +0800" stop="20261002233000 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261002232700 +0800" stop="20261002233000 +0800" channel="地理"><title lang="zh">《远方的家》 20260825 山河锦绣看中国 河东之城 古韵悠长HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261002233000 +0800" stop="20261002233500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(40)</title>
   </programme>
@@ -29452,7 +29530,7 @@
   </programme>
   <programme start="20261002014500 +0800" stop="20261002020500 +0800" channel="广东新闻"><title lang="zh">新闻故事</title>
   </programme>
-  <programme start="20261002020500 +0800" stop="20261002025300 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  <programme start="20261002020500 +0800" stop="20261002025300 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc lang="zh">《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
   </programme>
   <programme start="20261002025300 +0800" stop="20261002030300 +0800" channel="广东新闻"><title lang="zh">社会纵横</title>
   </programme>
@@ -29472,13 +29550,13 @@
   </programme>
   <programme start="20261002065500 +0800" stop="20261002070000 +0800" channel="广东新闻"><title lang="zh">发现广东</title>
   </programme>
-  <programme start="20261002070000 +0800" stop="20261002070100 +0800" channel="广东新闻"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  <programme start="20261002070000 +0800" stop="20261002070100 +0800" channel="广东新闻"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
-  <programme start="20261002070100 +0800" stop="20261002075700 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  <programme start="20261002070100 +0800" stop="20261002075700 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc lang="zh">《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
   </programme>
   <programme start="20261002075700 +0800" stop="20261002080000 +0800" channel="广东新闻"><title lang="zh">国际城市天气</title>
   </programme>
-  <programme start="20261002080000 +0800" stop="20261002090000 +0800" channel="广东新闻"><title lang="zh">广东新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261002080000 +0800" stop="20261002090000 +0800" channel="广东新闻"><title lang="zh">广东新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -29492,7 +29570,7 @@
   </programme>
   <programme start="20261002100000 +0800" stop="20261002120000 +0800" channel="广东新闻"><title lang="zh">正点播报</title>
   </programme>
-  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="广东新闻"><title lang="zh">午间30分</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261002120000 +0800" stop="20261002123000 +0800" channel="广东新闻"><title lang="zh">午间30分</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20261002123000 +0800" stop="20261002130000 +0800" channel="广东新闻"><title lang="zh">新闻故事</title>
   </programme>
@@ -29508,7 +29586,7 @@
   </programme>
   <programme start="20261002192500 +0800" stop="20261002193000 +0800" channel="广东新闻"><title lang="zh">天气123</title>
   </programme>
-  <programme start="20261002193000 +0800" stop="20261002200000 +0800" channel="广东新闻"><title lang="zh">广东新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261002193000 +0800" stop="20261002200000 +0800" channel="广东新闻"><title lang="zh">广东新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -29528,7 +29606,7 @@
   </programme>
   <programme start="20261002223000 +0800" stop="20261002230000 +0800" channel="广东新闻"><title lang="zh">新闻夜线</title>
   </programme>
-  <programme start="20261002230000 +0800" stop="20261002235700 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc>《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+  <programme start="20261002230000 +0800" stop="20261002235700 +0800" channel="广东新闻"><title lang="zh">今日关注</title><desc lang="zh">《今日关注》是CCTV-4中文国际频道的时事述评栏目，紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
   </programme>
   <programme start="20261002235700 +0800" stop="20261003000000 +0800" channel="广东新闻"><title lang="zh">国际城市天气</title>
   </programme>
@@ -33378,7 +33456,7 @@
   </programme>
   <programme start="20261002063600 +0800" stop="20261002070700 +0800" channel="武汉教育"><title lang="zh">百岁有道</title><desc lang="zh">生活服务类广告栏目，以健康、养生栏目等形式变相发布医疗、药品、医疗器械、保健食品等服务类广告节目。</desc>
   </programme>
-  <programme start="20261002070700 +0800" stop="20261002071300 +0800" channel="武汉教育"><title lang="zh">歌曲</title><desc>播放爱国主题歌曲《请放心吧祖国》，表达对祖国的热爱和祝福，弘扬爱国主义精神。</desc>
+  <programme start="20261002070700 +0800" stop="20261002071300 +0800" channel="武汉教育"><title lang="zh">歌曲</title><desc lang="zh">播放爱国主题歌曲《请放心吧祖国》，表达对祖国的热爱和祝福，弘扬爱国主义精神。</desc>
   </programme>
   <programme start="20261002071300 +0800" stop="20261002073800 +0800" channel="武汉教育"><title lang="zh">食全食美</title><desc lang="zh">《食全食美》为电视观众奉献数千道美味佳肴，同时又给广大的美食爱好者提供了一个展示自我风采的舞台。《食全食美》适时地加入了“健康美食”理念，资深营养师现场烹制简单易学，适用于家庭的健康主打菜，并对私家菜进行科学合理的点评，使百姓能够即吃出美味又能够吃出健康。</desc>
   </programme>
@@ -33404,7 +33482,7 @@
   </programme>
   <programme start="20261002124000 +0800" stop="20261002130500 +0800" channel="武汉教育"><title lang="zh">中国教育报道</title><desc lang="zh">中国教育报道是一档全面报道全国教育行业动态的新闻栏目。节目关注教育政策发布、教育改革进展、校园生活、师生风采等内容，传递权威教育资讯，反映教育热点难点，服务教育事业发展。</desc>
   </programme>
-  <programme start="20261002130500 +0800" stop="20261002131000 +0800" channel="武汉教育"><title lang="zh">歌曲</title><desc>播放爱国主题歌曲《请放心吧祖国》，表达对祖国的热爱和祝福，弘扬爱国主义精神。</desc>
+  <programme start="20261002130500 +0800" stop="20261002131000 +0800" channel="武汉教育"><title lang="zh">歌曲</title><desc lang="zh">播放爱国主题歌曲《请放心吧祖国》，表达对祖国的热爱和祝福，弘扬爱国主义精神。</desc>
   </programme>
   <programme start="20261002131000 +0800" stop="20261002132100 +0800" channel="武汉教育"><title lang="zh">我爱汉字美</title>
   </programme>
@@ -35027,9 +35105,9 @@
   </programme>
   <programme start="20261002060500 +0800" stop="20261002062500 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20261002062500 +0800" stop="20261002100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002062500 +0800" stop="20261002100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261002100000 +0800" stop="20261002120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261002100000 +0800" stop="20261002120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261002120000 +0800" stop="20261002124000 +0800" channel="江西经济"><title lang="zh">午间解盘</title><desc lang="zh">午间解盘是一档股市解析栏目</desc>
   </programme>
@@ -35039,7 +35117,7 @@
   </programme>
   <programme start="20261002183000 +0800" stop="20261002184800 +0800" channel="江西经济"><title lang="zh">经视播报</title><desc lang="zh">江西经视《经视播报》帮您跑腿，为您服务，揭露社会各行黑幕.</desc>
   </programme>
-  <programme start="20261002184800 +0800" stop="20261002190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc>垫片，播放中华人民共和国国歌。</desc>
+  <programme start="20261002184800 +0800" stop="20261002190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20261002190000 +0800" stop="20261002191500 +0800" channel="江西经济"><title lang="zh">财富故事</title><desc lang="zh">讲述财富故事 分享财富资讯</desc>
   </programme>
@@ -49982,13 +50060,13 @@
   </programme>
   <programme start="20261002210000 +0800" stop="20261002211500 +0800" channel="长岛综合"><title lang="zh">长岛新闻</title><desc>烟台市长岛海洋生态文明综合试验区的地方新闻资讯栏目，聚焦长岛海洋生态保护、海岛经济发展、民生服务、文化旅游等主题，涵盖时政要闻、生态建设、海洋产业、渔家风情等内容，是了解长岛海洋生态文明综合试验区建设与发展的重要窗口。</desc>
   </programme>
-  <programme start="20261002070200 +0800" stop="20261002073400 +0800" channel="陕西体育"><title lang="zh">陕西新闻联播</title><desc>陕西广播电视台龙头新闻栏目，每日18:30在陕西卫视首播，是省委省政府重要喉舌和舆论阵地。节目涵盖时政要闻、经济动态、民生热点、文化专题等领域，精准传达省委省政府重大决策部署，聚焦本省政务要闻、民生热点及重大项目建设进展。设有“追赶超越陕西人”“聚焦大西安建设”“高质量发展一线行”等专栏，2025年策划推出《大城小事》子栏目，聚焦西安民生实事，以群众视角呈现基层治理创新实践。</desc>
+  <programme start="20261002070200 +0800" stop="20261002073400 +0800" channel="陕西体育"><title lang="zh">陕西新闻联播</title><desc lang="zh">陕西广播电视台龙头新闻栏目，每日18:30在陕西卫视首播，是省委省政府重要喉舌和舆论阵地。节目涵盖时政要闻、经济动态、民生热点、文化专题等领域，精准传达省委省政府重大决策部署，聚焦本省政务要闻、民生热点及重大项目建设进展。设有“追赶超越陕西人”“聚焦大西安建设”“高质量发展一线行”等专栏，2025年策划推出《大城小事》子栏目，聚焦西安民生实事，以群众视角呈现基层治理创新实践。</desc>
   </programme>
   <programme start="20261002073400 +0800" stop="20261002075000 +0800" channel="陕西体育"><title lang="zh">开心笑不停</title>
   </programme>
   <programme start="20261002075000 +0800" stop="20261002084000 +0800" channel="陕西体育"><title lang="zh">搏击王</title>
   </programme>
-  <programme start="20261002084000 +0800" stop="20261002091400 +0800" channel="陕西体育"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261002084000 +0800" stop="20261002091400 +0800" channel="陕西体育"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261002091400 +0800" stop="20261002104000 +0800" channel="陕西体育"><title lang="zh">开心笑不停</title>
   </programme>
@@ -49996,7 +50074,7 @@
   </programme>
   <programme start="20261002132600 +0800" stop="20261002140800 +0800" channel="陕西体育"><title lang="zh">人文中国</title>
   </programme>
-  <programme start="20261002140800 +0800" stop="20261002151100 +0800" channel="陕西体育"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261002140800 +0800" stop="20261002151100 +0800" channel="陕西体育"><title lang="zh">电视剧</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261002151100 +0800" stop="20261002163300 +0800" channel="陕西体育"><title lang="zh">人文中国</title>
   </programme>
@@ -50004,13 +50082,13 @@
   </programme>
   <programme start="20261002172500 +0800" stop="20261002173700 +0800" channel="陕西体育"><title lang="zh">畅游天下</title>
   </programme>
-  <programme start="20261002173700 +0800" stop="20261002182100 +0800" channel="陕西体育"><title lang="zh">欧洲篮球联赛 集锦</title><desc>欧洲篮球联赛一般指欧洲篮球冠军联赛。 欧洲篮球冠军联赛（EuroLeague），是由欧篮资产有限公司主办的欧洲规模最大的洲际男子职业篮球赛事，每年举办一届。</desc>
+  <programme start="20261002173700 +0800" stop="20261002182100 +0800" channel="陕西体育"><title lang="zh">欧洲篮球联赛 集锦</title><desc lang="zh">欧洲篮球联赛一般指欧洲篮球冠军联赛。 欧洲篮球冠军联赛（EuroLeague），是由欧篮资产有限公司主办的欧洲规模最大的洲际男子职业篮球赛事，每年举办一届。</desc>
   </programme>
   <programme start="20261002182100 +0800" stop="20261002192100 +0800" channel="陕西体育"><title lang="zh">开心斗地主</title>
   </programme>
   <programme start="20261002192100 +0800" stop="20261002202100 +0800" channel="陕西体育"><title lang="zh">开心笑不停</title>
   </programme>
-  <programme start="20261002202100 +0800" stop="20261002202500 +0800" channel="陕西体育"><title lang="zh">导视</title><desc>电视台节目预告和播出信息的总称，通常以短片或文字形式介绍即将播出的节目内容、播出时间及亮点看点，帮助观众提前了解频道编排、规划收视选择。</desc>
+  <programme start="20261002202100 +0800" stop="20261002202500 +0800" channel="陕西体育"><title lang="zh">导视</title><desc lang="zh">电视台节目预告和播出信息的总称，通常以短片或文字形式介绍即将播出的节目内容、播出时间及亮点看点，帮助观众提前了解频道编排、规划收视选择。</desc>
   </programme>
   <programme start="20261002202500 +0800" stop="20261002211500 +0800" channel="陕西体育"><title lang="zh">团团赚</title>
   </programme>

@@ -41,6 +41,8 @@
   </channel>
   <channel id="CCTV14"><display-name lang="zh">CCTV-14 少儿</display-name><display-name lang="zh">CCTV14少儿</display-name><display-name lang="zh">CHANNEL00000323</display-name><display-name lang="zh">CCTV 14</display-name><display-name lang="zh">CCTV14 高清</display-name><display-name lang="zh">CCTV-14(高清)</display-name><display-name lang="zh">CCTV14</display-name><display-name lang="zh">CCTV-14高清</display-name>
   </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
   <channel id="TRACE Urban"><display-name lang="zh">TRACE Urban</display-name><display-name lang="zh">TRACEURBAN</display-name><display-name lang="zh">Trace Urban</display-name>
   </channel>
   <channel id="NOWSPORTS精选"><display-name lang="zh">NOWSPORTS精选</display-name>
@@ -735,6 +737,8 @@
   </channel>
   <channel id="Love Nature HD"><display-name lang="zh">Love Nature HD</display-name><display-name lang="zh">LOVENATURE</display-name><display-name lang="zh">LOVENATUREHD</display-name><display-name lang="zh">Love Nature</display-name>
   </channel>
+  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  </channel>
   <channel id="桓台综合"><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓台综合</display-name><display-name lang="zh">桓综合</display-name><display-name lang="zh">CHANNEL00001020</display-name>
   </channel>
   <channel id="烟台公共"><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟台公共</display-name><display-name lang="zh">烟公共</display-name><display-name lang="zh">CHANNEL00000281</display-name><display-name lang="zh">烟台公共频道</display-name>
@@ -991,7 +995,7 @@
   </channel>
   <channel id="西部电影"><display-name lang="zh">西部电影</display-name>
   </channel>
-  <channel id="厦门卫视"><display-name lang="zh">厦门卫视</display-name><display-name lang="zh">厦门</display-name><display-name lang="zh">CHANNEL00000075</display-name>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <programme start="20261004000000 +0800" stop="20261004003000 +0800" channel="ABCAUSTRALIA"><title lang="zh">Asia News Week:2026 第37集</title><desc lang="zh">Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what&amp;#x27;s trending on social media and making an impact on the culture and the way people live.</desc>
   </programme>
@@ -3307,27 +3311,29 @@
   </programme>
   <programme start="20261004230144 +0800" stop="20261004235900 +0800" channel="CCTV6"><title lang="zh">阿甘正传（下）</title>
   </programme>
-  <programme start="20261004060300 +0800" stop="20261004063330 +0800" channel="CCTV7"><title lang="zh">军迷行天下-2026-39</title><desc>中央电视台国防军事频道军事户外探秘节目，2019年开播，原名《军迷淘天下》。每期一个军事谜题，以军事爱好者实地探访形式，遍寻军事遗迹、解析战争迷局、追踪装备发展。节目采取“军迷天下团”成员执行任务模式，结合历史档案与现场勘查还原军事历史细节。每周三18:24首播，周四8:30、次周一13:06重播。</desc>
+  <programme start="20261004002315 +0800" stop="20261004060300 +0800" channel="CCTV7"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
-  <programme start="20261004063330 +0800" stop="20261004070400 +0800" channel="CCTV7"><title lang="zh">军武零距离-2026-39（4K）</title><desc>中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
+  <programme start="20261004060300 +0800" stop="20261004063330 +0800" channel="CCTV7"><title lang="zh">军迷行天下-2026-39</title><desc lang="zh">中央电视台国防军事频道军事户外探秘节目，2019年开播，原名《军迷淘天下》。每期一个军事谜题，以军事爱好者实地探访形式，遍寻军事遗迹、解析战争迷局、追踪装备发展。节目采取“军迷天下团”成员执行任务模式，结合历史档案与现场勘查还原军事历史细节。每周三18:24首播，周四8:30、次周一13:06重播。</desc>
   </programme>
-  <programme start="20261004070400 +0800" stop="20261004073000 +0800" channel="CCTV7"><title lang="zh">世界战史-2026-192</title><desc>中央电视台国防军事频道纪录片栏目，前身为《百战经典》，2019年8月1日开播。聚焦世界范围内著名战争战役、武器装备、军事人物，通过珍贵影像与专家解读，再现一战、二战及重大军事冲突的历史细节。周一至周五17:02首播，每集约23分钟。</desc>
+  <programme start="20261004063330 +0800" stop="20261004070400 +0800" channel="CCTV7"><title lang="zh">军武零距离-2026-39（4K）</title><desc lang="zh">中央电视台国防军事频道青年军事体验节目，2020年开播，由吴杰主持。每期邀请军事爱好者与国防生走进演播室或军营，通过极限任务挑战、军事装备体验、兵种知识科普等形式，零距离感受国防力量。节目采用“知识挑战+真人秀”模式，涵盖步兵、装甲兵、空降兵、特战等兵种，展现当代军人的过硬本领与强军风貌。每周六17:25首播。</desc>
   </programme>
-  <programme start="20261004073000 +0800" stop="20261004075830 +0800" channel="CCTV7"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261004070400 +0800" stop="20261004073000 +0800" channel="CCTV7"><title lang="zh">世界战史-2026-192</title><desc lang="zh">中央电视台国防军事频道纪录片栏目，前身为《百战经典》，2019年8月1日开播。聚焦世界范围内著名战争战役、武器装备、军事人物，通过珍贵影像与专家解读，再现一战、二战及重大军事冲突的历史细节。周一至周五17:02首播，每集约23分钟。</desc>
+  </programme>
+  <programme start="20261004073000 +0800" stop="20261004075830 +0800" channel="CCTV7"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
   <programme start="20261004075830 +0800" stop="20261004094200 +0800" channel="CCTV7"><title lang="zh">建军99周年特别节目——奋进向一流-1</title>
   </programme>
-  <programme start="20261004094200 +0800" stop="20261004102500 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-276</title><desc>中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
+  <programme start="20261004094200 +0800" stop="20261004102500 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-276</title><desc lang="zh">中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
   </programme>
   <programme start="20261004102500 +0800" stop="20261004115300 +0800" channel="CCTV7"><title lang="zh">五星剧场-地下尖兵(高清文件)</title>
   </programme>
-  <programme start="20261004115300 +0800" stop="20261004120000 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-长城长（2026国庆）</title><desc>中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
+  <programme start="20261004115300 +0800" stop="20261004120000 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-长城长（2026国庆）</title><desc lang="zh">中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
   </programme>
-  <programme start="20261004120000 +0800" stop="20261004123630 +0800" channel="CCTV7"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261004120000 +0800" stop="20261004123630 +0800" channel="CCTV7"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261004123630 +0800" stop="20261004130830 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-276</title><desc>中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
+  <programme start="20261004123630 +0800" stop="20261004130830 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-276</title><desc lang="zh">中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
   </programme>
-  <programme start="20261004130830 +0800" stop="20261004133230 +0800" channel="CCTV7"><title lang="zh">军营的味道-2026-37</title><desc>中央电视台国防军事频道军营纪实栏目，2019年8月1日开播。以纪录片手法跟踪记录基层连队、边防哨所官兵的训练生活，展现新时代军人的青春故事与家国情怀。节目不设演播室，以“真实记录+自述式采访”呈现普通一兵的军旅日常，风格质朴感人。每周六17:30首播，时长25分钟。口号：“一份军旅记忆，一种人生滋味。”</desc>
+  <programme start="20261004130830 +0800" stop="20261004133230 +0800" channel="CCTV7"><title lang="zh">军营的味道-2026-37</title><desc lang="zh">中央电视台国防军事频道军营纪实栏目，2019年8月1日开播。以纪录片手法跟踪记录基层连队、边防哨所官兵的训练生活，展现新时代军人的青春故事与家国情怀。节目不设演播室，以“真实记录+自述式采访”呈现普通一兵的军旅日常，风格质朴感人。每周六17:30首播，时长25分钟。口号：“一份军旅记忆，一种人生滋味。”</desc>
   </programme>
   <programme start="20261004133230 +0800" stop="20261004152100 +0800" channel="CCTV7"><title lang="zh">五星剧场-英雄儿女(高清文件)</title>
   </programme>
@@ -3337,31 +3343,31 @@
   </programme>
   <programme start="20261004165830 +0800" stop="20261004174730 +0800" channel="CCTV7"><title lang="zh">绝密使命9/32</title>
   </programme>
-  <programme start="20261004174730 +0800" stop="20261004175400 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-给家报个平安（2026国庆）</title><desc>中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
+  <programme start="20261004174730 +0800" stop="20261004175400 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-给家报个平安（2026国庆）</title><desc lang="zh">中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
   </programme>
-  <programme start="20261004175400 +0800" stop="20261004190000 +0800" channel="CCTV7"><title lang="zh">讲武堂-2026-40</title><desc>中央电视台国防军事频道战略谈话节目，由魏东升、罗旭主持。每期围绕重大历史战役、国防战略、军事变革等话题，邀请军事专家进行深度解读，通过演播室访谈、战例推演、史料展示等形式，以史鉴今，传播国防知识。每周六17:55首播，时长55分钟。</desc>
+  <programme start="20261004175400 +0800" stop="20261004190000 +0800" channel="CCTV7"><title lang="zh">讲武堂-2026-40</title><desc lang="zh">中央电视台国防军事频道战略谈话节目，由魏东升、罗旭主持。每期围绕重大历史战役、国防战略、军事变革等话题，邀请军事专家进行深度解读，通过演播室访谈、战例推演、史料展示等形式，以史鉴今，传播国防知识。每周六17:55首播，时长55分钟。</desc>
   </programme>
-  <programme start="20261004190000 +0800" stop="20261004193300 +0800" channel="CCTV7"><title lang="zh">新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261004190000 +0800" stop="20261004193300 +0800" channel="CCTV7"><title lang="zh">新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
   </programme>
-  <programme start="20261004193300 +0800" stop="20261004200300 +0800" channel="CCTV7"><title lang="zh">军事报道</title><desc>中央电视台国防军事频道新闻资讯栏目，每天20:07播出，时长25分钟。栏目立足全军，面向社会，报道军队建设重大成就、军事训练新进展、国防动员工作动态，展现强军兴军生动实践。设置“强军先锋”“练兵一线”等板块，是了解人民军队建设的重要窗口。口号：“聚焦强军兴军，展现大国军队风采。”</desc>
+  <programme start="20261004193300 +0800" stop="20261004200300 +0800" channel="CCTV7"><title lang="zh">军事报道</title><desc lang="zh">中央电视台国防军事频道新闻资讯栏目，每天20:07播出，时长25分钟。栏目立足全军，面向社会，报道军队建设重大成就、军事训练新进展、国防动员工作动态，展现强军兴军生动实践。设置“强军先锋”“练兵一线”等板块，是了解人民军队建设的重要窗口。口号：“聚焦强军兴军，展现大国军队风采。”</desc>
   </programme>
-  <programme start="20261004200300 +0800" stop="20261004200900 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-强军战歌（2026国庆）</title><desc>中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
+  <programme start="20261004200300 +0800" stop="20261004200900 +0800" channel="CCTV7"><title lang="zh">国防微视频-军歌嘹亮-强军战歌（2026国庆）</title><desc lang="zh">中央电视台国防军事频道军营文化栏目，以“唱响强军战歌，激扬奋进力量”为理念，集中展播部队官兵创作的军营MV作品。内容涵盖官兵自导自演的强军战歌、军旅民谣、抒情作品等，通过实景镜头与军营生活画面结合，生动展现新时代官兵的精神风貌与家国情怀。在国防军事频道《军营的味道》等节目时段播出。口号：“用歌声记录迷彩青春，用旋律传递强军力量。”</desc>
   </programme>
-  <programme start="20261004200900 +0800" stop="20261004204430 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-277</title><desc>中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
+  <programme start="20261004200900 +0800" stop="20261004204430 +0800" channel="CCTV7"><title lang="zh">防务新观察-2026-277</title><desc lang="zh">中央电视台国防军事频道深度访谈栏目，以国际战略视野聚焦全球防务动态与地区安全热点。每期邀请军事专家、国际问题学者，通过视频连线、数据推演等形式，深度解读军事动态、剖析战略博弈。周一至周五20:09首播。</desc>
   </programme>
-  <programme start="20261004204430 +0800" stop="20261004211430 +0800" channel="CCTV7"><title lang="zh">时光军史馆-2026-40</title><desc>中央电视台国防军事频道军史专题栏目，以“铭记光辉历史，传承红色基因”为宗旨，通过珍贵影像、文物档案、亲历者口述，全景展现人民军队从南昌起义到新时代的辉煌历程。每期聚焦一个重大历史事件或英雄部队，由军事专家深度解读军史细节，弘扬革命英雄主义精神。在《讲武堂》等时段播出。</desc>
+  <programme start="20261004204430 +0800" stop="20261004211430 +0800" channel="CCTV7"><title lang="zh">时光军史馆-2026-40</title><desc lang="zh">中央电视台国防军事频道军史专题栏目，以“铭记光辉历史，传承红色基因”为宗旨，通过珍贵影像、文物档案、亲历者口述，全景展现人民军队从南昌起义到新时代的辉煌历程。每期聚焦一个重大历史事件或英雄部队，由军事专家深度解读军史细节，弘扬革命英雄主义精神。在《讲武堂》等时段播出。</desc>
   </programme>
-  <programme start="20261004211430 +0800" stop="20261004215245 +0800" channel="CCTV7"><title lang="zh">兵器面面观-环球兵器大事件-2026-40</title><desc>中央电视台国防军事频道兵器科技栏目，2020年开播。聚焦现代兵器科技前沿，展示国内外新型武器装备，通过动画演示、专家解读、实拍画面等形式，解析兵器性能、研发历程与战术应用。内容涵盖航空、航天、舰船、电子战等领域，每周一至周五18:09首播。口号：“知兵器，知和平。”</desc>
+  <programme start="20261004211430 +0800" stop="20261004215245 +0800" channel="CCTV7"><title lang="zh">兵器面面观-环球兵器大事件-2026-40</title><desc lang="zh">中央电视台国防军事频道兵器科技栏目，2020年开播。聚焦现代兵器科技前沿，展示国内外新型武器装备，通过动画演示、专家解读、实拍画面等形式，解析兵器性能、研发历程与战术应用。内容涵盖航空、航天、舰船、电子战等领域，每周一至周五18:09首播。口号：“知兵器，知和平。”</desc>
   </programme>
   <programme start="20261004215245 +0800" stop="20261004224315 +0800" channel="CCTV7"><title lang="zh">五星剧场-特别行动20/32</title>
   </programme>
   <programme start="20261004224315 +0800" stop="20261004233945 +0800" channel="CCTV7"><title lang="zh">五星剧场-特别行动21/32</title>
   </programme>
-  <programme start="20261004233945 +0800" stop="20261004235900 +0800" channel="CCTV7"><title lang="zh">兵器面面观-环球兵器大事件-2026-40</title><desc>中央电视台国防军事频道兵器科技栏目，2020年开播。聚焦现代兵器科技前沿，展示国内外新型武器装备，通过动画演示、专家解读、实拍画面等形式，解析兵器性能、研发历程与战术应用。内容涵盖航空、航天、舰船、电子战等领域，每周一至周五18:09首播。口号：“知兵器，知和平。”</desc>
+  <programme start="20261004233945 +0800" stop="20261004235900 +0800" channel="CCTV7"><title lang="zh">兵器面面观-环球兵器大事件-2026-40</title><desc lang="zh">中央电视台国防军事频道兵器科技栏目，2020年开播。聚焦现代兵器科技前沿，展示国内外新型武器装备，通过动画演示、专家解读、实拍画面等形式，解析兵器性能、研发历程与战术应用。内容涵盖航空、航天、舰船、电子战等领域，每周一至周五18:09首播。口号：“知兵器，知和平。”</desc>
   </programme>
   <programme start="20261004000450 +0800" stop="20261004005050 +0800" channel="CCTV8"><title lang="zh">淬火年代25/34</title>
   </programme>
@@ -4585,11 +4591,11 @@
   </programme>
   <programme start="20261004111200 +0800" stop="20261004120000 +0800" channel="CCTV风云剧场"><title lang="zh">玫瑰的故事-4/38</title>
   </programme>
-  <programme start="20261004120000 +0800" stop="20261004124600 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季11(许可证版)</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20261004120000 +0800" stop="20261004124600 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季11(许可证版)</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20261004124600 +0800" stop="20261004133200 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季12(许可证版)</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20261004124600 +0800" stop="20261004133200 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季12(许可证版)</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20261004133200 +0800" stop="20261004134000 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季13(许可证版)</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20261004133200 +0800" stop="20261004134000 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季13(许可证版)</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261004134000 +0800" stop="20261004142500 +0800" channel="CCTV风云剧场"><title lang="zh">风云剧场-红带协会第一季10(许可证版)</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
@@ -4604,6 +4610,8 @@
   <programme start="20261004175400 +0800" stop="20261004175600 +0800" channel="CCTV风云剧场"><title lang="zh">玫瑰的故事-15/38</title>
   </programme>
   <programme start="20261004175600 +0800" stop="20261004184300 +0800" channel="CCTV风云剧场"><title lang="zh">北上</title><desc lang="zh">2007年，花街运河边，少年谢望和因成绩下滑被母亲训斥。他的邻居马思艺家搬来花街，这个混血女孩的出现引起众人关注。谢望和与伙伴夏凤华、邵星池在运河边玩耍时，意外发现一条搁浅的船，船上藏着神秘的信件。周宴临在运河边经营“运河人家”饭店，女儿周海阔与伙伴们一起长大。区长顾阿莲为儿子陈睿转学到花街，六个少年因运河结缘。</desc>
+  </programme>
+  <programme start="20261004184300 +0800" stop="20261004193300 +0800" channel="CCTV风云剧场"><title lang="zh">北上</title><desc>2007年，花街运河边，少年谢望和因成绩下滑被母亲训斥。他的邻居马思艺家搬来花街，这个混血女孩的出现引起众人关注。谢望和与伙伴夏凤华、邵星池在运河边玩耍时，意外发现一条搁浅的船，船上藏着神秘的信件。周宴临在运河边经营“运河人家”饭店，女儿周海阔与伙伴们一起长大。区长顾阿莲为儿子陈睿转学到花街，六个少年因运河结缘。</desc>
   </programme>
   <programme start="20261004193500 +0800" stop="20261004202300 +0800" channel="CCTV风云剧场"><title lang="zh">蛮好的人生-11/36</title>
   </programme>
@@ -13281,6 +13289,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   <programme start="20261004232500 +0800" stop="20261004235500 +0800" channel="tvN"><title lang="zh">Program rozrywkowy</title>
   </programme>
   <programme start="20261004235500 +0800" stop="20261005010000 +0800" channel="tvN"><title lang="zh">Nowa Szelągowska | S01E2/8</title>
+  </programme>
+  <programme start="20261004000000 +0800" stop="20261004004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261004012000 +0800" stop="20261004020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261004000001 +0800" stop="20261004001000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
@@ -25579,7 +25591,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004005700 +0800" stop="20261004011100 +0800" channel="浙江民生"><title lang="zh">TC-3广告（10.1）</title>
   </programme>
-  <programme start="20261004011100 +0800" stop="20261004012400 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.1）</title>
+  <programme start="20261004011100 +0800" stop="20261004012300 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.2）</title>
+  </programme>
+  <programme start="20261004012300 +0800" stop="20261004012400 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.2）</title>
   </programme>
   <programme start="20261004012400 +0800" stop="20261004014700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.1）</title>
   </programme>
@@ -25591,9 +25605,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004032000 +0800" stop="20261004032500 +0800" channel="浙江民生"><title lang="zh">1818黄金眼2026-273（公众版高清）</title>
   </programme>
-  <programme start="20261004032500 +0800" stop="20261004033300 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.1）</title>
+  <programme start="20261004032500 +0800" stop="20261004033200 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.2）</title>
   </programme>
-  <programme start="20261004033300 +0800" stop="20261004034500 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.1）</title>
+  <programme start="20261004033200 +0800" stop="20261004034400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.2）</title>
+  </programme>
+  <programme start="20261004034400 +0800" stop="20261004034500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.2）</title>
   </programme>
   <programme start="20261004034500 +0800" stop="20261004035200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.1）</title>
   </programme>
@@ -25621,7 +25637,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004070700 +0800" stop="20261004071700 +0800" channel="浙江民生"><title lang="zh">1818黄金屋2026-273（高清版）</title>
   </programme>
-  <programme start="20261004071700 +0800" stop="20261004071900 +0800" channel="浙江民生"><title lang="zh">宣传片A（6.1）</title>
+  <programme start="20261004071700 +0800" stop="20261004071800 +0800" channel="浙江民生"><title lang="zh">《山河共此心》宣传片（10.2）</title>
+  </programme>
+  <programme start="20261004071800 +0800" stop="20261004071900 +0800" channel="浙江民生"><title lang="zh">宣传片C（6.1）</title>
   </programme>
   <programme start="20261004071900 +0800" stop="20261004072400 +0800" channel="浙江民生"><title lang="zh">钱塘老娘舅2026-273（高清版）</title>
   </programme>
@@ -25635,9 +25653,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004080000 +0800" stop="20261004080500 +0800" channel="浙江民生"><title lang="zh">1818黄金眼2026-273（公众版高清）</title>
   </programme>
-  <programme start="20261004080500 +0800" stop="20261004081300 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.1）</title>
+  <programme start="20261004080500 +0800" stop="20261004081200 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.2）</title>
   </programme>
-  <programme start="20261004081300 +0800" stop="20261004082500 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.1）</title>
+  <programme start="20261004081200 +0800" stop="20261004082400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.2）</title>
+  </programme>
+  <programme start="20261004082400 +0800" stop="20261004082500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.2）</title>
   </programme>
   <programme start="20261004082500 +0800" stop="20261004083200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.1）</title>
   </programme>
@@ -25661,7 +25681,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004101100 +0800" stop="20261004102600 +0800" channel="浙江民生"><title lang="zh">午夜说亮话2026-273（匠心15）</title>
   </programme>
-  <programme start="20261004102600 +0800" stop="20261004102800 +0800" channel="浙江民生"><title lang="zh">宣传片A（6.1）</title>
+  <programme start="20261004102600 +0800" stop="20261004102700 +0800" channel="浙江民生"><title lang="zh">《山河共此心》宣传片（10.2）</title>
+  </programme>
+  <programme start="20261004102700 +0800" stop="20261004102800 +0800" channel="浙江民生"><title lang="zh">宣传片C（6.1）</title>
   </programme>
   <programme start="20261004102800 +0800" stop="20261004103200 +0800" channel="浙江民生"><title lang="zh">TD-9广告（10.1）</title>
   </programme>
@@ -25683,7 +25705,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004113600 +0800" stop="20261004114100 +0800" channel="浙江民生"><title lang="zh">老人鞋专题C（9.28）</title>
   </programme>
-  <programme start="20261004114100 +0800" stop="20261004114300 +0800" channel="浙江民生"><title lang="zh">宣传片B（6.1）</title>
+  <programme start="20261004114100 +0800" stop="20261004114200 +0800" channel="浙江民生"><title lang="zh">《山河共此心》宣传片（10.2）</title>
+  </programme>
+  <programme start="20261004114200 +0800" stop="20261004114300 +0800" channel="浙江民生"><title lang="zh">宣传片C（6.1）</title>
   </programme>
   <programme start="20261004114300 +0800" stop="20261004115300 +0800" channel="浙江民生"><title lang="zh">MS专题2026-273（一家和兴10）</title>
   </programme>
@@ -25699,7 +25723,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004122700 +0800" stop="20261004124100 +0800" channel="浙江民生"><title lang="zh">TC-3广告（10.1）</title>
   </programme>
-  <programme start="20261004124100 +0800" stop="20261004125400 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.1）</title>
+  <programme start="20261004124100 +0800" stop="20261004125300 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.2）</title>
+  </programme>
+  <programme start="20261004125300 +0800" stop="20261004125400 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.2）</title>
   </programme>
   <programme start="20261004125400 +0800" stop="20261004131700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.1）</title>
   </programme>
@@ -26561,6 +26587,16 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004235900 +0800" stop="20261005000000 +0800" channel="深圳卫视"><title lang="zh">直财经</title><desc>深圳卫视全媒体财经观察栏目，以“直面变化，经略未来”为理念，聚焦全球经贸热点，连线国际国内权威专家学者解读最新经济趋势，以直接简洁的表达方式分析经济现象，倡导“直接点”的沟通风格，用10分钟时间帮助观众洞悉前沿经济趋势。</desc>
   </programme>
+  <programme start="20261004000000 +0800" stop="20261004003000 +0800" channel="游戏风云"><title lang="zh">休闲街区:渡神纪(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261004003000 +0800" stop="20261004010000 +0800" channel="游戏风云"><title lang="zh">休闲街区:渡神纪(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261004010000 +0800" stop="20261004011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:疯狂动物园(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261004011500 +0800" stop="20261004013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅:海绵宝宝(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261004013000 +0800" stop="20261004014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:海绵宝宝(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261004001700 +0800" stop="20261004010400 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261004010400 +0800" stop="20261004015300 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
@@ -26829,35 +26865,35 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261004220000 +0800" stop="20261004223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261004050000 +0800" stop="20261004054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004050000 +0800" stop="20261004054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261004081500 +0800" stop="20261004093200 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20261004114000 +0800" stop="20261004121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004114000 +0800" stop="20261004121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261004121600 +0800" stop="20261004132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20261004132100 +0800" stop="20261004133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004132100 +0800" stop="20261004133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261004155000 +0800" stop="20261004172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004155000 +0800" stop="20261004172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261004172000 +0800" stop="20261004175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004172000 +0800" stop="20261004175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261004175000 +0800" stop="20261004180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20261004180900 +0800" stop="20261004191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20261004191100 +0800" stop="20261004191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261004191100 +0800" stop="20261004191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261004191300 +0800" stop="20261004191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20261004191300 +0800" stop="20261004191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20261004191500 +0800" stop="20261004194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
-  <programme start="20261004194000 +0800" stop="20261004203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004194000 +0800" stop="20261004203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261004203200 +0800" stop="20261004204500 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20261004204500 +0800" stop="20261004211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261004204500 +0800" stop="20261004211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261004211500 +0800" stop="20261004232000 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>

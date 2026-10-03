@@ -109,6 +109,8 @@
   </channel>
   <channel id="北京影视"><display-name lang="zh">北京影视</display-name><display-name lang="zh">北京影视频道</display-name>
   </channel>
+  <channel id="安多卫视"><display-name lang="zh">安多卫视</display-name>
+  </channel>
   <channel id="动作影院"><display-name lang="zh">动作影院</display-name><display-name lang="zh">动作电影</display-name>
   </channel>
   <channel id="NewTV爱情喜剧"><display-name lang="zh">NewTV爱情喜剧</display-name>
@@ -30048,6 +30050,36 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   </programme>
   <programme start="20261003230500 +0800" stop="20261003235900 +0800" channel="宁波电视台"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
+  <programme start="20261003120000 +0800" stop="20261003122100 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
+  <programme start="20261003122100 +0800" stop="20261003125100 +0800" channel="安多卫视"><title lang="zh">新闻聚焦</title>
+  </programme>
+  <programme start="20261003125100 +0800" stop="20261003150000 +0800" channel="安多卫视"><title lang="zh">外加风云</title>
+  </programme>
+  <programme start="20261003150000 +0800" stop="20261003170100 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261003170100 +0800" stop="20261003183300 +0800" channel="安多卫视"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20261003183300 +0800" stop="20261003185800 +0800" channel="安多卫视"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20261003185800 +0800" stop="20261003193000 +0800" channel="安多卫视"><title lang="zh">经典是怎样练成的</title>
+  </programme>
+  <programme start="20261003193000 +0800" stop="20261003195500 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
+  <programme start="20261003195500 +0800" stop="20261003195800 +0800" channel="安多卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261003195800 +0800" stop="20261003203000 +0800" channel="安多卫视"><title lang="zh">写真</title>
+  </programme>
+  <programme start="20261003203000 +0800" stop="20261003205000 +0800" channel="安多卫视"><title lang="zh">我住江之头</title>
+  </programme>
+  <programme start="20261003205000 +0800" stop="20261003223000 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261003223000 +0800" stop="20261003230500 +0800" channel="安多卫视"><title lang="zh">藏语中央新闻联播</title>
+  </programme>
+  <programme start="20261003230500 +0800" stop="20261003235300 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261003235300 +0800" stop="20261003235900 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
   <programme start="20261003000300 +0800" stop="20261003002600 +0800" channel="安徽公共"><title lang="zh">新闻第一线</title><desc lang="zh">由新闻现场、看世界、民生大看台、真实事件四大板块构成。六十分钟的新闻热播时间，荟萃全国各地的新闻现场，捕捉稍纵即逝的动感瞬间。</desc>
   </programme>
   <programme start="20261003002600 +0800" stop="20261003013300 +0800" channel="安徽公共"><title lang="zh">新闻故事会</title><desc lang="zh">小人物 大社会 小故事 大道理 本岛首档故事类新闻专题节目 新闻有真理 我们有故事</desc>
@@ -54165,6 +54197,8 @@ Except that... he has a strange gift... or curse... As soon as someone says the 
   <programme start="20261003234000 +0800" stop="20261003235000 +0800" channel="金鹰卡通"><title lang="zh">熊出没之小小世界(35)</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
   </programme>
   <programme start="20261003235000 +0800" stop="20261004000000 +0800" channel="金鹰卡通"><title lang="zh">熊出没之小小世界(36)</title><desc>《熊出没》系列第14季作品，共52集。神奇宝物意外散落狗熊岭，这些拥有神秘能量的宝物极具危险性和破坏性。为保护森林，熊大、熊二和光头强展开寻宝行动，对抗意图抢夺宝物、修复许愿树恢复青春的反派金豪及其手下大个子、大马猴、二狗。</desc>
+  </programme>
+  <programme start="20261003000000 +0800" stop="20261003003000 +0800" channel="金鹰纪实"><title lang="zh">拳行天下</title><desc>1996年香港动作电影，由香港与内地合拍。美国拳手杰森访华参加国际自由搏击大赛，在训练中结识了中国姑娘马丽。香港老板操纵比赛并想借机杀害与马丽关系密切的杰森。最终，杰森在小和尚的帮助下战胜对手，也赢得了马丽的爱情。</desc>
   </programme>
   <programme start="20261003003000 +0800" stop="20261003010000 +0800" channel="金鹰纪实"><title lang="zh">新闻大求真</title><desc>《新闻大求真》是一档以科学实验为主题的新闻节目，通过实验验证和科学解释，向观众传递科学知识和真相。本节目为节选内容，聚焦特定的科学话题，通过生动的实验和专业的讲解，帮助观众了解科学原理和生活常识。</desc>
   </programme>

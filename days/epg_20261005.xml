@@ -565,6 +565,8 @@
   </channel>
   <channel id="CCTV7"><display-name lang="zh">CCTV-7 国防军事</display-name><display-name lang="zh">CCTV7国防军事</display-name><display-name lang="zh">CHANNEL00000318</display-name><display-name lang="zh">CCTV 7</display-name><display-name lang="zh">CCTV7 高清</display-name><display-name lang="zh">CCTV-7(高清)</display-name><display-name lang="zh">CCTV-7高清</display-name><display-name lang="zh">CCTV7</display-name>
   </channel>
+  <channel id="康巴卫视"><display-name lang="zh">康巴卫视</display-name>
+  </channel>
   <channel id="睢宁三农"><display-name lang="zh">睢宁三农</display-name>
   </channel>
   <channel id="beIN SPORTS 2"><display-name lang="zh">beIN SPORTS 2</display-name><display-name lang="zh">BEINSPORTS2</display-name><display-name lang="zh">beIN Sports 2</display-name>
@@ -850,6 +852,8 @@
   <channel id="德州生活"><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">德州经济生活</display-name><display-name lang="zh">CHANNEL00000207</display-name><display-name lang="zh">德州生活</display-name>
   </channel>
   <channel id="无锡新闻综合"><display-name lang="zh">无锡新闻综合</display-name>
+  </channel>
+  <channel id="求索频道"><display-name lang="zh">求索频道</display-name>
   </channel>
   <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
   </channel>
@@ -29858,6 +29862,88 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005233200 +0800" stop="20261006001700 +0800" channel="广西卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
+  <programme start="20261005000000 +0800" stop="20261005002700 +0800" channel="康巴卫视"><title lang="zh">深夜剧场1（首播）</title>
+  </programme>
+  <programme start="20261005002700 +0800" stop="20261005011100 +0800" channel="康巴卫视"><title lang="zh">深夜剧场2（首播）</title>
+  </programme>
+  <programme start="20261005011100 +0800" stop="20261005014100 +0800" channel="康巴卫视"><title lang="zh">雪域高原（重播）</title>
+  </programme>
+  <programme start="20261005014100 +0800" stop="20261005022500 +0800" channel="康巴卫视"><title lang="zh">黄金剧场1（重播）</title>
+  </programme>
+  <programme start="20261005022500 +0800" stop="20261005031100 +0800" channel="康巴卫视"><title lang="zh">黄金剧场2（重播）</title>
+  </programme>
+  <programme start="20261005031100 +0800" stop="20261005033200 +0800" channel="康巴卫视"><title lang="zh">健康高原（重播）</title>
+  </programme>
+  <programme start="20261005033200 +0800" stop="20261005040200 +0800" channel="康巴卫视"><title lang="zh">央视新闻联播译制版（重播）</title>
+  </programme>
+  <programme start="20261005040200 +0800" stop="20261005041800 +0800" channel="康巴卫视"><title lang="zh">康巴卫视新闻（重播）</title>
+  </programme>
+  <programme start="20261005041800 +0800" stop="20261005044400 +0800" channel="康巴卫视"><title lang="zh">雪域高原（重播）</title>
+  </programme>
+  <programme start="20261005044400 +0800" stop="20261005054400 +0800" channel="康巴卫视"><title lang="zh">岗日杂塘（重播）</title>
+  </programme>
+  <programme start="20261005054400 +0800" stop="20261005063000 +0800" channel="康巴卫视"><title lang="zh">凌晨剧场 1</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20261005063000 +0800" stop="20261005070000 +0800" channel="康巴卫视"><title lang="zh">格桑花开（重播）</title>
+  </programme>
+  <programme start="20261005070000 +0800" stop="20261005073000 +0800" channel="康巴卫视"><title lang="zh">国歌+央视新闻联播译制版（重�...</title>
+  </programme>
+  <programme start="20261005073000 +0800" stop="20261005074700 +0800" channel="康巴卫视"><title lang="zh">康巴卫视新闻（重播）</title>
+  </programme>
+  <programme start="20261005074700 +0800" stop="20261005081300 +0800" channel="康巴卫视"><title lang="zh">健康高原（重播）</title>
+  </programme>
+  <programme start="20261005081300 +0800" stop="20261005084400 +0800" channel="康巴卫视"><title lang="zh">格桑花开（重播）</title>
+  </programme>
+  <programme start="20261005084400 +0800" stop="20261005092000 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005092000 +0800" stop="20261005103300 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005103300 +0800" stop="20261005112000 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005112000 +0800" stop="20261005121800 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005121800 +0800" stop="20261005130000 +0800" channel="康巴卫视"><title lang="zh">雪域高原（重播）</title>
+  </programme>
+  <programme start="20261005130000 +0800" stop="20261005134400 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005134400 +0800" stop="20261005142000 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005142000 +0800" stop="20261005153200 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005153200 +0800" stop="20261005162000 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005162000 +0800" stop="20261005171100 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005171100 +0800" stop="20261005174100 +0800" channel="康巴卫视"><title lang="zh">康巴剧场</title>
+  </programme>
+  <programme start="20261005174100 +0800" stop="20261005175400 +0800" channel="康巴卫视"><title lang="zh">快乐普通话（首播）</title>
+  </programme>
+  <programme start="20261005175400 +0800" stop="20261005180500 +0800" channel="康巴卫视"><title lang="zh">动画城1（首播）</title>
+  </programme>
+  <programme start="20261005180500 +0800" stop="20261005181900 +0800" channel="康巴卫视"><title lang="zh">动画城2（首播）</title>
+  </programme>
+  <programme start="20261005181900 +0800" stop="20261005184700 +0800" channel="康巴卫视"><title lang="zh">康巴欢乐汇（首播）</title>
+  </programme>
+  <programme start="20261005184700 +0800" stop="20261005192100 +0800" channel="康巴卫视"><title lang="zh">健康高原+天气预报（首播）</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261005192100 +0800" stop="20261005194500 +0800" channel="康巴卫视"><title lang="zh">启米的朋友第二季（首播）</title>
+  </programme>
+  <programme start="20261005194500 +0800" stop="20261005203000 +0800" channel="康巴卫视"><title lang="zh">黄金剧场1（首播）</title>
+  </programme>
+  <programme start="20261005203000 +0800" stop="20261005211500 +0800" channel="康巴卫视"><title lang="zh">黄金剧场2（首播）</title>
+  </programme>
+  <programme start="20261005211500 +0800" stop="20261005213000 +0800" channel="康巴卫视"><title lang="zh">康巴卫视新闻（首播）</title>
+  </programme>
+  <programme start="20261005213000 +0800" stop="20261005220200 +0800" channel="康巴卫视"><title lang="zh">央视新闻联播译制版（首播）</title>
+  </programme>
+  <programme start="20261005220200 +0800" stop="20261005223800 +0800" channel="康巴卫视"><title lang="zh">天气预报+启米时间（重播）</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261005223800 +0800" stop="20261005230500 +0800" channel="康巴卫视"><title lang="zh">康巴欢乐汇（重播）</title>
+  </programme>
+  <programme start="20261005230500 +0800" stop="20261005235000 +0800" channel="康巴卫视"><title lang="zh">深夜剧场1（首播）</title>
+  </programme>
+  <programme start="20261005235000 +0800" stop="20261006000000 +0800" channel="康巴卫视"><title lang="zh">深夜剧场2（首播）</title>
+  </programme>
   <programme start="20261005003000 +0800" stop="20261005012000 +0800" channel="延边卫视"><title lang="zh">请叫我总监</title>
   </programme>
   <programme start="20261005012000 +0800" stop="20261005043500 +0800" channel="延边卫视"><title lang="zh">勇敢的心2</title>
@@ -33296,6 +33382,92 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005231000 +0800" stop="20261006000000 +0800" channel="求索纪录"><title lang="zh">翻新老爷车美梦成真Ⅱ(2)</title>
   </programme>
+  <programme start="20261005000000 +0800" stop="20261005000500 +0800" channel="求索频道"><title lang="zh">5分钟宣传包</title>
+  </programme>
+  <programme start="20261005000500 +0800" stop="20261005003500 +0800" channel="求索频道"><title lang="zh">我与大运河1</title>
+  </programme>
+  <programme start="20261005003500 +0800" stop="20261005005500 +0800" channel="求索频道"><title lang="zh">我与大运河2</title>
+  </programme>
+  <programme start="20261005005500 +0800" stop="20261005012000 +0800" channel="求索频道"><title lang="zh">我与大运河3</title>
+  </programme>
+  <programme start="20261005012000 +0800" stop="20261005014500 +0800" channel="求索频道"><title lang="zh">我与大运河4</title>
+  </programme>
+  <programme start="20261005014500 +0800" stop="20261005021000 +0800" channel="求索频道"><title lang="zh">我与大运河5</title>
+  </programme>
+  <programme start="20261005021000 +0800" stop="20261005023500 +0800" channel="求索频道"><title lang="zh">我与大运河6</title>
+  </programme>
+  <programme start="20261005023500 +0800" stop="20261005030000 +0800" channel="求索频道"><title lang="zh">发现南京1</title>
+  </programme>
+  <programme start="20261005030000 +0800" stop="20261005032500 +0800" channel="求索频道"><title lang="zh">发现南京1</title>
+  </programme>
+  <programme start="20261005032500 +0800" stop="20261005033000 +0800" channel="求索频道"><title lang="zh">5分钟宣传包</title>
+  </programme>
+  <programme start="20261005033000 +0800" stop="20261005035500 +0800" channel="求索频道"><title lang="zh">发现南京2</title>
+  </programme>
+  <programme start="20261005035500 +0800" stop="20261005042000 +0800" channel="求索频道"><title lang="zh">发现南京2</title>
+  </programme>
+  <programme start="20261005042000 +0800" stop="20261005044500 +0800" channel="求索频道"><title lang="zh">我家城墙五千岁1,2,3</title>
+  </programme>
+  <programme start="20261005044500 +0800" stop="20261005051000 +0800" channel="求索频道"><title lang="zh">我家城墙五千岁1,2,3</title>
+  </programme>
+  <programme start="20261005051000 +0800" stop="20261005053500 +0800" channel="求索频道"><title lang="zh">我家城墙五千岁4,5,6</title>
+  </programme>
+  <programme start="20261005053500 +0800" stop="20261005060000 +0800" channel="求索频道"><title lang="zh">我家城墙五千岁4,5,6</title>
+  </programme>
+  <programme start="20261005060000 +0800" stop="20261005060500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005060500 +0800" stop="20261005065500 +0800" channel="求索频道"><title lang="zh">游戏星球4</title>
+  </programme>
+  <programme start="20261005065500 +0800" stop="20261005074500 +0800" channel="求索频道"><title lang="zh">动物奇门功夫33&amp;34</title>
+  </programme>
+  <programme start="20261005074500 +0800" stop="20261005083500 +0800" channel="求索频道"><title lang="zh">锦绣山河</title>
+  </programme>
+  <programme start="20261005083500 +0800" stop="20261005092500 +0800" channel="求索频道"><title lang="zh">自己动手做7&amp;8</title>
+  </programme>
+  <programme start="20261005092500 +0800" stop="20261005093000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005093000 +0800" stop="20261005102000 +0800" channel="求索频道"><title lang="zh">名人美食大战2-7&amp;2-8</title>
+  </programme>
+  <programme start="20261005102000 +0800" stop="20261005111000 +0800" channel="求索频道"><title lang="zh">再见灰熊4</title>
+  </programme>
+  <programme start="20261005111000 +0800" stop="20261005120000 +0800" channel="求索频道"><title lang="zh">翻新老爷车 美梦成真2-4</title>
+  </programme>
+  <programme start="20261005120000 +0800" stop="20261005120500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005120500 +0800" stop="20261005125500 +0800" channel="求索频道"><title lang="zh">业余厨师大作战3-1</title>
+  </programme>
+  <programme start="20261005125500 +0800" stop="20261005134500 +0800" channel="求索频道"><title lang="zh">阿拉斯加造屋家9-1</title>
+  </programme>
+  <programme start="20261005134500 +0800" stop="20261005143500 +0800" channel="求索频道"><title lang="zh">圆满婚纱店1&amp;2</title>
+  </programme>
+  <programme start="20261005143500 +0800" stop="20261005152500 +0800" channel="求索频道"><title lang="zh">北美大地7【7】</title>
+  </programme>
+  <programme start="20261005152500 +0800" stop="20261005153000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005153000 +0800" stop="20261005162000 +0800" channel="求索频道"><title lang="zh">航向南极洲3&amp;4</title>
+  </programme>
+  <programme start="20261005162000 +0800" stop="20261005171000 +0800" channel="求索频道"><title lang="zh">料理擂台1</title>
+  </programme>
+  <programme start="20261005171000 +0800" stop="20261005180000 +0800" channel="求索频道"><title lang="zh">挑战专家3【6】</title>
+  </programme>
+  <programme start="20261005180000 +0800" stop="20261005180500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005180500 +0800" stop="20261005185500 +0800" channel="求索频道"><title lang="zh">游戏星球5</title>
+  </programme>
+  <programme start="20261005185500 +0800" stop="20261005194500 +0800" channel="求索频道"><title lang="zh">动物奇门功夫35&amp;36</title>
+  </programme>
+  <programme start="20261005194500 +0800" stop="20261005203500 +0800" channel="求索频道"><title lang="zh">锦绣山河</title>
+  </programme>
+  <programme start="20261005203500 +0800" stop="20261005212500 +0800" channel="求索频道"><title lang="zh">自己动手做9&amp;迷上冥王星</title>
+  </programme>
+  <programme start="20261005212500 +0800" stop="20261005213000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261005213000 +0800" stop="20261005222000 +0800" channel="求索频道"><title lang="zh">名人美食大战2-9&amp;2-10</title>
+  </programme>
+  <programme start="20261005222000 +0800" stop="20261005231000 +0800" channel="求索频道"><title lang="zh">再见灰熊5</title>
+  </programme>
+  <programme start="20261005231000 +0800" stop="20261006000000 +0800" channel="求索频道"><title lang="zh">翻新老爷车 美梦成真2-5</title>
+  </programme>
   <programme start="20261005000000 +0800" stop="20261005001500 +0800" channel="江苏体育"><title lang="zh">味解乡愁</title><desc>江苏省广播电视总台于2017年策划推出的50集美食文化系列专题片，是江苏发展大会的官方宣传项目。节目以纪实手法记录人与家乡美食的情感故事，通过寻访有异乡经历者或当地长者、手艺人，挖掘美食背后的历史文化与乡愁记忆，展现淮扬菜及江苏各地纯正的地方风味。第一集聚焦扬州包子，讲述77岁淮扬菜泰斗居长龙旅日30年后对家乡包子的思念。</desc>
   </programme>
   <programme start="20261005001500 +0800" stop="20261005004000 +0800" channel="江苏体育"><title lang="zh">勇往直前乐拍拍</title><desc>2018年湖北卫视与江苏卫视联合推出的大型户外水上闯关真人秀。节目响应全民健身号召，赛道全长100米、宽35米，男女赛道各设8个关卡，其中第一、四、六、八关为男女共同关卡。选手需在规定时间内完成所有关卡并按下终点按钮即算闯关成功，每通过一关即可获得相应奖品。节目还设有“信心指数挑战”环节，选手可在闯关前预测第1、4、6、8关中的任意一关，若成功拍下手牌并过关，则该关奖品翻倍。节目于2018年7月15日首播，10月6日收官，共96期，每日中午在湖北卫视、江苏卫视同步播出。</desc>
@@ -34094,27 +34266,27 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005231300 +0800" stop="20261006000000 +0800" channel="江西新闻"><title lang="zh">跨越时空的回信</title>
   </programme>
-  <programme start="20261005062500 +0800" stop="20261005100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005062500 +0800" stop="20261005100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261005100000 +0800" stop="20261005120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005100000 +0800" stop="20261005120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261005120000 +0800" stop="20261005170000 +0800" channel="江西经济"><title lang="zh">情感剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005120000 +0800" stop="20261005170000 +0800" channel="江西经济"><title lang="zh">情感剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261005170000 +0800" stop="20261005184800 +0800" channel="江西经济"><title lang="zh">XR元宇宙健竞大赛</title>
   </programme>
-  <programme start="20261005184800 +0800" stop="20261005190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc>垫片，播放中华人民共和国国歌。</desc>
+  <programme start="20261005184800 +0800" stop="20261005190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20261005190000 +0800" stop="20261005203500 +0800" channel="江西经济"><title lang="zh">天天健康</title>
   </programme>
-  <programme start="20261005203500 +0800" stop="20261006000000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005203500 +0800" stop="20261006000000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261005005000 +0800" stop="20261005060000 +0800" channel="江西都市"><title lang="zh">通宵剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20261005005000 +0800" stop="20261005060000 +0800" channel="江西都市"><title lang="zh">通宵剧场</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261005060000 +0800" stop="20261005070000 +0800" channel="江西都市"><title lang="zh">寻味江西</title>
   </programme>
   <programme start="20261005070000 +0800" stop="20261005080000 +0800" channel="江西都市"><title lang="zh">都市现场</title>
   </programme>
-  <programme start="20261005080000 +0800" stop="20261005114000 +0800" channel="江西都市"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005080000 +0800" stop="20261005114000 +0800" channel="江西都市"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261005114000 +0800" stop="20261005130000 +0800" channel="江西都市"><title lang="zh">都市现场</title>
   </programme>
@@ -34122,7 +34294,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005140000 +0800" stop="20261005143000 +0800" channel="江西都市"><title lang="zh">都市情缘</title>
   </programme>
-  <programme start="20261005143000 +0800" stop="20261005170000 +0800" channel="江西都市"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005143000 +0800" stop="20261005170000 +0800" channel="江西都市"><title lang="zh">热播剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261005170000 +0800" stop="20261005173000 +0800" channel="江西都市"><title lang="zh">快乐生活一点通</title>
   </programme>
@@ -34134,11 +34306,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005200000 +0800" stop="20261005202000 +0800" channel="江西都市"><title lang="zh">晚间800</title>
   </programme>
-  <programme start="20261005202000 +0800" stop="20261005211000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005202000 +0800" stop="20261005211000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261005211000 +0800" stop="20261005215500 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005211000 +0800" stop="20261005215500 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261005215500 +0800" stop="20261006000000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261005215500 +0800" stop="20261006000000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261005000000 +0800" stop="20261005001500 +0800" channel="汽摩"><title lang="zh">爱车具乐部</title>
   </programme>
@@ -34868,7 +35040,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005080000 +0800" stop="20261005090000 +0800" channel="河北都市"><title lang="zh">365百姓故事汇</title>
   </programme>
-  <programme start="20261005090000 +0800" stop="20261005110000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261005090000 +0800" stop="20261005110000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261005110000 +0800" stop="20261005113000 +0800" channel="河北都市"><title lang="zh">都市315</title>
   </programme>
@@ -34878,7 +35050,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005171000 +0800" stop="20261005184000 +0800" channel="河北都市"><title lang="zh">非常大牌精编版</title>
   </programme>
-  <programme start="20261005184000 +0800" stop="20261005190000 +0800" channel="河北都市"><title lang="zh">电视剧: 珠江人家2-3</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261005184000 +0800" stop="20261005190000 +0800" channel="河北都市"><title lang="zh">电视剧: 珠江人家2-3</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261005190000 +0800" stop="20261005193000 +0800" channel="河北都市"><title lang="zh">电视剧: 伪装者62</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -34894,7 +35066,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme start="20261005221000 +0800" stop="20261005230000 +0800" channel="河北都市"><title lang="zh">非常大牌</title>
   </programme>
-  <programme start="20261005230000 +0800" stop="20261006000000 +0800" channel="河北都市"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20261005230000 +0800" stop="20261006000000 +0800" channel="河北都市"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20261005000300 +0800" stop="20261005010800 +0800" channel="河南卫视"><title lang="zh">武林风</title><desc>河南卫视制作的武术搏击类节目，2004年开播，以站立式搏击赛事为核心内容，覆盖全球50多个国家和地区直播。节目以WLF世界自由搏击理事会为赛事体系，涵盖MMA及青少年搏击联赛，弘扬中华武学文化，展现中国力量</desc>
   </programme>

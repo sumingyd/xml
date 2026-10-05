@@ -289,6 +289,8 @@
   </channel>
   <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
   </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
   <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name><display-name lang="zh">湖北综合</display-name>
   </channel>
   <channel id="五莲综合"><display-name lang="zh">五莲综合</display-name><display-name lang="zh">五莲新闻</display-name><display-name lang="zh">5莲新闻</display-name><display-name lang="zh">CHANNEL00001068</display-name>
@@ -13500,7 +13502,9 @@
   </programme>
   <programme start="20261007234500 +0800" stop="20261008000000 +0800" channel="tvN"><title lang="zh">TVNZ 2 Quiz</title>
   </programme>
-  <programme start="20261007000001 +0800" stop="20261007004000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
+  <programme start="20261007000000 +0800" stop="20261007003000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261007003000 +0800" stop="20261007070000 +0800" channel="三沙卫视"><title lang="zh">停机检修</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261007004400 +0800" stop="20261007005400 +0800" channel="东南卫视"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
@@ -21964,7 +21968,7 @@
   </programme>
   <programme start="20261007124000 +0800" stop="20261007131000 +0800" channel="日照科教"><title lang="zh">健康日照</title>
   </programme>
-  <programme start="20261007182000 +0800" stop="20261007193000 +0800" channel="日照科教"><title lang="zh">笑傲江湖（首播）</title><desc>影片改编自金庸小说《笑傲江湖》，讲述了想退出江湖的令狐冲（黄曦彦 饰）被迫卷入武林正邪风波中，意外邂逅了魔教教主东方不败（张雨绮 饰），就此开启共赴修罗场的江湖之旅的故事。</desc>
+  <programme start="20261007182000 +0800" stop="20261007193000 +0800" channel="日照科教"><title lang="zh">笑傲江湖（首播）</title><desc lang="zh">影片改编自金庸小说《笑傲江湖》，讲述了想退出江湖的令狐冲（黄曦彦 饰）被迫卷入武林正邪风波中，意外邂逅了魔教教主东方不败（张雨绮 饰），就此开启共赴修罗场的江湖之旅的故事。</desc>
   </programme>
   <programme start="20261007193000 +0800" stop="20261007200000 +0800" channel="日照科教"><title lang="zh">健康日照（首播）</title>
   </programme>
@@ -24144,17 +24148,17 @@
   </programme>
   <programme start="20261007080000 +0800" stop="20261007090000 +0800" channel="河北都市"><title lang="zh">365百姓故事汇</title>
   </programme>
-  <programme start="20261007090000 +0800" stop="20261007110000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261007090000 +0800" stop="20261007110000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261007110000 +0800" stop="20261007113000 +0800" channel="河北都市"><title lang="zh">都市315</title>
   </programme>
   <programme start="20261007113000 +0800" stop="20261007133000 +0800" channel="河北都市"><title lang="zh">非常大牌午间版</title>
   </programme>
-  <programme start="20261007133000 +0800" stop="20261007171000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261007133000 +0800" stop="20261007171000 +0800" channel="河北都市"><title lang="zh">电视剧:</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261007171000 +0800" stop="20261007184000 +0800" channel="河北都市"><title lang="zh">非常大牌精编版</title>
   </programme>
-  <programme start="20261007184000 +0800" stop="20261007195000 +0800" channel="河北都市"><title lang="zh">电视剧: 珠江人家2-3</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261007184000 +0800" stop="20261007195000 +0800" channel="河北都市"><title lang="zh">电视剧: 珠江人家2-3</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261007195000 +0800" stop="20261007205000 +0800" channel="河北都市"><title lang="zh">致敬最美的你(四)</title>
   </programme>
@@ -24166,7 +24170,7 @@
   </programme>
   <programme start="20261007221000 +0800" stop="20261007230000 +0800" channel="河北都市"><title lang="zh">非常大牌</title>
   </programme>
-  <programme start="20261007230000 +0800" stop="20261008000000 +0800" channel="河北都市"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20261007230000 +0800" stop="20261008000000 +0800" channel="河北都市"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20261007001200 +0800" stop="20261007011700 +0800" channel="河南卫视"><title lang="zh">武林风</title><desc>河南卫视制作的武术搏击类节目，2004年开播，以站立式搏击赛事为核心内容，覆盖全球50多个国家和地区直播。节目以WLF世界自由搏击理事会为赛事体系，涵盖MMA及青少年搏击联赛，弘扬中华武学文化，展现中国力量</desc>
   </programme>
@@ -26640,6 +26644,16 @@
   </programme>
   <programme start="20261007235800 +0800" stop="20261008001000 +0800" channel="深圳卫视"><title lang="zh">直财经</title><desc>深圳卫视全媒体财经观察栏目，以“直面变化，经略未来”为理念，聚焦全球经贸热点，连线国际国内权威专家学者解读最新经济趋势，以直接简洁的表达方式分析经济现象，倡导“直接点”的沟通风格，用10分钟时间帮助观众洞悉前沿经济趋势。</desc>
   </programme>
+  <programme start="20261007000000 +0800" stop="20261007003000 +0800" channel="游戏风云"><title lang="zh">休闲街区:魔法气泡(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261007003000 +0800" stop="20261007010000 +0800" channel="游戏风云"><title lang="zh">休闲街区:雪场大亨</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261007010000 +0800" stop="20261007011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:饥荒海滩(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261007011500 +0800" stop="20261007013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅:饥荒海滩(3)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261007013000 +0800" stop="20261007014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:机器人开发地(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261007002000 +0800" stop="20261007010600 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261007010600 +0800" stop="20261007015700 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
@@ -27148,35 +27162,35 @@
   </programme>
   <programme start="20261007220000 +0800" stop="20261007223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261007050000 +0800" stop="20261007054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007050000 +0800" stop="20261007054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261007081500 +0800" stop="20261007093200 +0800" channel="烟台经济"><title lang="zh">财经广角</title>
   </programme>
-  <programme start="20261007114000 +0800" stop="20261007121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007114000 +0800" stop="20261007121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261007121600 +0800" stop="20261007132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20261007132100 +0800" stop="20261007133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007132100 +0800" stop="20261007133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261007155000 +0800" stop="20261007172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007155000 +0800" stop="20261007172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261007172000 +0800" stop="20261007175200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007172000 +0800" stop="20261007175200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261007175200 +0800" stop="20261007180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20261007180900 +0800" stop="20261007191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20261007191100 +0800" stop="20261007191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261007191100 +0800" stop="20261007191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261007191300 +0800" stop="20261007191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20261007191300 +0800" stop="20261007191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20261007191500 +0800" stop="20261007194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
-  <programme start="20261007194000 +0800" stop="20261007203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007194000 +0800" stop="20261007203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261007203200 +0800" stop="20261007204500 +0800" channel="烟台经济"><title lang="zh">车事观察</title><desc>中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
+  <programme start="20261007203200 +0800" stop="20261007204500 +0800" channel="烟台经济"><title lang="zh">车事观察</title><desc lang="zh">中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
   </programme>
-  <programme start="20261007204500 +0800" stop="20261007211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261007204500 +0800" stop="20261007211500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261007211500 +0800" stop="20261007232000 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>

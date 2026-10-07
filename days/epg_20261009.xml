@@ -717,11 +717,13 @@
   </channel>
   <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV5 高清</display-name><display-name lang="zh">CCTV-5(高清)</display-name><display-name lang="zh">CCTV5</display-name>
   </channel>
-  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <channel id="CCTV13"><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV13新闻</display-name><display-name lang="zh">CHANNEL00000345</display-name><display-name lang="zh">CCTV 13</display-name><display-name lang="zh">CCTV13 高清</display-name><display-name lang="zh">CCTV-13(高清)</display-name><display-name lang="zh">CCTV13</display-name><display-name lang="zh">CCTV-13高清</display-name>
   </channel>
   <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
+  </channel>
+  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
   </channel>
   <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">兵器科技</display-name><display-name lang="zh">央视兵器科技</display-name>
   </channel>
@@ -14840,6 +14842,10 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009223000 +0800" stop="20261010000000 +0800" channel="tvN"><title lang="zh">行李變變變:四人一箱去旅行 #6</title><desc lang="zh">四位主持共用一個行李箱,展開為期兩星期、橫跨四個目的地的旅程。在有限空間下,他們必須不斷取捨、協商和分享,令每一次收拾行李都成為意想不到的挑戰。</desc>
   </programme>
+  <programme start="20261009000000 +0800" stop="20261009004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261009012000 +0800" stop="20261009020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261009000001 +0800" stop="20261009002000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
   <programme start="20261009000001 +0800" stop="20261009053200 +0800" channel="上海新闻"><title lang="zh">法制特勤组</title>
@@ -16788,11 +16794,11 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009015700 +0800" stop="20261009024300 +0800" channel="云南卫视"><title lang="zh">北平无战事(15)</title>
   </programme>
-  <programme start="20261009024300 +0800" stop="20261009031900 +0800" channel="云南卫视"><title lang="zh">百年巨匠</title><desc>我国第一部大规模、全方位拍摄制作的关于20世纪画坛巨匠、艺苑大师、文坛泰斗的大型人物传记纪录片。系统记录齐白石、黄宾虹、徐悲鸿、张大千等数十位文学艺术领域杰出代表的人生历程，分为美术篇、书法篇、文学篇、京剧篇、话剧篇、音乐篇等多个篇章，通过大量原作、原物、原址的全方位拍摄和亲友、当事人的叙述，还原巨匠本色与大师形象。</desc>
+  <programme start="20261009024300 +0800" stop="20261009031900 +0800" channel="云南卫视"><title lang="zh">百年巨匠</title><desc lang="zh">我国第一部大规模、全方位拍摄制作的关于20世纪画坛巨匠、艺苑大师、文坛泰斗的大型人物传记纪录片。系统记录齐白石、黄宾虹、徐悲鸿、张大千等数十位文学艺术领域杰出代表的人生历程，分为美术篇、书法篇、文学篇、京剧篇、话剧篇、音乐篇等多个篇章，通过大量原作、原物、原址的全方位拍摄和亲友、当事人的叙述，还原巨匠本色与大师形象。</desc>
   </programme>
-  <programme start="20261009031900 +0800" stop="20261009040000 +0800" channel="云南卫视"><title lang="zh">频道垫片</title><desc>电视台在节目切换或信号调整时段播出的临时画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出间隙。</desc>
+  <programme start="20261009031900 +0800" stop="20261009040000 +0800" channel="云南卫视"><title lang="zh">频道垫片</title><desc lang="zh">电视台在节目切换或信号调整时段播出的临时画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出间隙。</desc>
   </programme>
-  <programme start="20261009040000 +0800" stop="20261009044600 +0800" channel="云南卫视"><title lang="zh">频道垫片</title><desc>电视台在节目切换或信号调整时段播出的临时画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出间隙。</desc>
+  <programme start="20261009040000 +0800" stop="20261009044600 +0800" channel="云南卫视"><title lang="zh">频道垫片</title><desc lang="zh">电视台在节目切换或信号调整时段播出的临时画面，通常包含频道标识、节目预告或公益宣传内容，用于填补播出间隙。</desc>
   </programme>
   <programme start="20261009044600 +0800" stop="20261009053400 +0800" channel="云南卫视"><title lang="zh">北平无战事(16)</title>
   </programme>
@@ -16800,7 +16806,7 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009062400 +0800" stop="20261009070100 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
-  <programme start="20261009070100 +0800" stop="20261009072800 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261009070100 +0800" stop="20261009072800 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -16812,39 +16818,39 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009084000 +0800" stop="20261009091100 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
-  <programme start="20261009091100 +0800" stop="20261009100400 +0800" channel="云南卫视"><title lang="zh">包青天(17)</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  <programme start="20261009091100 +0800" stop="20261009100400 +0800" channel="云南卫视"><title lang="zh">包青天(17)</title><desc lang="zh">1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
   </programme>
-  <programme start="20261009100400 +0800" stop="20261009110800 +0800" channel="云南卫视"><title lang="zh">包青天(18)</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  <programme start="20261009100400 +0800" stop="20261009110800 +0800" channel="云南卫视"><title lang="zh">包青天(18)</title><desc lang="zh">1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
   </programme>
-  <programme start="20261009110800 +0800" stop="20261009121100 +0800" channel="云南卫视"><title lang="zh">包青天(19)</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  <programme start="20261009110800 +0800" stop="20261009121100 +0800" channel="云南卫视"><title lang="zh">包青天(19)</title><desc lang="zh">1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
   </programme>
-  <programme start="20261009121100 +0800" stop="20261009131700 +0800" channel="云南卫视"><title lang="zh">包青天(20)</title><desc>1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
+  <programme start="20261009121100 +0800" stop="20261009131700 +0800" channel="云南卫视"><title lang="zh">包青天(20)</title><desc lang="zh">1993年台湾中华电视公司出品的古装历史武侠剧，由金超群、何家劲、范鸿轩主演。全剧共41单元236集，改编自《三侠五义》及民间传说，以北宋仁宗年间开封府尹包拯秉公断案为主线，涵盖《铡美案》《狸猫换太子》等经典案件，开创了华语电视“铁三角”模式，主题曲《新鸳鸯蝴蝶梦》传唱至今。</desc>
   </programme>
-  <programme start="20261009131700 +0800" stop="20261009142400 +0800" channel="云南卫视"><title lang="zh">苍狼(13)</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
+  <programme start="20261009131700 +0800" stop="20261009142400 +0800" channel="云南卫视"><title lang="zh">苍狼(13)</title><desc lang="zh">梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
   </programme>
-  <programme start="20261009142400 +0800" stop="20261009152700 +0800" channel="云南卫视"><title lang="zh">苍狼(14)</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
+  <programme start="20261009142400 +0800" stop="20261009152700 +0800" channel="云南卫视"><title lang="zh">苍狼(14)</title><desc lang="zh">梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
   </programme>
-  <programme start="20261009152700 +0800" stop="20261009163400 +0800" channel="云南卫视"><title lang="zh">苍狼(15)</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
+  <programme start="20261009152700 +0800" stop="20261009163400 +0800" channel="云南卫视"><title lang="zh">苍狼(15)</title><desc lang="zh">梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
   </programme>
-  <programme start="20261009163400 +0800" stop="20261009173500 +0800" channel="云南卫视"><title lang="zh">苍狼(16)</title><desc>梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
+  <programme start="20261009163400 +0800" stop="20261009173500 +0800" channel="云南卫视"><title lang="zh">苍狼(16)</title><desc lang="zh">梦舟“战争三部曲”收官之作，由潘泰名、毛俊杰主演。讲述淞沪会战后，代号“苍狼”的精英特工陈天放与组织失去联系，凭借流利日语和特战技能在国军与日寇间周旋，率领特战队完成刺杀汉奸、炸毁雷达站等任务，最终率部起义迎来和平解放的故事。</desc>
   </programme>
   <programme start="20261009173500 +0800" stop="20261009183000 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
-  <programme start="20261009183000 +0800" stop="20261009190000 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261009183000 +0800" stop="20261009190000 +0800" channel="云南卫视"><title lang="zh">云南新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
   </programme>
-  <programme start="20261009190000 +0800" stop="20261009193400 +0800" channel="云南卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  <programme start="20261009190000 +0800" stop="20261009193400 +0800" channel="云南卫视"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
   </programme>
   <programme start="20261009193400 +0800" stop="20261009202600 +0800" channel="云南卫视"><title lang="zh">功勋(2)</title>
   </programme>
   <programme start="20261009202600 +0800" stop="20261009211300 +0800" channel="云南卫视"><title lang="zh">功勋(3)</title>
   </programme>
-  <programme start="20261009211300 +0800" stop="20261009212000 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc>云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
+  <programme start="20261009211300 +0800" stop="20261009212000 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc lang="zh">云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
   </programme>
-  <programme start="20261009212000 +0800" stop="20261009212700 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc>云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
+  <programme start="20261009212000 +0800" stop="20261009212700 +0800" channel="云南卫视"><title lang="zh">好剧大放送</title><desc lang="zh">云南卫视电视剧场时段名称，通常安排在下午或晚间，精选优质剧集进行多集连播，涵盖抗战、年代、情感等多种类型。</desc>
   </programme>
   <programme start="20261009212700 +0800" stop="20261009215300 +0800" channel="云南卫视"><title lang="zh">澜湄青年说(3)</title>
   </programme>
@@ -16852,9 +16858,9 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009221100 +0800" stop="20261009221900 +0800" channel="云南卫视"><title lang="zh">云岭放歌(6)</title>
   </programme>
-  <programme start="20261009221900 +0800" stop="20261009224900 +0800" channel="云南卫视"><title lang="zh">晚间新闻</title><desc>中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
+  <programme start="20261009221900 +0800" stop="20261009224900 +0800" channel="云南卫视"><title lang="zh">晚间新闻</title><desc lang="zh">中央电视台综合频道晚间新闻栏目，每晚22:00播出。栏目立足全天国内外重大新闻，梳理当日新闻脉络，深入解读政策动态与社会热点，以权威、及时、大信息量为特点，是中国最具影响力的晚间新闻节目之一。</desc>
   </programme>
-  <programme start="20261009224900 +0800" stop="20261009225400 +0800" channel="云南卫视"><title lang="zh">南亚东南亚天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  <programme start="20261009224900 +0800" stop="20261009225400 +0800" channel="云南卫视"><title lang="zh">南亚东南亚天气预报</title><desc lang="zh">《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
   </programme>
   <programme start="20261009225400 +0800" stop="20261009234500 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
@@ -26919,7 +26925,9 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009033200 +0800" stop="20261009034400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.6）</title>
   </programme>
-  <programme start="20261009034400 +0800" stop="20261009035200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.6）</title>
+  <programme start="20261009034400 +0800" stop="20261009034500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.6）</title>
+  </programme>
+  <programme start="20261009034500 +0800" stop="20261009035200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.7）</title>
   </programme>
   <programme start="20261009035200 +0800" stop="20261009040000 +0800" channel="浙江民生"><title lang="zh">TC-9广告（10.6）</title>
   </programme>
@@ -26933,7 +26941,9 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009053300 +0800" stop="20261009055300 +0800" channel="浙江民生"><title lang="zh">我要惠生活2026-278（晚间20分钟版）</title>
   </programme>
-  <programme start="20261009055300 +0800" stop="20261009061300 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-276</title>
+  <programme start="20261009055300 +0800" stop="20261009055500 +0800" channel="浙江民生"><title lang="zh">宣传片A（6.1）</title>
+  </programme>
+  <programme start="20261009055500 +0800" stop="20261009061300 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-278</title>
   </programme>
   <programme start="20261009061300 +0800" stop="20261009062500 +0800" channel="浙江民生"><title lang="zh">MS专题2026-278（华飞A）</title>
   </programme>
@@ -26965,7 +26975,9 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009081200 +0800" stop="20261009082400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.6）</title>
   </programme>
-  <programme start="20261009082400 +0800" stop="20261009083200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.6）</title>
+  <programme start="20261009082400 +0800" stop="20261009082500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.6）</title>
+  </programme>
+  <programme start="20261009082500 +0800" stop="20261009083200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.7）</title>
   </programme>
   <programme start="20261009083200 +0800" stop="20261009084000 +0800" channel="浙江民生"><title lang="zh">TC-9广告（10.6）</title>
   </programme>
@@ -28159,27 +28171,27 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009220000 +0800" stop="20261009223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261009050000 +0800" stop="20261009054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261009050000 +0800" stop="20261009054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261009081500 +0800" stop="20261009093200 +0800" channel="烟台经济"><title lang="zh">财经广角</title>
   </programme>
-  <programme start="20261009114000 +0800" stop="20261009121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261009114000 +0800" stop="20261009121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261009121600 +0800" stop="20261009132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20261009132100 +0800" stop="20261009133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261009132100 +0800" stop="20261009133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261009155000 +0800" stop="20261009172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261009155000 +0800" stop="20261009172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261009172000 +0800" stop="20261009175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261009172000 +0800" stop="20261009175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261009175000 +0800" stop="20261009180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20261009180900 +0800" stop="20261009191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20261009191100 +0800" stop="20261009191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261009191100 +0800" stop="20261009191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261009191300 +0800" stop="20261009191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20261009191300 +0800" stop="20261009191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20261009191500 +0800" stop="20261009194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
@@ -28187,7 +28199,7 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261009203200 +0800" stop="20261009204500 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20261009204500 +0800" stop="20261009211500 +0800" channel="烟台经济"><title lang="zh">非常育儿</title><desc>《非常育儿》是一档以育儿为主题的节目，通过专家讲解、案例分析和互动交流，为家长提供科学的育儿知识和方法。该节目旨在帮助家长解决育儿过程中遇到的问题，促进儿童的身心健康发展。</desc>
+  <programme start="20261009204500 +0800" stop="20261009211500 +0800" channel="烟台经济"><title lang="zh">非常育儿</title><desc lang="zh">《非常育儿》是一档以育儿为主题的节目，通过专家讲解、案例分析和互动交流，为家长提供科学的育儿知识和方法。该节目旨在帮助家长解决育儿过程中遇到的问题，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261009211500 +0800" stop="20261009232000 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>

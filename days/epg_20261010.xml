@@ -299,6 +299,8 @@
   </channel>
   <channel id="江西卫视"><display-name lang="zh">江西卫视</display-name><display-name lang="zh">江西</display-name><display-name lang="zh">CHANNEL00000335</display-name>
   </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
   <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name><display-name lang="zh">湖北综合</display-name>
   </channel>
   <channel id="五莲综合"><display-name lang="zh">五莲综合</display-name><display-name lang="zh">五莲新闻</display-name><display-name lang="zh">5莲新闻</display-name><display-name lang="zh">CHANNEL00001068</display-name>
@@ -723,11 +725,13 @@
   </channel>
   <channel id="CCTV5"><display-name lang="zh">CCTV-5 体育</display-name><display-name lang="zh">CCTV5体育</display-name><display-name lang="zh">CHANNEL00000360</display-name><display-name lang="zh">CCTV 5</display-name><display-name lang="zh">CCTV5 高清</display-name><display-name lang="zh">CCTV-5(高清)</display-name><display-name lang="zh">CCTV5</display-name>
   </channel>
-  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
+  <channel id="三沙卫视"><display-name lang="zh">三沙卫视</display-name><display-name lang="zh">3沙卫视</display-name><display-name lang="zh">三沙</display-name><display-name lang="zh">CHANNEL00000078</display-name>
   </channel>
   <channel id="CCTV13"><display-name lang="zh">CCTV-13 新闻</display-name><display-name lang="zh">CCTV13新闻</display-name><display-name lang="zh">CHANNEL00000345</display-name><display-name lang="zh">CCTV 13</display-name><display-name lang="zh">CCTV13 高清</display-name><display-name lang="zh">CCTV-13(高清)</display-name><display-name lang="zh">CCTV13</display-name><display-name lang="zh">CCTV-13高清</display-name>
   </channel>
   <channel id="CGTN法语"><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CGTN法语</display-name><display-name lang="zh">CHANNEL00000355</display-name>
+  </channel>
+  <channel id="聚鲨环球精选"><display-name lang="zh">聚鲨环球精选</display-name><display-name lang="zh">环球精选</display-name>
   </channel>
   <channel id="CCTV兵器科技"><display-name lang="zh">CCTV兵器科技</display-name><display-name lang="zh">兵器科技</display-name><display-name lang="zh">央视兵器科技</display-name>
   </channel>
@@ -4937,6 +4941,10 @@
   </programme>
   <programme start="20261010125200 +0800" stop="20261010133700 +0800" channel="CCTV风云剧场"><title lang="zh">五卧一房1(5)</title>
   </programme>
+  <programme start="20261010133700 +0800" stop="20261010142900 +0800" channel="CCTV风云剧场"><title lang="zh">五卧一房1(6)</title>
+  </programme>
+  <programme start="20261010142900 +0800" stop="20261010143300 +0800" channel="CCTV风云剧场"><title lang="zh">利剑·玫瑰(21)</title>
+  </programme>
   <programme start="20261010143300 +0800" stop="20261010152000 +0800" channel="CCTV风云剧场"><title lang="zh">利剑·玫瑰-9/32</title>
   </programme>
   <programme start="20261010152000 +0800" stop="20261010152200 +0800" channel="CCTV风云剧场"><title lang="zh">利剑·玫瑰-10/32</title>
@@ -5889,9 +5897,11 @@
   </programme>
   <programme start="20261010000000 +0800" stop="20261010000200 +0800" channel="CINEMAX"><title lang="zh">倫敦呼喚</title><desc lang="zh">劇情描述一位潦倒失意的殺手在英國執行任務出錯後逃亡，被迫幫雇用他的黑幫老大照顧其笨拙的青少年兒子，並帶他一同執行任務、教導他如何成為男子漢。</desc>
   </programme>
-  <programme start="20261010012500 +0800" stop="20261010030000 +0800" channel="CINEMAX"><title lang="zh">х/ф Киллер-хранитель</title>
+  <programme start="20261010014500 +0800" stop="20261010031400 +0800" channel="CINEMAX"><title lang="zh">Zumbilândia</title><desc lang="zh">O mundo está inundado por zumbis que querem acabar com os humanos. Nesse cenário surge Albuquerque, um camarada denominado "a pessoa mais assustadora da Terra", que lidera um grupo de sobreviventes disposto a lutar pela salvação.</desc>
   </programme>
-  <programme start="20261010030000 +0800" stop="20261010045500 +0800" channel="CINEMAX"><title lang="zh">х/ф Иностранец</title>
+  <programme start="20261010031400 +0800" stop="20261010045000 +0800" channel="CINEMAX"><title lang="zh">A Morte do Demônio: A Ascensão</title><desc lang="zh">Beth visita sua irmã mais velha, ella, que está criando 3 filhos em um apartamento apertado em Los Angeles. Sua reunião é curta quando eles encontram um livro demoníaco, The Necronomicon Ex-Mortis.</desc>
+  </programme>
+  <programme start="20261010045000 +0800" stop="20261010062000 +0800" channel="CINEMAX"><title lang="zh">A Morte do Demônio</title><desc lang="zh">Cinco amigos ficam presos em uma cabana. Ao descobrirem o “Livro da Morte”, despertarão os demônios que habitam o bosque. Serão possuídos um a um até o último deles lutar para sobreviver.</desc>
   </programme>
   <programme start="20261010074500 +0800" stop="20261010080000 +0800" channel="CINEMAX"><title lang="zh">Музыкальный перерыв</title>
   </programme>
@@ -14770,6 +14780,10 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010233000 +0800" stop="20261011000000 +0800" channel="tvN"><title lang="zh">Infomercials</title><desc lang="zh">Infomercials is an umbrella title for independent, quarter-hour television comedy specials airing on Adult Swim. Unlike actual paid programming, all of the programs are fictitious and maintain no continuity with each other.</desc>
   </programme>
+  <programme start="20261010000000 +0800" stop="20261010004000 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261010012000 +0800" stop="20261010020000 +0800" channel="三沙卫视"><title lang="zh">走向蔚蓝-海洋纪录片展播</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261010000001 +0800" stop="20261010002000 +0800" channel="上海教育"><title lang="zh">光影</title>
   </programme>
   <programme start="20261010000001 +0800" stop="20261010053100 +0800" channel="上海新闻"><title lang="zh">洋厨房</title>
@@ -19208,15 +19222,15 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010233000 +0800" stop="20261011000000 +0800" channel="博斯魅力网"><title lang="zh">WTA新視界(普)</title>
   </programme>
-  <programme start="20261010003900 +0800" stop="20261010010900 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010003900 +0800" stop="20261010010900 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010010900 +0800" stop="20261010020000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010010900 +0800" stop="20261010020000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010020000 +0800" stop="20261010030000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010020000 +0800" stop="20261010030000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010030000 +0800" stop="20261010040000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010030000 +0800" stop="20261010040000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010040000 +0800" stop="20261010060000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010040000 +0800" stop="20261010060000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261010060000 +0800" stop="20261010070000 +0800" channel="卡酷少儿"><title lang="zh">可可剧场</title>
   </programme>
@@ -19230,17 +19244,17 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010085800 +0800" stop="20261010100000 +0800" channel="卡酷少儿"><title lang="zh">卡酷幼儿园</title>
   </programme>
-  <programme start="20261010100000 +0800" stop="20261010110000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010100000 +0800" stop="20261010110000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010110000 +0800" stop="20261010120000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010110000 +0800" stop="20261010120000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010120000 +0800" stop="20261010130000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010120000 +0800" stop="20261010130000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010130000 +0800" stop="20261010140000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010130000 +0800" stop="20261010140000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010140000 +0800" stop="20261010200000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010140000 +0800" stop="20261010200000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261010200000 +0800" stop="20261011000000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261010200000 +0800" stop="20261011000000 +0800" channel="卡酷少儿"><title lang="zh">动画片</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261010000000 +0800" stop="20261010093500 +0800" channel="历城综合"><title lang="zh">结束</title><desc>电视台播出时段结束的标识画面，通常用于节目与节目之间的过渡或全天播出结束后的休台时段。</desc>
   </programme>
@@ -23154,7 +23168,7 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010073500 +0800" stop="20261010074000 +0800" channel="日照科教"><title lang="zh">公益广告</title>
   </programme>
-  <programme start="20261010074000 +0800" stop="20261010075000 +0800" channel="日照科教"><title lang="zh">榜样</title><desc>中央组织部与中央广播电视总台联合录制的“两优一先”“两学一做”系列特别节目，每年制播一期。以“向榜样看齐、做合格党员”为主线，邀请全国优秀共产党员、优秀党务工作者、先进基层党组织代表到场，通过典型事迹展示、现场访谈互动、重温入党志愿书等形式，集中彰显优秀共产党员坚定信仰、担当作为、服务群众、无私奉献的精神风貌，是开展党员教育的生动教材。</desc>
+  <programme start="20261010074000 +0800" stop="20261010075000 +0800" channel="日照科教"><title lang="zh">榜样</title><desc lang="zh">中央组织部与中央广播电视总台联合录制的“两优一先”“两学一做”系列特别节目，每年制播一期。以“向榜样看齐、做合格党员”为主线，邀请全国优秀共产党员、优秀党务工作者、先进基层党组织代表到场，通过典型事迹展示、现场访谈互动、重温入党志愿书等形式，集中彰显优秀共产党员坚定信仰、担当作为、服务群众、无私奉献的精神风貌，是开展党员教育的生动教材。</desc>
   </programme>
   <programme start="20261010075000 +0800" stop="20261010080500 +0800" channel="日照科教"><title lang="zh">金融日照</title>
   </programme>
@@ -23162,7 +23176,7 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010124000 +0800" stop="20261010131000 +0800" channel="日照科教"><title lang="zh">健康日照</title>
   </programme>
-  <programme start="20261010182000 +0800" stop="20261010193000 +0800" channel="日照科教"><title lang="zh">笑傲江湖</title><desc>影片改编自金庸小说《笑傲江湖》，讲述了想退出江湖的令狐冲（黄曦彦 饰）被迫卷入武林正邪风波中，意外邂逅了魔教教主东方不败（张雨绮 饰），就此开启共赴修罗场的江湖之旅的故事。</desc>
+  <programme start="20261010182000 +0800" stop="20261010193000 +0800" channel="日照科教"><title lang="zh">笑傲江湖</title><desc lang="zh">影片改编自金庸小说《笑傲江湖》，讲述了想退出江湖的令狐冲（黄曦彦 饰）被迫卷入武林正邪风波中，意外邂逅了魔教教主东方不败（张雨绮 饰），就此开启共赴修罗场的江湖之旅的故事。</desc>
   </programme>
   <programme start="20261010193000 +0800" stop="20261010200000 +0800" channel="日照科教"><title lang="zh">健康日照</title>
   </programme>
@@ -26859,7 +26873,9 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010011100 +0800" stop="20261010012300 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.7）</title>
   </programme>
-  <programme start="20261010012300 +0800" stop="20261010014700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.7）</title>
+  <programme start="20261010012300 +0800" stop="20261010012400 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.7）</title>
+  </programme>
+  <programme start="20261010012400 +0800" stop="20261010014700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.8）</title>
   </programme>
   <programme start="20261010014700 +0800" stop="20261010015000 +0800" channel="浙江民生"><title lang="zh">宣传片D（6.1）</title>
   </programme>
@@ -26869,9 +26885,11 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010032000 +0800" stop="20261010032500 +0800" channel="浙江民生"><title lang="zh">1818黄金眼2026-279（公众版高清）</title>
   </programme>
-  <programme start="20261010032500 +0800" stop="20261010033300 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.7）</title>
+  <programme start="20261010032500 +0800" stop="20261010033200 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.8）</title>
   </programme>
-  <programme start="20261010033300 +0800" stop="20261010034500 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.7）</title>
+  <programme start="20261010033200 +0800" stop="20261010034400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.8）</title>
+  </programme>
+  <programme start="20261010034400 +0800" stop="20261010034500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.8）</title>
   </programme>
   <programme start="20261010034500 +0800" stop="20261010035200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.7）</title>
   </programme>
@@ -26889,7 +26907,11 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010055300 +0800" stop="20261010055500 +0800" channel="浙江民生"><title lang="zh">宣传片A（6.1）</title>
   </programme>
-  <programme start="20261010055500 +0800" stop="20261010064500 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-278</title>
+  <programme start="20261010055500 +0800" stop="20261010061300 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-278</title>
+  </programme>
+  <programme start="20261010061300 +0800" stop="20261010062500 +0800" channel="浙江民生"><title lang="zh">MS专题2026-280（华飞A）</title>
+  </programme>
+  <programme start="20261010062500 +0800" stop="20261010064500 +0800" channel="浙江民生"><title lang="zh">PK大擂台（精编版）2026-279</title>
   </programme>
   <programme start="20261010064500 +0800" stop="20261010065700 +0800" channel="浙江民生"><title lang="zh">MS专题2026-279（华飞B）</title>
   </programme>
@@ -26913,9 +26935,11 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010080000 +0800" stop="20261010080500 +0800" channel="浙江民生"><title lang="zh">1818黄金眼2026-279（公众版高清）</title>
   </programme>
-  <programme start="20261010080500 +0800" stop="20261010081300 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.7）</title>
+  <programme start="20261010080500 +0800" stop="20261010081200 +0800" channel="浙江民生"><title lang="zh">TC-6广告（10.8）</title>
   </programme>
-  <programme start="20261010081300 +0800" stop="20261010082500 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.7）</title>
+  <programme start="20261010081200 +0800" stop="20261010082400 +0800" channel="浙江民生"><title lang="zh">TC-7广告（10.8）</title>
+  </programme>
+  <programme start="20261010082400 +0800" stop="20261010082500 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.8）</title>
   </programme>
   <programme start="20261010082500 +0800" stop="20261010083200 +0800" channel="浙江民生"><title lang="zh">TC-8广告（10.7）</title>
   </programme>
@@ -26983,7 +27007,9 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010124100 +0800" stop="20261010125300 +0800" channel="浙江民生"><title lang="zh">TC-4广告（10.7）</title>
   </programme>
-  <programme start="20261010125300 +0800" stop="20261010131700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.7）</title>
+  <programme start="20261010125300 +0800" stop="20261010125400 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.7）</title>
+  </programme>
+  <programme start="20261010125400 +0800" stop="20261010131700 +0800" channel="浙江民生"><title lang="zh">TC-5广告（10.8）</title>
   </programme>
   <programme start="20261010131700 +0800" stop="20261010132200 +0800" channel="浙江民生"><title lang="zh">国坤堂专题（9.28）</title>
   </programme>
@@ -27845,6 +27871,16 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010235300 +0800" stop="20261011001100 +0800" channel="深圳卫视"><title lang="zh">栏目</title><desc>生活服务类广告栏目，以健康、养生栏目等形式变相发布医疗、药品、医疗器械、保健食品等服务类广告节目。</desc>
   </programme>
+  <programme start="20261010000000 +0800" stop="20261010003000 +0800" channel="游戏风云"><title lang="zh">休闲街区:牧场物语(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261010003000 +0800" stop="20261010010000 +0800" channel="游戏风云"><title lang="zh">休闲街区:牧场物语(3)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261010010000 +0800" stop="20261010011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:交错的名侦探(6)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261010011500 +0800" stop="20261010013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅:交错的名侦探(7)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261010013000 +0800" stop="20261010014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:交错的名侦探(8)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261010002000 +0800" stop="20261010010700 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261010010700 +0800" stop="20261010015600 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
@@ -28127,33 +28163,33 @@ Winner, Golden Nymph Award for Best Documentary - Festival du Television Monte C
   </programme>
   <programme start="20261010220000 +0800" stop="20261010223000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261010050000 +0800" stop="20261010054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010050000 +0800" stop="20261010054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261010075000 +0800" stop="20261010081500 +0800" channel="烟台经济"><title lang="zh">筑梦职教</title>
   </programme>
   <programme start="20261010081500 +0800" stop="20261010093200 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>
-  <programme start="20261010114000 +0800" stop="20261010121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010114000 +0800" stop="20261010121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261010121600 +0800" stop="20261010132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20261010132100 +0800" stop="20261010133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010132100 +0800" stop="20261010133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261010155000 +0800" stop="20261010172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010155000 +0800" stop="20261010172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261010172000 +0800" stop="20261010175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010172000 +0800" stop="20261010175000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261010175000 +0800" stop="20261010180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20261010180900 +0800" stop="20261010191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20261010191100 +0800" stop="20261010191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261010191100 +0800" stop="20261010191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261010191300 +0800" stop="20261010191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20261010191300 +0800" stop="20261010191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20261010191500 +0800" stop="20261010194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
-  <programme start="20261010194000 +0800" stop="20261010204500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261010194000 +0800" stop="20261010204500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261010204500 +0800" stop="20261010205800 +0800" channel="烟台经济"><title lang="zh">健康烟台</title>
   </programme>

@@ -347,6 +347,8 @@
   </channel>
   <channel id="CCTV世界地理"><display-name lang="zh">CCTV世界地理</display-name><display-name lang="zh">央视世界地理</display-name>
   </channel>
+  <channel id="游戏风云"><display-name lang="zh">游戏风云</display-name><display-name lang="zh">游戏风云</display-name><display-name lang="zh">CHANNEL00002024</display-name>
+  </channel>
   <channel id="湖北卫视"><display-name lang="zh">湖北卫视</display-name><display-name lang="zh">湖北</display-name><display-name lang="zh">CHANNEL00000325</display-name><display-name lang="zh">湖北综合</display-name>
   </channel>
   <channel id="五莲综合"><display-name lang="zh">五莲综合</display-name><display-name lang="zh">五莲新闻</display-name><display-name lang="zh">5莲新闻</display-name><display-name lang="zh">CHANNEL00001068</display-name>
@@ -3278,27 +3280,29 @@
   </programme>
   <programme start="20261015224500 +0800" stop="20261015235900 +0800" channel="CCTV16"><title lang="zh">实况录像（奥林匹克）-2026年女篮世界杯 1/4决赛2</title><desc>国际篮联女子篮球世界杯（FIBA Women's Basketball World Cup，简称“女篮世界杯”），是由国际篮球联合会主办的最高等级女子篮球国家队赛事，前身为世界女子篮球锦标赛（简称“女篮世锦赛”），每4年举办一届。</desc>
   </programme>
-  <programme start="20261015055630 +0800" stop="20261015060600 +0800" channel="CCTV17"><title lang="zh">2026田园特供-乡村达人秀10-高空扁带绝活表演</title><desc>《田园特供》是CCTV-17农业农村频道推出的精品节目展播时段，旨在为观众提供丰富多元的乡村文化内容。该时段常播出如《乡村达人秀》等子栏目，汇聚来自全国各地的乡土能人，展示杂技、绝活、民俗表演等独门秘籍。节目通过记录乡村达人的精彩技艺，展现新时代农民的精神风貌和乡村文化的勃勃生机，是观察中国乡村才艺与活力的重要窗口。</desc>
+  <programme start="20261015010800 +0800" stop="20261015055630 +0800" channel="CCTV17"><title lang="zh">再见</title><desc>再见！如有更多节目需要生成简介，随时可以继续。</desc>
   </programme>
-  <programme start="20261015060600 +0800" stop="20261015065700 +0800" channel="CCTV17"><title lang="zh">田野欢歌-2025-65</title><desc>全新推出《田野欢歌》，打造文化IP，非遗绝技加民俗歌舞加乡村达人秀，每期一个主题村。</desc>
+  <programme start="20261015055630 +0800" stop="20261015060600 +0800" channel="CCTV17"><title lang="zh">2026田园特供-乡村达人秀10-高空扁带绝活表演</title><desc lang="zh">《田园特供》是CCTV-17农业农村频道推出的精品节目展播时段，旨在为观众提供丰富多元的乡村文化内容。该时段常播出如《乡村达人秀》等子栏目，汇聚来自全国各地的乡土能人，展示杂技、绝活、民俗表演等独门秘籍。节目通过记录乡村达人的精彩技艺，展现新时代农民的精神风貌和乡村文化的勃勃生机，是观察中国乡村才艺与活力的重要窗口。</desc>
   </programme>
-  <programme start="20261015065700 +0800" stop="20261015075000 +0800" channel="CCTV17"><title lang="zh">大地讲堂-丰收中国之光影田园-2026-116</title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  <programme start="20261015060600 +0800" stop="20261015065700 +0800" channel="CCTV17"><title lang="zh">田野欢歌-2025-65</title><desc lang="zh">全新推出《田野欢歌》，打造文化IP，非遗绝技加民俗歌舞加乡村达人秀，每期一个主题村。</desc>
   </programme>
-  <programme start="20261015075000 +0800" stop="20261015082000 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20261015065700 +0800" stop="20261015075000 +0800" channel="CCTV17"><title lang="zh">大地讲堂-丰收中国之光影田园-2026-116</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
-  <programme start="20261015082000 +0800" stop="20261015085100 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-328</title><desc>集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
+  <programme start="20261015075000 +0800" stop="20261015082000 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
-  <programme start="20261015085100 +0800" stop="20261015101600 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-18</title><desc>《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
+  <programme start="20261015082000 +0800" stop="20261015085100 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-328</title><desc lang="zh">集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
+  </programme>
+  <programme start="20261015085100 +0800" stop="20261015101600 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-18</title><desc lang="zh">《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
   </programme>
   <programme start="20261015101600 +0800" stop="20261015110905 +0800" channel="CCTV17"><title lang="zh">青山是故乡11/29</title>
   </programme>
   <programme start="20261015110905 +0800" stop="20261015120000 +0800" channel="CCTV17"><title lang="zh">青山是故乡12/29</title>
   </programme>
-  <programme start="20261015120000 +0800" stop="20261015123200 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20261015120000 +0800" stop="20261015123200 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
-  <programme start="20261015123200 +0800" stop="20261015124300 +0800" channel="CCTV17"><title lang="zh">中华古树-霞浦黄连木（4K）</title><desc>《中华古树》深度聚焦中华大地上具有典型代表性的古树名木，首次完整建立中华古树国家级影像档案，首次系统阐释中华古树重要文化价值，首次全景展现中华古树生存状态与保护举措，深度探寻古树跨越千年的生命传奇与人文故事，生动展现东方生态智慧的深邃与瑰丽。</desc>
+  <programme start="20261015123200 +0800" stop="20261015124300 +0800" channel="CCTV17"><title lang="zh">中华古树-霞浦黄连木（4K）</title><desc lang="zh">《中华古树》深度聚焦中华大地上具有典型代表性的古树名木，首次完整建立中华古树国家级影像档案，首次系统阐释中华古树重要文化价值，首次全景展现中华古树生存状态与保护举措，深度探寻古树跨越千年的生命传奇与人文故事，生动展现东方生态智慧的深邃与瑰丽。</desc>
   </programme>
-  <programme start="20261015124300 +0800" stop="20261015133835 +0800" channel="CCTV17"><title lang="zh">谁知盘中餐-2026-151-乡野寻鲜11</title><desc>栏目立足百姓关心的食品安全主题，打造农业版具有公信力、权威性的谣言粉碎机，做农产品安全领域权威的求真求证平台，促进农业产业健康发展。</desc>
+  <programme start="20261015124300 +0800" stop="20261015133835 +0800" channel="CCTV17"><title lang="zh">谁知盘中餐-2026-151-乡野寻鲜11</title><desc lang="zh">栏目立足百姓关心的食品安全主题，打造农业版具有公信力、权威性的谣言粉碎机，做农产品安全领域权威的求真求证平台，促进农业产业健康发展。</desc>
   </programme>
   <programme start="20261015133835 +0800" stop="20261015142925 +0800" channel="CCTV17"><title lang="zh">归队18/34</title>
   </programme>
@@ -3308,25 +3312,25 @@
   </programme>
   <programme start="20261015161355 +0800" stop="20261015170500 +0800" channel="CCTV17"><title lang="zh">归队21/34</title>
   </programme>
-  <programme start="20261015170500 +0800" stop="20261015180000 +0800" channel="CCTV17"><title lang="zh">大地讲堂-丰收中国之光影田园-2026-117</title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  <programme start="20261015170500 +0800" stop="20261015180000 +0800" channel="CCTV17"><title lang="zh">大地讲堂-丰收中国之光影田园-2026-117</title><desc lang="zh">《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
-  <programme start="20261015180000 +0800" stop="20261015183700 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20261015180000 +0800" stop="20261015183700 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
-  <programme start="20261015183700 +0800" stop="20261015185605 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc>权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
+  <programme start="20261015183700 +0800" stop="20261015185605 +0800" channel="CCTV17"><title lang="zh">中国三农报道</title><desc lang="zh">权威、快速的政策解读；深度、锐度的调查报道；实用、有趣的三农资讯；多视角、有情怀、有温度的三农故事。</desc>
   </programme>
   <programme start="20261015185605 +0800" stop="20261015195110 +0800" channel="CCTV17"><title lang="zh">青山是故乡13/29</title>
   </programme>
   <programme start="20261015195110 +0800" stop="20261015204500 +0800" channel="CCTV17"><title lang="zh">青山是故乡14/29</title>
   </programme>
-  <programme start="20261015204500 +0800" stop="20261015211730 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-329</title><desc>集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
+  <programme start="20261015204500 +0800" stop="20261015211730 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-329</title><desc lang="zh">集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
   </programme>
-  <programme start="20261015211730 +0800" stop="20261015224100 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-19</title><desc>《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
+  <programme start="20261015211730 +0800" stop="20261015224100 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-19</title><desc lang="zh">《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
   </programme>
-  <programme start="20261015224100 +0800" stop="20261015231200 +0800" channel="CCTV17"><title lang="zh">农耕探文明-2025-39（4K）</title><desc>大型系列纪录片，系统梳理中国重要农业文化遗产。每期聚焦一项农业文化遗产，从内蒙古敖汉旱作农业系统、浙江青田稻鱼共生系统到云南哈尼梯田、贵州从江侗乡稻鱼鸭系统，展现传统农耕智慧在现代生态农业中的传承与创新。</desc>
+  <programme start="20261015224100 +0800" stop="20261015231200 +0800" channel="CCTV17"><title lang="zh">农耕探文明-2025-39（4K）</title><desc lang="zh">大型系列纪录片，系统梳理中国重要农业文化遗产。每期聚焦一项农业文化遗产，从内蒙古敖汉旱作农业系统、浙江青田稻鱼共生系统到云南哈尼梯田、贵州从江侗乡稻鱼鸭系统，展现传统农耕智慧在现代生态农业中的传承与创新。</desc>
   </programme>
-  <programme start="20261015231200 +0800" stop="20261015234200 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-329</title><desc>集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
+  <programme start="20261015231200 +0800" stop="20261015234200 +0800" channel="CCTV17"><title lang="zh">三农群英汇-2026-329</title><desc lang="zh">集中关注在“三农”领域默默奉献、执着坚守、开拓进取的耕耘者、新农人，展现他们在践行乡村振兴战略的道路上， 面对重重困难和挑战，勇于担当、攻坚克难、砥砺前行的精彩故事。</desc>
   </programme>
-  <programme start="20261015234200 +0800" stop="20261015235900 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-19</title><desc>《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
+  <programme start="20261015234200 +0800" stop="20261015235900 +0800" channel="CCTV17"><title lang="zh">超级农人秀-丰收中国之沃野超有范儿-19</title><desc lang="zh">《超级农人秀》是一档以农业为主题的节目，本集聚焦养殖技术。通过展示先进的养殖方法和成功案例，向观众普及科学养殖知识，帮助农民提高养殖效益，促进农业发展。</desc>
   </programme>
   <programme start="20261015001820 +0800" stop="20261015004800 +0800" channel="CCTV2"><title lang="zh">经济半小时</title><desc>中央电视台财经频道深度调查报道栏目，创办于1989年12月18日，是央视历史最悠久的财经栏目之一。以“观经济大势、察民生冷暖”为宗旨，用深度调查与权威解读剖析经济热点、难点与疑点，见证中国经济改革开放的每一步进程。</desc>
   </programme>
@@ -15125,6 +15129,8 @@
   <programme start="20261015232500 +0800" stop="20261015234500 +0800" channel="tvN"><title lang="zh">Brooklyn Nine Nine</title><desc lang="zh">Jake tries to keep Charles from going "full Boyle" on his new girlfriend. Meanwhile, Rosa and Amy are reluctant to help an amateur caped crime fighter. S1 E17</desc>
   </programme>
   <programme start="20261015234500 +0800" stop="20261016000000 +0800" channel="tvN"><title lang="zh">TVNZ2 Quiz</title>
+  </programme>
+  <programme start="20261015000000 +0800" stop="20261015000001 +0800" channel="三沙卫视"><title lang="zh">风尚潮</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261015000001 +0800" stop="20261015004000 +0800" channel="三沙卫视"><title lang="zh">电影时间</title>
   </programme>
@@ -27932,27 +27938,27 @@
   </programme>
   <programme start="20261015231300 +0800" stop="20261016000000 +0800" channel="江西新闻"><title lang="zh">跨越时空的回信</title>
   </programme>
-  <programme start="20261015062500 +0800" stop="20261015100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015062500 +0800" stop="20261015100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015100000 +0800" stop="20261015120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261015120000 +0800" stop="20261015170000 +0800" channel="江西经济"><title lang="zh">情感剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015120000 +0800" stop="20261015170000 +0800" channel="江西经济"><title lang="zh">情感剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261015170000 +0800" stop="20261015184800 +0800" channel="江西经济"><title lang="zh">XR元宇宙健竞大赛</title>
   </programme>
-  <programme start="20261015184800 +0800" stop="20261015190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc>垫片，播放中华人民共和国国歌。</desc>
+  <programme start="20261015184800 +0800" stop="20261015190000 +0800" channel="江西经济"><title lang="zh">自办栏目</title><desc lang="zh">垫片，播放中华人民共和国国歌。</desc>
   </programme>
   <programme start="20261015190000 +0800" stop="20261015203500 +0800" channel="江西经济"><title lang="zh">天天健康</title>
   </programme>
-  <programme start="20261015203500 +0800" stop="20261016000000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015203500 +0800" stop="20261016000000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261015005000 +0800" stop="20261015060000 +0800" channel="江西都市"><title lang="zh">通宵剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
+  <programme start="20261015005000 +0800" stop="20261015060000 +0800" channel="江西都市"><title lang="zh">通宵剧场</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261015060000 +0800" stop="20261015070000 +0800" channel="江西都市"><title lang="zh">寻味江西</title>
   </programme>
   <programme start="20261015070000 +0800" stop="20261015080000 +0800" channel="江西都市"><title lang="zh">都市现场</title>
   </programme>
-  <programme start="20261015080000 +0800" stop="20261015114000 +0800" channel="江西都市"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015080000 +0800" stop="20261015114000 +0800" channel="江西都市"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261015114000 +0800" stop="20261015130000 +0800" channel="江西都市"><title lang="zh">都市现场</title>
   </programme>
@@ -27960,7 +27966,7 @@
   </programme>
   <programme start="20261015140000 +0800" stop="20261015143000 +0800" channel="江西都市"><title lang="zh">都市情缘</title>
   </programme>
-  <programme start="20261015143000 +0800" stop="20261015170000 +0800" channel="江西都市"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015143000 +0800" stop="20261015170000 +0800" channel="江西都市"><title lang="zh">热播剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261015170000 +0800" stop="20261015173000 +0800" channel="江西都市"><title lang="zh">快乐生活一点通</title>
   </programme>
@@ -27972,11 +27978,11 @@
   </programme>
   <programme start="20261015200000 +0800" stop="20261015202000 +0800" channel="江西都市"><title lang="zh">晚间800</title>
   </programme>
-  <programme start="20261015202000 +0800" stop="20261015211000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015202000 +0800" stop="20261015211000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261015211000 +0800" stop="20261015215500 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015211000 +0800" stop="20261015215500 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261015215500 +0800" stop="20261016000000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261015215500 +0800" stop="20261016000000 +0800" channel="江西都市"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261015000001 +0800" stop="20261015020000 +0800" channel="江都频道"><title lang="zh">电视节目</title>
   </programme>
@@ -28697,6 +28703,8 @@
   <programme start="20261015233500 +0800" stop="20261015235000 +0800" channel="河北农民"><title lang="zh">农博士在行动(重)</title>
   </programme>
   <programme start="20261015235000 +0800" stop="20261016000000 +0800" channel="河北农民"><title lang="zh">三农最前线(重)</title>
+  </programme>
+  <programme start="20261015000000 +0800" stop="20261015000001 +0800" channel="河北卫视"><title lang="zh">悬崖</title><desc lang="zh">欢迎使用</desc>
   </programme>
   <programme start="20261015000001 +0800" stop="20261015002000 +0800" channel="河北卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
@@ -32104,6 +32112,16 @@
   </programme>
   <programme start="20261015223500 +0800" stop="20261015235900 +0800" channel="温州电视台"><title lang="zh">星光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
+  <programme start="20261015000000 +0800" stop="20261015003000 +0800" channel="游戏风云"><title lang="zh">休闲街区:三国群英战(4)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261015003000 +0800" stop="20261015010000 +0800" channel="游戏风云"><title lang="zh">休闲街区:糖果派对-机关塔防(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261015010000 +0800" stop="20261015011500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:模拟人生中世纪(2)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261015011500 +0800" stop="20261015013000 +0800" channel="游戏风云"><title lang="zh">游戏大厅:模拟人生中世纪(3)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
+  <programme start="20261015013000 +0800" stop="20261015014500 +0800" channel="游戏风云"><title lang="zh">游戏大厅:霓虹深渊(1)</title><desc lang="zh">欢迎使用</desc>
+  </programme>
   <programme start="20261015002000 +0800" stop="20261015010600 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261015010600 +0800" stop="20261015015800 +0800" channel="湖北卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
@@ -32564,35 +32582,35 @@
   </programme>
   <programme start="20261015220000 +0800" stop="20261015232000 +0800" channel="烟台公共"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261015050000 +0800" stop="20261015054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015050000 +0800" stop="20261015054500 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261015081500 +0800" stop="20261015093200 +0800" channel="烟台经济"><title lang="zh">车事观察</title><desc>中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
+  <programme start="20261015081500 +0800" stop="20261015093200 +0800" channel="烟台经济"><title lang="zh">车事观察</title><desc lang="zh">中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
   </programme>
-  <programme start="20261015114000 +0800" stop="20261015121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015114000 +0800" stop="20261015121600 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261015121600 +0800" stop="20261015132100 +0800" channel="烟台经济"><title lang="zh">开心耍大牌</title>
   </programme>
-  <programme start="20261015132100 +0800" stop="20261015133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015132100 +0800" stop="20261015133000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261015155000 +0800" stop="20261015172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015155000 +0800" stop="20261015172000 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261015172000 +0800" stop="20261015175200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015172000 +0800" stop="20261015175200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261015175200 +0800" stop="20261015180900 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
   <programme start="20261015180900 +0800" stop="20261015191100 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>
-  <programme start="20261015191100 +0800" stop="20261015191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261015191100 +0800" stop="20261015191300 +0800" channel="烟台经济"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261015191300 +0800" stop="20261015191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc>面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
+  <programme start="20261015191300 +0800" stop="20261015191500 +0800" channel="烟台经济"><title lang="zh">海洋预报</title><desc lang="zh">面向沿海地区居民、海上作业人员及航运渔业从业者的专业海洋气象服务栏目，提供海浪、海温、潮汐预报及风暴潮等海洋灾害预警信息。</desc>
   </programme>
   <programme start="20261015191500 +0800" stop="20261015194000 +0800" channel="烟台经济"><title lang="zh">绿色田园</title>
   </programme>
-  <programme start="20261015194000 +0800" stop="20261015203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261015194000 +0800" stop="20261015203200 +0800" channel="烟台经济"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261015203200 +0800" stop="20261015204500 +0800" channel="烟台经济"><title lang="zh">财经广角</title>
   </programme>
-  <programme start="20261015204500 +0800" stop="20261015211500 +0800" channel="烟台经济"><title lang="zh">非常育儿</title><desc>《非常育儿》是一档以育儿为主题的节目，通过专家讲解、案例分析和互动交流，为家长提供科学的育儿知识和方法。该节目旨在帮助家长解决育儿过程中遇到的问题，促进儿童的身心健康发展。</desc>
+  <programme start="20261015204500 +0800" stop="20261015211500 +0800" channel="烟台经济"><title lang="zh">非常育儿</title><desc lang="zh">《非常育儿》是一档以育儿为主题的节目，通过专家讲解、案例分析和互动交流，为家长提供科学的育儿知识和方法。该节目旨在帮助家长解决育儿过程中遇到的问题，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261015211500 +0800" stop="20261015232000 +0800" channel="烟台经济"><title lang="zh">阳光园</title>
   </programme>

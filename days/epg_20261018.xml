@@ -13,6 +13,8 @@
   </channel>
   <channel id="博斯网球台"><display-name lang="zh">博斯网球台</display-name>
   </channel>
+  <channel id="KTV HD"><display-name lang="zh">KTV HD</display-name><display-name lang="zh">K-TV</display-name>
+  </channel>
   <channel id="求索科学"><display-name lang="zh">求索科学</display-name>
   </channel>
   <channel id="江苏城市"><display-name lang="zh">江苏城市</display-name>
@@ -150,6 +152,8 @@
   <channel id="Love Nature HD"><display-name lang="zh">Love Nature HD</display-name><display-name lang="zh">LOVENATURE</display-name><display-name lang="zh">LOVENATUREHD</display-name><display-name lang="zh">Love Nature</display-name>
   </channel>
   <channel id="历城综合"><display-name lang="zh">历城综合</display-name><display-name lang="zh">历城综合</display-name><display-name lang="zh">CHANNEL00001105</display-name>
+  </channel>
+  <channel id="Star TV"><display-name lang="zh">Star TV</display-name><display-name lang="zh">STAR TV</display-name>
   </channel>
   <channel id="CCTV9"><display-name lang="zh">CCTV-9 纪录</display-name><display-name lang="zh">CCTV9纪录</display-name><display-name lang="zh">CHANNEL00000319</display-name><display-name lang="zh">CCTV 9</display-name><display-name lang="zh">CCTV9 高清</display-name><display-name lang="zh">CCTV-9(高清)</display-name><display-name lang="zh">CCTV-9高清</display-name><display-name lang="zh">CCTV9</display-name>
   </channel>
@@ -614,6 +618,8 @@
   <channel id="优优宝贝"><display-name lang="zh">优优宝贝</display-name><display-name lang="zh">CHANNEL00000641</display-name>
   </channel>
   <channel id="NOWSPORTS5"><display-name lang="zh">NOWSPORTS5</display-name>
+  </channel>
+  <channel id="CLASSICA"><display-name lang="zh">CLASSICA</display-name><display-name lang="zh">Classica</display-name>
   </channel>
   <channel id="凤凰香港"><display-name lang="zh">凤凰香港</display-name><display-name lang="zh">凤凰卫视香港台</display-name>
   </channel>
@@ -1417,19 +1423,35 @@
   </programme>
   <programme start="20261018000000 +0800" stop="20261018003000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
-  <programme start="20261018003000 +0800" stop="20261018010000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
+  <programme start="20261018003000 +0800" stop="20261018005700 +0800" channel="BBC News"><title lang="zh">BBC News</title>
+  </programme>
+  <programme start="20261018005700 +0800" stop="20261018005900 +0800" channel="BBC News"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20261018005900 +0800" stop="20261018010000 +0800" channel="BBC News"><title lang="zh">Face à Bock-Côté</title><desc lang="zh">En Direct. Mathieu Bock-Côté propose un décryptage de l'actualité mais aussi une analyse des enjeux fondamentaux qui secouent les sociétés occidentales des deux côtés de l'Atlantique.</desc>
   </programme>
   <programme start="20261018010000 +0800" stop="20261018013000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
-  <programme start="20261018013000 +0800" stop="20261018020000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
+  <programme start="20261018013000 +0800" stop="20261018015700 +0800" channel="BBC News"><title lang="zh">BBC News</title>
+  </programme>
+  <programme start="20261018015700 +0800" stop="20261018015800 +0800" channel="BBC News"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20261018015800 +0800" stop="20261018020000 +0800" channel="BBC News"><title lang="zh">L'Heure des Pros 2 Week-End</title><desc lang="zh">En Direct. Eliot Deval et ses différents invités, tous experts sportifs, débattent des grands thèmes de l'actualité dans #HDPros2WE à 20h du vendredi au dimanche.</desc>
   </programme>
   <programme start="20261018020000 +0800" stop="20261018023000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
-  <programme start="20261018023000 +0800" stop="20261018030000 +0800" channel="BBC News"><title lang="zh">Newscast</title>
+  <programme start="20261018023000 +0800" stop="20261018025700 +0800" channel="BBC News"><title lang="zh">Newscast</title>
+  </programme>
+  <programme start="20261018025700 +0800" stop="20261018025900 +0800" channel="BBC News"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20261018025900 +0800" stop="20261018030000 +0800" channel="BBC News"><title lang="zh">Face à Michel Onfray</title><desc lang="zh">Aux côtés de Laurence Ferrari, l'essayiste à succès Michel Onfray analyse, avec du recul, les mouvements qui traversent la société, en France et dans le monde.</desc>
   </programme>
   <programme start="20261018030000 +0800" stop="20261018033000 +0800" channel="BBC News"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
   </programme>
-  <programme start="20261018033000 +0800" stop="20261018040000 +0800" channel="BBC News"><title lang="zh">The Travel Show</title><desc lang="zh">Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+  <programme start="20261018033000 +0800" stop="20261018035700 +0800" channel="BBC News"><title lang="zh">The Travel Show</title><desc lang="zh">Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+  </programme>
+  <programme start="20261018035700 +0800" stop="20261018035900 +0800" channel="BBC News"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20261018035900 +0800" stop="20261018040000 +0800" channel="BBC News"><title lang="zh">100% Politique Week-End</title><desc lang="zh">En Direct. CNEWS vous propose un rendez-vous 100% politique présenté par Olivier Benkemoun du vendredi au dimanche.</desc>
   </programme>
   <programme start="20261018040000 +0800" stop="20261018050000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
@@ -1474,6 +1496,8 @@
   <programme start="20261018143000 +0800" stop="20261018150000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
   <programme start="20261018150000 +0800" stop="20261018153000 +0800" channel="BBC News"><title lang="zh">BBC News</title><desc lang="zh">The latest news from the BBC.</desc>
+  </programme>
+  <programme start="20261018153000 +0800" stop="20261018160000 +0800" channel="BBC News"><title lang="zh">The Security Brief</title><desc lang="zh">The war in Ukraine has transformed modern warfare. What has the world learnt and where does the war go next? Christian Fraser and Mikey Kay are joined by special guests and a studio audience.</desc>
   </programme>
   <programme start="20261018160000 +0800" stop="20261018163000 +0800" channel="BBC News"><title lang="zh">BBC News</title>
   </programme>
@@ -5040,6 +5064,10 @@
   </programme>
   <programme start="20261018230000 +0800" stop="20261019010000 +0800" channel="CINEMA ONE GLOBAL"><title lang="zh">Pak! Pak! My Dr. Kwak</title><desc lang="zh">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
   </programme>
+  <programme start="20261018001300 +0800" stop="20261018020200 +0800" channel="CINEMAX"><title lang="zh">Aves de Rapina (Arlequina e sua Emancipação Fantabulosa)</title><desc lang="zh">Margot Robbie retorna ao papel de Harley Quinn em uma história tão torta que apenas a própria Harley pode contá-la.</desc>
+  </programme>
+  <programme start="20261018020200 +0800" stop="20261018021000 +0800" channel="CINEMAX"><title lang="zh">Godzilla vs. Kong</title><desc lang="zh">As lendas se enfrentam no embate épico que decidirá o futuro do mundo: Godzilla vs. Kong.</desc>
+  </programme>
   <programme start="20261018021000 +0800" stop="20261018023000 +0800" channel="CINEMAX"><title lang="zh">窒友梅根2.0</title><desc lang="zh">在梅根展開血腥殺戮兩年後，她的創造者潔瑪被迫讓這位惡名昭彰的人工智慧娃娃重生，並加入幾項升級，好阻止艾米莉亞，一款由強大國防企業盜用梅根技術打造出的軍事級武器。</desc>
   </programme>
   <programme start="20261018023000 +0800" stop="20261018040500 +0800" channel="CINEMAX"><title lang="zh">Drugie życie</title>
@@ -5071,6 +5099,22 @@
   <programme start="20261018210500 +0800" stop="20261018225500 +0800" channel="CINEMAX"><title lang="zh">Neonowa droga</title>
   </programme>
   <programme start="20261018225500 +0800" stop="20261019003500 +0800" channel="CINEMAX"><title lang="zh">Solomama</title>
+  </programme>
+  <programme start="20261018002100 +0800" stop="20261018015700 +0800" channel="CLASSICA"><title lang="zh">Mischa Fomin im Concertgebouw 2018</title><desc lang="zh">Musikkritiker aus Nordamerika, Europa und Russland sind sich einig: das einfühlsame und taktvolle Klavierspiel des in Nalchik geborenen PIanisten Mischa Fomin ist einzigartig. Nach seinem mit cum laude abgeschlossenen Musikstudium an der Gnessin's Russian Academy of Music in Moskau, wo er unter der ehemaligen Schülerin des legendären Heinrich Neuhaus, Lina Bulatowa, Klavierspiel studierte, setzte </desc>
+  </programme>
+  <programme start="20261018015700 +0800" stop="20261018023700 +0800" channel="CLASSICA"><title lang="zh">Dvořák – Slawische Tänze: op. 46 (Nr. 1-8)</title><desc lang="zh">Sir Simon Rattle dirigiert das London Symphony Orchestra in Antonín Dvořáks schwungvollen Slawischen Tänzen, Op. 46 (Nr. 1-8). Die Slawischen Tänze sind voller Überraschungen: Als Dvořák diese 16 Volkstänze komponierte, erzielte er damit sofort einen großen Erfolg als Neuling. Ursprünglich für Klavier zu vier Händen komponiert, spielt das London Symphony Orchestra die Orchesterfassung dieser ersta</desc>
+  </programme>
+  <programme start="20261018023700 +0800" stop="20261018030000 +0800" channel="CLASSICA"><title lang="zh">Classica Spotlight</title>
+  </programme>
+  <programme start="20261018030000 +0800" stop="20261018044500 +0800" channel="CLASSICA"><title lang="zh">Mahler – 8. Sinfonie</title><desc lang="zh">Fabio Luisi dirigiert das Dänische Sinfonieorchester in einem Konzert von Mahlers 8. Sinfonie. Das Werk ist eines der umfangreichsten Chorkompositionen des klassischen Konzertrepertoires und wird häufig als die "Sinfonie der Tausend" bezeichnet. Mahler komponierte das Stück 1906 in seiner Maiernigg-Villa im Süden von Österreich. Es war das letzte Werk des Komponisten, dessen Premiere zu seiner Leb</desc>
+  </programme>
+  <programme start="20261018044500 +0800" stop="20261018060000 +0800" channel="CLASSICA"><title lang="zh">Cartoons in Concert</title><desc lang="zh">Es wird rasant, wirklich rasant! Alle Ihre Lieblingsfiguren aus der Welt der Cartoons und Animationsfilme im Konzertsaal – zusammen mit einer starken Fusion von Musikern und Sängern aus den Chören und Orchestern des DR. Cartoons sind sowohl für Kinder als auch für Erwachsene – und die Musik darin ist mindestens genauso unterhaltsam wie die Bilder! Es wird lustig, berührend, verrückt und dramatisch</desc>
+  </programme>
+  <programme start="20261018060000 +0800" stop="20261018073800 +0800" channel="CLASSICA"><title lang="zh">Fantasymphony – Ein Konzert voller Feuer und Magie</title><desc lang="zh">Eröffnet erneut öffnet das Dänische Nationale Sinfonieorchester die Tore zu magischen Welten mit einem verzaubernden Konzertprogramm. Unter der Leitung des deutschen Dirigenten Christian Schumann vereinen sich das Dänische Nationale Sinfonieorchester, der Dänische Nationale Konzertchor und der Dänische Nationale Jugendchor, um eine Auswahl der besten Musik aus den größten Fantasy-Filmen, TV-Serien</desc>
+  </programme>
+  <programme start="20261018073800 +0800" stop="20261018100000 +0800" channel="CLASSICA"><title lang="zh">The Babylon Hotel</title><desc lang="zh">Nur eine Nacht! Willkommen in der spektakulären und dekadenten Welt des Babylon Hotel, wo Musik aus jeder Ecke wie sprudelnder Champagner fließt. In diesem Konzert trifft die Oberschicht auf die Unterwelt in einer Mischung aus Euphorie und Extravaganz, Nostalgie und Vergnügen, mit einer sorglosen Sündhaftigkeit, wie man sie nur im überschwänglichen Nachtleben der 1920er Jahre weltweit findet. Das </desc>
+  </programme>
+  <programme start="20261018100000 +0800" stop="20261019000000 +0800" channel="CLASSICA"><title lang="zh">Stingray Popular Classical</title><desc lang="zh">Listening to the classical music melodies; Beethoven's "Für Elise," Tchaikovsky's 1812 Overture, Strauss's waltzes and more.</desc>
   </programme>
   <programme start="20261018000000 +0800" stop="20261018010000 +0800" channel="CNBC"><title lang="zh">Late Night With Seth Meyers</title><desc lang="zh">Emmy Award-nominated “Late Night with Seth Meyers,” hosted by award-winning writer and performer Seth Meyers, is home to incisive humor, topical jokes and A-list celebrity guests. The series&amp;#x27; signature “A Closer Look” segment has garnered millions of views and is widely lauded for its tightly written and thoughtful approach to analyzing and satirizing news of the day.</desc>
   </programme>
@@ -5337,6 +5381,8 @@
   <programme start="20261018035500 +0800" stop="20261018044000 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS: Los Angeles</title><desc lang="zh">Callen goes undercover to infiltrate a network of Chechen terrorists who are recruiting foreign fighters to join their cause and planning their next attack in the US.</desc>
   </programme>
   <programme start="20261018044000 +0800" stop="20261018052500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">NCIS: Los Angeles</title><desc lang="zh">Callen, Sam, Kensi and Deeks go undercover as an elite tactical force in order to investigate an ambush tied to a cartel kingpin with terrorist connections.</desc>
+  </programme>
+  <programme start="20261018052500 +0800" stop="20261018053500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">CSI: Crime Scene Investigation</title><desc lang="zh">DB makes the risky decision to use his daughter as bait to catch the Gig Harbour Killer, and discovers the shocking identity of the killer's partner.</desc>
   </programme>
   <programme start="20261018060000 +0800" stop="20261018062500 +0800" channel="CRIME+INVESTIGATIONHD"><title lang="zh">K9 PD With Jim Belushi (S1) - End Of The Line Ep8</title><desc lang="zh">K9 Pandora wastes no time bringing relief to a desperate family looking for a family member. K9s Jet and Cheney tag-team a fugitive who tears up the roadway and refuses to stop.</desc>
   </programme>
@@ -8822,6 +8868,32 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018232500 +0800" stop="20261019012500 +0800" channel="KIX"><title lang="zh">Iron Squad W #9</title><desc lang="zh">Iron Squad W 是個韓國軍事求生真人秀。新一季的節目將選出最精銳的女軍人。節目匯聚了六個特種部隊單位,在陸地、海洋和空中執行極具挑戰性的任務。每隊特種部隊都有4名最精銳的預備役女軍人參加比賽..</desc>
   </programme>
+  <programme start="20261018000000 +0800" stop="20261018003000 +0800" channel="KTV HD"><title lang="zh">Terra Santa News – Nachrichten aus dem Heiligen Land</title><desc lang="zh">Nachrichten aus dem Heiligen Land. In Kooperation mit dem Christlichen Medienzentrum der Franziskaner, sendet K-TV exklusiv aktuelle Nachrichten aus dem Heiligen Land. Dazu gehören Berichte über die Hochfeste der katholischen Kirche, Besondere Veranstaltungen und Jubiläen aber auch eher Alltägliches aus dem Land, in dem Jesus für uns Mensch wurde. (Senderinfo).</desc>
+  </programme>
+  <programme start="20261018003000 +0800" stop="20261018013000 +0800" channel="KTV HD"><title lang="zh">Heilige Messe aus dem Freiburger Münster</title>
+  </programme>
+  <programme start="20261018013000 +0800" stop="20261018023000 +0800" channel="KTV HD"><title lang="zh">Holy Hour der Schulschwestern von Unserer Lieben Frau in Auerbach</title>
+  </programme>
+  <programme start="20261018023000 +0800" stop="20261018040000 +0800" channel="KTV HD"><title lang="zh">Ihrer Zeit voraus. Verkannte Pioniere der Geschichte.</title><desc lang="zh">In einer Mischung aus Dokumentarfilm und Spielfilm beleuchtet der Filmemacher Tone Bechter das Leben des Bregenzerwälder Bauern, Schriftstellers und Sozialreformers Franz Michael Felder, wobei der Fokus insbesondere auf seiner Frau Nanni und seinem Schwager Kaspar Moosbrugger liegt. Das damalige Aufbegehren der Bauern, wie der Frauen und des allgemeinen Mannes (zB Handwerker, Arbeiter) hat einen G</desc>
+  </programme>
+  <programme start="20261018040000 +0800" stop="20261018043000 +0800" channel="KTV HD"><title lang="zh">Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie "Das Werk" in Bregenz</title>
+  </programme>
+  <programme start="20261018043000 +0800" stop="20261018053000 +0800" channel="KTV HD"><title lang="zh">Süchte – christliche Heilungs_ und Befreiungsmöglichkeiten</title><desc lang="zh">Analyse von Suchtstrukturen ("Wer sich verirrt beim sehnsüchtigen Suchen...") sowie die Verknüpfung von psychotherapeutischen Ansätzen mit dem christlichen Glauben und Befreiungswegen. (Senderinfo).</desc>
+  </programme>
+  <programme start="20261018053000 +0800" stop="20261018053900 +0800" channel="KTV HD"><title lang="zh">Abendgebet mit Angelus</title>
+  </programme>
+  <programme start="20261018053900 +0800" stop="20261018054800 +0800" channel="KTV HD"><title lang="zh">Weihe an Maria</title>
+  </programme>
+  <programme start="20261018054800 +0800" stop="20261018060000 +0800" channel="KTV HD"><title lang="zh">Programmvorschau</title><desc lang="zh">Bei der Programmvorschau kann es sich wahlweise um eine einfache Liste mit den Programmpunkten handeln oder um eine detaillierte Darstellung dessen, womit K-TV sie in den nächsten Tagen erfreuen wird. (Senderinfo).</desc>
+  </programme>
+  <programme start="20261018060000 +0800" stop="20261018061500 +0800" channel="KTV HD"><title lang="zh">Generalaudienz mit Papst Leo XIV. aus dem Vatikan (Wiederholung vom Vormittag)</title>
+  </programme>
+  <programme start="20261018061500 +0800" stop="20261018070000 +0800" channel="KTV HD"><title lang="zh">Schlüsselmomente</title><desc lang="zh">Schlüsselmomente?ist ein neues Gesprächsformat bei K-TV, das existenzielle Wendepunkte in den Mittelpunkt stellt. Gastgeber Stefan Meetschen?empfängt prominente wie unbekannte Gäste in ruhiger Atmosphäre. (Senderinfo).</desc>
+  </programme>
+  <programme start="20261018070000 +0800" stop="20261018073000 +0800" channel="KTV HD"><title lang="zh">Terra Santa News – Nachrichten aus dem Heiligen Land</title><desc lang="zh">Nachrichten aus dem Heiligen Land. In Kooperation mit dem Christlichen Medienzentrum der Franziskaner, sendet K-TV exklusiv aktuelle Nachrichten aus dem Heiligen Land. Dazu gehören Berichte über die Hochfeste der katholischen Kirche, Besondere Veranstaltungen und Jubiläen aber auch eher Alltägliches aus dem Land, in dem Jesus für uns Mensch wurde. (Senderinfo).</desc>
+  </programme>
+  <programme start="20261018073000 +0800" stop="20261019000000 +0800" channel="KTV HD"><title lang="zh">Ihrer Zeit voraus. Verkannte Pioniere der Geschichte.</title><desc lang="zh">In einer Mischung aus Dokumentarfilm und Spielfilm beleuchtet der Filmemacher Tone Bechter das Leben des Bregenzerwälder Bauern, Schriftstellers und Sozialreformers Franz Michael Felder, wobei der Fokus insbesondere auf seiner Frau Nanni und seinem Schwager Kaspar Moosbrugger liegt. Das damalige Aufbegehren der Bauern, wie der Frauen und des allgemeinen Mannes (zB Handwerker, Arbeiter) hat einen G</desc>
+  </programme>
   <programme start="20261018011000 +0800" stop="20261018024500 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">阿米希綁案(輔15)</title>
   </programme>
   <programme start="20261018024500 +0800" stop="20261018042000 +0800" channel="Lifetime Movies Love &amp; Drama"><title lang="zh">阿米希少女夜行記(護)</title>
@@ -11922,6 +11994,20 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018233000 +0800" stop="20261019010000 +0800" channel="Sony Entertainment Television"><title lang="zh">The Kapil Sharma Show Ep95</title><desc lang="zh">Laugh out loud with the king of stand-up comedy, Kapil Sharma and his signature supporting cast as they interact with celebrity guests.</desc>
   </programme>
+  <programme start="20261018010000 +0800" stop="20261018020000 +0800" channel="Star TV"><title lang="zh">Couture Fashion Night LIVE</title>
+  </programme>
+  <programme start="20261018020000 +0800" stop="20261018030000 +0800" channel="Star TV"><title lang="zh">Reise nach Hongkong</title><desc lang="zh">Die Dokuserie nimmt dich mit nach Hongkong – eine pulsierende Metropole, in der dicht bebaute Stadtviertel, leuchtende Nachtmärkte und überraschend grüne Landschaften eng nebeneinanderliegen. Eine Fahrt mit der traditionsreichen Star Ferry über den Victoria Harbour eröffnet eindrucksvolle Blicke auf die Skyline zwischen Hong Kong Island und Kowloon. Abseits der Hochhäuser führt der Wanderweg Drago</desc>
+  </programme>
+  <programme start="20261018030000 +0800" stop="20261018034500 +0800" channel="Star TV"><title lang="zh">Reise nach Singapur</title><desc lang="zh">Die Dokuserie führt nach Singapur – von der ikonischen Marina Bay mit Skyline und Gardens by the Bay über die Kolonialarchitektur in der Civic District, die multikulturellen Viertel Chinatown, Little India und Kampong Glam bis zu HDB-Siedlungen, High-Tech-Quartieren wie One-North und den Pulau-Inseln im Süden. Gezeigt werden urbane Parks, vertikale Gärten, Nachtmärkte, Hawker-Centres, High-end-Gas</desc>
+  </programme>
+  <programme start="20261018034500 +0800" stop="20261018044500 +0800" channel="Star TV"><title lang="zh">Reise nach Uganda</title><desc lang="zh">Die Dokuserie entführt dich nach Uganda – von den üppigen Ufern des Viktoriasees und den Nebelwäldern des Rwenzori-Gebirges bis zu den dichten Regenwäldern von Bwindi und den Weiten der Savanne in Nationalparks wie Murchison Falls und Queen Elizabeth. Uganda präsentiert sich als Land der Kontraste: pulsierende Hauptstadt Kampala mit Märkten und Musikszene, traditionelle Dörfer und prachtvolle Natu</desc>
+  </programme>
+  <programme start="20261018044500 +0800" stop="20261018050000 +0800" channel="Star TV"><title lang="zh">StarNews</title><desc lang="zh">Das Szenenmagazin von Star TV ist Ihre erste Anlaufstelle für alles rund um Fun, Sport, Musik und Kultur. Mit packenden Berichten und exklusiven Interviews bringt das Magazin die neuesten Trends und Highlights direkt zu Ihnen nach Hause. Erleben Sie spannende Sportereignisse, entdecken Sie die angesagtesten Musiktrends und tauchen Sie ein in die bunte Welt der Kultur. Star TV sorgt dafür, dass Sie</desc>
+  </programme>
+  <programme start="20261018050000 +0800" stop="20261018060000 +0800" channel="Star TV"><title lang="zh">Juwelo Schmuckauktion</title><desc lang="zh">Bei Juwelo haben Sie mehr Auswahl als bei jedem Juwelier. Entdecken Sie die vielfältigen Kollektionen täglich live und lassen Sie sich von der faszinierenden Welt der Edelsteine verzaubern! Ihr Schaufenster in die Welt der Edelsteine gibt es exklusiv in der Schweiz bei Star TV. Ob funkelnde Diamanten, strahlende Saphire oder leuchtende Rubine – bei Juwelo finden Sie Schmuckstücke, die Ihr Herz höh</desc>
+  </programme>
+  <programme start="20261018060000 +0800" stop="20261019000000 +0800" channel="Star TV"><title lang="zh">Star TV Nachtprogramm</title><desc lang="zh">Das Nachtprogramm von Star TV bietet eine bunte Mischung aus Fun, Sport, Musik und Kultur. Hier findest du unterhaltsame Shows, spannende Sporthighlights, mitreissende Musikvideos und inspirierende Kulturbeiträge, die die Nacht zum Tag machen. Egal ob du nach einem langen Tag abschalten oder dich inspirieren lassen möchtest – Star TV bringt dir die perfekte Mischung aus Unterhaltung und Informatio</desc>
+  </programme>
   <programme start="20261018004300 +0800" stop="20261018010800 +0800" channel="TLC"><title lang="zh">Girl Meets Farm Ep13</title><desc lang="zh">Molly Yeh makes shrimp fun rolls, sticky fried rice with lap cheong, fluffy ginger scallion chicken steamed buns and a matcha crepe cake.</desc>
   </programme>
   <programme start="20261018010800 +0800" stop="20261018013800 +0800" channel="TLC"><title lang="zh">Girl Meets Farm Ep1</title><desc lang="zh">Molly Yeh submits her chocolatey cookies to the harvest bake-off before making a hearty lunch of sandwiches, soup and tangy mac and cheese!</desc>
@@ -12136,17 +12222,23 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018234500 +0800" stop="20261019000000 +0800" channel="TRACE Urban"><title lang="zh">It's still sunday</title>
   </programme>
-  <programme start="20261018000000 +0800" stop="20261018002300 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title>
+  <programme start="20261018000000 +0800" stop="20261018002200 +0800" channel="TV5MONDE HD"><title lang="zh">64' Actu</title><desc lang="zh">Rendez-vous de l'information et de la culture francophone proposé par la rédaction de TV5 Monde, "64' Le monde en français" met l'accent sur l'actualité mondiale, l'actualité francophone, culturelle, politique, économique, sociale, et sociétale ainsi que sur l'information développée par les partenaires historiques de TV5 Monde : la RTBF, la RTS, Radio Canada, Télé-Québec, France 2, France 3.</desc>
   </programme>
-  <programme start="20261018002300 +0800" stop="20261018002700 +0800" channel="TV5MONDE HD"><title lang="zh">Terriennes</title>
+  <programme start="20261018002200 +0800" stop="20261018002600 +0800" channel="TV5MONDE HD"><title lang="zh">Terriennes</title><desc lang="zh">Les activités pédagogiques visent à combattre les clichés et les idées reçues, à dénoncer le sexisme, à prendre conscience de la condition des femmes dans le monde.</desc>
+  </programme>
+  <programme start="20261018002600 +0800" stop="20261018002700 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
   </programme>
   <programme start="20261018002700 +0800" stop="20261018003000 +0800" channel="TV5MONDE HD"><title lang="zh">Meteo</title>
+  </programme>
+  <programme start="20261018003000 +0800" stop="20261018005000 +0800" channel="TV5MONDE HD"><title lang="zh">64' Debat</title>
   </programme>
   <programme start="20261018005000 +0800" stop="20261018010500 +0800" channel="TV5MONDE HD"><title lang="zh">Parlons Eco</title>
   </programme>
   <programme start="20261018010500 +0800" stop="20261018013100 +0800" channel="TV5MONDE HD"><title lang="zh">Papilles</title>
   </programme>
-  <programme start="20261018013100 +0800" stop="20261018020000 +0800" channel="TV5MONDE HD"><title lang="zh">Rassemblance</title>
+  <programme start="20261018013500 +0800" stop="20261018020100 +0800" channel="TV5MONDE HD"><title lang="zh">Papilles</title><desc lang="zh">Le chef trois étoiles Gérald Passedat nous emmène à Marseille pour explorer sa cuisine méditerranéenne à travers des recettes iodées emblématiques.</desc>
+  </programme>
+  <programme start="20261018020100 +0800" stop="20261018022300 +0800" channel="TV5MONDE HD"><title lang="zh">Journal (RTS)</title>
   </programme>
   <programme start="20261018022300 +0800" stop="20261018022700 +0800" channel="TV5MONDE HD"><title lang="zh">Resilience</title><desc lang="zh">After the death of his brother, Djibril goes through a difficult period. While taking care of his nephew, he will try to rebuild his life.</desc>
   </programme>
@@ -12154,9 +12246,21 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018023100 +0800" stop="20261018024000 +0800" channel="TV5MONDE HD"><title lang="zh">L'invite</title>
   </programme>
+  <programme start="20261018024000 +0800" stop="20261018025600 +0800" channel="TV5MONDE HD"><title lang="zh">Lille / Brest</title><desc lang="zh">En Direct.</desc>
+  </programme>
+  <programme start="20261018025600 +0800" stop="20261018030100 +0800" channel="TV5MONDE HD"><title lang="zh">La rencontre, francophonie et ambassadeurs</title><desc lang="zh">Jolanta Balciuniene, ambassadrice de Lituanie auprès de l'Unesco, lit un extrait de "L'Abécédaire de Romain Gary", de Mireille Sacotte et Marie-Anne Arnaud Toulou.</desc>
+  </programme>
+  <programme start="20261018030100 +0800" stop="20261018034200 +0800" channel="TV5MONDE HD"><title lang="zh">Le mensonge</title><desc lang="zh">S'il devait regarder son passé, Claude y changerait peu de choses, lui qui a tout ce dont un homme peut rêver. Aujourd'hui maire de sa ville, respecté, aimé des siens, Claude ne s'imagine pas un seul instant ce que le destin lui réserve, et il va se retrouver sans le vouloir au coeur des problèmes de couple de sa fille, et des conséquences qu'ont les velléités de divorce de ses parents sur son pet</desc>
+  </programme>
   <programme start="20261018034200 +0800" stop="20261018034500 +0800" channel="TV5MONDE HD"><title lang="zh">Merci Professeur!</title>
   </programme>
-  <programme start="20261018044500 +0800" stop="20261018050000 +0800" channel="TV5MONDE HD"><title lang="zh">Heidi's Ice - A letter to the glacier Ep3</title><desc lang="zh">Set against the footage filmed by Pierre Dugowson in the heart of the icy landscape, the glaciologist Heidi Sevestre reads her &amp;quot;Letter to the Glacier&amp;quot;. An ode filled with love and sadness, a description of a never-ending agony.</desc>
+  <programme start="20261018034700 +0800" stop="20261018043700 +0800" channel="TV5MONDE HD"><title lang="zh">Le mensonge</title><desc lang="zh">S'il devait regarder son passé, Claude y changerait peu de choses, lui qui a tout ce dont un homme peut rêver. Aujourd'hui maire de sa ville, respecté, aimé des siens, Claude ne s'imagine pas un seul instant ce que le destin lui réserve, et il va se retrouver sans le vouloir au coeur des problèmes de couple de sa fille, et des conséquences qu'ont les velléités de divorce de ses parents sur son pet</desc>
+  </programme>
+  <programme start="20261018043700 +0800" stop="20261018044400 +0800" channel="TV5MONDE HD"><title lang="zh">L'invité</title><desc lang="zh">Rencontre avec des artistes, des écrivains, des acteurs et tous ceux qui font vibrer notre époque. "L'invité" est le rendez-vous des personnalités qui font l'actualité.</desc>
+  </programme>
+  <programme start="20261018044400 +0800" stop="20261018045300 +0800" channel="TV5MONDE HD"><title lang="zh">Météo</title>
+  </programme>
+  <programme start="20261018045300 +0800" stop="20261018050000 +0800" channel="TV5MONDE HD"><title lang="zh">OPJ</title><desc lang="zh">Tahia Etheve, 22 ans, intègre la brigade. Pour le capitaine Gaspard Watson, c'est un choc des générations, pour Joséphine Fleury la légiste, c'est un choc émotionnel, et enfin c'est un choc tout court pour Clarissa lorsque la nouvelle recrue disparaît. De son côté, le lieutenant Jackson Bellerose doit gérer une vie personnelle compliquée entre son ex-compagne enceinte et sa fiancée partie à l'autr</desc>
   </programme>
   <programme start="20261018050000 +0800" stop="20261018052900 +0800" channel="TV5MONDE HD"><title lang="zh">Le Journal De La Rtbf</title><desc lang="zh">Complete international news roundup presented by the RTBF news staff.</desc>
   </programme>
@@ -18737,9 +18841,9 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018065500 +0800" stop="20261018070000 +0800" channel="天津体育"><title lang="zh">连接下一天</title>
   </programme>
-  <programme start="20261018070000 +0800" stop="20261018075000 +0800" channel="天津体育"><title lang="zh">体育欣赏</title><desc>中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
+  <programme start="20261018070000 +0800" stop="20261018075000 +0800" channel="天津体育"><title lang="zh">体育欣赏</title><desc lang="zh">中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
   </programme>
-  <programme start="20261018075000 +0800" stop="20261018084000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  <programme start="20261018075000 +0800" stop="20261018084000 +0800" channel="天津体育"><title lang="zh">纪录片</title><desc lang="zh">以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
   <programme start="20261018084000 +0800" stop="20261018095500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
@@ -18749,21 +18853,21 @@ their luck around.&amp;quot;</desc>
   </programme>
   <programme start="20261018114000 +0800" stop="20261018125500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
-  <programme start="20261018125500 +0800" stop="20261018160000 +0800" channel="天津体育"><title lang="zh">直播:2026年韩国足球职业联赛第32轮  全北现代vs济州SK</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20261018125500 +0800" stop="20261018160000 +0800" channel="天津体育"><title lang="zh">直播:2026年韩国足球职业联赛第32轮  全北现代vs济州SK</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20261018160000 +0800" stop="20261018171000 +0800" channel="天津体育"><title lang="zh">体育表演</title>
   </programme>
-  <programme start="20261018171000 +0800" stop="20261018180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261018171000 +0800" stop="20261018180000 +0800" channel="天津体育"><title lang="zh">优游四海</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261018180000 +0800" stop="20261018185500 +0800" channel="天津体育"><title lang="zh">旗开得胜</title>
   </programme>
-  <programme start="20261018185500 +0800" stop="20261018192000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20261018185500 +0800" stop="20261018192000 +0800" channel="天津体育"><title lang="zh">直播:体坛新视野</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20261018192000 +0800" stop="20261018193500 +0800" channel="天津体育"><title lang="zh">跟着冠军去健身第二季（3）</title>
   </programme>
   <programme start="20261018193500 +0800" stop="20261018212500 +0800" channel="天津体育"><title lang="zh">体育赛事</title>
   </programme>
-  <programme start="20261018212500 +0800" stop="20261018233500 +0800" channel="天津体育"><title lang="zh">直播:德甲联赛第6轮  勒沃库森VS弗赖堡</title><desc>中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
+  <programme start="20261018212500 +0800" stop="20261018233500 +0800" channel="天津体育"><title lang="zh">直播:德甲联赛第6轮  勒沃库森VS弗赖堡</title><desc lang="zh">中央电视台纪录频道（CCTV-9）晚间黄金时段（21:00首播）的纪录片栏目，2011年随频道开播设立。以“荟聚全球精品蓝筹纪录片”为定位，与BBC、国家地理频道、探索频道等国际机构同步播出全球顶级大片。内容涵盖自然地理、科学技术、历史文化等多元题材，代表作品包括《地球脉动》《生命》《冰冻星球》《人类星球》等。口号：“探寻失落的世界，体验野性的自然”。</desc>
   </programme>
   <programme start="20261018233500 +0800" stop="20261019000000 +0800" channel="天津体育"><title lang="zh">2026年韩国足球职业联赛第32  全北现代VS济州SK</title>
   </programme>

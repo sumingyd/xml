@@ -425,6 +425,8 @@
   </channel>
   <channel id="大庆综合"><display-name lang="zh">大庆综合</display-name><display-name lang="zh">大庆新闻综合</display-name><display-name lang="zh">大庆新闻</display-name>
   </channel>
+  <channel id="LITE FM"><display-name lang="zh">LITE FM</display-name>
+  </channel>
   <channel id="济宁公共"><display-name lang="zh">济宁公共</display-name><display-name lang="zh">济宁公共</display-name><display-name lang="zh">CHANNEL00000241</display-name><display-name lang="zh">济宁公共频道</display-name>
   </channel>
   <channel id="无锡生活频道"><display-name lang="zh">无锡生活频道</display-name>
@@ -985,6 +987,8 @@
   </channel>
   <channel id="无锡新闻综合"><display-name lang="zh">无锡新闻综合</display-name>
   </channel>
+  <channel id="求索频道"><display-name lang="zh">求索频道</display-name>
+  </channel>
   <channel id="黄金华剧"><display-name lang="zh">黄金华剧</display-name>
   </channel>
   <channel id="济南生活"><display-name lang="zh">济南生活</display-name><display-name lang="zh">济南生活</display-name><display-name lang="zh">CHANNEL00000063</display-name><display-name lang="zh">济南生活频道</display-name>
@@ -1433,11 +1437,13 @@
   </channel>
   <channel id="哈尔滨影视"><display-name lang="zh">哈尔滨影视</display-name>
   </channel>
+  <channel id="MIX FM"><display-name lang="zh">MIX FM</display-name>
+  </channel>
   <channel id="天津卫视"><display-name lang="zh">天津卫视</display-name><display-name lang="zh">天津</display-name><display-name lang="zh">CHANNEL00000327</display-name>
   </channel>
-  <channel id="睢宁资讯"><display-name lang="zh">睢宁资讯</display-name>
-  </channel>
   <channel id="CCTV1"><display-name lang="zh">CCTV-1 综合</display-name><display-name lang="zh">CCTV1综合</display-name><display-name lang="zh">CCTV 1</display-name><display-name lang="zh">CCTV1 高清</display-name><display-name lang="zh">CCTV-1(高清)</display-name><display-name lang="zh">CCTV1</display-name>
+  </channel>
+  <channel id="睢宁资讯"><display-name lang="zh">睢宁资讯</display-name>
   </channel>
   <channel id="曲阜综合"><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">曲阜综合</display-name><display-name lang="zh">CHANNEL00001052</display-name>
   </channel>
@@ -1747,7 +1753,39 @@
   </programme>
   <programme start="20261017070000 +0800" stop="20261017074500 +0800" channel="8TV"><title lang="zh">Proud of You</title><desc lang="zh">Wenxue dan ibunya melihat video dikirim oleh orang yang tidak dikenali tentang perbuatan khianat Liu di depan bilik hotel mengakibatkan Wenxue terjatuh.</desc>
   </programme>
-  <programme start="20261017074500 +0800" stop="20261018000000 +0800" channel="8TV"><title lang="zh">Proud of You</title><desc lang="zh">Wenxue menjemput Liu untuk makan tengah hari di mana Wenxue memerhatikan gaya meja Liu menyerupai Kimura Kenji. Wenxue mempersoalkan identiti sebenar Liu dan Liu mengaku dia adalah Zhilong.</desc>
+  <programme start="20261017074500 +0800" stop="20261017083000 +0800" channel="8TV"><title lang="zh">Proud of You</title><desc lang="zh">Wenxue menjemput Liu untuk makan tengah hari di mana Wenxue memerhatikan gaya meja Liu menyerupai Kimura Kenji. Wenxue mempersoalkan identiti sebenar Liu dan Liu mengaku dia adalah Zhilong.</desc>
+  </programme>
+  <programme start="20261017083000 +0800" stop="20261017093000 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20261017093000 +0800" stop="20261017103000 +0800" channel="8TV"><title lang="zh">Women Walk the Line</title><desc lang="zh">Bing Wen terkejut mendapati sepupunya Hao Shuai bekerja di Shu Mei Corporation. Dia memberikan amaran supaya tidak mendedahkan hubungan mereka kepada sesiapa.</desc>
+  </programme>
+  <programme start="20261017103000 +0800" stop="20261017123000 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20261017123000 +0800" stop="20261017130000 +0800" channel="8TV"><title lang="zh">Midday Mandarin News</title><desc lang="zh">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+  </programme>
+  <programme start="20261017130000 +0800" stop="20261017135800 +0800" channel="8TV"><title lang="zh">Wow Shop</title><desc lang="zh">WOWSHOP is an innovative home shopping network that is accessible across television, online and mobile platforms, bringing Malaysians a uniquely visual, interactive and immersive experience.</desc>
+  </programme>
+  <programme start="20261017135800 +0800" stop="20261017140000 +0800" channel="8TV"><title lang="zh">8 E-Pulse Capsule</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
+  </programme>
+  <programme start="20261017140000 +0800" stop="20261017150000 +0800" channel="8TV"><title lang="zh">The Legend of Taiwan 17</title><desc lang="zh">Bao Lian menyara hidup dengan menjual kuih-muih, tetapi sering dibuli oleh Shui Xian, anak perempuan Shu Qing yang sombong.</desc>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017160000 +0800" channel="8TV"><title lang="zh">My One and Only</title><desc lang="zh">Qiaojuan memutuskan untuk melabur dalam projek kondo Limin. Limin dan Zixiong menasihati Haojian yang tertekan. Ibu Haojian berterima kasih kepada Limin atas membantu Haojian.</desc>
+  </programme>
+  <programme start="20261017160000 +0800" stop="20261017165800 +0800" channel="8TV"><title lang="zh">Ultimate Dance Crew</title><desc lang="zh">Sean, Vitoria dan Ash memperkenalkan 6 kumpulan di 'Ultimate Dance Crew'. Saingan bermula menerusi cabaran 'The Identity' dengan persembahan mereka dinilai oleh pengadil Seven, Danny dan Kid Inn.</desc>
+  </programme>
+  <programme start="20261017165800 +0800" stop="20261017170000 +0800" channel="8TV"><title lang="zh">8 E-Pulse Capsule</title><desc lang="zh">Rancangan ini dibawakan khas untuk tontonan umum.</desc>
+  </programme>
+  <programme start="20261017170000 +0800" stop="20261017180000 +0800" channel="8TV"><title lang="zh">Love Like the Galaxy</title><desc lang="zh">Sejak putera menerima azimat harimau, dia terus bimbang tentang keselamatan azimat harimau di istananya.</desc>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261017190000 +0800" channel="8TV"><title lang="zh">Love Like the Galaxy</title><desc lang="zh">Bu Yi menceritakan tentang pengalaman hidupnya, dan Shao Shang sangat tertekan apabila dia mengetahui masa silam yang tragis antara Bu Yi dan ibunya, Jun Hua.</desc>
+  </programme>
+  <programme start="20261017190000 +0800" stop="20261017200000 +0800" channel="8TV"><title lang="zh">Opm</title><desc lang="zh">Harry menghadapi kekurangan dana penyelidikan berkenaan kajian mengesan penyakit keturunan melalui ujian darah. OPM cuba memujuk seorang usahawan kaya Malaysia bernama Lim Xiong untuk membuat pelaburan.</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261017210000 +0800" channel="8TV"><title lang="zh">Mandarin News</title><desc lang="zh">This Mandarin news programme delivers stories that have a direct impact on Chinese interest, focusing on issues that concern them.</desc>
+  </programme>
+  <programme start="20261017210000 +0800" stop="20261017230000 +0800" channel="8TV"><title lang="zh">The Treasured Voice</title><desc lang="zh">14 orang penyanyi berbakat dari China, Taiwan dan Malaysia dibahagikan kepada 7 pasangan untuk menyertai 'The Treasured Voice'.</desc>
+  </programme>
+  <programme start="20261017230000 +0800" stop="20261018010000 +0800" channel="8TV"><title lang="zh">Healing Heroes</title><desc lang="zh">Yi Shi menolak mentah-mentah pengakuan cinta oleh Dr King. Bok On yang kembali ke Singapura atas permintaan Jin Kok, menumbuk Dr King atas tindakan kejinya.</desc>
   </programme>
   <programme start="20261017003000 +0800" stop="20261017013000 +0800" channel="ABCAUSTRALIA"><title lang="zh">The Jury 第1季第1集</title><desc lang="zh">The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
   </programme>
@@ -2367,7 +2405,67 @@
   </programme>
   <programme start="20261017070000 +0800" stop="20261017073000 +0800" channel="Astro AEC"><title lang="zh">Evening Edition</title><desc lang="zh">Catch the latest local &amp; international news headlines as depicted in major newspaper &amp; magazines, each from a range of different perspectives.</desc>
   </programme>
-  <programme start="20261017073000 +0800" stop="20261018000000 +0800" channel="Astro AEC"><title lang="zh">Pedal On For Love</title><desc lang="zh">11 Singapore celebrities will embark on an unprecedented relay cycling journey from Yunnan to Singapore. For this epic 5000km ride, the casts will face unprecedented challenges.</desc>
+  <programme start="20261017073000 +0800" stop="20261017083000 +0800" channel="Astro AEC"><title lang="zh">Pedal On For Love</title><desc lang="zh">11 Singapore celebrities will embark on an unprecedented relay cycling journey from Yunnan to Singapore. For this epic 5000km ride, the casts will face unprecedented challenges.</desc>
+  </programme>
+  <programme start="20261017083000 +0800" stop="20261017092800 +0800" channel="Astro AEC"><title lang="zh">Find Me A Singaporean: The World's My Stage</title><desc lang="zh">As Singapore celebrates its 60th anniversary, the team visits Singaporeans who have made their marks overseas, highlighting their outstanding achievements.</desc>
+  </programme>
+  <programme start="20261017092800 +0800" stop="20261017093000 +0800" channel="Astro AEC"><title lang="zh">WOLONG: The Mastermind Behind The Scenes</title><desc lang="zh">Who is the mastermind pulling the strings? As the Lim and Zhao families clash, how does Lim Min control the game? What will Mrs. Zhao's reunion with her son change? Uncover the secrets now!</desc>
+  </programme>
+  <programme start="20261017093000 +0800" stop="20261017100000 +0800" channel="Astro AEC"><title lang="zh">Garden of Treasure</title><desc lang="zh">Join herbalist Stella for a walk through the Kebun-Kebun, Bangsar as she passes knowledge about traditional herbs to philanthropists, making herbal skincare products &amp; educating the disadvantaged.</desc>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017102500 +0800" channel="Astro AEC"><title lang="zh">My Kids Can Organize</title><desc lang="zh">In Season 2, host Emily Ng &amp; home organizer Jaq help eight families declutter - by teaching kids practical ways to tidy up &amp; create clean, bright spaces for learning and resting.</desc>
+  </programme>
+  <programme start="20261017102500 +0800" stop="20261017103000 +0800" channel="Astro AEC"><title lang="zh">My Little Boys</title><desc lang="zh">Follow the warm family story revolving the life of renowned novelist Mr. Luo and his beautiful, elegant wife, along with their two sons, Ah Bai and A-Nee-Gu, and their adorable pet dog, Duan Duan.</desc>
+  </programme>
+  <programme start="20261017103000 +0800" stop="20261017115700 +0800" channel="Astro AEC"><title lang="zh">Perfect Match</title><desc lang="zh">This flagship dating show hosted by Meng Fei has gotten a new upgrade! 'Xiao Ling' continues to participate in matchmaking, opening a new chapter in technology driven connections.</desc>
+  </programme>
+  <programme start="20261017115700 +0800" stop="20261017120000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave [Theme Song]</title><desc lang="zh">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
+  </programme>
+  <programme start="20261017120000 +0800" stop="20261017125700 +0800" channel="Astro AEC"><title lang="zh">Love In A Pot</title><desc lang="zh">A lively series where hotpot brings people together. From Chongqing's fiery hotpot to Japan's delicate sukiyaki &amp; Switzerland's rich cheese fondue, host Lyu Linxuan explores global hotpot culture.</desc>
+  </programme>
+  <programme start="20261017125700 +0800" stop="20261017130000 +0800" channel="Astro AEC"><title lang="zh">WOLONG: The Mastermind Behind The Scenes</title><desc lang="zh">Who is the mastermind pulling the strings? As the Lim and Zhao families clash, how does Lim Min control the game? What will Mrs. Zhao's reunion with her son change? Uncover the secrets now!</desc>
+  </programme>
+  <programme start="20261017130000 +0800" stop="20261017133000 +0800" channel="Astro AEC"><title lang="zh">Tuesday Report: Crossing Paths Anew</title><desc lang="zh">As Singapore evolves, many of its treasured cultural traditions are quietly fading. This program explores how they can be preserved &amp; re-imagined to reflect relevance in today's society.</desc>
+  </programme>
+  <programme start="20261017133000 +0800" stop="20261017142800 +0800" channel="Astro AEC"><title lang="zh">Find Me A Singaporean: The World's My Stage</title><desc lang="zh">As Singapore celebrates its 60th anniversary, the team visits Singaporeans who have made their marks overseas, highlighting their outstanding achievements.</desc>
+  </programme>
+  <programme start="20261017142800 +0800" stop="20261017143000 +0800" channel="Astro AEC"><title lang="zh">Yang Sanggup Berjuang</title><desc lang="zh">Karamjit Singh reflects on serving his country, in this Astro 30th anniversary tribute. Thank you, Karamjit, and to all our athletes and veterans, for your service.</desc>
+  </programme>
+  <programme start="20261017143000 +0800" stop="20261017152700 +0800" channel="Astro AEC"><title lang="zh">Local Heroes or Village Idiots</title><desc lang="zh">Honduras join hands with Shih Ming Shuai, Huang Pei Jia, Andrew Chau, &amp; village dog Qiubao to form the Most \"Kiang\" Squad. Crossing the Central Mountain Range, the team embarks on an upgraded mission.</desc>
+  </programme>
+  <programme start="20261017152700 +0800" stop="20261017153000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave [Theme Song]</title><desc lang="zh">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
+  </programme>
+  <programme start="20261017153000 +0800" stop="20261017160000 +0800" channel="Astro AEC"><title lang="zh">Axian's Local Eats</title><desc lang="zh">Experience the true brilliance of Malaysia's culinary soul. Just as Putu Piring is brought to life by steam, Hainanese chicken rice balls have transcended ethnic lines.</desc>
+  </programme>
+  <programme start="20261017160000 +0800" stop="20261017170000 +0800" channel="Astro AEC"><title lang="zh">Old Taste Detective</title><desc lang="zh">Delicacies change over time and may differ from the original version. Join the host as he attempts to reproduce the authentic, original delicacies with the guidance of a local chef.</desc>
+  </programme>
+  <programme start="20261017170000 +0800" stop="20261017175800 +0800" channel="Astro AEC"><title lang="zh">WOLONG: The Mastermind</title><desc lang="zh">After a night with Zoey, Ah Ming faces workplace turmoil and a fierce rival from Zhao Group. But Sunny hides a shocking secret — he is Zhou Yu, a legendary strategist from ancient China.</desc>
+  </programme>
+  <programme start="20261017175800 +0800" stop="20261017180000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave [Theme Song]</title><desc lang="zh">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261017180200 +0800" channel="Astro AEC"><title lang="zh">AI News Flash</title><desc lang="zh">Malaysia's first Chinese news program hosted by an AI anchor. In just 100 seconds, it provides viewers with a daily summary of the latest domestic and international news.</desc>
+  </programme>
+  <programme start="20261017180200 +0800" stop="20261017182500 +0800" channel="Astro AEC"><title lang="zh">MOMO Family</title><desc lang="zh">Brothers and sisters perform humorous skits about family life. With witty content and simple plots, children learn life skills and strengthen family bonds through laughter.</desc>
+  </programme>
+  <programme start="20261017182500 +0800" stop="20261017183000 +0800" channel="Astro AEC"><title lang="zh">My Little Boys</title><desc lang="zh">Follow the warm family story revolving the life of renowned novelist Mr. Luo and his beautiful, elegant wife, along with their two sons, Ah Bai and A-Nee-Gu, and their adorable pet dog, Duan Duan.</desc>
+  </programme>
+  <programme start="20261017183000 +0800" stop="20261017195700 +0800" channel="Astro AEC"><title lang="zh">Perfect Match</title><desc lang="zh">This flagship dating show hosted by Meng Fei has gotten a new upgrade! 'Xiao Ling' continues to participate in matchmaking, opening a new chapter in technology driven connections.</desc>
+  </programme>
+  <programme start="20261017195700 +0800" stop="20261017200000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave [Theme Song]</title><desc lang="zh">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261017203000 +0800" channel="Astro AEC"><title lang="zh">(L) 2000 Prime Talk</title><desc lang="zh">This primetime news programme delivers the latest in current affairs, international top stories &amp; human interest, with input from professionals in the field.</desc>
+  </programme>
+  <programme start="20261017203000 +0800" stop="20261017215800 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave</title><desc lang="zh">After intense selection and training in music and performance, the Top 20 contestants in 'Astro Star Quest 2026 - The Next Wave' take the stage to discover what it takes to become the next wave.</desc>
+  </programme>
+  <programme start="20261017215800 +0800" stop="20261017220000 +0800" channel="Astro AEC"><title lang="zh">WOLONG: The Mastermind Behind The Scenes</title><desc lang="zh">Who is the mastermind pulling the strings? As the Lim and Zhao families clash, how does Lim Min control the game? What will Mrs. Zhao's reunion with her son change? Uncover the secrets now!</desc>
+  </programme>
+  <programme start="20261017220000 +0800" stop="20261017222800 +0800" channel="Astro AEC"><title lang="zh">Axian's Local Eats</title><desc lang="zh">From freshly cooked fish head noodles to Hakka stuffed green chillies to bread that stays true to its craft, each culinary masterpiece tells a story.</desc>
+  </programme>
+  <programme start="20261017222800 +0800" stop="20261017223000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave [Theme Song]</title><desc lang="zh">20 young stars come together for the official theme song of Astro Star Quest 2026 - The Next Wave.  Composed by Gaston Pong, this track showcases their journey and the next wave of music.</desc>
+  </programme>
+  <programme start="20261017223000 +0800" stop="20261017230000 +0800" channel="Astro AEC"><title lang="zh">(L) Evening Edition</title><desc lang="zh">Catch the latest local &amp; international news headlines as depicted in major newspaper &amp; magazines, each from a range of different perspectives.</desc>
+  </programme>
+  <programme start="20261017230000 +0800" stop="20261018003000 +0800" channel="Astro AEC"><title lang="zh">Astro Star Quest 2026 - The Next Wave</title><desc lang="zh">After intense selection and training in music and performance, the Top 20 contestants in 'Astro Star Quest 2026 - The Next Wave' take the stage to discover what it takes to become the next wave.</desc>
   </programme>
   <programme start="20261017003000 +0800" stop="20261017012000 +0800" channel="Astro AOD"><title lang="zh">璀璨之城 第5集</title><desc lang="zh">尚利锋集团两兄弟官孝贤和官孝君共同管理公司。孝贤为了击败弟弟孝君，竟娶了孝君妻子王雪莹的昔日好友洪海允，并利用两人之间的恩怨对付孝君夫妇。面对哥哥接连设局，孝君决心守住正义，与家人展开一场豪门斗争。</desc>
   </programme>
@@ -6885,7 +6983,13 @@
   </programme>
   <programme start="20261017224700 +0800" stop="20261018001300 +0800" channel="CINEMAX"><title lang="zh">Hotel Transilvânia 2</title><desc lang="zh">O Conde Drácula percebe que seu neto, que é metade humano, não está desenvolvendo o seu lado vampiro.</desc>
   </programme>
-  <programme start="20261017060000 +0800" stop="20261018000000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
+  <programme start="20261017060000 +0800" stop="20261017100000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Greatest Rock songs!</desc>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017150000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Let's Rock &amp; Roll.</desc>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017200000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Playing the Best Rock Songs of all time!</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261018060000 +0800" channel="CLASSIC ROCK"><title lang="zh">SYOK ROCK : Non-stop 24/7 Rock Songs!</title><desc lang="zh">Let's Rock Out!</desc>
   </programme>
   <programme start="20261017005000 +0800" stop="20261017020000 +0800" channel="CLASSICA"><title lang="zh">Mahler – Le Chant de la Terre</title>
   </programme>
@@ -8965,7 +9069,23 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017233000 +0800" stop="20261017235900 +0800" channel="ELTV 生活英语"><title lang="zh">桌遊新樂園</title>
   </programme>
-  <programme start="20261017060000 +0800" stop="20261018000000 +0800" channel="ERA FM"><title lang="zh">Non-Stop Era</title>
+  <programme start="20261017060000 +0800" stop="20261017080000 +0800" channel="ERA FM"><title lang="zh">Non-Stop Era</title>
+  </programme>
+  <programme start="20261017080000 +0800" stop="20261017090000 +0800" channel="ERA FM"><title lang="zh">Throwback 3 Pagi ERA</title>
+  </programme>
+  <programme start="20261017090000 +0800" stop="20261017100000 +0800" channel="ERA FM"><title lang="zh">Super Safee Era</title>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017110000 +0800" channel="ERA FM"><title lang="zh">RimChart ERA</title>
+  </programme>
+  <programme start="20261017110000 +0800" stop="20261017150000 +0800" channel="ERA FM"><title lang="zh">#HujungMingguERA</title>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017190000 +0800" channel="ERA FM"><title lang="zh">Carta ERA 40</title>
+  </programme>
+  <programme start="20261017190000 +0800" stop="20261017200000 +0800" channel="ERA FM"><title lang="zh">Non-Stop Nasyid Era</title>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261017230000 +0800" channel="ERA FM"><title lang="zh">Malam Minggu Era</title>
+  </programme>
+  <programme start="20261017230000 +0800" stop="20261018070000 +0800" channel="ERA FM"><title lang="zh">Dugem Era</title>
   </programme>
   <programme start="20261017000000 +0800" stop="20261017001400 +0800" channel="EURONEWS"><title lang="zh">The European debrief</title>
   </programme>
@@ -9425,7 +9545,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017233000 +0800" stop="20261018000000 +0800" channel="FashionTV HD"><title lang="zh">Fashion Films</title><desc lang="zh">Sit back, relax and enjoy a handful of experimental narrative fashion films with top models starring, it’s one of the most artistic ways to follow the latest collections!</desc>
   </programme>
-  <programme start="20261017000000 +0800" stop="20261017001500 +0800" channel="France 24"><title lang="zh">Au coeur de l'info : le journal(普)</title>
+  <programme start="20261017000000 +0800" stop="20261017001000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017001000 +0800" stop="20261017001500 +0800" channel="France 24"><title lang="zh">The World This Week</title><desc lang="zh">Review and debate the week's international news that made the headlines.</desc>
   </programme>
   <programme start="20261017001500 +0800" stop="20261017002000 +0800" channel="France 24"><title lang="zh">En tête à tête(普)</title>
   </programme>
@@ -9445,7 +9567,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017011200 +0800" stop="20261017011500 +0800" channel="France 24"><title lang="zh">Une semaine dans le monde(普)</title>
   </programme>
-  <programme start="20261017011500 +0800" stop="20261017013000 +0800" channel="France 24"><title lang="zh">En tête à tête</title><desc lang="zh">Des entretiens en tête-à-tête sans concessions avec des dirigeants, des personnalités, des voix alternatives. Ce sont celles et ceux qui façonnent notre monde.</desc>
+  <programme start="20261017011500 +0800" stop="20261017012100 +0800" channel="France 24"><title lang="zh">French Connections</title><desc lang="zh">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
+  </programme>
+  <programme start="20261017012100 +0800" stop="20261017013000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
   </programme>
   <programme start="20261017013000 +0800" stop="20261017014500 +0800" channel="France 24"><title lang="zh">Au coeur de l'info : le journal[直播]</title><desc lang="zh">Une immersion au cœur de l&amp;#x27;information pour analyser les faits marquants du jour et en comprendre les implications. L&amp;#x27;émission propose également des éclairages sur les grands enjeux internationaux, afin d&amp;#x27;offrir une lecture claire et approfondie de l&amp;#x27;actualité mondiale.</desc>
   </programme>
@@ -9467,7 +9591,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017024600 +0800" stop="20261017030000 +0800" channel="France 24"><title lang="zh">Across Africa(普)</title>
   </programme>
-  <programme start="20261017030000 +0800" stop="20261017031500 +0800" channel="France 24"><title lang="zh">L'essentiel : le journal(普)</title>
+  <programme start="20261017030000 +0800" stop="20261017031000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017031000 +0800" stop="20261017031500 +0800" channel="France 24"><title lang="zh">The World This Week</title><desc lang="zh">Review and debate the week's international news that made the headlines.</desc>
   </programme>
   <programme start="20261017031500 +0800" stop="20261017032100 +0800" channel="France 24"><title lang="zh">Elément Terre(普)</title>
   </programme>
@@ -9493,7 +9619,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017043600 +0800" stop="20261017044400 +0800" channel="France 24"><title lang="zh">La question qui fâche[直播]</title><desc lang="zh">Rencontre avec un invité autour d&amp;#x27;un sujet d&amp;#x27;actualité au cœur des débats et des divergences d&amp;#x27;opinion. L&amp;#x27;émission propose une analyse approfondie, directe et sans détour des thématiques sensibles, afin d&amp;#x27;éclairer les enjeux et de nourrir la réflexion.</desc>
   </programme>
-  <programme start="20261017044400 +0800" stop="20261017050000 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique(普)</title>
+  <programme start="20261017044400 +0800" stop="20261017044500 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique(普)</title>
+  </programme>
+  <programme start="20261017044500 +0800" stop="20261017050000 +0800" channel="France 24"><title lang="zh">Scoop</title><desc lang="zh">"Scoop" provides a critical lens on the ever-evolving media landscape.</desc>
   </programme>
   <programme start="20261017050000 +0800" stop="20261017050800 +0800" channel="France 24"><title lang="zh">L'essentiel : le journal(普)</title>
   </programme>
@@ -9543,6 +9671,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017091000 +0800" stop="20261017091500 +0800" channel="France 24"><title lang="zh">Le café des sports(普)</title>
   </programme>
+  <programme start="20261017091500 +0800" stop="20261017093000 +0800" channel="France 24"><title lang="zh">Guest of the day</title><desc lang="zh">France 24 and a special guest explore, debate and analyse a key topic of the day – a deep dive to better understand the different issues at play.</desc>
+  </programme>
   <programme start="20261017093000 +0800" stop="20261017095500 +0800" channel="France 24"><title lang="zh">Casa Daza</title><desc lang="zh">ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
   </programme>
   <programme start="20261017095500 +0800" stop="20261017100000 +0800" channel="France 24"><title lang="zh">L'instant mobile</title><desc lang="zh">Une émission d&amp;#x27;information au format court qui traite des sujets les plus captivants venus du monde entier. À travers des reportages dynamiques et un regard incisif, elle propose un condensé de l&amp;#x27;actualité internationale pour rester informé rapidement et efficacement.</desc>
@@ -9551,23 +9681,37 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017101000 +0800" stop="20261017101100 +0800" channel="France 24"><title lang="zh">Le café des sports</title><desc lang="zh">Un retour sur l&amp;#x27;actualité du football de la semaine. Commentaires et analyses des résultats des matchs, mais aussi décryptage de toutes les dernières actualités avec l&amp;#x27;équipe des éditorialistes de la chaîne.</desc>
   </programme>
-  <programme start="20261017101100 +0800" stop="20261017101500 +0800" channel="France 24"><title lang="zh">Une semaine dans le monde(普)</title>
+  <programme start="20261017101100 +0800" stop="20261017101400 +0800" channel="France 24"><title lang="zh">Une semaine dans le monde(普)</title>
+  </programme>
+  <programme start="20261017101400 +0800" stop="20261017101500 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
   <programme start="20261017101500 +0800" stop="20261017103000 +0800" channel="France 24"><title lang="zh">Across Africa(普)</title>
   </programme>
   <programme start="20261017103000 +0800" stop="20261017104500 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
-  <programme start="20261017104500 +0800" stop="20261017110000 +0800" channel="France 24"><title lang="zh">Scoop(普)</title>
+  <programme start="20261017104500 +0800" stop="20261017104600 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
-  <programme start="20261017110000 +0800" stop="20261017111100 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal[直播]</title><desc lang="zh">L&amp;#x27;actualité ne dort jamais. Un journal complet sur l&amp;#x27;information française et internationale pour rester informé à toute heure, partout dans le monde.</desc>
+  <programme start="20261017104600 +0800" stop="20261017105200 +0800" channel="France 24"><title lang="zh">The Observers</title><desc lang="zh">Photos, videos and personal accounts from our Observers, checked by France 24 journalists.</desc>
+  </programme>
+  <programme start="20261017105200 +0800" stop="20261017110000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme>
+  <programme start="20261017110000 +0800" stop="20261017110900 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017110900 +0800" stop="20261017111000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017111000 +0800" stop="20261017111100 +0800" channel="France 24"><title lang="zh">Revisited</title><desc lang="zh">France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
   </programme>
   <programme start="20261017111100 +0800" stop="20261017111500 +0800" channel="France 24"><title lang="zh">Une semaine dans le monde</title><desc lang="zh">Notre table ronde d&amp;#x27;invités passe en revue, débat et analyse les événements qui ont marqué l&amp;#x27;actualité internationale et française de la semaine.</desc>
   </programme>
   <programme start="20261017111500 +0800" stop="20261017113000 +0800" channel="France 24"><title lang="zh">Actuelles(普)</title>
   </programme>
-  <programme start="20261017113000 +0800" stop="20261017114500 +0800" channel="France 24"><title lang="zh">L'édition nuit : le journal(普)</title>
+  <programme start="20261017113000 +0800" stop="20261017113900 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
-  <programme start="20261017114500 +0800" stop="20261017120000 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique(普)</title>
+  <programme start="20261017113900 +0800" stop="20261017114000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017114000 +0800" stop="20261017115500 +0800" channel="France 24"><title lang="zh">Paris des Arts</title><desc lang="zh">A cultural wander through Paris with an artist. Valérie Fayolle builds bridges from one art form to another, from one artist to another, from France to the rest of the world.</desc>
+  </programme>
+  <programme start="20261017115500 +0800" stop="20261017120000 +0800" channel="France 24"><title lang="zh">Short Cuts</title><desc lang="zh">Inspiring topics and positive initiatives that are changing the world.</desc>
   </programme>
   <programme start="20261017120000 +0800" stop="20261017121200 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
@@ -9581,7 +9725,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017124400 +0800" stop="20261017124500 +0800" channel="France 24"><title lang="zh">C'est en France(普)</title>
   </programme>
-  <programme start="20261017124500 +0800" stop="20261017130000 +0800" channel="France 24"><title lang="zh">Le journal de l'Afrique</title><desc lang="zh">Direction l&amp;#x27;Afrique, avec des reportages, des invités de marque et les correspondants de France 24, pour revenir sur toute l&amp;#x27;actualité du continent.</desc>
+  <programme start="20261017124500 +0800" stop="20261017125000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
+  </programme>
+  <programme start="20261017125000 +0800" stop="20261017130000 +0800" channel="France 24"><title lang="zh">Sports</title><desc lang="zh">A summary of world sports news of the day, both on and off the pitch.</desc>
   </programme>
   <programme start="20261017130000 +0800" stop="20261017131400 +0800" channel="France 24"><title lang="zh">A la une : le journal[直播]</title><desc lang="zh">Tout ce qui fait et fera la une de la journée : économie, international, analyses et décryptages, revue de presse et grands temps forts à venir, pour suivre en continu les événements majeurs en France et dans le monde.</desc>
   </programme>
@@ -9593,7 +9739,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017133000 +0800" stop="20261017134400 +0800" channel="France 24"><title lang="zh">A la une : le journal[直播]</title><desc lang="zh">Tout ce qui fait et fera la une de la journée : économie, international, analyses et décryptages, revue de presse et grands temps forts à venir, pour suivre en continu les événements majeurs en France et dans le monde.</desc>
   </programme>
-  <programme start="20261017134400 +0800" stop="20261017140000 +0800" channel="France 24"><title lang="zh">C'est en France</title><desc lang="zh">Un regard approfondi sur l&amp;#x27;actualité en France : société, politique et culture. À travers des reportages et des interviews, nous explorons les enjeux du quotidien pour mieux comprendre la réalité vécue par les Français aujourd&amp;#x27;hui.</desc>
+  <programme start="20261017134400 +0800" stop="20261017134500 +0800" channel="France 24"><title lang="zh">C'est en France</title><desc lang="zh">Un regard approfondi sur l&amp;#x27;actualité en France : société, politique et culture. À travers des reportages et des interviews, nous explorons les enjeux du quotidien pour mieux comprendre la réalité vécue par les Français aujourd&amp;#x27;hui.</desc>
+  </programme>
+  <programme start="20261017134500 +0800" stop="20261017140000 +0800" channel="France 24"><title lang="zh">The 51 Percent</title><desc lang="zh">A programme about the women reshaping our world.</desc>
   </programme>
   <programme start="20261017140000 +0800" stop="20261017141500 +0800" channel="France 24"><title lang="zh">A la une : le journal(普)</title>
   </programme>
@@ -9601,19 +9749,31 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017142200 +0800" stop="20261017143000 +0800" channel="France 24"><title lang="zh">Sports[直播]</title><desc lang="zh">Chaque jour, le point sur l&amp;#x27;actualité sportive, de la Ligue des champions, à la NBA, en passant par le tennis, le cyclisme ou encore le cricket.</desc>
   </programme>
-  <programme start="20261017143000 +0800" stop="20261017150000 +0800" channel="France 24"><title lang="zh">Hot Copy On Headstart</title><desc lang="zh">ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
+  <programme start="20261017143000 +0800" stop="20261017144500 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
-  <programme start="20261017150000 +0800" stop="20261017151500 +0800" channel="France 24"><title lang="zh">News(普)</title>
+  <programme start="20261017144500 +0800" stop="20261017150000 +0800" channel="France 24"><title lang="zh">The Reporter's Week</title><desc lang="zh">From the four corners of the world, the week's news through the eyes of France 24 reporters, with field insight and global perspectives beyond.</desc>
   </programme>
-  <programme start="20261017151500 +0800" stop="20261017153000 +0800" channel="France 24"><title lang="zh">Guest of the day(普)</title>
+  <programme start="20261017150000 +0800" stop="20261017150900 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
-  <programme start="20261017153000 +0800" stop="20261017160000 +0800" channel="France 24"><title lang="zh">Eic On The Move</title><desc lang="zh">ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
+  <programme start="20261017150900 +0800" stop="20261017151000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017151000 +0800" stop="20261017152500 +0800" channel="France 24"><title lang="zh">Paris des Arts</title><desc lang="zh">A cultural wander through Paris with an artist. Valérie Fayolle builds bridges from one art form to another, from one artist to another, from France to the rest of the world.</desc>
+  </programme>
+  <programme start="20261017152500 +0800" stop="20261017153000 +0800" channel="France 24"><title lang="zh">Short Cuts</title><desc lang="zh">Inspiring topics and positive initiatives that are changing the world.</desc>
+  </programme>
+  <programme start="20261017153000 +0800" stop="20261017153900 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017153900 +0800" stop="20261017154000 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017154000 +0800" stop="20261017160000 +0800" channel="France 24"><title lang="zh">Revisited</title><desc lang="zh">France 24 returns to places which featured in the news to see how local people are rebuilding their lives.</desc>
   </programme>
   <programme start="20261017160000 +0800" stop="20261017161400 +0800" channel="France 24"><title lang="zh">Paris direct : le journal(普)</title>
   </programme>
   <programme start="20261017161400 +0800" stop="20261017161500 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
-  <programme start="20261017161500 +0800" stop="20261017163000 +0800" channel="France 24"><title lang="zh">Access Asia(普)</title>
+  <programme start="20261017161500 +0800" stop="20261017162100 +0800" channel="France 24"><title lang="zh">French Connections</title><desc lang="zh">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
+  </programme>
+  <programme start="20261017162100 +0800" stop="20261017163000 +0800" channel="France 24"><title lang="zh">Entre Nous</title><desc lang="zh">In Entre Nous, we look at what gets us talking among family and friends. From social norms, to what is making headlines in France, the show is an in-depth look at society.</desc>
   </programme>
   <programme start="20261017163000 +0800" stop="20261017164400 +0800" channel="France 24"><title lang="zh">Paris direct : le journal(普)</title>
   </programme>
@@ -9631,7 +9791,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017171000 +0800" stop="20261017171400 +0800" channel="France 24"><title lang="zh">Revisited(普)</title>
   </programme>
-  <programme start="20261017171400 +0800" stop="20261017173000 +0800" channel="France 24"><title lang="zh">A l'affiche</title><desc lang="zh">Comment les artistes nous racontent-ils le monde ? Nous recevons les cinéastes, les écrivains, les photographes ou encore les musiciens qui font l&amp;#x27;actualité partout dans le monde.</desc>
+  <programme start="20261017171400 +0800" stop="20261017171500 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017171500 +0800" stop="20261017173000 +0800" channel="France 24"><title lang="zh">Across Africa</title><desc lang="zh">Join Georja Calvin-Smith for a round up of the week's cultural and current affairs stories from across the African continent: exclusive reports and analysis.</desc>
   </programme>
   <programme start="20261017173000 +0800" stop="20261017173900 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
@@ -9639,7 +9801,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017174000 +0800" stop="20261017174400 +0800" channel="France 24"><title lang="zh">Le Paris des arts(普)</title>
   </programme>
-  <programme start="20261017174400 +0800" stop="20261017175000 +0800" channel="France 24"><title lang="zh">Les observateurs</title><desc lang="zh">Programme collaboratif réalisé à partir de contenus amateurs vérifiés par France 24, pour comprendre l&amp;#x27;actualité internationale à travers les yeux de ceux qui en sont les témoins.</desc>
+  <programme start="20261017174400 +0800" stop="20261017174500 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017174500 +0800" stop="20261017175000 +0800" channel="France 24"><title lang="zh">Tête à tête</title><desc lang="zh">Tête à Tête is an interview-based program on France 24 that features in-depth conversations with influential figures from politics, culture, and business. Each episode provides personal insights, expert opinions, and behind-the-scenes perspectives on current events and global issues.</desc>
   </programme>
   <programme start="20261017175000 +0800" stop="20261017175500 +0800" channel="France 24"><title lang="zh">Sports</title><desc lang="zh">Chaque jour, le point sur l&amp;#x27;actualité sportive, de la Ligue des champions, à la NBA, en passant par le tennis, le cyclisme ou encore le cricket.</desc>
   </programme>
@@ -9669,29 +9833,45 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017185500 +0800" stop="20261017190000 +0800" channel="France 24"><title lang="zh">Culture prime</title><desc lang="zh">Des vidéos culturelles réunies sous un même label et une identité visuelle cohérente, portées par une ligne éditoriale commune : raconter l&amp;#x27;actualité à travers le prisme de la culture.</desc>
   </programme>
-  <programme start="20261017190000 +0800" stop="20261017191400 +0800" channel="France 24"><title lang="zh">Paris direct : le journal[直播]</title><desc lang="zh">Un flux d&amp;#x27;actualités en continu pour suivre en temps réel les breaking news, les sujets tendances et les analyses sur la culture, la santé, la technologie et l&amp;#x27;environnement. Reste informé de tout ce qui compte, au moment où cela se passe en continu 24/7.</desc>
+  <programme start="20261017190000 +0800" stop="20261017191300 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017191300 +0800" stop="20261017191400 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
   </programme>
   <programme start="20261017191400 +0800" stop="20261017191500 +0800" channel="France 24"><title lang="zh">Aux avant-postes</title><desc lang="zh">Dans un monde en pleine mutation, Ali Laïdi décrypte, avec ses invités, les enjeux cachés des conflits économiques, géopolitiques et culturels, afin d&amp;#x27;en comprendre les dynamiques profondes.</desc>
   </programme>
   <programme start="20261017191500 +0800" stop="20261017193000 +0800" channel="France 24"><title lang="zh">Guest of the day(普)</title>
   </programme>
-  <programme start="20261017194100 +0800" stop="20261017195300 +0800" channel="France 24"><title lang="zh">En tête à tête</title><desc lang="zh">Des entretiens en tête-à-tête sans concessions avec des dirigeants, des personnalités, des voix alternatives. Ce sont celles et ceux qui façonnent notre monde.</desc>
+  <programme start="20261017194100 +0800" stop="20261017194300 +0800" channel="France 24"><title lang="zh">En tête à tête</title><desc lang="zh">Des entretiens en tête-à-tête sans concessions avec des dirigeants, des personnalités, des voix alternatives. Ce sont celles et ceux qui façonnent notre monde.</desc>
+  </programme>
+  <programme start="20261017194300 +0800" stop="20261017194500 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017194500 +0800" stop="20261017195300 +0800" channel="France 24"><title lang="zh">The 51 Percent</title><desc lang="zh">The 51%' is a programme about women reshaping our world. The weekly magazine brings you stories from across the world about women who are challenging the way we think.</desc>
   </programme>
   <programme start="20261017195300 +0800" stop="20261017200000 +0800" channel="France 24"><title lang="zh">Plan B</title><desc lang="zh">À la découverte d&amp;#x27;initiatives concrètes et innovantes dans les domaines de l&amp;#x27;écologie, de l&amp;#x27;économie circulaire, de la transition énergétique et de la consommation responsable, afin de mieux comprendre les solutions qui façonnent le monde de demain</desc>
   </programme>
   <programme start="20261017200000 +0800" stop="20261017201500 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal(普)</title>
   </programme>
-  <programme start="20261017201500 +0800" stop="20261017203000 +0800" channel="France 24"><title lang="zh">Une semaine en France(普)</title>
+  <programme start="20261017201500 +0800" stop="20261017201600 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017201600 +0800" stop="20261017202200 +0800" channel="France 24"><title lang="zh">French Connections</title><desc lang="zh">A quirky, insider's guide to understanding France and the French, from the sublime to the ridiculous.</desc>
+  </programme>
+  <programme start="20261017202200 +0800" stop="20261017203000 +0800" channel="France 24"><title lang="zh">Focus</title><desc lang="zh">Exclusive reports from France 24 correspondents around the world.</desc>
   </programme>
   <programme start="20261017203000 +0800" stop="20261017204500 +0800" channel="France 24"><title lang="zh">Autour du monde : le journal(普)</title>
   </programme>
-  <programme start="20261017204500 +0800" stop="20261017210000 +0800" channel="France 24"><title lang="zh">Une semaine reportages(普)</title>
+  <programme start="20261017204500 +0800" stop="20261017204600 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017204600 +0800" stop="20261017210000 +0800" channel="France 24"><title lang="zh">France In Focus</title><desc lang="zh">An in-depth look at the political and social events shaping France.</desc>
   </programme>
   <programme start="20261017210000 +0800" stop="20261017210900 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
   <programme start="20261017210900 +0800" stop="20261017211000 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
-  <programme start="20261017211000 +0800" stop="20261017212500 +0800" channel="France 24"><title lang="zh">Paris des Arts(普)</title>
+  <programme start="20261017211000 +0800" stop="20261017211500 +0800" channel="France 24"><title lang="zh">Paris des Arts(普)</title>
+  </programme>
+  <programme start="20261017211500 +0800" stop="20261017212100 +0800" channel="France 24"><title lang="zh">Global Grid</title><desc lang="zh">France 24's International Affairs Editors come on set to give you their take on world events.</desc>
+  </programme>
+  <programme start="20261017212100 +0800" stop="20261017212500 +0800" channel="France 24"><title lang="zh">Sport Saturday</title><desc lang="zh">All the latest sports news, analysed by France 24's commentators and journalists, with video footage.</desc>
   </programme>
   <programme start="20261017212500 +0800" stop="20261017213000 +0800" channel="France 24"><title lang="zh">Short Cuts(普)</title>
   </programme>
@@ -9731,7 +9911,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017231400 +0800" stop="20261017231500 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
-  <programme start="20261017231500 +0800" stop="20261017232000 +0800" channel="France 24"><title lang="zh">Across Africa(普)</title>
+  <programme start="20261017231500 +0800" stop="20261017231600 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017231600 +0800" stop="20261017232000 +0800" channel="France 24"><title lang="zh">Sport Saturday</title><desc lang="zh">All the latest sports news, analysed by France 24's commentators and journalists, with video footage.</desc>
   </programme>
   <programme start="20261017232000 +0800" stop="20261017233000 +0800" channel="France 24"><title lang="zh">Focus(普)</title>
   </programme>
@@ -9741,7 +9923,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017234400 +0800" stop="20261017234500 +0800" channel="France 24"><title lang="zh">News(普)</title>
   </programme>
-  <programme start="20261017234500 +0800" stop="20261017235000 +0800" channel="France 24"><title lang="zh">Tête à tête(普)</title>
+  <programme start="20261017234500 +0800" stop="20261017234600 +0800" channel="France 24"><title lang="zh">News</title><desc lang="zh">An international news bulletin, presented live from the newsroom.</desc>
+  </programme>
+  <programme start="20261017234600 +0800" stop="20261017235000 +0800" channel="France 24"><title lang="zh">Arts24</title><desc lang="zh">Daily international culture news from the world's art, food and fashion capital, Paris.</desc>
   </programme>
   <programme start="20261017235000 +0800" stop="20261017235100 +0800" channel="France 24"><title lang="zh">Dans les hebdos(普)</title>
   </programme>
@@ -9803,7 +9987,13 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017234500 +0800" stop="20261018000000 +0800" channel="GINX Esports TV"><title lang="zh">十大精選：大型多人線上遊戲</title>
   </programme>
-  <programme start="20261017060000 +0800" stop="20261018000000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">The past comes alive, on SYOK Gold.</desc>
+  <programme start="20261017060000 +0800" stop="20261017100000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">The past comes alive, on SYOK Gold.</desc>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017150000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Relax &amp; enjoy , SYOK Gold.</desc>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017200000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Great music, brings back memories.</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261018060000 +0800" channel="GOLD"><title lang="zh">SYOK GOLD : Mixture of '50s to '70s songs</title><desc lang="zh">Let's open the door to the past, SYOK Gold.</desc>
   </programme>
   <programme start="20261017001500 +0800" stop="20261017011000 +0800" channel="Global Trekker"><title lang="zh">哈裡遜福特：好萊塢英雄(普)</title>
   </programme>
@@ -10325,7 +10515,21 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017030000 +0800" stop="20261017070000 +0800" channel="HITZ FM"><title lang="zh">Non-Stop Hitz</title><desc lang="zh">No talk, all hitz.</desc>
   </programme>
-  <programme start="20261017070000 +0800" stop="20261018000000 +0800" channel="HITZ FM"><title lang="zh">Best of the Hitz Morning Crew</title><desc lang="zh">Weekend breakfast made better with the Hitz Morning Crew!</desc>
+  <programme start="20261017070000 +0800" stop="20261017090000 +0800" channel="HITZ FM"><title lang="zh">Best of the Hitz Morning Crew</title><desc lang="zh">Weekend breakfast made better with the Hitz Morning Crew!</desc>
+  </programme>
+  <programme start="20261017090000 +0800" stop="20261017100000 +0800" channel="HITZ FM"><title lang="zh">Hitz Charts</title><desc lang="zh">Only the best hitz, voted by you!</desc>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017120000 +0800" channel="HITZ FM"><title lang="zh">Cafe Hitz</title><desc lang="zh">Coffee's brewing and the DJ's cooking - Your listening to CAFe HITZ.</desc>
+  </programme>
+  <programme start="20261017120000 +0800" stop="20261017160000 +0800" channel="HITZ FM"><title lang="zh">Hitz Weekend</title><desc lang="zh">The hits and the goss don't stop even on the weekends! #HitzWeekend.</desc>
+  </programme>
+  <programme start="20261017160000 +0800" stop="20261017180000 +0800" channel="HITZ FM"><title lang="zh">Hitz Rim Chart Show with Zher</title><desc lang="zh">Malaysia's #1 official music chart show!</desc>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261017220000 +0800" channel="HITZ FM"><title lang="zh">Hitz Weekend</title><desc lang="zh">The hits and the goss don't stop even on the weekends! #HitzWeekend.</desc>
+  </programme>
+  <programme start="20261017220000 +0800" stop="20261017230000 +0800" channel="HITZ FM"><title lang="zh">Hitz Gayo</title><desc lang="zh">The K-pop Hitz you decide! #saranghitz.</desc>
+  </programme>
+  <programme start="20261017230000 +0800" stop="20261018030000 +0800" channel="HITZ FM"><title lang="zh">Hitz LOKALah</title><desc lang="zh">Bringing you Malaysia's hottest homegrown hits!</desc>
   </programme>
   <programme start="20261017014500 +0800" stop="20261017020000 +0800" channel="HOY 76"><title lang="zh">Bloomberg 時段</title>
   </programme>
@@ -11539,6 +11743,16 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017073000 +0800" stop="20261018000000 +0800" channel="KTV HD"><title lang="zh">Stunde der Seelsorge</title><desc lang="zh">Stunde der Seelsorge – in der "Stunde der Seelsorge" gehen Pfarrer Dr. Thomas Maria Rimmel und Pater Dr. Karl Wallner immer Dienstag bis Freitag 14:30 Uhr aktuell auf Ihre Anliegen ein. (Senderinfo).</desc>
   </programme>
+  <programme start="20261017080000 +0800" stop="20261017110000 +0800" channel="LITE FM"><title lang="zh">The Lite Weekend with Sheela</title><desc lang="zh">All-time favourites for your weekend.</desc>
+  </programme>
+  <programme start="20261017110000 +0800" stop="20261017120000 +0800" channel="LITE FM"><title lang="zh">On the Rocks with Sheela</title><desc lang="zh">Rock out with all your rock favourites.</desc>
+  </programme>
+  <programme start="20261017120000 +0800" stop="20261017140000 +0800" channel="LITE FM"><title lang="zh">Best of the Lite Breakfast</title><desc lang="zh">Catch up with all the best bits from the Lite Breakfast.</desc>
+  </programme>
+  <programme start="20261017140000 +0800" stop="20261017180000 +0800" channel="LITE FM"><title lang="zh">The Lite Weekend with Ika</title><desc lang="zh">All-time favourites with your weekend.</desc>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261018000000 +0800" channel="LITE FM"><title lang="zh">The Lite Weekend</title><desc lang="zh">All-time favourites for your weekend.</desc>
+  </programme>
   <programme start="20261017000000 +0800" stop="20261017010000 +0800" channel="LUXE TV Channel"><title lang="zh">DESTINATION SPECIAL INDIA(普)</title>
   </programme>
   <programme start="20261017010000 +0800" stop="20261017020000 +0800" channel="LUXE TV Channel"><title lang="zh">LUXE.THIS WEEK(普)</title>
@@ -11908,6 +12122,22 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261017224500 +0800" stop="20261017234000 +0800" channel="Love Nature HD"><title lang="zh">深淵異形 #3 [英/普]</title><desc lang="zh">引導你骨子裡的科幻迷,探索海洋中最奇特生物的奇異交配儀式.瞭解為交配而戰,性別偏移和一班加大碼嬰兒為了下一代能有多血腥.</desc>
   </programme>
   <programme start="20261017234000 +0800" stop="20261018003500 +0800" channel="Love Nature HD"><title lang="zh">狂野天空 #1 [英/普]</title><desc lang="zh">抬頭觀看澳洲的天空,它經常為世界帶來最極端的天氣現象.與眾生一起等待清涼的季風雨降臨,看看閃電如何引燃大規模的野火,並驚嘆不同物種為適應這些極端環境,所展現的奇妙生存智慧.</desc>
+  </programme>
+  <programme start="20261017080000 +0800" stop="20261017120000 +0800" channel="MIX FM"><title lang="zh">Mix Brunch with Vit</title><desc lang="zh">Weekend Mornings With Your Brunch Bro.</desc>
+  </programme>
+  <programme start="20261017120000 +0800" stop="20261017160000 +0800" channel="MIX FM"><title lang="zh">Mix Weekend With Zoey</title><desc lang="zh">Today's Best Music on your Weekends.</desc>
+  </programme>
+  <programme start="20261017160000 +0800" stop="20261017170000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Malaysian Made Music With Basil &amp; Chris.</desc>
+  </programme>
+  <programme start="20261017170000 +0800" stop="20261017180000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Playing you Hafiz and Guibo's favourite songs.</desc>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261017190000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Music And Pop Culture From The 2000s with Hani Fadzil.</desc>
+  </programme>
+  <programme start="20261017190000 +0800" stop="20261017200000 +0800" channel="MIX FM"><title lang="zh">MIX Session With Victor</title><desc lang="zh">1 hour of the biggest &amp; hottest Sunset vibes.</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261017210000 +0800" channel="MIX FM"><title lang="zh">R&amp;B Hour With Guibo</title><desc lang="zh">1 hour of the biggest &amp; hottest R&amp;B songs from the 90s to Now.</desc>
+  </programme>
+  <programme start="20261017210000 +0800" stop="20261018000000 +0800" channel="MIX FM"><title lang="zh">Mix Today's Best Music</title><desc lang="zh">Today's Best Music Non-Stop.</desc>
   </programme>
   <programme start="20261017000000 +0800" stop="20261017002200 +0800" channel="MOMO亲子台"><title lang="zh">MOMO歡樂谷S15 EP41</title>
   </programme>
@@ -13685,7 +13915,13 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017235000 +0800" stop="20261018000000 +0800" channel="Nickelodeon"><title lang="zh">長尾豹馬修一家親 [英/普]</title><desc lang="zh">長尾豹到處幫助市民,而凱莉想查出「神奇衣超人」這位超級英雄是誰.</desc>
   </programme>
-  <programme start="20261017060000 +0800" stop="20261018000000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing your classic favourites.</desc>
+  <programme start="20261017060000 +0800" stop="20261017100000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing your classic favourites.</desc>
+  </programme>
+  <programme start="20261017100000 +0800" stop="20261017150000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Bringing you a selection of enduring classics.</desc>
+  </programme>
+  <programme start="20261017150000 +0800" stop="20261017200000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Playing you the best of classical music.</desc>
+  </programme>
+  <programme start="20261017200000 +0800" stop="20261018060000 +0800" channel="OPUS"><title lang="zh">SYOK OPUS : The best in classical</title><desc lang="zh">Bringing you the best in classical music.</desc>
   </programme>
   <programme start="20261017000000 +0800" stop="20261017010000 +0800" channel="PHOENIXCHINESECHANNELHD"><title lang="zh">凤凰洲际快车 (17/10/26)</title><desc lang="zh">凤凰卫视以&amp;quot;拉近全球华人距离，向世界发出华人的声音&amp;quot;为宗旨，致力为全世界华人提供高质素的华语电视节目。</desc>
   </programme>
@@ -17829,7 +18065,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017161500 +0800" stop="20261017163000 +0800" channel="tvN"><title lang="zh">Naprawy nie do naprawy | S08E2/8</title>
   </programme>
-  <programme start="20261017163000 +0800" stop="20261017170000 +0800" channel="tvN"><title lang="zh">Serwis informacyjny, Prognoza pogody</title>
+  <programme start="20261017163000 +0800" stop="20261017163700 +0800" channel="tvN"><title lang="zh">Serwis informacyjny, Prognoza pogody</title>
+  </programme>
+  <programme start="20261017163700 +0800" stop="20261017170000 +0800" channel="tvN"><title lang="zh">Forensic Files</title><desc lang="zh">One year after Maine resident Pearl A. Bruns' disappearance, forensic technology helps to find her body and determine who was responsible for her death.</desc>
   </programme>
   <programme start="20261017172000 +0800" stop="20261017173500 +0800" channel="tvN"><title lang="zh">Sam Kim名廚煮意 #16</title><desc lang="zh">從意大利面到西班牙料理,從主菜到甜品,大廚Sam Kim都會一一教你做!快跟著Sam Kim一起製作簡單易做的料理,享受下廚的樂趣!</desc>
   </programme>
@@ -17862,6 +18100,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261017210000 +0800" stop="20261017213000 +0800" channel="tvN"><title lang="zh">Serwis informacyjny, Prognoza pogody</title>
   </programme>
   <programme start="20261017213000 +0800" stop="20261017220000 +0800" channel="tvN"><title lang="zh">Ranking Mazura</title>
+  </programme>
+  <programme start="20261017220000 +0800" stop="20261017223000 +0800" channel="tvN"><title lang="zh">Lucky Dog: Paws With Purpose</title><desc lang="zh">Animal trainer Brandon McMillan matches deserving dogs with military members and families, highlighting how the bond between people and animals can provide comfort, companionship and stability. Along the way, viewers learn about the unique experiences of service members and military families and how qualities such as discipline, patience, teamwork and trust play an important role in both military </desc>
   </programme>
   <programme start="20261017225000 +0800" stop="20261017231500 +0800" channel="tvN"><title lang="zh">Fresh</title><desc lang="zh">This week on Fresh, we celebrate the Rock of Polynesia for Niue language week. Join us in how to find, cook and eat a Coconut crab and get the Pacific tea at Pasifika Made festival in Brisbane.</desc>
   </programme>
@@ -25596,9 +25836,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017065300 +0800" stop="20261017070000 +0800" channel="卡酷少儿"><title lang="zh">无敌鹿战队冰封计划(15)</title><desc lang="zh">无敌鹿战队冰封计划是一档国产动画连续剧，讲述无敌鹿战队在冰天雪地中展开的特别行动。面对突如其来的冰雪危机与神秘对手，队员们发挥各自特长，团结协作破解重重难题，在惊险刺激的任务中展现勇气与智慧，画面清新，情节生动，适合学龄前及低龄儿童观看。</desc>
   </programme>
-  <programme start="20261017070000 +0800" stop="20261017070100 +0800" channel="卡酷少儿"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  <programme start="20261017070000 +0800" stop="20261017070100 +0800" channel="卡酷少儿"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
-  <programme start="20261017070100 +0800" stop="20261017071300 +0800" channel="卡酷少儿"><title lang="zh">湖南新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261017070100 +0800" stop="20261017071300 +0800" channel="卡酷少儿"><title lang="zh">湖南新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -27994,49 +28234,49 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017234400 +0800" stop="20261018000000 +0800" channel="国学"><title lang="zh">国学18分</title>
   </programme>
-  <programme start="20261017003500 +0800" stop="20261017010000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250828 彝族老家??喜德</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017003500 +0800" stop="20261017010000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250828 彝族老家??喜德</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017010000 +0800" stop="20261017014200 +0800" channel="地理"><title lang="zh">《远方的家》 20260204 山河锦绣看中国 岭南花开 山海并“茂”HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017010000 +0800" stop="20261017014200 +0800" channel="地理"><title lang="zh">《远方的家》 20260204 山河锦绣看中国 岭南花开 山海并“茂”HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017014200 +0800" stop="20261017022300 +0800" channel="地理"><title lang="zh">《远方的家》 20260205 山河锦绣看中国 岭东门户 味在潮汕HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017014200 +0800" stop="20261017022300 +0800" channel="地理"><title lang="zh">《远方的家》 20260205 山河锦绣看中国 岭东门户 味在潮汕HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017022300 +0800" stop="20261017024900 +0800" channel="地理"><title lang="zh">《走遍中国》 20250827 宝藏青年??创新先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017022300 +0800" stop="20261017024900 +0800" channel="地理"><title lang="zh">《走遍中国》 20250827 宝藏青年??创新先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017024900 +0800" stop="20261017031500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250828 彝族老家??喜德</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017024900 +0800" stop="20261017031500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250828 彝族老家??喜德</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017031500 +0800" stop="20261017035600 +0800" channel="地理"><title lang="zh">《远方的家》 20260204 山河锦绣看中国 岭南花开 山海并“茂”HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017031500 +0800" stop="20261017035600 +0800" channel="地理"><title lang="zh">《远方的家》 20260204 山河锦绣看中国 岭南花开 山海并“茂”HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017035600 +0800" stop="20261017040000 +0800" channel="地理"><title lang="zh">《远方的家》 20260205 山河锦绣看中国 岭东门户 味在潮汕HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017035600 +0800" stop="20261017040000 +0800" channel="地理"><title lang="zh">《远方的家》 20260205 山河锦绣看中国 岭东门户 味在潮汕HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017040000 +0800" stop="20261017042500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017040000 +0800" stop="20261017042500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017042500 +0800" stop="20261017045100 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017042500 +0800" stop="20261017045100 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017045100 +0800" stop="20261017053200 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017045100 +0800" stop="20261017053200 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017053200 +0800" stop="20261017061400 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017053200 +0800" stop="20261017061400 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017061400 +0800" stop="20261017064000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017061400 +0800" stop="20261017064000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017064000 +0800" stop="20261017070500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017064000 +0800" stop="20261017070500 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261017074200 +0800" stop="20261017081200 +0800" channel="地理"><title lang="zh">味道精编</title><desc lang="zh">《味道》栏目是中央广播电视总台央视科教频道（CCTV-10）创办的首档美食文化探索类的全媒体节目，是由央视科教频道品牌特别节目《味道》改版升级而成的栏目。栏目围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”的全媒体思维，荟萃美食精华，传播美食文化，栏目宣传口号为“让生活更有味”。《味道》国庆节特别节目《国庆节有味道·丰收中国》</desc>
   </programme>
-  <programme start="20261017082800 +0800" stop="20261017084200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017082800 +0800" stop="20261017084200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261017084200 +0800" stop="20261017084700 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
   <programme start="20261017084700 +0800" stop="20261017085400 +0800" channel="地理"><title lang="zh">特别呈现</title><desc lang="zh">特别呈现是央视纪录频道的特别纪录片展播子栏目，精选重大题材与精品纪录片特别呈现，展现高品质纪实影像的深度与人文关怀。</desc>
   </programme>
-  <programme start="20261017085400 +0800" stop="20261017092000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017085400 +0800" stop="20261017092000 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017092000 +0800" stop="20261017100100 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017092000 +0800" stop="20261017100100 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017100100 +0800" stop="20261017104300 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017100100 +0800" stop="20261017104300 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017104300 +0800" stop="20261017110900 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017104300 +0800" stop="20261017110900 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017110900 +0800" stop="20261017112700 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017110900 +0800" stop="20261017112700 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261017112700 +0800" stop="20261017113200 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
@@ -28046,7 +28286,7 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017121300 +0800" stop="20261017124300 +0800" channel="地理"><title lang="zh">味道精编</title><desc lang="zh">《味道》栏目是中央广播电视总台央视科教频道（CCTV-10）创办的首档美食文化探索类的全媒体节目，是由央视科教频道品牌特别节目《味道》改版升级而成的栏目。栏目围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”的全媒体思维，荟萃美食精华，传播美食文化，栏目宣传口号为“让生活更有味”。《味道》国庆节特别节目《国庆节有味道·丰收中国》</desc>
   </programme>
-  <programme start="20261017125700 +0800" stop="20261017131300 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017125700 +0800" stop="20261017131300 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261017131300 +0800" stop="20261017131800 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
@@ -28058,17 +28298,17 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017145000 +0800" stop="20261017151200 +0800" channel="地理"><title lang="zh">特别呈现</title><desc lang="zh">特别呈现是央视纪录频道的特别纪录片展播子栏目，精选重大题材与精品纪录片特别呈现，展现高品质纪实影像的深度与人文关怀。</desc>
   </programme>
-  <programme start="20261017151200 +0800" stop="20261017153700 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017151200 +0800" stop="20261017153700 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017153700 +0800" stop="20261017160300 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017153700 +0800" stop="20261017160300 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
   <programme start="20261017163000 +0800" stop="20261017170000 +0800" channel="地理"><title lang="zh">味道精编</title><desc lang="zh">《味道》栏目是中央广播电视总台央视科教频道（CCTV-10）创办的首档美食文化探索类的全媒体节目，是由央视科教频道品牌特别节目《味道》改版升级而成的栏目。栏目围绕“与文化学者同行、品鉴美食文化、留住乡愁记忆”的定位，运用“美食+”的全媒体思维，荟萃美食精华，传播美食文化，栏目宣传口号为“让生活更有味”。《味道》国庆节特别节目《国庆节有味道·丰收中国》</desc>
   </programme>
-  <programme start="20261017172600 +0800" stop="20261017175200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017172600 +0800" stop="20261017175200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017175200 +0800" stop="20261017181800 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017175200 +0800" stop="20261017181800 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017181800 +0800" stop="20261017183000 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017181800 +0800" stop="20261017183000 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261017183000 +0800" stop="20261017183500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
@@ -28076,11 +28316,11 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017185500 +0800" stop="20261017191700 +0800" channel="地理"><title lang="zh">跟着书本去旅行</title><desc lang="zh">由中央广播电视总台央视科教频道倾力打造的行进体验式文化教育节目 《跟着书本去旅行》 ，于12月9日每周一至周五18：54在科教频道播出。作为一档原创的节目，《跟着书本去旅行》突破传统模式，创新表达方式。旨在让经典文学、历史名著“新”起来，让书本“厚”起来，让陈列在广阔大地上的遗产“活”起来！节目从书本出发，在文学、历史著作中选取融思想性、艺术性、观赏性为一体的作品，由领队带着同学们寻访文中古迹，听专家讲故事。通过读文、走访、纪录，拓展了教育专题节目的传统模式。在节目多维度的呈现下让经典文章、诗词不仅可以在笔墨中书写，在琅琅的读书声中回荡，当同学们置身实景实地，还可以体会其作品中的文化和精神的力量。</desc>
   </programme>
-  <programme start="20261017194100 +0800" stop="20261017200600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017194100 +0800" stop="20261017200600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017200600 +0800" stop="20261017203200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017200600 +0800" stop="20261017203200 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017203200 +0800" stop="20261017205000 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017203200 +0800" stop="20261017205000 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261017205000 +0800" stop="20261017205500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
@@ -28094,13 +28334,13 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017215000 +0800" stop="20261017215500 +0800" channel="地理"><title lang="zh">特别呈现</title><desc lang="zh">特别呈现是央视纪录频道的特别纪录片展播子栏目，精选重大题材与精品纪录片特别呈现，展现高品质纪实影像的深度与人文关怀。</desc>
   </programme>
-  <programme start="20261017215500 +0800" stop="20261017222100 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017215500 +0800" stop="20261017222100 +0800" channel="地理"><title lang="zh">《走遍中国》 20250901 高能90后??一飞冲天</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017222100 +0800" stop="20261017224600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc>以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
+  <programme start="20261017222100 +0800" stop="20261017224600 +0800" channel="地理"><title lang="zh">《走遍中国》 20250902 高能90后??绿电先锋</title><desc lang="zh">以人文视角、国际视野立体展现当代中国的新气象、新风尚、新理念、新事物，以探寻、体验、解读时代之变化、中国之进步为主要形态，为新时代画像、立传，从而深入、客观地讲好可信、可爱、可敬的中国故事。</desc>
   </programme>
-  <programme start="20261017224600 +0800" stop="20261017232800 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017224600 +0800" stop="20261017232800 +0800" channel="地理"><title lang="zh">《远方的家》 20260206 山河锦绣看中国 河谷绿地间的自然回响HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
-  <programme start="20261017232800 +0800" stop="20261017233000 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc>让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
+  <programme start="20261017232800 +0800" stop="20261017233000 +0800" channel="地理"><title lang="zh">《远方的家》 20260209 岭南行记 粤韵三城HD</title><desc lang="zh">让国内观众受益 -----独特的旅游信息，惊艳的文化常识；让海外观众关注 ------中华文化的魅力，全媒体互动传播。《远方的家》强调普通人旅行体验和全媒体互动，通过放松的表述，打造出真正意义上的互动旅游体验和中国之旅公共大百科。栏目还将分为演播室日播版、真人秀周末版、排行榜季播版、全媒体年度版等版本。节目通过旅行体验者的亲身讲述、民间达人的旅行情报，旅游咨讯的权威发布、学者嘉宾的文化解读、旅游话题的实时互动，呈现国人多样化生活形态和旅行百科，彰显既有传承又具时代感的国家旅游形象。演播室内设多位节目主持人，时尚动感与博学稳重相结合，时代表达与文化传承成一脉，访谈亦正亦谐、轻松风趣、平实真诚，用各自不同的体验对同一旅游信息或事件作出独特判断，成为一档新颖的主持秀。节目宗旨：展示中国人的生活方式；表达新生代的旅行态度；沟通多元化的文化价值；构建华语圈的心灵家园。</desc>
   </programme>
   <programme start="20261017233000 +0800" stop="20261017233500 +0800" channel="地理"><title lang="zh">2026世界地理频道精彩多看点(42)</title>
   </programme>
@@ -36266,13 +36506,13 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017122000 +0800" stop="20261017164000 +0800" channel="武汉影视"><title lang="zh">六姊妹</title><desc lang="zh">《六姊妹》是由梅婷、陆毅领衔主演的年代家庭情感大剧。故事跨越半个世纪，讲述何家六姊妹在时代变迁中相互扶持、共同成长的故事，展现中国式家庭的亲情羁绊与烟火温情，折射社会发展的时代缩影。</desc>
   </programme>
-  <programme start="20261017164000 +0800" stop="20261017173500 +0800" channel="武汉影视"><title lang="zh">新世界,破密</title><desc>1949年建国前夕北平城，白纸坊警署警察徐天在追查未婚妻贾小朵被害案时，意外卷入和平解放北平的事业。金海、铁林、徐天三兄弟在动荡时局中作出不同选择，徐天与共产党员田丹在绝境中相识，共同迎来新世界。</desc>
+  <programme start="20261017164000 +0800" stop="20261017173500 +0800" channel="武汉影视"><title lang="zh">新世界,破密</title><desc lang="zh">1949年建国前夕北平城，白纸坊警署警察徐天在追查未婚妻贾小朵被害案时，意外卷入和平解放北平的事业。金海、铁林、徐天三兄弟在动荡时局中作出不同选择，徐天与共产党员田丹在绝境中相识，共同迎来新世界。</desc>
   </programme>
   <programme start="20261017173500 +0800" stop="20261017191000 +0800" channel="武汉影视"><title lang="zh">破密</title><desc lang="zh">悬疑推理剧，讲述破解各种谜团的故事，剧情紧凑，引人入胜，展现智慧和勇气。</desc>
   </programme>
   <programme start="20261017191000 +0800" stop="20261017233500 +0800" channel="武汉影视"><title lang="zh">群星闪耀时</title><desc lang="zh">抗战时期，出身于国民党高官家庭的邵屹原本要参加海军，实现自己成为舰长的梦想。然而一趟意外的上海之行，邵屹的人生被彻底改变——他改名为夏继成，并成为了一间破落派出所的底层警员。在这里，夏继成遇到了一生中最重要的两个人——共产党员陈浩和骆珉敏，他们让夏继成找到了人生的意义。在陈浩、骆珉敏等人的影响下，夏继成坚定了共产主义信仰，最终成为我党隐蔽战线上一名优秀的战士，成全了自己对理想信仰的追求。</desc>
   </programme>
-  <programme start="20261017233500 +0800" stop="20261017235900 +0800" channel="武汉影视"><title lang="zh">新世界,破密</title><desc>1949年建国前夕北平城，白纸坊警署警察徐天在追查未婚妻贾小朵被害案时，意外卷入和平解放北平的事业。金海、铁林、徐天三兄弟在动荡时局中作出不同选择，徐天与共产党员田丹在绝境中相识，共同迎来新世界。</desc>
+  <programme start="20261017233500 +0800" stop="20261017235900 +0800" channel="武汉影视"><title lang="zh">新世界,破密</title><desc lang="zh">1949年建国前夕北平城，白纸坊警署警察徐天在追查未婚妻贾小朵被害案时，意外卷入和平解放北平的事业。金海、铁林、徐天三兄弟在动荡时局中作出不同选择，徐天与共产党员田丹在绝境中相识，共同迎来新世界。</desc>
   </programme>
   <programme start="20261017235900 +0800" stop="20261018000000 +0800" channel="武汉影视"><title lang="zh">结束</title><desc lang="zh">结束是武汉电视剧频道的休播结束画面垫片，于节目结束时段循环播放频道标识，提示观众稍候继续收看。</desc>
   </programme>
@@ -37078,6 +37318,92 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017231000 +0800" stop="20261018000000 +0800" channel="求索纪录"><title lang="zh">翻新老爷车美梦成真Ⅱ(8)</title>
   </programme>
+  <programme start="20261017000000 +0800" stop="20261017000500 +0800" channel="求索频道"><title lang="zh">5分钟宣传包</title>
+  </programme>
+  <programme start="20261017000500 +0800" stop="20261017003500 +0800" channel="求索频道"><title lang="zh">江南有苕溪1</title>
+  </programme>
+  <programme start="20261017003500 +0800" stop="20261017005500 +0800" channel="求索频道"><title lang="zh">江南有苕溪2</title>
+  </programme>
+  <programme start="20261017005500 +0800" stop="20261017012000 +0800" channel="求索频道"><title lang="zh">江南有苕溪3</title>
+  </programme>
+  <programme start="20261017012000 +0800" stop="20261017014500 +0800" channel="求索频道"><title lang="zh">江南有苕溪4</title>
+  </programme>
+  <programme start="20261017014500 +0800" stop="20261017021000 +0800" channel="求索频道"><title lang="zh">江南有苕溪5</title>
+  </programme>
+  <programme start="20261017021000 +0800" stop="20261017023500 +0800" channel="求索频道"><title lang="zh">找寻“橡皮擦”</title>
+  </programme>
+  <programme start="20261017023500 +0800" stop="20261017030000 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017030000 +0800" stop="20261017032500 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017032500 +0800" stop="20261017033000 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017033000 +0800" stop="20261017035500 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017035500 +0800" stop="20261017042000 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017042000 +0800" stop="20261017044500 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017044500 +0800" stop="20261017051000 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017051000 +0800" stop="20261017053500 +0800" channel="求索频道"><title lang="zh">李叔同1、2、3</title>
+  </programme>
+  <programme start="20261017053500 +0800" stop="20261017060000 +0800" channel="求索频道"><title lang="zh">中华第一舟</title>
+  </programme>
+  <programme start="20261017060000 +0800" stop="20261017060500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017060500 +0800" stop="20261017065500 +0800" channel="求索频道"><title lang="zh">荒岛余生1</title>
+  </programme>
+  <programme start="20261017065500 +0800" stop="20261017074500 +0800" channel="求索频道"><title lang="zh">我的动物家族1&amp;2</title>
+  </programme>
+  <programme start="20261017074500 +0800" stop="20261017083500 +0800" channel="求索频道"><title lang="zh">沼泽伐木硬汉19【24】</title>
+  </programme>
+  <programme start="20261017083500 +0800" stop="20261017092500 +0800" channel="求索频道"><title lang="zh">草根飞天梦2</title>
+  </programme>
+  <programme start="20261017092500 +0800" stop="20261017093000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017093000 +0800" stop="20261017102000 +0800" channel="求索频道"><title lang="zh">小家庭进行曲2-2</title>
+  </programme>
+  <programme start="20261017102000 +0800" stop="20261017111000 +0800" channel="求索频道"><title lang="zh">泳池天王7-9&amp;7-10【10】</title>
+  </programme>
+  <programme start="20261017111000 +0800" stop="20261017120000 +0800" channel="求索频道"><title lang="zh">旧车改造突击队8-2</title>
+  </programme>
+  <programme start="20261017120000 +0800" stop="20261017120500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017120500 +0800" stop="20261017125500 +0800" channel="求索频道"><title lang="zh">新西兰国家公园之美2</title>
+  </programme>
+  <programme start="20261017125500 +0800" stop="20261017134500 +0800" channel="求索频道"><title lang="zh">爸妈当红娘2-5</title>
+  </programme>
+  <programme start="20261017134500 +0800" stop="20261017143500 +0800" channel="求索频道"><title lang="zh">救猫特攻队3</title>
+  </programme>
+  <programme start="20261017143500 +0800" stop="20261017152500 +0800" channel="求索频道"><title lang="zh">翻新老爷车 美梦成真2-8</title>
+  </programme>
+  <programme start="20261017152500 +0800" stop="20261017153000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017153000 +0800" stop="20261017162000 +0800" channel="求索频道"><title lang="zh">小姐我最高2-2&amp;蒂凡妮的晚宴3-2</title>
+  </programme>
+  <programme start="20261017162000 +0800" stop="20261017171000 +0800" channel="求索频道"><title lang="zh">生活在古代1</title>
+  </programme>
+  <programme start="20261017171000 +0800" stop="20261017180000 +0800" channel="求索频道"><title lang="zh">小小明星厨师2</title>
+  </programme>
+  <programme start="20261017180000 +0800" stop="20261017180500 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017180500 +0800" stop="20261017185500 +0800" channel="求索频道"><title lang="zh">冰湖浪人10【10】</title>
+  </programme>
+  <programme start="20261017185500 +0800" stop="20261017194500 +0800" channel="求索频道"><title lang="zh">宠物妙翻天2</title>
+  </programme>
+  <programme start="20261017194500 +0800" stop="20261017203500 +0800" channel="求索频道"><title lang="zh">寻找亚特兰蒂斯2</title>
+  </programme>
+  <programme start="20261017203500 +0800" stop="20261017212500 +0800" channel="求索频道"><title lang="zh">科技万象2</title>
+  </programme>
+  <programme start="20261017212500 +0800" stop="20261017213000 +0800" channel="求索频道"><title lang="zh">五分钟宣传包</title>
+  </programme>
+  <programme start="20261017213000 +0800" stop="20261017222000 +0800" channel="求索频道"><title lang="zh">男人吃好料4【7】</title>
+  </programme>
+  <programme start="20261017222000 +0800" stop="20261017231000 +0800" channel="求索频道"><title lang="zh">塔可之旅2-7&amp;2-8【10】</title>
+  </programme>
+  <programme start="20261017231000 +0800" stop="20261018000000 +0800" channel="求索频道"><title lang="zh">叛匠车厂3-11【12】</title>
+  </programme>
   <programme start="20261017000000 +0800" stop="20261017001500 +0800" channel="江苏体育"><title lang="zh">味解乡愁</title><desc>江苏省广播电视总台于2017年策划推出的50集美食文化系列专题片，是江苏发展大会的官方宣传项目。节目以纪实手法记录人与家乡美食的情感故事，通过寻访有异乡经历者或当地长者、手艺人，挖掘美食背后的历史文化与乡愁记忆，展现淮扬菜及江苏各地纯正的地方风味。第一集聚焦扬州包子，讲述77岁淮扬菜泰斗居长龙旅日30年后对家乡包子的思念。</desc>
   </programme>
   <programme start="20261017001500 +0800" stop="20261017004000 +0800" channel="江苏体育"><title lang="zh">勇往直前乐拍拍</title><desc>2018年湖北卫视与江苏卫视联合推出的大型户外水上闯关真人秀。节目响应全民健身号召，赛道全长100米、宽35米，男女赛道各设8个关卡，其中第一、四、六、八关为男女共同关卡。选手需在规定时间内完成所有关卡并按下终点按钮即算闯关成功，每通过一关即可获得相应奖品。节目还设有“信心指数挑战”环节，选手可在闯关前预测第1、4、6、8关中的任意一关，若成功拍下手牌并过关，则该关奖品翻倍。节目于2018年7月15日首播，10月6日收官，共96期，每日中午在湖北卫视、江苏卫视同步播出。</desc>
@@ -37814,9 +38140,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017060500 +0800" stop="20261017062500 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">暂无节目描述</desc>
   </programme>
-  <programme start="20261017062500 +0800" stop="20261017100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261017062500 +0800" stop="20261017100000 +0800" channel="江西经济"><title lang="zh">晨光剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261017100000 +0800" stop="20261017120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261017100000 +0800" stop="20261017120000 +0800" channel="江西经济"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261017120000 +0800" stop="20261017124000 +0800" channel="江西经济"><title lang="zh">午间解盘</title><desc lang="zh">午间解盘是一档股市解析栏目</desc>
   </programme>
@@ -37834,7 +38160,7 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261017193000 +0800" stop="20261017203500 +0800" channel="江西经济"><title lang="zh">健康江西</title>
   </programme>
-  <programme start="20261017203500 +0800" stop="20261017223000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261017203500 +0800" stop="20261017223000 +0800" channel="江西经济"><title lang="zh">热播剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261017223000 +0800" stop="20261017230000 +0800" channel="江西经济"><title lang="zh">纪录中国</title><desc lang="zh">《纪录中国》是一档在全国省、市级电视台地面频道每日播出的30分钟精品纪录片栏目，栏目由中央电视台纪录频道联合全国各省、市级电视台共同开办，分别于2013年11月11日（第一批）和2014年1月1日（第二批）在全国各省、市级电视台同时开播，以播出自然类、社会类、人文类、文献类等国内外优秀纪录片节目为主，为广大观众提供优秀的国产与海外引进纪录片，并在真正意义上形成了“节目资源共享、播出平台共享”。</desc>
   </programme>

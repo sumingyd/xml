@@ -9,7 +9,7 @@
 """
 import xml.etree.ElementTree as ET
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from collections import OrderedDict
 import os
 import sys
@@ -18,7 +18,11 @@ import glob
 HISTORY_DAYS = 7
 DAYS_DIR = 'days'
 
-CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '其他']
+# 北京时间（中国无夏令时，固定 UTC+8）
+# CI 运行在 UTC 环境，直接用 datetime.now() 会导致"今日"判断比北京日期慢一天
+CN_TZ = timezone(timedelta(hours=8))
+
+CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他']
 
 CATEGORY_RULES = OrderedDict([
     ('央视', [
@@ -96,6 +100,12 @@ CATEGORY_RULES = OrderedDict([
         r'^台视', r'^公视', r'^中视', r'^国会频道',
         r'^NOW新闻$', r'^采昌影剧$', r'^好消息$', r'^金光布袋戏$',
         r'^SUPER FREE$',
+    ]),
+    ('地方', [
+        # 区县级地方频道（数据源新增的县市/区级台标）
+        r'^(临清|乳山|义乌|五莲|任城|兖州|历城|周村|商河|夏津|定陶|岱岳|崂山|平度|张店|招远|昌乐|曲阜|桓台|武城)',
+        r'^(沂水|沂源|河东|沾化|泗洪|溧水|宝应|宜兴|江都|江阴|睢宁|赣榆|邳州|邹城|铜山|禹城|胶州|莒县|莱西)',
+        r'^(长岛|陵城|鱼台|黄岛|齐河|龙口|潮安|晋江|永嘉|苍南|瑞安|诸暨|镇海|普陀|泰山|东海)',
     ]),
 ])
 
@@ -179,6 +189,8 @@ PROVINCE_ALIASES = {
     '内蒙古': ['内蒙'],
     '吉林': ['吉视'],
     '浙江': ['之江'],
+    '广东': ['珠江'],
+    '湖北': ['葛洲坝'],
 }
 
 def _match_province(name):
@@ -245,8 +257,9 @@ def merge_epg():
         print(f"{DAYS_DIR}/ 目录不存在，跳过合并")
         return False
 
-    today = datetime.now().strftime('%Y%m%d')
-    cutoff = (datetime.now() - timedelta(days=HISTORY_DAYS)).strftime('%Y%m%d')
+    now_cn = datetime.now(CN_TZ)
+    today = now_cn.strftime('%Y%m%d')
+    cutoff = (now_cn - timedelta(days=HISTORY_DAYS)).strftime('%Y%m%d')
 
     day_files = sorted(glob.glob(os.path.join(DAYS_DIR, 'epg_*.xml')))
 

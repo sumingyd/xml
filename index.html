@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>EPG频道信息</title>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -289,7 +288,7 @@
     </style>
 </head>
 <body>
-    <div class="page" id="app">
+    <div class="page">
         <div class="hero">
             <div class="hero-title">EPG 频道信息</div>
             <div class="hero-sub">电子节目指南数据源 · 自动更新</div>
@@ -304,50 +303,14 @@
                 </a>
             </div>
             <div class="hero-urls">
-                <div class="url-row"><span>XML</span> <code>{{ epgUrl }}</code></div>
-                <div class="url-row"><span>GZ</span>&nbsp; <code>{{ epgGzUrl }}</code></div>
+                <div class="url-row"><span>XML</span> <code>https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml</code></div>
+                <div class="url-row"><span>GZ</span>&nbsp; <code>https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml.gz</code></div>
             </div>
         </div>
 
-        <div class="stats">
-            <div class="stat-card">
-                <div class="stat-label">频道总数</div>
-                <div class="stat-value accent">{{ channels.length }}</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">今日有节目</div>
-                <div class="stat-value green">{{ hasProgramCount }}</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">今日无节目</div>
-                <div class="stat-value" style="color:var(--text-dim)">{{ noProgramCount }}</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">今日无断层</div>
-                <div class="stat-value green">{{ noGapCount }}</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">今日有断层</div>
-                <div class="stat-value red">{{ gapCount }}</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">QQ群</div>
-                <div class="stat-value qq">757694351</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-label">更新时间</div>
-                <div class="stat-value" style="font-size:1rem;margin-top:4px">{{ updateTime }}</div>
-            </div>
-        </div>
+        <div class="stats" id="stats"></div>
 
-        <div class="filter-bar">
-            <button class="cat-btn" :class="{ active: activeCategory === 'all' }" @click="activeCategory='all'">全部</button>
-            <button class="cat-btn" :class="{ active: activeCategory === cat }" v-for="cat in availableCategories" :key="cat" @click="activeCategory=cat">{{ cat }}</button>
-            <div class="sep"></div>
-            <button class="gap-btn" :class="{ active: gapFilter === 'all' }" @click="gapFilter='all'">全部频道</button>
-            <button class="gap-btn" :class="{ active: gapFilter === 'ok' }" @click="gapFilter='ok'">无断层</button>
-            <button class="gap-btn" :class="{ active: gapFilter === 'gap' }" @click="gapFilter='gap'">有断层</button>
-        </div>
+        <div class="filter-bar" id="filterBar"></div>
 
         <div class="table-wrap">
             <table>
@@ -362,182 +325,238 @@
                         <th>描述覆盖率</th>
                     </tr>
                 </thead>
-                <tbody>
-                    <template v-for="(group, gIndex) in filteredGroups">
-                        <tr class="cat-group-header" :key="'h'+gIndex">
-                            <td colspan="7">{{ group.category }}<span class="cat-count">{{ group.channels.length }} 频道</span></td>
-                        </tr>
-                        <tr v-for="ch in group.channels" :key="ch.id" class="row-data" @click="openDetail(ch)">
-                            <td class="td-index">{{ ch.globalIndex }}</td>
-                            <td class="td-id">{{ ch.id }}</td>
-                            <td class="td-name">{{ ch.name }}<span class="td-hint">点击查看详情</span></td>
-                            <td class="td-center">{{ ch.lastProgramTime }}</td>
-                            <td class="td-center">{{ ch.todaySchedule.length }}</td>
-                            <td class="td-center">
-                                <span class="badge badge-warn" v-if="ch.hasGap">{{ ch.gapDetails }}</span>
-                                <span class="badge badge-ok" v-else>无断层</span>
-                            </td>
-                            <td>
-                                <div class="coverage-wrap">
-                                    <div class="coverage-track">
-                                        <div class="coverage-fill" :class="fillClass(ch.descriptionCoverage)" :style="{ width: ch.descriptionCoverage + '%' }"></div>
-                                    </div>
-                                    <span class="coverage-pct" :class="pctClass(ch.descriptionCoverage)">{{ ch.descriptionCoverage }}%</span>
-                                </div>
-                            </td>
-                        </tr>
-                    </template>
-                    <tr v-if="filteredGroups.length === 0 || totalFiltered === 0">
-                        <td colspan="7" class="empty-state">暂无匹配频道</td>
-                    </tr>
-                </tbody>
+                <tbody id="tableBody"></tbody>
             </table>
         </div>
 
-        <div class="overlay" v-if="detailChannel" @click.self="detailChannel=null">
-            <div class="modal">
-                <div class="modal-head">
-                    <div>
-                        <div class="modal-title">{{ detailChannel.name }}</div>
-                        <div class="modal-cat">{{ detailChannel.category }} · ID: {{ detailChannel.id }}</div>
-                    </div>
-                    <button class="modal-close" @click="detailChannel=null">&times;</button>
-                </div>
-                <div class="modal-meta">
-                    <div class="meta-item"><strong>最后节目</strong>{{ detailChannel.lastProgramTime }}</div>
-                    <div class="meta-item"><strong>描述覆盖</strong>{{ detailChannel.descriptionCoverage }}%</div>
-                    <div class="meta-item">
-                        <strong>今日断层</strong>
-                        <span v-if="detailChannel.hasGap" style="color:var(--red)">{{ detailChannel.gapDetails }}</span>
-                        <span v-else style="color:var(--green)">无</span>
-                    </div>
-                    <div class="meta-item"><strong>今日节目</strong>{{ detailChannel.todaySchedule.length }}个</div>
-                </div>
-                <div class="modal-body">
-                    <div class="alias-section" v-if="detailChannel.aliases && detailChannel.aliases.length">
-                        <div class="alias-title">频道别名</div>
-                        <div class="alias-list">
-                            <span class="alias-tag" v-for="(a, ai) in detailChannel.aliases" :key="ai">{{ a }}</span>
-                        </div>
-                    </div>
-                    <div class="gap-section" v-if="detailChannel.gapList && detailChannel.gapList.length">
-                        <div class="gap-section-title">断层详情</div>
-                        <div class="gap-item" v-for="(g, gi) in detailChannel.gapList" :key="gi">
-                            {{ g.after }} → {{ g.before }}，间隔 {{ g.minutes }} 分钟
-                        </div>
-                    </div>
-                    <div class="schedule-title">今日节目单</div>
-                    <div class="sched-item" v-for="(s, si) in detailChannel.todaySchedule" :key="si">
-                        <div class="sched-time">{{ s.start }}-{{ s.stop }}</div>
-                        <div class="sched-info">
-                            <div class="sched-name">{{ s.title }}</div>
-                            <div class="sched-desc" v-if="s.desc">{{ s.desc }}</div>
-                            <div class="sub-list" v-if="s.subProgrammes && s.subProgrammes.length">
-                                <div class="sub-item" v-for="(sub, subi) in s.subProgrammes" :key="subi">
-                                    <span class="sub-time">{{ sub.start }}-{{ sub.stop }}</span>
-                                    <span class="sub-title">{{ sub.title }}</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="overlay" id="overlay" style="display:none">
+            <div class="modal" id="modal"></div>
         </div>
     </div>
 
     <script>
-        new Vue({
-            el: '#app',
-            data: {
-                channels: [],
-                updateTime: '',
-                epgUrl: '',
-                epgGzUrl: '',
-                activeCategory: 'all',
-                gapFilter: 'all',
-                detailChannel: null
-            },
-            computed: {
-                noGapCount: function() { return this.channels.filter(function(c) { return !c.hasGap; }).length; },
-                gapCount: function() { return this.channels.filter(function(c) { return c.hasGap; }).length; },
-                hasProgramCount: function() { return this.channels.filter(function(c) { return c.todaySchedule && c.todaySchedule.length > 0; }).length; },
-                noProgramCount: function() { return this.channels.filter(function(c) { return !c.todaySchedule || c.todaySchedule.length === 0; }).length; },
-                groupedChannels: function() {
-                    var order = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '其他'];
-                    var groups = {};
-                    order.forEach(function(c) { groups[c] = []; });
-                    this.channels.forEach(function(ch, i) {
-                        ch.globalIndex = i + 1;
-                        var cat = ch.category || '其他';
-                        if (!groups[cat]) groups[cat] = [];
-                        groups[cat].push(ch);
-                    });
-                    return order.filter(function(c) { return groups[c] && groups[c].length > 0; })
-                        .map(function(c) { return { category: c, channels: groups[c] }; });
-                },
-                availableCategories: function() {
-                    return this.groupedChannels.map(function(g) { return g.category; });
-                },
-                filteredGroups: function() {
-                    var gf = this.gapFilter;
-                    var groups = this.groupedChannels;
-                    if (this.activeCategory !== 'all') {
-                        groups = groups.filter(function(g) { return g.category === this.activeCategory; }.bind(this));
-                    }
-                    return groups.map(function(g) {
-                        var chs = g.channels;
-                        if (gf === 'ok') chs = chs.filter(function(c) { return !c.hasGap; });
-                        else if (gf === 'gap') chs = chs.filter(function(c) { return c.hasGap; });
-                        return { category: g.category, channels: chs };
-                    }).filter(function(g) { return g.channels.length > 0; });
-                },
-                totalFiltered: function() {
-                    return this.filteredGroups.reduce(function(s, g) { return s + g.channels.length; }, 0);
-                }
-            },
-            mounted: function() {
-                this.epgUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml';
-                this.epgGzUrl = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg.xml.gz';
-                this.loadEpgData();
-                document.addEventListener('keydown', this.onKey);
-            },
-            beforeDestroy: function() { document.removeEventListener('keydown', this.onKey); },
-            methods: {
-                onKey: function(e) { if (e.key === 'Escape') this.detailChannel = null; },
-                loadEpgData: function() {
-                    var ts = Date.now();
-                    var self = this;
-                    fetch('epg_data.json?t=' + ts)
-                        .then(function(r) { return r.json(); })
-                        .then(function(d) {
-                            self.channels = d.channels;
-                            self.updateTime = new Date(d.updateTime * 1000).toLocaleString();
-                        })
-                        .catch(function() {
-                            fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json?t=' + ts)
-                                .then(function(r) { return r.json(); })
-                                .then(function(d) {
-                                    self.channels = d.channels;
-                                    self.updateTime = new Date(d.updateTime * 1000).toLocaleString();
-                                })
-                                .catch(function() { self.updateTime = new Date().toLocaleString(); });
-                        });
-                },
-                fillClass: function(v) {
-                    if (v >= 75) return 'fill-green';
-                    if (v >= 50) return 'fill-lime';
-                    if (v >= 25) return 'fill-orange';
-                    return 'fill-red';
-                },
-                pctClass: function(v) {
-                    if (v >= 75) return 'pct-green';
-                    if (v >= 50) return 'pct-lime';
-                    if (v >= 25) return 'pct-orange';
-                    return 'pct-red';
-                },
-                openDetail: function(ch) { this.detailChannel = ch; }
+        var CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他'];
+
+        var state = {
+            channels: [],
+            activeCategory: 'all',
+            gapFilter: 'all'
+        };
+
+        function esc(s) {
+            return String(s == null ? '' : s).replace(/[&<>"']/g, function(c) {
+                return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+            });
+        }
+
+        function fillClass(v) {
+            if (v >= 75) return 'fill-green';
+            if (v >= 50) return 'fill-lime';
+            if (v >= 25) return 'fill-orange';
+            return 'fill-red';
+        }
+        function pctClass(v) {
+            if (v >= 75) return 'pct-green';
+            if (v >= 50) return 'pct-lime';
+            if (v >= 25) return 'pct-orange';
+            return 'pct-red';
+        }
+
+        function groupedChannels() {
+            var groups = {};
+            CATEGORY_ORDER.forEach(function(c) { groups[c] = []; });
+            state.channels.forEach(function(ch, i) {
+                ch.globalIndex = i + 1;
+                var cat = ch.category || '其他';
+                if (!groups[cat]) groups[cat] = [];
+                groups[cat].push(ch);
+            });
+            return CATEGORY_ORDER.filter(function(c) { return groups[c].length > 0; })
+                .map(function(c) { return { category: c, channels: groups[c] }; });
+        }
+
+        function renderStats() {
+            var chs = state.channels;
+            var hasProg = chs.filter(function(c) { return c.todaySchedule && c.todaySchedule.length > 0; }).length;
+            var noGap = chs.filter(function(c) { return !c.hasGap; }).length;
+            document.getElementById('stats').innerHTML =
+                statCard('频道总数', esc(chs.length), 'accent') +
+                statCard('今日有节目', esc(hasProg), 'green') +
+                statCard('今日无节目', esc(chs.length - hasProg), '') +
+                statCard('今日无断层', esc(noGap), 'green') +
+                statCard('今日有断层', esc(chs.length - noGap), 'red') +
+                statCard('QQ群', '757694351', 'qq') +
+                statCard('更新时间', esc(state.updateTime), '', true);
+        }
+        function statCard(label, value, cls, small) {
+            return '<div class="stat-card"><div class="stat-label">' + esc(label) + '</div>' +
+                '<div class="stat-value ' + cls + '"' + (small ? ' style="font-size:1rem;margin-top:4px"' : '') + '>' + value + '</div></div>';
+        }
+
+        function renderFilterBar() {
+            var cats = groupedChannels().map(function(g) { return g.category; });
+            var html = '<button class="cat-btn' + (state.activeCategory === 'all' ? ' active' : '') + '" data-cat="all">全部</button>';
+            cats.forEach(function(cat) {
+                html += '<button class="cat-btn' + (state.activeCategory === cat ? ' active' : '') + '" data-cat="' + esc(cat) + '">' + esc(cat) + '</button>';
+            });
+            html += '<div class="sep"></div>';
+            [['all', '全部频道'], ['ok', '无断层'], ['gap', '有断层']].forEach(function(p) {
+                html += '<button class="gap-btn' + (state.gapFilter === p[0] ? ' active' : '') + '" data-gap="' + p[0] + '">' + p[1] + '</button>';
+            });
+            document.getElementById('filterBar').innerHTML = html;
+        }
+
+        function filteredGroups() {
+            var gf = state.gapFilter;
+            var groups = groupedChannels();
+            if (state.activeCategory !== 'all') {
+                groups = groups.filter(function(g) { return g.category === state.activeCategory; });
             }
+            return groups.map(function(g) {
+                var chs = g.channels;
+                if (gf === 'ok') chs = chs.filter(function(c) { return !c.hasGap; });
+                else if (gf === 'gap') chs = chs.filter(function(c) { return c.hasGap; });
+                return { category: g.category, channels: chs };
+            }).filter(function(g) { return g.channels.length > 0; });
+        }
+
+        function renderTable() {
+            var groups = filteredGroups();
+            var total = groups.reduce(function(s, g) { return s + g.channels.length; }, 0);
+            var tbody = document.getElementById('tableBody');
+            if (total === 0) {
+                tbody.innerHTML = '<tr><td colspan="7" class="empty-state">' + (state.channels.length ? '暂无匹配频道' : esc(state.updateTime)) + '</td></tr>';
+                return;
+            }
+            var html = '';
+            groups.forEach(function(g) {
+                html += '<tr class="cat-group-header"><td colspan="7">' + esc(g.category) +
+                    '<span class="cat-count">' + g.channels.length + ' 频道</span></td></tr>';
+                g.channels.forEach(function(ch) {
+                    html += '<tr class="row-data" data-id="' + esc(ch.id) + '">' +
+                        '<td class="td-index">' + ch.globalIndex + '</td>' +
+                        '<td class="td-id">' + esc(ch.id) + '</td>' +
+                        '<td class="td-name">' + esc(ch.name) + '<span class="td-hint">点击查看详情</span></td>' +
+                        '<td class="td-center">' + esc(ch.lastProgramTime) + '</td>' +
+                        '<td class="td-center">' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '</td>' +
+                        '<td class="td-center">' +
+                            (ch.hasGap
+                                ? '<span class="badge badge-warn">' + esc(ch.gapDetails) + '</span>'
+                                : '<span class="badge badge-ok">无断层</span>') +
+                        '</td>' +
+                        '<td><div class="coverage-wrap">' +
+                            '<div class="coverage-track"><div class="coverage-fill ' + fillClass(ch.descriptionCoverage) + '" style="width:' + ch.descriptionCoverage + '%"></div></div>' +
+                            '<span class="coverage-pct ' + pctClass(ch.descriptionCoverage) + '">' + ch.descriptionCoverage + '%</span>' +
+                        '</div></td></tr>';
+                });
+            });
+            tbody.innerHTML = html;
+        }
+
+        function renderModal(ch) {
+            var html = '<div class="modal-head"><div>' +
+                '<div class="modal-title">' + esc(ch.name) + '</div>' +
+                '<div class="modal-cat">' + esc(ch.category) + ' · ID: ' + esc(ch.id) + '</div></div>' +
+                '<button class="modal-close" id="modalClose">&times;</button></div>' +
+                '<div class="modal-meta">' +
+                    '<div class="meta-item"><strong>最后节目</strong>' + esc(ch.lastProgramTime) + '</div>' +
+                    '<div class="meta-item"><strong>描述覆盖</strong>' + ch.descriptionCoverage + '%</div>' +
+                    '<div class="meta-item"><strong>今日断层</strong>' +
+                        (ch.hasGap ? '<span style="color:var(--red)">' + esc(ch.gapDetails) + '</span>'
+                                   : '<span style="color:var(--green)">无</span>') + '</div>' +
+                    '<div class="meta-item"><strong>今日节目</strong>' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '个</div>' +
+                '</div><div class="modal-body">';
+            if (ch.aliases && ch.aliases.length) {
+                html += '<div class="alias-section"><div class="alias-title">频道别名</div><div class="alias-list">';
+                ch.aliases.forEach(function(a) { html += '<span class="alias-tag">' + esc(a) + '</span>'; });
+                html += '</div></div>';
+            }
+            if (ch.gapList && ch.gapList.length) {
+                html += '<div class="gap-section"><div class="gap-section-title">断层详情</div>';
+                ch.gapList.forEach(function(g) {
+                    html += '<div class="gap-item">' + esc(g.after) + ' → ' + esc(g.before) + '，间隔 ' + g.minutes + ' 分钟</div>';
+                });
+                html += '</div>';
+            }
+            html += '<div class="schedule-title">今日节目单</div>';
+            (ch.todaySchedule || []).forEach(function(s) {
+                html += '<div class="sched-item"><div class="sched-time">' + esc(s.start) + '-' + esc(s.stop) + '</div>' +
+                    '<div class="sched-info"><div class="sched-name">' + esc(s.title) + '</div>' +
+                    (s.desc ? '<div class="sched-desc">' + esc(s.desc) + '</div>' : '');
+                if (s.subProgrammes && s.subProgrammes.length) {
+                    html += '<div class="sub-list">';
+                    s.subProgrammes.forEach(function(sub) {
+                        html += '<div class="sub-item"><span class="sub-time">' + esc(sub.start) + '-' + esc(sub.stop) + '</span>' +
+                            '<span class="sub-title">' + esc(sub.title) + '</span></div>';
+                    });
+                    html += '</div>';
+                }
+                html += '</div></div>';
+            });
+            html += '</div>';
+            document.getElementById('modal').innerHTML = html;
+            document.getElementById('overlay').style.display = 'flex';
+            document.getElementById('modalClose').onclick = closeModal;
+        }
+
+        function closeModal() {
+            document.getElementById('overlay').style.display = 'none';
+        }
+
+        function refresh() {
+            renderStats();
+            renderFilterBar();
+            renderTable();
+        }
+
+        document.getElementById('filterBar').addEventListener('click', function(e) {
+            var btn = e.target.closest('button');
+            if (!btn) return;
+            if (btn.dataset.cat !== undefined) state.activeCategory = btn.dataset.cat;
+            if (btn.dataset.gap !== undefined) state.gapFilter = btn.dataset.gap;
+            renderFilterBar();
+            renderTable();
         });
+
+        document.getElementById('tableBody').addEventListener('click', function(e) {
+            var row = e.target.closest('tr.row-data');
+            if (!row) return;
+            var id = row.getAttribute('data-id');
+            var ch = state.channels.filter(function(c) { return String(c.id) === id; })[0];
+            if (ch) renderModal(ch);
+        });
+
+        document.getElementById('overlay').addEventListener('click', function(e) {
+            if (e.target === this) closeModal();
+        });
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') closeModal();
+        });
+
+        function loadEpgData() {
+            var ts = Date.now();
+            fetch('epg_data.json?t=' + ts)
+                .then(function(r) { return r.json(); })
+                .then(applyData)
+                .catch(function() {
+                    fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json?t=' + ts)
+                        .then(function(r) { return r.json(); })
+                        .then(applyData)
+                        .catch(function() {
+                            state.channels = [];
+                            state.updateTime = '加载失败，请稍后刷新重试';
+                            refresh();
+                        });
+                });
+        }
+
+        function applyData(d) {
+            state.channels = d.channels;
+            state.updateTime = new Date(d.updateTime * 1000).toLocaleString();
+            refresh();
+        }
+
+        loadEpgData();
     </script>
 </body>
 </html>

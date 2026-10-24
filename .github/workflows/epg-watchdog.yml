@@ -1,0 +1,38 @@
+name: EPG Watchdog
+
+# 看门狗：检查 epg 数据是否超过 26 小时未更新（正常情况 NAS 每日采集推送多次）
+# 失败时 GitHub Actions 会标红并发通知邮件，避免数据停更数月无人发现
+
+permissions:
+  contents: read
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # UTC 02:30 = 北京时间 10:30
+  workflow_dispatch:
+
+jobs:
+  check-freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check epg data freshness
+        run: |
+          last=$(tr -d '[:space:]' < epg-last-updated.txt)
+          if [ -z "$last" ]; then
+            echo "::error::epg-last-updated.txt 是空的"
+            exit 1
+          fi
+          if ! last_ts=$(date -u -d "$last" +%s 2>/dev/null); then
+            echo "::error::epg-last-updated.txt 内容不是合法时间戳: $last"
+            exit 1
+          fi
+          now_ts=$(date -u +%s)
+          age_hours=$(( (now_ts - last_ts) / 3600 ))
+          echo "EPG 数据最后更新: $last (距今 ${age_hours} 小时)"
+          if [ "$age_hours" -gt 26 ]; then
+            echo "::error::EPG 数据已 ${age_hours} 小时未更新（阈值 26 小时），NAS 采集程序可能已停止推送！"
+            exit 1
+          fi

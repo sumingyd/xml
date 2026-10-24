@@ -4,16 +4,23 @@ import json
 import time
 import sys
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from merge_epg import classify_channel, get_sort_key, CATEGORY_ORDER
+from merge_epg import classify_channel, get_sort_key, CATEGORY_ORDER, CN_TZ
 
 tree = ET.parse('epg.xml')
 root = tree.getroot()
 
-today = datetime.now().strftime('%Y%m%d')
-tomorrow = (datetime.now() + timedelta(days=1)).strftime('%Y%m%d')
+now_cn = datetime.now(CN_TZ)
+today = now_cn.strftime('%Y%m%d')
+
+# 按 channel 一次性建立索引，避免对每个频道重复扫描全部节目（O(频道数×节目数) -> O(N+M)）
+programmes_by_channel = {}
+for programme in root.findall('programme'):
+    ch_id = programme.get('channel')
+    if ch_id:
+        programmes_by_channel.setdefault(ch_id, []).append(programme)
 
 
 def _fmt_time(t):
@@ -50,10 +57,7 @@ for channel in root.findall('channel'):
     name = display_names[0].text if display_names else ''
     aliases = list(dict.fromkeys(dn.text for dn in display_names if dn.text and dn.text != name))
 
-    programmes = []
-    for programme in root.findall('programme'):
-        if programme.get('channel') == channel_id:
-            programmes.append(programme)
+    programmes = programmes_by_channel.get(channel_id, [])
 
     last_program_time = ''
     if programmes:
@@ -201,6 +205,6 @@ with open('epg_data.json', 'w', encoding='utf-8') as f:
     json.dump({
         'channels': channels,
         'updateTime': time.time()
-    }, f, ensure_ascii=False, indent=2)
+    }, f, ensure_ascii=False, separators=(',', ':'))
 
 print(f'Coverage calculation completed. {len(channels)} channels.')

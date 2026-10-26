@@ -339,6 +339,8 @@
   </channel>
   <channel id="myTV SUPER直播足球5台"><display-name lang="zh">myTV SUPER直播足球5台</display-name><display-name lang="zh">MYTVSUPER直播足球5台</display-name>
   </channel>
+  <channel id="myTV SUPER直播足球7台"><display-name lang="zh">myTV SUPER直播足球7台</display-name>
+  </channel>
   <channel id="ZEE TV"><display-name lang="zh">ZEE TV</display-name><display-name lang="zh">Zee-TV</display-name><display-name lang="zh">Zee TV HD</display-name>
   </channel>
   <channel id="东方财经"><display-name lang="zh">东方财经</display-name><display-name lang="zh">CHANNEL00002025</display-name>
@@ -360,6 +362,8 @@
   <channel id="Vijay TV HD"><display-name lang="zh">Vijay TV HD</display-name>
   </channel>
   <channel id="中视购物"><display-name lang="zh">中视购物</display-name>
+  </channel>
+  <channel id="聊城民生"><display-name lang="zh">聊城民生</display-name><display-name lang="zh">聊城民生</display-name><display-name lang="zh">CHANNEL00000251</display-name>
   </channel>
   <channel id="BBC News"><display-name lang="zh">BBC News</display-name><display-name lang="zh">BBC新闻</display-name><display-name lang="zh">BBCNEWS</display-name><display-name lang="zh">BBC News HD</display-name><display-name lang="zh">BBC NEWS HD</display-name><display-name lang="zh">BBC NEWS</display-name>
   </channel>
@@ -539,6 +543,8 @@
   </channel>
   <channel id="HBO强档锯献"><display-name lang="zh">HBO强档锯献</display-name><display-name lang="zh">HBO Hits</display-name><display-name lang="zh">HBOHITS</display-name>
   </channel>
+  <channel id="海洋频道"><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋频道</display-name><display-name lang="zh">海洋</display-name><display-name lang="zh">CHANNEL00000662</display-name><display-name lang="zh">CHANNEL00000275</display-name>
+  </channel>
   <channel id="环球旅游"><display-name lang="zh">环球旅游</display-name><display-name lang="zh">CHANNEL00000643</display-name>
   </channel>
   <channel id="HITS MOVIES"><display-name lang="zh">HITS MOVIES</display-name><display-name lang="zh">HITSMOVIESHD</display-name><display-name lang="zh">HITS Movies HD</display-name><display-name lang="zh">HITS MOVIES HD</display-name><display-name lang="zh">HITSMOVIES</display-name>
@@ -614,6 +620,8 @@
   <channel id="英语教室"><display-name lang="zh">英语教室</display-name>
   </channel>
   <channel id="南通公共"><display-name lang="zh">南通公共</display-name><display-name lang="zh">南通三套</display-name><display-name lang="zh">南通公共频道</display-name><display-name lang="zh">南通公共崇川</display-name>
+  </channel>
+  <channel id="东营公共"><display-name lang="zh">东营公共</display-name><display-name lang="zh">东营公共</display-name><display-name lang="zh">CHANNEL00000227</display-name><display-name lang="zh">东营公共频道</display-name><display-name lang="zh">DYTV-2</display-name>
   </channel>
   <channel id="NOWSPORTS3"><display-name lang="zh">NOWSPORTS3</display-name>
   </channel>
@@ -8145,6 +8153,8 @@
   </programme>
   <programme start="20261029232000 +0800" stop="20261030001500 +0800" channel="Hub VV Drama HD"><title lang="zh">多情城市 第1003集</title>
   </programme>
+  <programme start="20261029000000 +0800" stop="20261029000700 +0800" channel="INULTRA"><title lang="zh">精彩节目</title>
+  </programme>
   <programme start="20261029000700 +0800" stop="20261029003200 +0800" channel="INULTRA"><title lang="zh">德州肌肉車S2(1)(普)</title>
   </programme>
   <programme start="20261029003200 +0800" stop="20261029005600 +0800" channel="INULTRA"><title lang="zh">德州肌肉車S2(2)(普)</title>
@@ -9082,6 +9092,8 @@
   <programme start="20261029221000 +0800" stop="20261029235000 +0800" channel="NOW 爆谷台"><title lang="zh">Gen Z 女將: 寄了一整個春天</title><desc lang="zh">孤獨的女高中生許澄渴望初嗜戀愛滋味, 卻因天生口吃遲遲未能如願。她與好友Rachel經營網上生意, 意外獲得買家的關注及愛慕。當許澄沉溺於這場不道德的交易, 以為找到願意耐心傾聽自己的真愛時, 不知不覺間卻失去了唯一摯友。</desc>
   </programme>
   <programme start="20261029235000 +0800" stop="20261030000000 +0800" channel="NOW 爆谷台"><title lang="zh">爆谷電影現場 第278集 -寒戰 1994</title><desc lang="zh">爆谷獨有電影大師組成的幕後精英超強班底, 每集全天候報導電影拍攝現場精彩過程, 獨家訪問, 第一次曝光電影片段。爆谷台瞭解任何一部電影的誕生, 都是幕前幕後眾多精英心血與智慧的結晶, 所以節目會以尋常角度看待所有工作人員如何齊心協力建造屬於他們自己的「夢工廠」。</desc>
+  </programme>
+  <programme start="20261029003000 +0800" stop="20261029010000 +0800" channel="NOWSPORTS1"><title lang="zh">Malaysia Regional Cup 26</title><desc lang="zh">The NSL Regional Cup 2026 is a new elite event: 3 NSL teams and 1 guest face off in a round-robin. The top two then battle for the trophy in a high-stakes championship final. Watch Wildcats v Sneakers</desc>
   </programme>
   <programme start="20261029010000 +0800" stop="20261029010800 +0800" channel="NOWSPORTS1"><title lang="zh">保誠香港網球公開賽2026前奏 第3集</title>
   </programme>
@@ -10975,7 +10987,7 @@
   </programme>
   <programme start="20261029051000 +0800" stop="20261029060000 +0800" channel="SUPER Sports"><title lang="zh">二零二五香港公開羽毛球錦標賽 世界羽聯世界巡迴賽超級500 #23</title>
   </programme>
-  <programme start="20261029060000 +0800" stop="20261029090900 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc>中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
+  <programme start="20261029060000 +0800" stop="20261029090900 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc lang="zh">中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
   </programme>
   <programme start="20261029090900 +0800" stop="20261029111200 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #88</title>
   </programme>
@@ -10983,7 +10995,7 @@
   </programme>
   <programme start="20261029122500 +0800" stop="20261029125100 +0800" channel="SUPER Sports"><title lang="zh">保誠國際單車賽 #4</title><desc lang="zh">「國際單車賽」煞科日（3月10日）上演多場激烈決戰，香港「女車神」李慧詩可謂越戰越勇，她在女子短距離組200米計時賽之中，成為唯一成績突破11秒的車手。慧詩及後再於短距離組爭先賽力壓德國車手維迪勝出，並以總成績158分拿下短距離組別總冠軍頭銜，她於賽後總結出戰感受。今集另會直擊女子短距離組凱林賽、男子短距離組爭先賽、男子1小時追逐賽等多場精彩激鬥。</desc>
   </programme>
-  <programme start="20261029125100 +0800" stop="20261029160100 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc>中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
+  <programme start="20261029125100 +0800" stop="20261029160100 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc lang="zh">中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
   </programme>
   <programme start="20261029160100 +0800" stop="20261029180300 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #88</title>
   </programme>
@@ -10991,7 +11003,7 @@
   </programme>
   <programme start="20261029191700 +0800" stop="20261029194300 +0800" channel="SUPER Sports"><title lang="zh">保誠國際單車賽 #4</title><desc lang="zh">「國際單車賽」煞科日（3月10日）上演多場激烈決戰，香港「女車神」李慧詩可謂越戰越勇，她在女子短距離組200米計時賽之中，成為唯一成績突破11秒的車手。慧詩及後再於短距離組爭先賽力壓德國車手維迪勝出，並以總成績158分拿下短距離組別總冠軍頭銜，她於賽後總結出戰感受。今集另會直擊女子短距離組凱林賽、男子短距離組爭先賽、男子1小時追逐賽等多場精彩激鬥。</desc>
   </programme>
-  <programme start="20261029194300 +0800" stop="20261029225300 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc>中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
+  <programme start="20261029194300 +0800" stop="20261029225300 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #91</title><desc lang="zh">中央电视台科教频道纪录片栏目，2000年开播。以引进、编译国外优秀自然纪录片为主，聚焦动植物世界的生命传奇故事，探寻宇宙万象的神奇奥秘，展现天文地理奇观。栏目采用主题化、系列化的制作理念，曾推出“野外生存挑战”“狂热非洲”“赤道荒野挑战”“野性非洲”等系列节目。代表作品包括《地球脉动》《大迁徙》《动物大对决》《恐龙X档案》《探秘雨林》等。</desc>
   </programme>
   <programme start="20261029225300 +0800" stop="20261030005500 +0800" channel="SUPER Sports"><title lang="zh">澳洲職業足球聯賽2025/2026 #88</title>
   </programme>
@@ -13272,6 +13284,114 @@
   </programme>
   <programme start="20261029210000 +0800" stop="20261030000000 +0800" channel="myTV SUPER直播足球6台"><title lang="zh">暫時未有節目播映</title><desc lang="zh">暫時未有節目播映</desc>
   </programme>
+  <programme start="20261029001500 +0800" stop="20261029003000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Borneo From Above Ep18</title><desc lang="zh">To promote and highlighting development of Sarawak</desc>
+  </programme>
+  <programme start="20261029003000 +0800" stop="20261029010000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Borneo Dive Ep9</title><desc lang="zh">Borneo Dive 2 will take viewers to experience the beauty of diving sites around Borneo,including Sabah,Sarawak,and Labuan.Join host Baki Zainal as he is accompanied by local celebrities who are also divers</desc>
+  </programme>
+  <programme start="20261029010000 +0800" stop="20261029020000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Barbarossa Ep100</title><desc lang="zh">During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
+  </programme>
+  <programme start="20261029020000 +0800" stop="20261029023000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Sanggar Vista Ep3</title><desc lang="zh">Menjejak rumah-rumah cantik di Sarawak. Keindahan adalah subjektif, maka program ini menampil pelbagai jenis rumah, bukan hanya banglo mewah, tetapi juga rumah tradisional dan sederhana yang dihias indah.</desc>
+  </programme>
+  <programme start="20261029023000 +0800" stop="20261029030000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Pewaris Legasi Ep4</title><desc lang="zh">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya.</desc>
+  </programme>
+  <programme start="20261029030000 +0800" stop="20261029033000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">The Food That Binds the Nation Ep4</title><desc lang="zh">Sebuah dokumentari kembara gastronomi yang merentas dari Perlis ke Sarawak, memperkenalkan keunikan juadah berbilang budaya yang memupuk perpaduan dalam kepelbagaian selera.</desc>
+  </programme>
+  <programme start="20261029033000 +0800" stop="20261029040000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Wingbeats of Borneo Ep6</title><desc lang="zh">Explores the journey of 53 bird species unique to Borneo.Stunning island,spanning Sarawak and Sabah, boasts rich biodiversity and rare species,perfect birdwatchers and photographers alike.</desc>
+  </programme>
+  <programme start="20261029040000 +0800" stop="20261029043000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Jelu Siga Ep3</title><desc lang="zh">Jelu Siga is a captivating nature series that unearths the hidden and often forgotten stories of endangered wildlife in the heart of Borneo.</desc>
+  </programme>
+  <programme start="20261029043000 +0800" stop="20261029050000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Stories in Motion Ep2</title><desc lang="zh">Five choreographers in Sarawak are given two weeks to create a story using a surprise &amp;#x27;wildcard style&amp;#x27;, incorporating unique Sarawak genres or styles.</desc>
+  </programme>
+  <programme start="20261029050000 +0800" stop="20261029053000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Rihlah - Islam Di Borneo Ep2</title><desc lang="zh">Rihlah - Islam Di Borneo menjejaki sejarah dan perkembangan Islam di Sarawak serta hubungannya dengan Sabah, Kalimantan dan Brunei melalui budaya, migrasi dan komuniti tempatan.</desc>
+  </programme>
+  <programme start="20261029053000 +0800" stop="20261029060000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Ride Your Story Ep3</title><desc lang="zh">Docu-series to show case a different aspect of Borneo from the back of a bike, ridden by 4 biker chicks. There will be real encounters with bad weather, mechanical breakdowns and difficult terrains.</desc>
+  </programme>
+  <programme start="20261029060000 +0800" stop="20261029063000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Kediaman Agro Ep13</title><desc lang="zh">&amp;#x27;KEDIAMAN AGRO&amp;#x27; merupakan program dokumentari yang menumpukan kepada teknologi penanaman makanan berskala kecil seperti di kawasan rumah, mahupun mini kebun.</desc>
+  </programme>
+  <programme start="20261029063000 +0800" stop="20261029070000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Tony Lapar Ep8</title><desc lang="zh">Rancangan ini mengisahkan seorang anak Sarawak, Tony Eusoff, yang berada jauh dari kampung, ingin mempelajari masakan Sarawak.</desc>
+  </programme>
+  <programme start="20261029070000 +0800" stop="20261029073000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Pagi</title><desc lang="zh">TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20261029073000 +0800" stop="20261029080000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Joran Borneo Ep8</title><desc lang="zh">Masih mengekalkan konsep &amp;#x27;Majalah&amp;#x27; travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
+  </programme>
+  <programme start="20261029080000 +0800" stop="20261029080500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) World News</title><desc lang="zh">Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
+  </programme>
+  <programme start="20261029080500 +0800" stop="20261029081500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261029081500 +0800" stop="20261029083000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Bornean Stories Ep4</title><desc lang="zh">This collection of six captivating documentaries shines a light on the vibrant soul of Borneo, offering a glimpse into their living heritage, culture, and traditions.</desc>
+  </programme>
+  <programme start="20261029083000 +0800" stop="20261029090000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Ready, Set, Go Kids! Ep5</title><desc lang="zh">Ready, Set, Go Kids! is a children&amp;#x27;s educational program where they travel to Kuching, complete challenges, and win prizes, while learning about the local culture.</desc>
+  </programme>
+  <programme start="20261029090000 +0800" stop="20261029091500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Sana Sini</title><desc lang="zh">A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
+  </programme>
+  <programme start="20261029091500 +0800" stop="20261029094500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Stories in Motion Ep2</title><desc lang="zh">Five choreographers in Sarawak are given two weeks to create a story using a surprise &amp;#x27;wildcard style&amp;#x27;, incorporating unique Sarawak genres or styles.</desc>
+  </programme>
+  <programme start="20261029094500 +0800" stop="20261029100000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261029100000 +0800" stop="20261029100500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261029100500 +0800" stop="20261029101500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  </programme>
+  <programme start="20261029101500 +0800" stop="20261029104500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Khazanah Kenyalang Ep7</title><desc lang="zh">Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
+  </programme>
+  <programme start="20261029104500 +0800" stop="20261029110000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">After Sunset Ep3</title><desc lang="zh">After Sunset explores vibrant city life at night through a culinary expert, musician, and street photographer-featuring smokehouses, bars, live music, and urban storytelling.</desc>
+  </programme>
+  <programme start="20261029110000 +0800" stop="20261029111500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261029111500 +0800" stop="20261029114500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Wingbeats of Borneo Ep6</title><desc lang="zh">Explores the journey of 53 bird species unique to Borneo.Stunning island,spanning Sarawak and Sabah, boasts rich biodiversity and rare species,perfect birdwatchers and photographers alike.</desc>
+  </programme>
+  <programme start="20261029114500 +0800" stop="20261029120000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Take Me to Sarawak: Special Ep3</title><desc lang="zh">Travelogue takes viewers on an adventure across Sarawak,uncovering underrated spots with unique food,heritage,and sights. POV shots and local guides, it offers a deeper look into the region&amp;#x27;s hidden gems.</desc>
+  </programme>
+  <programme start="20261029120000 +0800" stop="20261029121500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Tengahari</title><desc lang="zh">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
+  </programme>
+  <programme start="20261029121500 +0800" stop="20261029123000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261029123000 +0800" stop="20261029130000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">The Food That Binds the Nation Ep4</title><desc lang="zh">Sebuah dokumentari kembara gastronomi yang merentas dari Perlis ke Sarawak, memperkenalkan keunikan juadah berbilang budaya yang memupuk perpaduan dalam kepelbagaian selera.</desc>
+  </programme>
+  <programme start="20261029130000 +0800" stop="20261029131500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Re Bao</title><desc lang="zh">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20261029131500 +0800" stop="20261029133000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Kapit Unveiled Ep1</title><desc lang="zh">Journey to Kapit, a hidden gem in Borneo, showcasing its Iban culture, stunning landscapes, and untamed wilderness, making it an emerging tourism hotspot along the Rajang river.</desc>
+  </programme>
+  <programme start="20261029133000 +0800" stop="20261029140000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Journey of the Bidayuh Ep2</title><desc lang="zh">James Ritchie will take us to discover more about the Bidayuh. A documentary series that will touch on the aspects of Bidayuh culture, tradition, history and where this race fares in today&amp;#x27;s world.</desc>
+  </programme>
+  <programme start="20261029140000 +0800" stop="20261029150000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Ambang Sarawak Regatta 2026</title><desc lang="zh">Siarang langsung Ambang Sarawak Regatta 2026 bertempat di Waterfront Kuching.</desc>
+  </programme>
+  <programme start="20261029150000 +0800" stop="20261029150500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Highlight</title><desc lang="zh">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+  </programme>
+  <programme start="20261029150500 +0800" stop="20261029160000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Anggun Mikayla Ep13</title><desc lang="zh">Born out of wedlock,a beautiful young lady,Mikayla works as a makeup artist who struggles to be acknowledged by her biological mom.She chose to embark on a new journey finding self-worth deserving love.</desc>
+  </programme>
+  <programme start="20261029160000 +0800" stop="20261029160500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261029160500 +0800" stop="20261029161500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  </programme>
+  <programme start="20261029161500 +0800" stop="20261029163000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Serian Food Trails &amp; Stays Ep1</title><desc lang="zh">Serian Food Trails and Stays, we venture beyond the familiar to uncover hidden kitchens and warm homestay. From traditional experiences to new adventures, Serian is more than just a Durian Town.</desc>
+  </programme>
+  <programme start="20261029163000 +0800" stop="20261029170000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Jelu Siga Ep3</title><desc lang="zh">Jelu Siga is a captivating nature series that unearths the hidden and often forgotten stories of endangered wildlife in the heart of Borneo.</desc>
+  </programme>
+  <programme start="20261029170000 +0800" stop="20261029173000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Wilayah TVS</title><desc lang="zh">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20261029173000 +0800" stop="20261029180000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Rihlah - Islam Di Borneo Ep2</title><desc lang="zh">Rihlah - Islam Di Borneo menjejaki sejarah dan perkembangan Islam di Sarawak serta hubungannya dengan Sabah, Kalimantan dan Brunei melalui budaya, migrasi dan komuniti tempatan.</desc>
+  </programme>
+  <programme start="20261029180000 +0800" stop="20261029181500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Re Bao</title><desc lang="zh">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20261029181500 +0800" stop="20261029183000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Heritage Trails: Eco Tourism Ep1</title><desc lang="zh">Heritage Trails: Eco Tourism follows two friends on an epic adventure across Sarawak, conquering Mount Singai, Mulu Pinnacle, and Mount Murud in a thrilling three-episode journey.</desc>
+  </programme>
+  <programme start="20261029183000 +0800" stop="20261029190000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Nota Hujung Jalan</title><desc lang="zh">Seorang penulis puisi dan bekas penyanyi terkenal yang kini menjadi pemuzik jalanan bertemu saat hidup mereka rapuh, lalu menemukan semula suara, harapan dan cinta melalui lagu yang dicipta bersama.</desc>
+  </programme>
+  <programme start="20261029190000 +0800" stop="20261029193000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261029193000 +0800" stop="20261029194000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Menarik Sepuluh</title><desc lang="zh">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20261029194000 +0800" stop="20261029201500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) UTAMA 740</title><desc lang="zh">UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20261029201500 +0800" stop="20261029203000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261029203000 +0800" stop="20261029223000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Majlis Penutupan Tilawah Al-Quran Bandaraya Se-Borneo</title><desc lang="zh">Siaran langsung Majlis Penutupan Tilawah Al-Quran Bandaraya Se-Borneo 2026, di Kompleks Islam Sarawak, Kuching.</desc>
+  </programme>
+  <programme start="20261029223000 +0800" stop="20261029230000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Nightline</title><desc lang="zh">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme start="20261029230000 +0800" stop="20261030001500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Lovely Runner Ep15</title><desc lang="zh">Right after Ryoo Seon-jae, a top star ends his life,Im Sol,his top fan somehow ends up at a time when they were in high school.A fantasy romance unfolds where people who missed each other finally meet.</desc>
+  </programme>
   <programme start="20261029003000 +0800" stop="20261029010000 +0800" channel="tvN"><title lang="zh">TVNZ2 Quiz</title>
   </programme>
   <programme start="20261029010000 +0800" stop="20261029012500 +0800" channel="tvN"><title lang="zh">Les Mills Born To Move</title><desc lang="zh">Designed to nurture a life-long love of physical activity, BORN TO MOVE helps children experience the joy and vitality of moving to music, combining fun and fitness in way that children love.</desc>
@@ -13533,6 +13653,50 @@
   <programme start="20261029220000 +0800" stop="20261029230000 +0800" channel="东森新闻台"><title lang="zh">關鍵時刻22</title>
   </programme>
   <programme start="20261029230000 +0800" stop="20261029235900 +0800" channel="东森新闻台"><title lang="zh">關鍵時刻23</title>
+  </programme>
+  <programme start="20261029070000 +0800" stop="20261029090200 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261029090200 +0800" stop="20261029093200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261029093200 +0800" stop="20261029100300 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20261029100300 +0800" stop="20261029103900 +0800" channel="东营公共"><title lang="zh">艺林大会</title>
+  </programme>
+  <programme start="20261029103900 +0800" stop="20261029111000 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20261029111000 +0800" stop="20261029114000 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261029114000 +0800" stop="20261029121100 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20261029121100 +0800" stop="20261029132200 +0800" channel="东营公共"><title lang="zh">幸福鉴定团</title>
+  </programme>
+  <programme start="20261029132200 +0800" stop="20261029142300 +0800" channel="东营公共"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261029142300 +0800" stop="20261029152400 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20261029152400 +0800" stop="20261029162100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20261029162100 +0800" stop="20261029165400 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261029165400 +0800" stop="20261029173000 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20261029173000 +0800" stop="20261029193000 +0800" channel="东营公共"><title lang="zh">经典影城</title>
+  </programme>
+  <programme start="20261029193000 +0800" stop="20261029195000 +0800" channel="东营公共"><title lang="zh">快乐宝贝</title>
+  </programme>
+  <programme start="20261029195000 +0800" stop="20261029202200 +0800" channel="东营公共"><title lang="zh">生活直通车</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261029202200 +0800" stop="20261029202800 +0800" channel="东营公共"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261029202800 +0800" stop="20261029204500 +0800" channel="东营公共"><title lang="zh">东营金融</title>
+  </programme>
+  <programme start="20261029204500 +0800" stop="20261029210200 +0800" channel="东营公共"><title lang="zh">美丽东营</title>
+  </programme>
+  <programme start="20261029210200 +0800" stop="20261029215900 +0800" channel="东营公共"><title lang="zh">新闻风云汇</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20261029215900 +0800" stop="20261029224100 +0800" channel="东营公共"><title lang="zh">非常故事汇</title>
+  </programme>
+  <programme start="20261029224100 +0800" stop="20261030000000 +0800" channel="东营公共"><title lang="zh">天天影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
   <programme start="20261029000000 +0800" stop="20261029002000 +0800" channel="中华特产"><title lang="zh">特产档案</title><desc>《档案》是一档以历史档案为主题的节目，本集讲述五四二台背后的故事。该节目通过挖掘历史档案，还原历史真相，让观众了解历史事件的背景和意义，增强历史意识和文化素养。</desc>
   </programme>
@@ -19313,6 +19477,8 @@
   </programme>
   <programme start="20261029235500 +0800" stop="20261030005500 +0800" channel="寰宇新闻"><title lang="zh">寰宇世界通(普)</title>
   </programme>
+  <programme start="20261029010000 +0800" stop="20261029020000 +0800" channel="寰宇新闻台湾"><title lang="zh">寰宇焦點新聞                    (普)</title>
+  </programme>
   <programme start="20261029020000 +0800" stop="20261029030000 +0800" channel="寰宇新闻台湾"><title lang="zh">寰宇晚間新聞     (普)</title>
   </programme>
   <programme start="20261029030000 +0800" stop="20261029040000 +0800" channel="寰宇新闻台湾"><title lang="zh">寰宇晚間新聞     (普)</title>
@@ -24344,6 +24510,24 @@
   </programme>
   <programme start="20261029232000 +0800" stop="20261030000000 +0800" channel="海南卫视"><title lang="zh">卫视高尔夫</title><desc>国内首屈一指的高尔夫电视节目，拥有20年播出历史，全年超千小时高尔夫日播节目。与世界高尔夫四大满贯、美巡赛、欧巡赛等国际顶级赛事组织长期合作，全程跟踪报道李昊桐、袁也淳、冯珊珊等中国职业球员在世界赛场上的表现，是国内唯一拥有强大自制能力的专业垂直类体育节目。</desc>
   </programme>
+  <programme start="20261029084300 +0800" stop="20261029091000 +0800" channel="海洋频道"><title lang="zh">中华养生</title>
+  </programme>
+  <programme start="20261029091000 +0800" stop="20261029102700 +0800" channel="海洋频道"><title lang="zh">合欢树下</title>
+  </programme>
+  <programme start="20261029102700 +0800" stop="20261029140000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261029140000 +0800" stop="20261029173000 +0800" channel="海洋频道"><title lang="zh">古文明探秘</title>
+  </programme>
+  <programme start="20261029173000 +0800" stop="20261029184000 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20261029184000 +0800" stop="20261029192000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261029192000 +0800" stop="20261029202700 +0800" channel="海洋频道"><title lang="zh">我爱威海</title>
+  </programme>
+  <programme start="20261029202700 +0800" stop="20261029210200 +0800" channel="海洋频道"><title lang="zh">咱老百姓的故事</title>
+  </programme>
+  <programme start="20261029210200 +0800" stop="20261030000000 +0800" channel="海洋频道"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
   <programme start="20261029000000 +0800" stop="20261029003000 +0800" channel="爱尔达体育1台"><title lang="zh">歐冠足球誌#8</title>
   </programme>
   <programme start="20261029003000 +0800" stop="20261029010000 +0800" channel="爱尔达体育1台"><title lang="zh">體壇最前線 10/28</title>
@@ -26719,6 +26903,22 @@
   <programme start="20261029230500 +0800" stop="20261029234100 +0800" channel="老故事"><title lang="zh">特别节目《新西行漫记》（五）</title>
   </programme>
   <programme start="20261029234100 +0800" stop="20261030000000 +0800" channel="老故事"><title lang="zh">特别节目《长征文学风采录》（六）</title>
+  </programme>
+  <programme start="20261029085000 +0800" stop="20261029130000 +0800" channel="聊城民生"><title lang="zh">温情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261029130000 +0800" stop="20261029175200 +0800" channel="聊城民生"><title lang="zh">纯情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261029175200 +0800" stop="20261029200000 +0800" channel="聊城民生"><title lang="zh">真情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261029200000 +0800" stop="20261029203000 +0800" channel="聊城民生"><title lang="zh">民生面对面</title><desc>中央电视台新闻频道人物专访栏目，2003年1月11日开播。以“记录我们的时代”为口号，由董倩、王宁、古兵等担任主持。秉持“人物、新闻、细节、价值”八字理念，专访新闻事件中的焦点人物，挖掘人物背后的故事与时代内涵。节目不设固定时间长度，单期时长从20分钟到45分钟不等，每周六21:30首播。采访对象涵盖政要、学者、企业家、演艺名人及普通百姓，代表专访包括钟南山、袁隆平、张桂梅、莫言等。口号：“用人物记录时代。”</desc>
+  </programme>
+  <programme start="20261029203000 +0800" stop="20261029204500 +0800" channel="聊城民生"><title lang="zh">今日开发区</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261029204500 +0800" stop="20261029231000 +0800" channel="聊城民生"><title lang="zh">激情剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261029231000 +0800" stop="20261029234000 +0800" channel="聊城民生"><title lang="zh">影视风云榜</title>
+  </programme>
+  <programme start="20261029234000 +0800" stop="20261030000000 +0800" channel="聊城民生"><title lang="zh">人间故事</title>
   </programme>
   <programme start="20261029000000 +0800" stop="20261029000800 +0800" channel="英语教室"><title lang="zh">大家說英語-1028【普】</title>
   </programme>

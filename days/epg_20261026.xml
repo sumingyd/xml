@@ -407,6 +407,8 @@
   </channel>
   <channel id="吉视综艺文化"><display-name lang="zh">吉视综艺文化</display-name>
   </channel>
+  <channel id="安多卫视"><display-name lang="zh">安多卫视</display-name>
+  </channel>
   <channel id="黄金翡翠"><display-name lang="zh">黄金翡翠</display-name>
   </channel>
   <channel id="爱尔达日韩台"><display-name lang="zh">爱尔达日韩台</display-name>
@@ -512,6 +514,8 @@
   <channel id="CARTOONITO"><display-name lang="zh">CARTOONITO</display-name><display-name lang="zh">Cartoonito</display-name>
   </channel>
   <channel id="新疆卫视"><display-name lang="zh">新疆卫视</display-name><display-name lang="zh">新疆</display-name><display-name lang="zh">CHANNEL00000393</display-name>
+  </channel>
+  <channel id="安徽国际"><display-name lang="zh">安徽国际</display-name>
   </channel>
   <channel id="澳视澳门"><display-name lang="zh">澳视澳门</display-name>
   </channel>
@@ -703,6 +707,8 @@
   </channel>
   <channel id="宜昌综合"><display-name lang="zh">宜昌综合</display-name>
   </channel>
+  <channel id="myTV SUPER直播足球7台"><display-name lang="zh">myTV SUPER直播足球7台</display-name>
+  </channel>
   <channel id="成都影视"><display-name lang="zh">成都影视</display-name><display-name lang="zh">成都影视文艺</display-name>
   </channel>
   <channel id="ZEE TV"><display-name lang="zh">ZEE TV</display-name><display-name lang="zh">Zee-TV</display-name><display-name lang="zh">Zee TV HD</display-name>
@@ -753,6 +759,8 @@
   </channel>
   <channel id="黑龙江农科"><display-name lang="zh">黑龙江农科</display-name><display-name lang="zh">黑龙江农业科教</display-name>
   </channel>
+  <channel id="龙祥时代"><display-name lang="zh">龙祥时代</display-name>
+  </channel>
   <channel id="中视购物"><display-name lang="zh">中视购物</display-name>
   </channel>
   <channel id="美嘉购物"><display-name lang="zh">美嘉购物</display-name>
@@ -774,6 +782,8 @@
   <channel id="爱尔达体育4台"><display-name lang="zh">爱尔达体育4台</display-name>
   </channel>
   <channel id="哈尔滨生活"><display-name lang="zh">哈尔滨生活</display-name>
+  </channel>
+  <channel id="湖南国际"><display-name lang="zh">湖南国际</display-name><display-name lang="zh">湖南卫视国际频道</display-name>
   </channel>
   <channel id="爱体育"><display-name lang="zh">爱体育</display-name>
   </channel>
@@ -4058,9 +4068,11 @@
   </programme>
   <programme start="20261026014500 +0800" stop="20261026031600 +0800" channel="CCTV6"><title lang="zh">押上刑场</title>
   </programme>
+  <programme start="20261026044439 +0800" stop="20261026063100 +0800" channel="CCTV6"><title lang="zh">请叫我英雄</title>
+  </programme>
   <programme start="20261026063100 +0800" stop="20261026063346 +0800" channel="CCTV6"><title lang="zh">蜃楼迷香</title>
   </programme>
-  <programme start="20261026063346 +0800" stop="20261026065315 +0800" channel="CCTV6"><title lang="zh">我和我的祖国：夺冠</title><desc>围绕“2019第一天”和“中国正出发”主题，展示中国人生活、工作的新面貌。</desc>
+  <programme start="20261026063346 +0800" stop="20261026065315 +0800" channel="CCTV6"><title lang="zh">我和我的祖国：夺冠</title><desc lang="zh">围绕“2019第一天”和“中国正出发”主题，展示中国人生活、工作的新面貌。</desc>
   </programme>
   <programme start="20261026065315 +0800" stop="20261026090325 +0800" channel="CCTV6"><title lang="zh">送你一朵小红花</title>
   </programme>
@@ -4076,21 +4088,25 @@
   </programme>
   <programme start="20261026120500 +0800" stop="20261026122633 +0800" channel="CCTV6"><title lang="zh">清算</title>
   </programme>
-  <programme start="20261026122633 +0800" stop="20261026123138 +0800" channel="CCTV6"><title lang="zh">音乐电影欣赏</title><desc>中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
+  <programme start="20261026122633 +0800" stop="20261026123138 +0800" channel="CCTV6"><title lang="zh">音乐电影欣赏</title><desc lang="zh">中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
   </programme>
   <programme start="20261026123138 +0800" stop="20261026131100 +0800" channel="CCTV6"><title lang="zh">圩堡枪声</title>
   </programme>
   <programme start="20261026131100 +0800" stop="20261026131700 +0800" channel="CCTV6"><title lang="zh">音乐电影欣赏</title><desc lang="zh">中央电视台音乐频道影视音乐赏析栏目《影视留声机》的周末特别版，以“乐鉴光影”为主题，通过经典电影配乐的解析与演奏展现音乐在影视艺术中的叙事功能与情感表达。每期围绕一部经典电影或影视剧，由主持人杨柳、孟盛楠穿插解说，结合影片片段回放与音乐分析，既解读音乐的风格特点、配器手法，也讲述作曲家与导演的创作动机。曾推出《红楼梦》《少林寺》《三体》等影视音乐专题，涵盖黄梅调、武侠配乐、科幻电子乐等多种风格。口号：“音乐响起，和我们想起的一切都属于你。”</desc>
   </programme>
+  <programme start="20261026140925 +0800" stop="20261026154300 +0800" channel="CCTV6"><title lang="zh">武馆</title>
+  </programme>
   <programme start="20261026154300 +0800" stop="20261026160745 +0800" channel="CCTV6"><title lang="zh">回马破冰</title><desc lang="zh">1947年胡宗南率25万大军进攻陕甘宁边区，中共中央主动撤离延安转战陕北。影片将多位西安军事情报组情报员的英雄事迹融合，塑造出中共地下党员“杨秋雨”这一代表人物，讲述其潜入胡宗南部心脏提供关键情报，助力西北野战军在蟠龙战役、瓦子街战役中以弱胜强的谍战故事，讴歌隐蔽战线的无名英雄。</desc>
   </programme>
-  <programme start="20261026160745 +0800" stop="20261026164410 +0800" channel="CCTV6"><title lang="zh">我和我的父辈：乘风</title><desc>继2019年《我和我的祖国》、2020年《我和我的家乡》，国庆三部曲之《我和我的父辈》由《乘风》《诗》《鸭先知》《少年行》四个单元组成，以革命、建设、改革开放和新时代为历史坐标, 通过“家与国”的视角描写几代父辈的奋斗经历，讲述中国人的血脉相连和精神传承，再现中国人努力拼搏的时代记忆。</desc>
+  <programme start="20261026160745 +0800" stop="20261026164410 +0800" channel="CCTV6"><title lang="zh">我和我的父辈：乘风</title><desc lang="zh">继2019年《我和我的祖国》、2020年《我和我的家乡》，国庆三部曲之《我和我的父辈》由《乘风》《诗》《鸭先知》《少年行》四个单元组成，以革命、建设、改革开放和新时代为历史坐标, 通过“家与国”的视角描写几代父辈的奋斗经历，讲述中国人的血脉相连和精神传承，再现中国人努力拼搏的时代记忆。</desc>
   </programme>
   <programme start="20261026164410 +0800" stop="20261026172100 +0800" channel="CCTV6"><title lang="zh">嗨起，打他个鬼子</title>
   </programme>
   <programme start="20261026172100 +0800" stop="20261026174700 +0800" channel="CCTV6"><title lang="zh">《1905影视频》2026-043</title>
   </programme>
   <programme start="20261026174700 +0800" stop="20261026180000 +0800" channel="CCTV6"><title lang="zh">《M指数》2026-034</title><desc lang="zh">中央电视台电影频道推出的电影评价类周播栏目，由《今日影评》栏目组研发孵化，2024年8月6日开播，主持人蓝羽。每周二19:45档播出，从市场、口碑、传播、社会影响力、专业推荐及观影团推荐6个维度综合评估影片表现并发布权威榜单，为观众提供观影指引。</desc>
+  </programme>
+  <programme start="20261026183544 +0800" stop="20261026202438 +0800" channel="CCTV6"><title lang="zh">黄金战士</title>
   </programme>
   <programme start="20261026215700 +0800" stop="20261026221500 +0800" channel="CCTV6"><title lang="zh">中国电影报道2026-296</title>
   </programme>
@@ -6442,7 +6458,9 @@
   </programme>
   <programme start="20261026230000 +0800" stop="20261027010000 +0800" channel="CINEMA ONE GLOBAL"><title lang="zh">Momshies! Ang Soul Mo'y Akin!</title><desc lang="zh">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
   </programme>
-  <programme start="20261026013500 +0800" stop="20261026025800 +0800" channel="CINEMAX"><title lang="zh">Premonição 4</title>
+  <programme start="20261026013000 +0800" stop="20261026020000 +0800" channel="CINEMAX"><title lang="zh">Хозяин леса. 16 с.</title>
+  </programme>
+  <programme start="20261026030000 +0800" stop="20261026032300 +0800" channel="CINEMAX"><title lang="zh">The B Side</title><desc lang="zh">Cinema One Global provides hours of entertainment for avid followers of Philippine movies, dramas and showbiz. Stay tuned to another great programme!</desc>
   </programme>
   <programme start="20261026032300 +0800" stop="20261026032400 +0800" channel="CINEMAX"><title lang="zh">Crazy, Stupid, Love.</title><desc lang="zh">Cal Weaver está viviendo el sueño americano. Él tiene un buen trabajo, una casa preciosa, niños excelentes y una esposa hermosa, llamada Emily. Sin embargo, la aparente vida perfecta de Cal se derrumba cuando descubre que Emily le ha sido infiel y quiere divorciarse. Ahora, con más de 40 años, e inesperadamente soltero, Cal ingresa al vicioso mundo de las citas románticas. Jacob Palmer decide ayud</desc>
   </programme>
@@ -8310,6 +8328,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026193000 +0800" stop="20261026223000 +0800" channel="Duck TV兒童卡通-FastTV飛速看"><title lang="zh">Evening Show</title><desc lang="zh">Relax and unwind with this entertaining movie that makes your evening exciting.</desc>
   </programme>
   <programme start="20261026223000 +0800" stop="20261027013000 +0800" channel="Duck TV兒童卡通-FastTV飛速看"><title lang="zh">Superhit Iravukaatchi</title><desc lang="zh">Enjoy this blockbuster movie that offers various emotions.</desc>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026003000 +0800" channel="ELTV 生活英语"><title lang="zh">精彩节目</title>
   </programme>
   <programme start="20261026003000 +0800" stop="20261026010000 +0800" channel="ELTV 生活英语"><title lang="zh">童話任意門雙語版</title>
   </programme>
@@ -10571,6 +10591,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026003000 +0800" stop="20261026011000 +0800" channel="ITV1"><title lang="zh">Майстерня</title>
   </programme>
+  <programme start="20261026012000 +0800" stop="20261026013000 +0800" channel="ITV1"><title lang="zh">Cải cách hành chính : Kiến tạo hệ sinh thái pháp lý thông minh</title>
+  </programme>
   <programme start="20261026013000 +0800" stop="20261026014500 +0800" channel="ITV1"><title lang="zh">Etnik Kita</title><desc lang="zh">Etnik Kita memaparkan pengembaraan hos, Alif Hadi dalam melihat kehidupan suku kaum minoriti di seluruh Malaysia.</desc>
   </programme>
   <programme start="20261026014500 +0800" stop="20261026020000 +0800" channel="ITV1"><title lang="zh">Вечірня казка</title>
@@ -10705,6 +10727,10 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Inside the Ambulance</title><desc lang="zh">Lee and Kath blue light to a man who's collapsed after playing bingo, while Nic and Adam are called to an elderly lady who has been struggling to cope since her husband passed away. S7 Ep3</desc>
   </programme>
+  <programme start="20261026010000 +0800" stop="20261026013000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">ISO</title><desc lang="zh">Jonathan Shaffer uncovers the stories, people, and places that bring answers about faith, history and everyday life.</desc>
+  </programme>
+  <programme start="20261026013000 +0800" stop="20261026015000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Standing Against the World</title><desc lang="zh">The exploding popularity of Darwinian Evolution has now convinced the majority of young adults to reject the Bible as the Word of God. Kevin Sorbo journeys with John Lennox to explore what we can do to save the ones we love.</desc>
+  </programme>
   <programme start="20261026015000 +0800" stop="20261026024500 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">マスター・ククスの神〜復讐の果てに〜 #15、16 [字][再]</title><desc lang="zh">2016年 全20話</desc>
   </programme>
   <programme start="20261026024500 +0800" stop="20261026030000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">超人回來了 第639集</title><desc lang="zh">這世界上沒有本性“壞”的父親, 只有“不努力”改善的父親。只忙于工作而從未照顧過孩子的父親, 在沒有媽媽的情況下要跟自己的孩子一起度過48小時!他們如何養育孩子?請收看《超人回來了》!</desc>
@@ -10727,7 +10753,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026082500 +0800" stop="20261026090000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">結過一次了 第34集</title><desc lang="zh">劇情始于風波不斷的宋家兒女們跌宕起伏的離婚故事,  實則是一個充滿了愛與親情的溫情故事。</desc>
   </programme>
-  <programme start="20261026092000 +0800" stop="20261026095000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">インフォメーション</title>
+  <programme start="20261026090200 +0800" stop="20261026093100 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Universal Basic Guys</title><desc lang="zh">Mark and Rhoda team up to beat the DelVecchios in a dance competition; Tammy and Kardgen help with an organ delivery.</desc>
+  </programme>
+  <programme start="20261026093100 +0800" stop="20261026095000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Grimsburg</title><desc lang="zh">Flute is suspicious of Summers' new cyborg friend; Martinez joins the Satanic church for the childcare perks.</desc>
   </programme>
   <programme start="20261026095000 +0800" stop="20261026100000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">スーパーマンが帰ってきた プレイバック [字]</title><desc lang="zh">48時間ママなしで芸能人パパたちが子育てにチャレンジする番組。過去の映像をプレイバック！</desc>
   </programme>
@@ -10757,9 +10785,11 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026180000 +0800" stop="20261026191500 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">王の顔 #7 [字]</title><desc lang="zh">2014年 全23話</desc>
   </programme>
-  <programme start="20261026193500 +0800" stop="20261026201000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Mission: Mompossible 第11集</title><desc lang="zh">A heartfelt family drama about two very different mothers - one who has devoted her life to her family, and the other who has always lived for herself - and their children, whose lives become intertwined in a turbulent journey of love, conflict, and growth.</desc>
+  <programme start="20261026193000 +0800" stop="20261026200000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Robert Jeffress</title><desc lang="zh">Pathway to Victory is the broadcast ministry of Robert Jeffress and the First Baptist Church of Dallas; the practical Bible teaching of pastor Jeffress pierces the darkness with the light of God's Word.</desc>
   </programme>
-  <programme start="20261026201000 +0800" stop="20261026205000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">A Trap Called Desire 第40集</title><desc lang="zh">A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
+  <programme start="20261026200000 +0800" stop="20261026203000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Joseph Prince</title><desc lang="zh">Real truths for real life, discover clarity, purpose and a better way to live every day.</desc>
+  </programme>
+  <programme start="20261026203000 +0800" stop="20261026205000 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">Life Today</title><desc lang="zh">The author of "Return to the Shack" catches up with the characters from his blockbuster book to further explore issues of forgiveness, reconciliation and redemption.</desc>
   </programme>
   <programme start="20261026205000 +0800" stop="20261026220500 +0800" channel="KBS WORLD (MANDARIN) (HD)"><title lang="zh">雲画的月光 第5集</title><desc lang="zh">KBS電視劇《雲画的月光》是一部以朝鮮時代為背景的古裝電視劇, 內容風趣、感人, 故事情節完全不同于傳統古裝劇, 講述一個喜歡“太監”的皇太子的故事。孝明太子旲與樂瑥的初遇充滿了偶然、誤會和針鋒相對。原以為不會再見面的兩人, 誰知卻以太子和太監的身份重逢, 兩人的孽緣逐漸變成了姻緣。旲認識到自己對太監產生感情而混亂不已, 而樂瑥則膽戰心驚地害怕女扮男裝的真實身份被揭穿。然而圍繞著他們兩人的還有過去的恩怨, 他們究竟是什麽關系呢?是朋友?戀人?還是不應見面的仇敵? 本劇講述了在皇室外戚勢力的壓迫下茍延殘喘, 但不放棄復興國家偉大夢想的君主李旲與不得不以女扮男裝生活, 卻總不失笑意的洪樂瑥之間淒美、浪漫的青春愛情故事。</desc>
   </programme>
@@ -14283,6 +14313,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026231500 +0800" stop="20261027012000 +0800" channel="ROCK Action"><title lang="zh">未來總動員(護)</title>
   </programme>
+  <programme start="20261026015000 +0800" stop="20261026020000 +0800" channel="ROCK Entertainment"><title lang="zh">ALVINNN!!! und die Chipmunks</title><desc lang="zh">Alvin macht Theodore seine Rolle als Schlagzeuger in der Band streitig und bietet ihm dafür die Triangel ist. Theodore ist so wütend, dass er nun als Alvin unterwegs ist. Simon baut Theodore eine Gitarre, mit der er wie eine Rocklegende klingt. Das kann Alvin nicht ertragen und will doch lieber alles beim Alten belassen. (Senderinfo).</desc>
+  </programme>
   <programme start="20261026020000 +0800" stop="20261026030000 +0800" channel="ROCK Entertainment"><title lang="zh">Konon Katanya</title>
   </programme>
   <programme start="20261026030000 +0800" stop="20261026040000 +0800" channel="ROCK Entertainment"><title lang="zh">Masihkah Kau Mencintaiku</title>
@@ -14345,11 +14377,15 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026231500 +0800" stop="20261026235900 +0800" channel="ROCK Entertainment"><title lang="zh">吉米A咖秀 第14季 (無字幕)(護)</title>
   </programme>
+  <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="ROCK X Stream"><title lang="zh">柏青哥(護)</title>
+  </programme>
   <programme start="20261026010000 +0800" stop="20261026020000 +0800" channel="ROCK X Stream"><title lang="zh">柏青哥(護)</title>
   </programme>
   <programme start="20261026020000 +0800" stop="20261026035000 +0800" channel="ROCK X Stream"><title lang="zh">魔鬼孩子王(普)</title>
   </programme>
-  <programme start="20261026035000 +0800" stop="20261026060500 +0800" channel="ROCK X Stream"><title lang="zh">穆荷蘭大道(護)</title>
+  <programme start="20261026035000 +0800" stop="20261026060000 +0800" channel="ROCK X Stream"><title lang="zh">穆荷蘭大道(護)</title>
+  </programme>
+  <programme start="20261026060000 +0800" stop="20261026060500 +0800" channel="ROCK X Stream"><title lang="zh">穆荷蘭大道</title>
   </programme>
   <programme start="20261026060500 +0800" stop="20261026080000 +0800" channel="ROCK X Stream"><title lang="zh">魔鬼孩子王(普)</title>
   </programme>
@@ -15817,7 +15853,11 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026002700 +0800" stop="20261026003000 +0800" channel="TV5MONDE HD"><title lang="zh">Meteo</title>
   </programme>
-  <programme start="20261026005300 +0800" stop="20261026010200 +0800" channel="TV5MONDE HD"><title lang="zh">L'invite</title>
+  <programme start="20261026004900 +0800" stop="20261026005000 +0800" channel="TV5MONDE HD"><title lang="zh">Petit Pas</title><desc lang="zh">Young Antoine dreams of becoming an astronaut. One day, when he goes to the hairdresser with his mother, he slips under the hood of the hair dryer and suddenly finds himself aboard a space ship.</desc>
+  </programme>
+  <programme start="20261026005000 +0800" stop="20261026005500 +0800" channel="TV5MONDE HD"><title lang="zh">Bản tin thể thao</title>
+  </programme>
+  <programme start="20261026005500 +0800" stop="20261026010000 +0800" channel="TV5MONDE HD"><title lang="zh">Hành trình đất Việt</title>
   </programme>
   <programme start="20261026010200 +0800" stop="20261026015500 +0800" channel="TV5MONDE HD"><title lang="zh">La Grande Galerie Francophone</title>
   </programme>
@@ -17203,7 +17243,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026093000 +0800" stop="20261026100000 +0800" channel="ZEE TV"><title lang="zh">Tu Hi Re Dil Mein 第136集</title><desc lang="zh">Believed to bring luck, Vrinda marries her dream man, Sanjay, who loves Divya. Living as a caretaker, she faces silent sacrifices, unsure if fate will choose her.</desc>
   </programme>
-  <programme start="20261026100000 +0800" stop="20261026110000 +0800" channel="ZEE TV"><title lang="zh">Lakshmi Nivas 第283集</title><desc lang="zh">Lakshmi, a determined woman, tackles the ups and downs of life in a traditional joint family, supporting her husband Shriniwas as he works tirelessly to create their dream home.</desc>
+  <programme start="20261026100000 +0800" stop="20261026103000 +0800" channel="ZEE TV"><title lang="zh">Tumm Se Tumm Tak</title><desc lang="zh">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
+  </programme>
+  <programme start="20261026103000 +0800" stop="20261026110000 +0800" channel="ZEE TV"><title lang="zh">Ganga Mai Ki Betiyan</title><desc lang="zh">Ganga Mai, abandoned for bearing daughters, defies norms with fierce love and dignity, raising three girls who each forge bold, individual paths shaped by their dreams and inner fire.</desc>
   </programme>
   <programme start="20261026110000 +0800" stop="20261026113000 +0800" channel="ZEE TV"><title lang="zh">Tumm Se Tumm Tak 第472集</title><desc lang="zh">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
   </programme>
@@ -17215,7 +17257,9 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026130000 +0800" stop="20261026133000 +0800" channel="ZEE TV"><title lang="zh">Tu Hi Re Dil Mein</title><desc lang="zh">Vrinda marries her dream man, Sanjay, to bring him luck. However, Sanjay loves Divya. Living as a caretaker, Vrinda silently sacrifices her happiness, waiting on fate.</desc>
   </programme>
-  <programme start="20261026133000 +0800" stop="20261026143000 +0800" channel="ZEE TV"><title lang="zh">Lakshmi Nivas</title><desc lang="zh">Lakshmi, a determined woman, tackles the ups and downs of life in a traditional joint family, supporting her husband Shriniwas as he works tirelessly to create their dream home.</desc>
+  <programme start="20261026133000 +0800" stop="20261026140000 +0800" channel="ZEE TV"><title lang="zh">Tumm Se Tumm Tak</title><desc lang="zh">Anu, a kind 20-year-old, and Aryavardhan, a resolute 45-year-old businessman, defy societal norms and family resistance, overcoming struggles to demonstrate that love transcends age or boundaries.</desc>
+  </programme>
+  <programme start="20261026140000 +0800" stop="20261026143000 +0800" channel="ZEE TV"><title lang="zh">Ganga Mai Ki Betiyan</title><desc lang="zh">Ganga Mai, abandoned for bearing daughters, defies norms with fierce love and dignity, raising three girls who each forge bold, individual paths shaped by their dreams and inner fire.</desc>
   </programme>
   <programme start="20261026143000 +0800" stop="20261026150000 +0800" channel="ZEE TV"><title lang="zh">Sa Re Ga Ma Pa 2026</title><desc lang="zh">Aspiring singers from across India compete on Sa Re Ga Ma Pa 2026. With powerful performances and fierce competition, they chase their dream of becoming music stars.</desc>
   </programme>
@@ -17885,6 +17929,118 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026210000 +0800" stop="20261027035500 +0800" channel="myTV SUPER直播足球2台"><title lang="zh">暫時未有節目播映</title>
   </programme>
+  <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Anggun Mikayla Ep11</title><desc lang="zh">Born out of wedlock,a beautiful young lady,Mikayla works as a makeup artist who struggles to be acknowledged by her biological mom.She chose to embark on a new journey finding self-worth deserving love.</desc>
+  </programme>
+  <programme start="20261026010000 +0800" stop="20261026020000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Barbarossa Ep97</title><desc lang="zh">During the reign of the Ottoman Empire, four brothers from Lesvos face many dangers and become the conquerors of the seas</desc>
+  </programme>
+  <programme start="20261026020000 +0800" stop="20261026023000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Design Nation Ep7</title><desc lang="zh">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+  </programme>
+  <programme start="20261026023000 +0800" stop="20261026030000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">3D Jobs Ep4</title><desc lang="zh">Aims to highlight and honor the unsung heroes of our communities who bravely perform challenging, hazardous, and dangerous jobs, showcasing their daily lives and their life stories beyond their work.</desc>
+  </programme>
+  <programme start="20261026030000 +0800" stop="20261026033000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Jelu Siga Ep2</title><desc lang="zh">Jelu Siga is a captivating nature series that unearths the hidden and often forgotten stories of endangered wildlife in the heart of Borneo.</desc>
+  </programme>
+  <programme start="20261026033000 +0800" stop="20261026040000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Khazanah Kenyalang Ep6</title><desc lang="zh">Dokumentari mengangkat 39 buah koleksi khazanah terbaik negeri Sarawak - yang tersimpan di Arkib Sarawak sebagai khazanah yang signifikan dan bertaraf dunia.</desc>
+  </programme>
+  <programme start="20261026040000 +0800" stop="20261026043000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Caves &amp; Caverns Ep2</title><desc lang="zh">Our hostess explores Borneo&amp;#x27;s hidden gems, documenting her experiences, flora, fauna, paragliding, bird watching, and stunning sunsets, ensuring a captivating and exciting adventure.</desc>
+  </programme>
+  <programme start="20261026043000 +0800" stop="20261026050000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Pejalai Kamek Orang Ep4</title><desc lang="zh">Hosted and narrated by Tony Eusoff, traces locations and stories from people who have heard, experienced and witnessed events right from Brooke Era in 1841 leading up to Sarawak&amp;#x27;s independence in July 1966</desc>
+  </programme>
+  <programme start="20261026050000 +0800" stop="20261026053000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Sarawak Women in History Ep1</title><desc lang="zh">Explore the lives of loud women who stood up for Sarawak, breaking barriers, social stigmas and creating history. This documentary, we celebrate and appreciate the reverberation of their voice to this day</desc>
+  </programme>
+  <programme start="20261026053000 +0800" stop="20261026060000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Wingbeats of Borneo Ep5</title><desc lang="zh">The Wingbeats of Borneo explores the journey of 52 bird species unique to Borneo. This stunning island, spanning Sarawak and Sabah, boasts rich biodiversity and rare species, perfect for birdwatchers</desc>
+  </programme>
+  <programme start="20261026060000 +0800" stop="20261026070000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Siti in the City Ep4</title><desc lang="zh">Siti, anak yatim piatu yang hanya mahu hidup tenang sebagai content creator, tiba-tiba jadi terkenal kerana fitnah. Tapi, kebenaran terbongkar, dan dia naik sebagai content creator kegemaran ramai.</desc>
+  </programme>
+  <programme start="20261026070000 +0800" stop="20261026073000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Pagi</title><desc lang="zh">TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20261026073000 +0800" stop="20261026080000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Design Nation Ep8</title><desc lang="zh">Design Nation is a serial TV magazine that documents the architecture of buildings by well-renowned architects that have won various awards locally and internationally.</desc>
+  </programme>
+  <programme start="20261026080000 +0800" stop="20261026080500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) World News</title><desc lang="zh">Delivers timely and in-depth coverage of key global events, focusing on international politics, economics, and societal changes, with a spotlight on the latest developments impacting the world today.</desc>
+  </programme>
+  <programme start="20261026080500 +0800" stop="20261026081500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  </programme>
+  <programme start="20261026081500 +0800" stop="20261026083000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Kapit Unveiled Ep1</title><desc lang="zh">Journey to Kapit, a hidden gem in Borneo, showcasing its Iban culture, stunning landscapes, and untamed wilderness, making it an emerging tourism hotspot along the Rajang river.</desc>
+  </programme>
+  <programme start="20261026083000 +0800" stop="20261026090000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">3D Jobs Ep5</title><desc lang="zh">Aims to highlight and honor the unsung heroes of our communities who bravely perform challenging, hazardous, and dangerous jobs, showcasing their daily lives and their life stories beyond their work.</desc>
+  </programme>
+  <programme start="20261026090000 +0800" stop="20261026091500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Sana Sini</title><desc lang="zh">A local perspective on international and domestic affairs, TVS Sana Sini offers concise news stories the Weather Report, providing a look at climate and environmental conditions affecting the country</desc>
+  </programme>
+  <programme start="20261026091500 +0800" stop="20261026094500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Suara Alam Borneo Ep7</title><desc lang="zh">Suara Alam Borneo akan mengupasnya hutan hujan tropika berusia jutaan tahun secara terperinci dengan pelbagai spesis flora dan juga fauna menerusi informasi yang mudah difahami.</desc>
+  </programme>
+  <programme start="20261026094500 +0800" stop="20261026100000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261026100000 +0800" stop="20261026100500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261026100500 +0800" stop="20261026101500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261026101500 +0800" stop="20261026104500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Malaysia's War Memorial Trail Ep9</title><desc lang="zh">A documentary series that explores Malaysia&amp;#x27;s wartime heritage through memorials, monuments, and historic sites that bear witness to the nation&amp;#x27;s defining moments.</desc>
+  </programme>
+  <programme start="20261026104500 +0800" stop="20261026110000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Take Me to Sarawak: Special Ep3</title><desc lang="zh">Travelogue takes viewers on an adventure across Sarawak,uncovering underrated spots with unique food,heritage,and sights. POV shots and local guides, it offers a deeper look into the region&amp;#x27;s hidden gems.</desc>
+  </programme>
+  <programme start="20261026110000 +0800" stop="20261026111500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261026111500 +0800" stop="20261026114500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">My Journey With Nature Ep3</title><desc lang="zh">Pengembaraan seorang wanita ke kawasan pendalaman yang belum diterokai diceritakan dalam &amp;#x27;My Journey with Nature&amp;#x27;, yang menampilkan tarikan pelancongan alam semula jadi.</desc>
+  </programme>
+  <programme start="20261026114500 +0800" stop="20261026120000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Bornean Stories Ep4</title><desc lang="zh">This collection of six captivating documentaries shines a light on the vibrant soul of Borneo, offering a glimpse into their living heritage, culture, and traditions.</desc>
+  </programme>
+  <programme start="20261026120000 +0800" stop="20261026121500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Tengahari</title><desc lang="zh">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
+  </programme>
+  <programme start="20261026121500 +0800" stop="20261026123000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  </programme>
+  <programme start="20261026123000 +0800" stop="20261026130000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Grandstand Piala Premier Sarawak 2026 Ep3</title><desc lang="zh">Menyajikan sorotan perlawanan, analisis taktikal, dan perbincangan mendalam bersama hos dan tetamu jemputan tentang perkembangan pasukan dan pemain dalam Liga Bola Sepak Premier Sarawak.</desc>
+  </programme>
+  <programme start="20261026130000 +0800" stop="20261026131500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Re Bao</title><desc lang="zh">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20261026131500 +0800" stop="20261026133000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Serian Food Trails &amp; Stays Ep1</title><desc lang="zh">Serian Food Trails and Stays, we venture beyond the familiar to uncover hidden kitchens and warm homestay. From traditional experiences to new adventures, Serian is more than just a Durian Town.</desc>
+  </programme>
+  <programme start="20261026133000 +0800" stop="20261026140000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Sarawak Women in History Ep2</title><desc lang="zh">Explore the lives of loud women who stood up for Sarawak, breaking barriers, social stigmas and creating history. This documentary, we celebrate and appreciate the reverberation of their voice to this day</desc>
+  </programme>
+  <programme start="20261026140000 +0800" stop="20261026150000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Ambang Sarawak Regatta 2026</title><desc lang="zh">Siarang langsung Ambang Sarawak Regatta 2026 bertempat di Waterfront Kuching.</desc>
+  </programme>
+  <programme start="20261026150000 +0800" stop="20261026150500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Highlight</title><desc lang="zh">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+  </programme>
+  <programme start="20261026150500 +0800" stop="20261026151500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Music</title><desc lang="zh">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+  </programme>
+  <programme start="20261026151500 +0800" stop="20261026153000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">After Sunset Ep3</title><desc lang="zh">After Sunset explores vibrant city life at night through a culinary expert, musician, and street photographer-featuring smokehouses, bars, live music, and urban storytelling.</desc>
+  </programme>
+  <programme start="20261026153000 +0800" stop="20261026160000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Joran Borneo Ep8</title><desc lang="zh">Masih mengekalkan konsep &amp;#x27;Majalah&amp;#x27; travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
+  </programme>
+  <programme start="20261026160000 +0800" stop="20261026160500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) TVS Ringkas</title><desc lang="zh">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  </programme>
+  <programme start="20261026160500 +0800" stop="20261026161500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">TVS Fillers</title><desc lang="zh">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+  </programme>
+  <programme start="20261026161500 +0800" stop="20261026163000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Heritage Trails: Eco Tourism Ep1</title><desc lang="zh">Heritage Trails: Eco Tourism follows two friends on an epic adventure across Sarawak, conquering Mount Singai, Mulu Pinnacle, and Mount Murud in a thrilling three-episode journey.</desc>
+  </programme>
+  <programme start="20261026163000 +0800" stop="20261026170000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Lawas Uncovered</title><desc lang="zh">Rancangan dokumentari &amp;#x27;Lawas Uncovered&amp;#x27; memaparkan penerokaan sejarah, warisan, era peperangan, serta budaya dan kehidupan komuniti tanah tinggi di Daerah Lawas, Sarawak.</desc>
+  </programme>
+  <programme start="20261026170000 +0800" stop="20261026173000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Wilayah TVS</title><desc lang="zh">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+  </programme>
+  <programme start="20261026173000 +0800" stop="20261026180000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Pewaris Legasi Ep4</title><desc lang="zh">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya.</desc>
+  </programme>
+  <programme start="20261026180000 +0800" stop="20261026181500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Re Bao</title><desc lang="zh">Re Bao memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Mandarin</desc>
+  </programme>
+  <programme start="20261026181500 +0800" stop="20261026183000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Borneo From Above Ep18</title><desc lang="zh">To promote and highlighting development of Sarawak</desc>
+  </programme>
+  <programme start="20261026183000 +0800" stop="20261026190000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">The Food That Binds the Nation Ep4</title><desc lang="zh">Sebuah dokumentari kembara gastronomi yang merentas dari Perlis ke Sarawak, memperkenalkan keunikan juadah berbilang budaya yang memupuk perpaduan dalam kepelbagaian selera.</desc>
+  </programme>
+  <programme start="20261026190000 +0800" stop="20261026193000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) Berita Iban TVS</title><desc lang="zh">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
+  </programme>
+  <programme start="20261026193000 +0800" stop="20261026194000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Menarik Sepuluh</title><desc lang="zh">Menarik Sepuluh mengumpulkan 10 kisah unik dan menarik berlaku di mana sahaja</desc>
+  </programme>
+  <programme start="20261026194000 +0800" stop="20261026201500 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) UTAMA 740</title><desc lang="zh">UTAMA 740 memaparkan berita terkini yang menyeluruh dan padat dari dalam dan luar negara.</desc>
+  </programme>
+  <programme start="20261026201500 +0800" stop="20261026203000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(DL) Detik Dunia</title><desc lang="zh">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
+  </programme>
+  <programme start="20261026203000 +0800" stop="20261026210000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Decimal Point Ep8</title><desc lang="zh">Weekly business show is set to become your trusted source for all things business, economics, and current affairs. Your gateway to making informed decisions in today&amp;#x27;s fast-paced business environment.</desc>
+  </programme>
+  <programme start="20261026210000 +0800" stop="20261026213000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Fail Merah Ep4</title><desc lang="zh">Apabila sejarah memilih untuk diam dan media arus perdana sekadar menyentuh permukaan, kisah-kisah benar yang ganjil, tragik dan menyeramkan terus hidup dalam ingatan komuniti.</desc>
+  </programme>
+  <programme start="20261026213000 +0800" stop="20261026223000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Travelawak Projek Bapak Bapak Ep7</title><desc lang="zh">Projek Bapak Bapak S3 returns with a new twist this time they are travelling to Dubai and Korea. Will they survive a double location adventure with jet lag, language barriers and crazier challenges?</desc>
+  </programme>
+  <programme start="20261026223000 +0800" stop="20261026230000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">(L) TVS Nightline</title><desc lang="zh">Memaparkan laporan peristiwa yang berlaku di seluruh Malaysia dalam bahasa English</desc>
+  </programme>
+  <programme start="20261026230000 +0800" stop="20261027000000 +0800" channel="myTV SUPER直播足球7台"><title lang="zh">Bidadari Bermata Bening Ep1</title><desc lang="zh">In her pursuit of love and dreams, Ayna faces unexpected challenges and choices among Gus Afif, Yoyok, and Anton, while dealing with others&amp;#x27; plans for her life.</desc>
+  </programme>
   <programme start="20261026000001 +0800" stop="20261026010000 +0800" channel="that's 70s"><title lang="zh">A-List 70s Hits!</title>
   </programme>
   <programme start="20261026001500 +0800" stop="20261026004000 +0800" channel="tvN"><title lang="zh">Raport końcowy | E841</title>
@@ -18190,6 +18346,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026225500 +0800" stop="20261026232000 +0800" channel="三沙卫视"><title lang="zh">英语新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20261026232000 +0800" stop="20261026235959 +0800" channel="三沙卫视"><title lang="zh">精编节目</title><desc lang="zh">电视台将往期节目精华内容进行重新剪辑编排的特别版本，通过主题化整合、节奏优化和亮点提炼，为观众呈现浓缩升级的视听体验。</desc>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="三立新闻"><title lang="zh">驚爆新聞線(首)(普)(N)</title>
   </programme>
   <programme start="20261026010000 +0800" stop="20261026020000 +0800" channel="三立新闻"><title lang="zh">360大世界(重)(普)(N)</title>
   </programme>
@@ -18595,13 +18753,13 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026235800 +0800" stop="20261027005300 +0800" channel="东南卫视"><title lang="zh">剧场</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
-  <programme start="20261026005000 +0800" stop="20261026005300 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc>《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
+  <programme start="20261026005000 +0800" stop="20261026005300 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc lang="zh">《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
   </programme>
   <programme start="20261026005300 +0800" stop="20261026013500 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（8）</title>
   </programme>
   <programme start="20261026013500 +0800" stop="20261026021600 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（9）</title>
   </programme>
-  <programme start="20261026021600 +0800" stop="20261026021900 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc>《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
+  <programme start="20261026021600 +0800" stop="20261026021900 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc lang="zh">《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
   </programme>
   <programme start="20261026021900 +0800" stop="20261026030300 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（10）</title>
   </programme>
@@ -18609,37 +18767,37 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026034600 +0800" stop="20261026042700 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（12）</title>
   </programme>
-  <programme start="20261026042700 +0800" stop="20261026043000 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc>《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
+  <programme start="20261026042700 +0800" stop="20261026043000 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc lang="zh">《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
   </programme>
   <programme start="20261026043000 +0800" stop="20261026051300 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（13）</title>
   </programme>
   <programme start="20261026051300 +0800" stop="20261026055400 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（14）</title>
   </programme>
-  <programme start="20261026055400 +0800" stop="20261026055700 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc>《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
+  <programme start="20261026055400 +0800" stop="20261026055700 +0800" channel="东方卫视"><title lang="zh">明日精彩看点</title><desc lang="zh">《逐玉》是一部网络剧，讲述了关于玉石文化和人性的故事。第17集继续讲述主角们在玉石世界中的探索和成长，通过精彩的剧情和细腻的人物刻画，展现了玉石文化的魅力和人性的复杂性。</desc>
   </programme>
   <programme start="20261026055700 +0800" stop="20261026063900 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（15）</title>
   </programme>
   <programme start="20261026063900 +0800" stop="20261026070000 +0800" channel="东方卫视"><title lang="zh">妻子的谎言（16）</title>
   </programme>
-  <programme start="20261026070000 +0800" stop="20261026070100 +0800" channel="东方卫视"><title lang="zh">中华人民共和国国歌</title><desc>《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
+  <programme start="20261026070000 +0800" stop="20261026070100 +0800" channel="东方卫视"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">《 义勇军进行曲 》是1935年5月在 中国 上海 上映的 华语电影 《 风云儿女 》的 主题歌 。此歌先有歌词再配以乐曲， 田汉 作词、 聂耳 谱上 人声主旋律 、 阿隆·阿甫夏洛穆夫 编写 管弦乐 总谱。</desc>
   </programme>
-  <programme start="20261026070100 +0800" stop="20261026085900 +0800" channel="东方卫视"><title lang="zh">看东方</title><desc>东方卫视大型晨间新闻资讯栏目，2003年10月23日开播，每天7:00直播，周一至周五时长120分钟，周末时长60至70分钟。节目依托上海广播电视台融媒体中心内容资源，囊括新闻、气象、专题、谈话、生活服务、观众互动等多种电视元素，由两名主播、一名新闻主播、一名气象交通播报员、多名现场记者及各专题板块主持人共同呈现，是一档超越传统早新闻概念的真正意义上的“晨间节目”（Morning Show）。2025年9月28日起，节目实现4K超高清制作与播出，进一步强化“新闻立台”宗旨。</desc>
+  <programme start="20261026070100 +0800" stop="20261026085900 +0800" channel="东方卫视"><title lang="zh">看东方</title><desc lang="zh">东方卫视大型晨间新闻资讯栏目，2003年10月23日开播，每天7:00直播，周一至周五时长120分钟，周末时长60至70分钟。节目依托上海广播电视台融媒体中心内容资源，囊括新闻、气象、专题、谈话、生活服务、观众互动等多种电视元素，由两名主播、一名新闻主播、一名气象交通播报员、多名现场记者及各专题板块主持人共同呈现，是一档超越传统早新闻概念的真正意义上的“晨间节目”（Morning Show）。2025年9月28日起，节目实现4K超高清制作与播出，进一步强化“新闻立台”宗旨。</desc>
   </programme>
-  <programme start="20261026085900 +0800" stop="20261026090400 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261026085900 +0800" stop="20261026090400 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261026090400 +0800" stop="20261026094800 +0800" channel="东方卫视"><title lang="zh">危险关系（10）</title><desc>改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
+  <programme start="20261026090400 +0800" stop="20261026094800 +0800" channel="东方卫视"><title lang="zh">危险关系（10）</title><desc lang="zh">改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
   </programme>
-  <programme start="20261026094800 +0800" stop="20261026103200 +0800" channel="东方卫视"><title lang="zh">危险关系（11）</title><desc>改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
+  <programme start="20261026094800 +0800" stop="20261026103200 +0800" channel="东方卫视"><title lang="zh">危险关系（11）</title><desc lang="zh">改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
   </programme>
-  <programme start="20261026103200 +0800" stop="20261026111500 +0800" channel="东方卫视"><title lang="zh">危险关系（12）</title><desc>改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
+  <programme start="20261026103200 +0800" stop="20261026111500 +0800" channel="东方卫视"><title lang="zh">危险关系（12）</title><desc lang="zh">改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
   </programme>
-  <programme start="20261026111500 +0800" stop="20261026120000 +0800" channel="东方卫视"><title lang="zh">危险关系（13）</title><desc>改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
+  <programme start="20261026111500 +0800" stop="20261026120000 +0800" channel="东方卫视"><title lang="zh">危险关系（13）</title><desc lang="zh">改编自法国作家拉克洛同名书信体小说。讲述巴黎社交圈红人梅特伊侯爵夫人与瓦尔蒙子爵两位情场老手，以玩弄情感为乐，展开一场关于诱惑与背叛的危险游戏。</desc>
   </programme>
-  <programme start="20261026120000 +0800" stop="20261026122600 +0800" channel="东方卫视"><title lang="zh">午间30分</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261026120000 +0800" stop="20261026122600 +0800" channel="东方卫视"><title lang="zh">午间30分</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20261026122600 +0800" stop="20261026123000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261026122600 +0800" stop="20261026123000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261026123000 +0800" stop="20261026124300 +0800" channel="东方卫视"><title lang="zh">ShanghaiEye</title><desc>《ShanghaiEye》，成为首个开设常规英语节目的头部卫视平台。这档日播节目将重点展现财经、科技、城市生活、文化以及体育等领域的新鲜话题，推介上海文商旅体展融合项目和活动，为在华外籍人士提供全面、贴心、易懂的服务信息，帮助外国朋友更好了解上海、融入上海、喜爱上海，凸显开阔的国际视野。</desc>
+  <programme start="20261026123000 +0800" stop="20261026124300 +0800" channel="东方卫视"><title lang="zh">ShanghaiEye</title><desc lang="zh">《ShanghaiEye》，成为首个开设常规英语节目的头部卫视平台。这档日播节目将重点展现财经、科技、城市生活、文化以及体育等领域的新鲜话题，推介上海文商旅体展融合项目和活动，为在华外籍人士提供全面、贴心、易懂的服务信息，帮助外国朋友更好了解上海、融入上海、喜爱上海，凸显开阔的国际视野。</desc>
   </programme>
   <programme start="20261026124300 +0800" stop="20261026134000 +0800" channel="东方卫视"><title lang="zh">许我耀眼（27）</title>
   </programme>
@@ -18651,25 +18809,25 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026161300 +0800" stop="20261026170800 +0800" channel="东方卫视"><title lang="zh">许我耀眼（31）</title>
   </programme>
-  <programme start="20261026170800 +0800" stop="20261026173400 +0800" channel="东方卫视"><title lang="zh">东方新娱乐</title><desc>东方卫视推出的文娱新闻资讯栏目，将《新娱乐在线》《娱乐星天地》《文娱新天地》整合而成。节目以“追最新的娱乐资讯、去最热的活动现场、评最火的文娱话题”为核心定位，通过上海、北京、香港三地演播室联动及海外记者站，第一时间报道国内外娱乐事件，曾全程直击奥斯卡颁奖礼、格莱美颁奖礼、柏林电影节、戛纳电影节、威尼斯电影节等国际娱乐盛事。</desc>
+  <programme start="20261026170800 +0800" stop="20261026173400 +0800" channel="东方卫视"><title lang="zh">东方新娱乐</title><desc lang="zh">东方卫视推出的文娱新闻资讯栏目，将《新娱乐在线》《娱乐星天地》《文娱新天地》整合而成。节目以“追最新的娱乐资讯、去最热的活动现场、评最火的文娱话题”为核心定位，通过上海、北京、香港三地演播室联动及海外记者站，第一时间报道国内外娱乐事件，曾全程直击奥斯卡颁奖礼、格莱美颁奖礼、柏林电影节、戛纳电影节、威尼斯电影节等国际娱乐盛事。</desc>
   </programme>
-  <programme start="20261026173400 +0800" stop="20261026180000 +0800" channel="东方卫视"><title lang="zh">名医话养生（73）</title><desc>东方卫视健康科普栏目，由《名医大会诊》升级而来，前身为《名医话养生》与《名医大会诊》合并后的《名医话养生·名医大会诊》，2019年1月起整合播出。节目秉承“科学、实用、时尚”的健康理念，汇集沪上各大医院知名专家，以演播室访谈为核心，结合外景探访、实验求证等形式，围绕常见病防治、健康误区辟谣、前沿医疗技术等话题进行深入浅出的科普，倡导科学健康的生活方式。</desc>
+  <programme start="20261026173400 +0800" stop="20261026180000 +0800" channel="东方卫视"><title lang="zh">名医话养生（73）</title><desc lang="zh">东方卫视健康科普栏目，由《名医大会诊》升级而来，前身为《名医话养生》与《名医大会诊》合并后的《名医话养生·名医大会诊》，2019年1月起整合播出。节目秉承“科学、实用、时尚”的健康理念，汇集沪上各大医院知名专家，以演播室访谈为核心，结合外景探访、实验求证等形式，围绕常见病防治、健康误区辟谣、前沿医疗技术等话题进行深入浅出的科普，倡导科学健康的生活方式。</desc>
   </programme>
-  <programme start="20261026180000 +0800" stop="20261026185700 +0800" channel="东方卫视"><title lang="zh">东方新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261026180000 +0800" stop="20261026185700 +0800" channel="东方卫视"><title lang="zh">东方新闻</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20261026185700 +0800" stop="20261026190000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261026185700 +0800" stop="20261026190000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261026190000 +0800" stop="20261026193000 +0800" channel="东方卫视"><title lang="zh">转播中央台新闻联播</title><desc>《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
+  <programme start="20261026190000 +0800" stop="20261026193000 +0800" channel="东方卫视"><title lang="zh">转播中央台新闻联播</title><desc lang="zh">《新闻联播》是中国收视率最高、影响力最大的电视新闻栏目，内容涵盖政治、经济、科技、社会、军事、外交、文化、体育……无所不包，她以客观、生动、丰富的纪实手段记录了中华大地30年来每一天发生的变化。因此她是一部最真实的历史教科书。自1982年9月1日起，中共中央明确规定，重要新闻首先在《新闻联播》中发布，由此开始奠定节目为官方新闻发布管道的重要地位，节目宗旨“宣传党和政府的声音，传播天下大事”。</desc>
   </programme>
   <programme start="20261026193000 +0800" stop="20261026203600 +0800" channel="东方卫视"><title lang="zh">画梦录（上）</title>
   </programme>
   <programme start="20261026203600 +0800" stop="20261026212000 +0800" channel="东方卫视"><title lang="zh">繁花深处（1）：铸魂</title>
   </programme>
-  <programme start="20261026212000 +0800" stop="20261026215900 +0800" channel="东方卫视"><title lang="zh">今晚</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261026212000 +0800" stop="20261026215900 +0800" channel="东方卫视"><title lang="zh">今晚</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20261026215900 +0800" stop="20261026220000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261026215900 +0800" stop="20261026220000 +0800" channel="东方卫视"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
-  <programme start="20261026220000 +0800" stop="20261026224100 +0800" channel="东方卫视"><title lang="zh">这就是中国（355）</title><desc>东方卫视思想政论节目，由复旦大学中国研究院张维为教授主讲、何婕主持。节目以“国际眼光、原创研究、一流产品”为定位，从当下热点时政问题切入，采用“演讲+真人秀”模式，用中国话语解读中国模式、中国道路和中国制度，解构西方话语体系，传递“四个自信”，在海内外观众中产生广泛影响。</desc>
+  <programme start="20261026220000 +0800" stop="20261026224100 +0800" channel="东方卫视"><title lang="zh">这就是中国（355）</title><desc lang="zh">东方卫视思想政论节目，由复旦大学中国研究院张维为教授主讲、何婕主持。节目以“国际眼光、原创研究、一流产品”为定位，从当下热点时政问题切入，采用“演讲+真人秀”模式，用中国话语解读中国模式、中国道路和中国制度，解构西方话语体系，传递“四个自信”，在海内外观众中产生广泛影响。</desc>
   </programme>
   <programme start="20261026224100 +0800" stop="20261026231000 +0800" channel="东方卫视"><title lang="zh">下一站（245）：“象”往的生活</title>
   </programme>
@@ -21187,6 +21345,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026224000 +0800" stop="20261026225000 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
   <programme start="20261026225000 +0800" stop="20261026225400 +0800" channel="云南卫视"><title lang="zh">南亚东南亚天气预报</title><desc lang="zh">《天气预报》为您提供天气气象信息,及时发布天气预报、灾害预警、气象云图、台风、暴雨雪等气象信息,为人民的生产生活提供全面精确的气象服务。</desc>
+  </programme>
+  <programme start="20261026225400 +0800" stop="20261026234500 +0800" channel="云南卫视"><title lang="zh">创收栏目-八段锦</title>
   </programme>
   <programme start="20261026234500 +0800" stop="20261026235500 +0800" channel="云南卫视"><title lang="zh">川军团血战到底(21)</title>
   </programme>
@@ -25027,6 +25187,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026230000 +0800" stop="20261026235900 +0800" channel="半岛国际新闻"><title lang="zh">newsgrid</title>
   </programme>
+  <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="半岛英语"><title lang="zh">精彩节目</title>
+  </programme>
   <programme start="20261026010000 +0800" stop="20261026013000 +0800" channel="半岛英语"><title lang="zh">News Live</title>
   </programme>
   <programme start="20261026013000 +0800" stop="20261026020000 +0800" channel="半岛英语"><title lang="zh">Inside Story</title>
@@ -25609,6 +25771,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026210000 +0800" stop="20261027000000 +0800" channel="博斯无限台"><title lang="zh">2026-27司諾克賽季 武漢公開賽 第一輪(1)YAN vs ZHE(普)</title>
   </programme>
+  <programme start="20261026000000 +0800" stop="20261026013000 +0800" channel="博斯网球台"><title lang="zh">LIVE 2026布魯塞爾男網賽 決賽(普)</title>
+  </programme>
   <programme start="20261026013000 +0800" stop="20261026033000 +0800" channel="博斯网球台"><title lang="zh">2026上海大師賽 16強(普)</title>
   </programme>
   <programme start="20261026033000 +0800" stop="20261026053000 +0800" channel="博斯网球台"><title lang="zh">2026東京男網賽 決賽ALC vs LEH(普)</title>
@@ -25633,7 +25797,7 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026190000 +0800" stop="20261026203000 +0800" channel="博斯网球台"><title lang="zh">2026美國網球公開賽 女單16強 KAL vs BAV(普)</title>
   </programme>
-  <programme start="20261026203000 +0800" stop="20261027000000 +0800" channel="博斯网球台"><title lang="zh">LIVE 2026維也納男網賽 第一天(普)</title>
+  <programme start="20261026203000 +0800" stop="20261026235900 +0800" channel="博斯网球台"><title lang="zh">LIVE 2026維也納男網賽 第一天(普)</title>
   </programme>
   <programme start="20261026000000 +0800" stop="20261026023000 +0800" channel="博斯运动一台"><title lang="zh">2026企業女子壘球聯賽第14周臺北臺產熊讚 vs 福添福嘉南鷹</title>
   </programme>
@@ -25714,6 +25878,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026160000 +0800" stop="20261026200000 +0800" channel="博斯高球2台"><title lang="zh">首播香港公開賽第一天(普)</title>
   </programme>
   <programme start="20261026200000 +0800" stop="20261026235900 +0800" channel="博斯高球2台"><title lang="zh">2026Golf 5女子高球賽第一天(普)</title>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026003000 +0800" channel="博斯高球台"><title lang="zh">2026 歐巡馬德里公開賽第二天(普)</title>
   </programme>
   <programme start="20261026003000 +0800" stop="20261026010000 +0800" channel="博斯高球台"><title lang="zh">美巡焦點(普)</title>
   </programme>
@@ -30063,6 +30229,38 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   </programme>
   <programme start="20261026221000 +0800" stop="20261027023000 +0800" channel="宁夏文旅"><title lang="zh">星空影院</title><desc lang="zh">暂无节目描述</desc>
   </programme>
+  <programme start="20261026000000 +0800" stop="20261026120000 +0800" channel="安多卫视"><title lang="zh">精彩呈现</title>
+  </programme>
+  <programme start="20261026120000 +0800" stop="20261026122100 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
+  <programme start="20261026122100 +0800" stop="20261026125100 +0800" channel="安多卫视"><title lang="zh">新闻聚焦</title>
+  </programme>
+  <programme start="20261026125100 +0800" stop="20261026150000 +0800" channel="安多卫视"><title lang="zh">外加风云</title>
+  </programme>
+  <programme start="20261026150000 +0800" stop="20261026170100 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261026170100 +0800" stop="20261026183300 +0800" channel="安多卫视"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20261026183300 +0800" stop="20261026185800 +0800" channel="安多卫视"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20261026185800 +0800" stop="20261026193000 +0800" channel="安多卫视"><title lang="zh">经典是怎样练成的</title>
+  </programme>
+  <programme start="20261026193000 +0800" stop="20261026195500 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
+  <programme start="20261026195500 +0800" stop="20261026195800 +0800" channel="安多卫视"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261026195800 +0800" stop="20261026203000 +0800" channel="安多卫视"><title lang="zh">写真</title>
+  </programme>
+  <programme start="20261026203000 +0800" stop="20261026205000 +0800" channel="安多卫视"><title lang="zh">我住江之头</title>
+  </programme>
+  <programme start="20261026205000 +0800" stop="20261026223000 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261026223000 +0800" stop="20261026230500 +0800" channel="安多卫视"><title lang="zh">藏语中央新闻联播</title>
+  </programme>
+  <programme start="20261026230500 +0800" stop="20261026235300 +0800" channel="安多卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261026235300 +0800" stop="20261026235900 +0800" channel="安多卫视"><title lang="zh">安多新闻联播</title>
+  </programme>
   <programme start="20261026003300 +0800" stop="20261026013800 +0800" channel="安徽公共"><title lang="zh">新闻故事会</title><desc lang="zh">小人物 大社会 小故事 大道理 本岛首档故事类新闻专题节目 新闻有真理 我们有故事</desc>
   </programme>
   <programme start="20261026013800 +0800" stop="20261026055100 +0800" channel="安徽公共"><title lang="zh">节目结束</title><desc lang="zh">此阶段没有电视节目播放。</desc>
@@ -30222,6 +30420,18 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026234500 +0800" stop="20261026234800 +0800" channel="安徽卫视"><title lang="zh">旅游景区天气预报</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
   </programme>
   <programme start="20261026234800 +0800" stop="20261027000300 +0800" channel="安徽卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026060000 +0800" channel="安徽国际"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261026060000 +0800" stop="20261026080000 +0800" channel="安徽国际"><title lang="zh">安徽廣播電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026080000 +0800" stop="20261026120000 +0800" channel="安徽国际"><title lang="zh">安徽廣播電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026120000 +0800" stop="20261026160000 +0800" channel="安徽国际"><title lang="zh">安徽廣播電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026160000 +0800" stop="20261026200000 +0800" channel="安徽国际"><title lang="zh">安徽廣播電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026200000 +0800" stop="20261027000000 +0800" channel="安徽国际"><title lang="zh">安徽廣播電視台國際頻道全日24小時為你送上精彩節目</title>
   </programme>
   <programme start="20261026000700 +0800" stop="20261026004700 +0800" channel="安徽影视"><title lang="zh">剧场</title><desc lang="zh">此阶段播放精彩电视剧内容。</desc>
   </programme>
@@ -35792,6 +36002,8 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026220000 +0800" stop="20261026230000 +0800" channel="无线卫星亚洲"><title lang="zh">食尚玩家 瘋狂總部(精選)</title>
   </programme>
   <programme start="20261026230000 +0800" stop="20261027000000 +0800" channel="无线卫星亚洲"><title lang="zh">11點熱吵店</title>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026010000 +0800" channel="无线卫星新闻"><title lang="zh">精彩节目</title>
   </programme>
   <programme start="20261026010000 +0800" stop="20261026020000 +0800" channel="无线卫星新闻"><title lang="zh">九點熱話題(重)</title>
   </programme>
@@ -44680,6 +44892,18 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026234500 +0800" stop="20261026235300 +0800" channel="湖南卫视"><title lang="zh">声鸣远扬</title><desc>2025年青年歌唱人才选拔节目，由湖南卫视、北京卫视、江苏卫视、广东卫视、辽宁卫视、新疆卫视与芒果TV、腾讯视频八大平台联合制播，殷秀梅、那英、华晨宇担任首席评审。节目以“青春敢唱，一鸣惊人”为口号，覆盖全国六大赛区，设立民族、美声、流行三大赛道，采用全程“真唱真直播”模式，历经12场总决赛直播选拔。危晋宇、张卓尔、高旭分获冠亚季军，节目连续十二周蝉联省级卫视收视第一。</desc>
   </programme>
   <programme start="20261026235300 +0800" stop="20261027022100 +0800" channel="湖南卫视"><title lang="zh">声鸣远扬</title><desc>2025年青年歌唱人才选拔节目，由湖南卫视、北京卫视、江苏卫视、广东卫视、辽宁卫视、新疆卫视与芒果TV、腾讯视频八大平台联合制播，殷秀梅、那英、华晨宇担任首席评审。节目以“青春敢唱，一鸣惊人”为口号，覆盖全国六大赛区，设立民族、美声、流行三大赛道，采用全程“真唱真直播”模式，历经12场总决赛直播选拔。危晋宇、张卓尔、高旭分获冠亚季军，节目连续十二周蝉联省级卫视收视第一。</desc>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026060000 +0800" channel="湖南国际"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261026060000 +0800" stop="20261026080000 +0800" channel="湖南国际"><title lang="zh">湖南電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026080000 +0800" stop="20261026120000 +0800" channel="湖南国际"><title lang="zh">湖南電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026120000 +0800" stop="20261026160000 +0800" channel="湖南国际"><title lang="zh">湖南電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026160000 +0800" stop="20261026200000 +0800" channel="湖南国际"><title lang="zh">湖南電視台國際頻道全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261026200000 +0800" stop="20261027000000 +0800" channel="湖南国际"><title lang="zh">湖南電視台國際頻道全日24小時為你送上精彩節目</title>
   </programme>
   <programme start="20261026003000 +0800" stop="20261026012000 +0800" channel="湖南娱乐"><title lang="zh">娱乐急先锋</title><desc lang="zh">《娱乐急先锋》是国内第一档超长直播的日播娱乐资讯节目，自1999年6月28日开播以来，每天精彩不间断，成功播出7年，成为频道王牌栏目。2006年4月1日，以全新姿态亮相屏幕，超酷主编全新搭配，新鲜麻辣娱乐资讯全面放送，竭力打造国内最热闹、最互动以及最有影响力的娱乐资讯节目。《娱乐急先锋》开内地娱乐资讯节目之先河,每天倾力放送一个小时，内容涉及本土、内地、及港台明星，国际娱乐速递。 以最迅捷的速度，最独到的视角，最酷的表达，百分百的捕捉娱乐动态，全方位把握潮流脉搏，引领您迈入娱乐资讯新领域。在这里,娱乐无国界,明星零距离。打造娱乐时尚,不遗余力。现在主持人孙骁骁、关赢。</desc>
   </programme>
@@ -59802,5 +60026,27 @@ Grug accidentally reveals a subterranean cave beneath the treehouse. When Phil c
   <programme start="20261026000001 +0800" stop="20261026020000 +0800" channel="龙岩公共"><title lang="zh">午夜影剧院</title>
   </programme>
   <programme start="20261026000001 +0800" stop="20261026020000 +0800" channel="龙岩综合"><title lang="zh">午夜影剧院</title>
+  </programme>
+  <programme start="20261026000000 +0800" stop="20261026021000 +0800" channel="龙祥时代"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261026021000 +0800" stop="20261026043000 +0800" channel="龙祥时代"><title lang="zh">玻璃鎗的愛</title>
+  </programme>
+  <programme start="20261026043000 +0800" stop="20261026070000 +0800" channel="龙祥时代"><title lang="zh">八二三炮戰</title>
+  </programme>
+  <programme start="20261026070000 +0800" stop="20261026092500 +0800" channel="龙祥时代"><title lang="zh">南海十三郎</title>
+  </programme>
+  <programme start="20261026092500 +0800" stop="20261026115500 +0800" channel="龙祥时代"><title lang="zh">五億探長雷洛傳II父子情仇（雙語）</title>
+  </programme>
+  <programme start="20261026115500 +0800" stop="20261026142500 +0800" channel="龙祥时代"><title lang="zh">黃飛鴻之鐵雞鬥蜈蚣</title>
+  </programme>
+  <programme start="20261026142500 +0800" stop="20261026165000 +0800" channel="龙祥时代"><title lang="zh">保持通話（雙語）</title>
+  </programme>
+  <programme start="20261026165000 +0800" stop="20261026185500 +0800" channel="龙祥时代"><title lang="zh">尋找劉三姐</title>
+  </programme>
+  <programme start="20261026185500 +0800" stop="20261026210000 +0800" channel="龙祥时代"><title lang="zh">92黑玫瑰對黑玫瑰</title>
+  </programme>
+  <programme start="20261026210000 +0800" stop="20261026233500 +0800" channel="龙祥时代"><title lang="zh">娜娜（雙語）</title>
+  </programme>
+  <programme start="20261026233500 +0800" stop="20261026235900 +0800" channel="龙祥时代"><title lang="zh">荒村客棧</title>
   </programme>
 </tv>

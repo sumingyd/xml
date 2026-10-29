@@ -34,11 +34,21 @@ jobs:
       - name: Update timestamp
         run: date -u +"%Y-%m-%dT%H:%M:%SZ" > epg-last-updated.txt
 
+      # epg.xml 已超过 GitHub 100MB 单文件限制，不再提交进 git，改传 Release
+      # 稳定下载地址: https://github.com/sumingyd/xml/releases/latest/download/epg.xml
+      - name: Upload epg.xml to latest release
+        run: |
+          gh release create latest --title "EPG 最新数据" --notes "自动更新，通过 releases/latest/download/epg.xml 获取" --latest || true
+          gh release upload latest epg.xml --clobber
+        env:
+          GH_TOKEN: ${{ github.token }}
+
       - name: Configure git and push changes
         run: |
           git config user.name 'github-actions'
           git config user.email 'github-actions@github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git add epg.xml epg_data.json epg.xml.gz epg-last-updated.txt days/
+          git rm --cached epg.xml || true
+          git add epg_data.json epg.xml.gz epg-last-updated.txt days/
           git commit -m "Update EPG data" || echo "No changes to commit"
           git push

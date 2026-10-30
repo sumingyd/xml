@@ -1349,6 +1349,8 @@
   </channel>
   <channel id="STINGRAYRETRO"><display-name lang="zh">STINGRAYRETRO</display-name>
   </channel>
+  <channel id="哈尔滨娱乐"><display-name lang="zh">哈尔滨娱乐</display-name>
+  </channel>
   <channel id="都市剧场"><display-name lang="zh">都市剧场</display-name><display-name lang="zh">都市剧场</display-name><display-name lang="zh">城市剧场</display-name>
   </channel>
   <channel id="三亚1台"><display-name lang="zh">三亚1台</display-name>
@@ -1766,6 +1768,8 @@
   <channel id="FILIPINOTV"><display-name lang="zh">FILIPINOTV</display-name>
   </channel>
   <channel id="博斯无限2台"><display-name lang="zh">博斯无限2台</display-name>
+  </channel>
+  <channel id="[ARMENA]BEINSPORTSFR2"><display-name lang="zh">[ARMENA]BEINSPORTSFR2</display-name>
   </channel>
   <channel id="ALJAZEERA"><display-name lang="zh">ALJAZEERA</display-name><display-name lang="zh">半岛电视台</display-name><display-name lang="zh">Al Jazeera English</display-name><display-name lang="zh">半岛英语台</display-name>
   </channel>
@@ -2316,6 +2320,8 @@
   <channel id="UNISEAST"><display-name lang="zh">UNISEAST</display-name>
   </channel>
   <channel id="ABCSEATTLE(419)"><display-name lang="zh">ABCSEATTLE(419)</display-name>
+  </channel>
+  <channel id="[MENA]BEINSPORTSFR2"><display-name lang="zh">[MENA]BEINSPORTSFR2</display-name>
   </channel>
   <channel id="APTN(9)"><display-name lang="zh">APTN(9)</display-name>
   </channel>
@@ -4229,6 +4235,8 @@
   </channel>
   <channel id="ICIRDI"><display-name lang="zh">ICIRDI</display-name>
   </channel>
+  <channel id="[FR]BEINSPORTS2"><display-name lang="zh">[FR]BEINSPORTS2</display-name>
+  </channel>
   <channel id="TSN5NODAI"><display-name lang="zh">TSN5NODAI</display-name>
   </channel>
   <channel id="第1商业"><display-name lang="zh">第1商业</display-name>
@@ -4412,6 +4420,8 @@
   <channel id="重庆移动"><display-name lang="zh">重庆移动</display-name>
   </channel>
   <channel id="FashionBox"><display-name lang="zh">FashionBox</display-name><display-name lang="zh">FASHIONBOX</display-name><display-name lang="zh">FashionBox HD</display-name>
+  </channel>
+  <channel id="苏州经济"><display-name lang="zh">苏州经济</display-name><display-name lang="zh">苏州社会经济</display-name><display-name lang="zh">苏州社会</display-name><display-name lang="zh">苏州文化生活-苏州新闻综合-苏州生活资讯-苏州社会经济</display-name><display-name lang="zh">苏州文化生活苏州新闻综合苏州生活资讯苏州社会经济</display-name>
   </channel>
   <channel id="惊悚悬疑"><display-name lang="zh">惊悚悬疑</display-name>
   </channel>
@@ -4743,7 +4753,7 @@
   </channel>
   <channel id="CETV早期教育"><display-name lang="zh">CETV早期教育</display-name>
   </channel>
-  <channel id="中国教育1"><display-name lang="zh">中国教育1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育台-1</display-name><display-name lang="zh">中国教育1台</display-name><display-name lang="zh">中国教育一台</display-name><display-name lang="zh">中国教育台-1(高清)</display-name>
+  <channel id="中国教育1"><display-name lang="zh">中国教育1</display-name><display-name lang="zh">中国教育-1</display-name><display-name lang="zh">中国教育台-1</display-name><display-name lang="zh">中国教育1台</display-name><display-name lang="zh">中国教育一台</display-name><display-name lang="zh">中国教育台-1(高清)</display-name><display-name lang="zh">Channel[V]</display-name>
   </channel>
   <channel id="歌手2024"><display-name lang="zh">歌手2024</display-name>
   </channel>
@@ -42231,6 +42241,26 @@ MC：津田麻莉奈</desc>
   </programme>
   <programme start="20261030234500 +0800" stop="20261031000000 +0800" channel="ZooMoo"><title lang="zh">小毛孩動腦筋2 #31</title><desc lang="zh">本集講述的都是動物,它們是我們最好的朋友、我們的幫手、我們的同伴和我們的夥伴。</desc>
   </programme>
+  <programme start="20261030000000 +0800" stop="20261030011500 +0800" channel="[ARMENA]BEINSPORTSFR2"><title lang="zh">Doc Rse Environnement Sport50 Sport Face Au Climat - Documentaire</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030073000 +0800" stop="20261030111500 +0800" channel="[ARMENA]BEINSPORTSFR2"><title lang="zh">NFL Extra -</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030213000 +0800" channel="[ARMENA]BEINSPORTSFR2"><title lang="zh">Made in England -</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030223000 +0800" stop="20261030230000 +0800" channel="[ARMENA]BEINSPORTSFR2"><title lang="zh">Salon VIP - Magazine 2026-2027</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030003000 +0800" channel="[FR]BEINSPORTS2"><title lang="zh">Salon VIP</title>
+  </programme>
+  <programme start="20261030003000 +0800" stop="20261030023000 +0800" channel="[FR]BEINSPORTS2"><title lang="zh">Basket-ball : WNBA - Atlanta Dream / Golden State Valkyries</title>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030011500 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Doc Rse Environnement Sport50 Sport Face Au Climat - Documentaire</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030073000 +0800" stop="20261030111500 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">NFL Extra -</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030213000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Made in England -</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261030223000 +0800" stop="20261030230000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Salon VIP - Magazine 2026-2027</title><desc lang="zh">Sport.</desc>
+  </programme>
   <programme start="20261030014000 +0800" stop="20261030035500 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 女子歐洲聯賽冠軍盃 第25集 -巴黎會 對 赫根 (比賽3)[直播]</title><desc>中国唯一一档以中国原生态民歌歌种版图概念全景展示的中国民歌艺术节目，它为展示中国民歌提供了一个良好的契机和广阔的平台。此栏目系列化开拓中国民歌艺术视野，系列化介绍中国民族、民间的原生态民歌艺术，并大力推动中国原生态民歌的发展。</desc>
   </programme>
   <programme start="20261030035500 +0800" stop="20261030060000 +0800" channel="beIN SPORTS 1"><title lang="zh">2026/27 女子歐洲聯賽冠軍盃 第26集 -高治 對 巴塞隆拿 (比賽3)[直播]</title><desc>中国唯一一档以中国原生态民歌歌种版图概念全景展示的中国民歌艺术节目，它为展示中国民歌提供了一个良好的契机和广阔的平台。此栏目系列化开拓中国民歌艺术视野，系列化介绍中国民族、民间的原生态民歌艺术，并大力推动中国原生态民歌的发展。</desc>
@@ -56216,6 +56246,88 @@ MC：津田麻莉奈</desc>
   <programme start="20261030230000 +0800" stop="20261030231500 +0800" channel="哈哈炫动"><title lang="zh">新闻同学</title>
   </programme>
   <programme start="20261030231500 +0800" stop="20261031001500 +0800" channel="哈哈炫动"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  </programme>
+  <programme start="20261030000001 +0800" stop="20261030010000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030010000 +0800" stop="20261030020000 +0800" channel="哈尔滨娱乐"><title lang="zh">非洲直播室</title>
+  </programme>
+  <programme start="20261030020000 +0800" stop="20261030030000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030030000 +0800" stop="20261030033000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030033000 +0800" stop="20261030040000 +0800" channel="哈尔滨娱乐"><title lang="zh">薇观世界</title>
+  </programme>
+  <programme start="20261030040000 +0800" stop="20261030043000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030043000 +0800" stop="20261030050000 +0800" channel="哈尔滨娱乐"><title lang="zh">对话杨锐</title>
+  </programme>
+  <programme start="20261030050000 +0800" stop="20261030053000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030053000 +0800" stop="20261030060000 +0800" channel="哈尔滨娱乐"><title lang="zh">舆论纵贯线</title>
+  </programme>
+  <programme start="20261030060000 +0800" stop="20261030063000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030063000 +0800" stop="20261030070000 +0800" channel="哈尔滨娱乐"><title lang="zh">中国再发现</title>
+  </programme>
+  <programme start="20261030070000 +0800" stop="20261030073000 +0800" channel="哈尔滨娱乐"><title lang="zh">热点</title>
+  </programme>
+  <programme start="20261030073000 +0800" stop="20261030080000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030080000 +0800" stop="20261030090000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030090000 +0800" stop="20261030093000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030093000 +0800" stop="20261030094500 +0800" channel="哈尔滨娱乐"><title lang="zh">中国24小时</title><desc>中央电视台新闻频道夜间新闻资讯栏目，2009年8月10日开播，由原23点《晚间新闻》改版而来。每晚23:00首播，时长60分钟，以“为您梳理全天重要新闻”为宗旨，回顾当日国内外重大新闻，设有“主播关注”“声音”“今日面孔”“图说今天”等板块，集纳财经、体育、文化、国际等各类资讯，采用“说新闻”的口语化表达方式，让观众对全天新闻有清晰全面的了解。</desc>
+  </programme>
+  <programme start="20261030094500 +0800" stop="20261030120000 +0800" channel="哈尔滨娱乐"><title lang="zh">二十届五中全会新闻发布会</title>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030130000 +0800" channel="哈尔滨娱乐"><title lang="zh">环球瞭望</title>
+  </programme>
+  <programme start="20261030130000 +0800" stop="20261030131500 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030131500 +0800" stop="20261030133000 +0800" channel="哈尔滨娱乐"><title lang="zh">体育报道</title>
+  </programme>
+  <programme start="20261030133000 +0800" stop="20261030140000 +0800" channel="哈尔滨娱乐"><title lang="zh">亚洲观察</title><desc>中央电视台社会与法频道（CCTV-12）道德建设专题栏目，2006年3月开播，是中国唯一一档以“道德”命名的日播节目。以“讲述道德故事，弘扬社会正气”为宗旨，每期讲述一个发生在百姓身边的道德故事，涵盖助人为乐、见义勇为、诚实守信、敬业奉献、孝老爱亲等主题，展现普通人的道德光辉与人性温暖。节目采用纪实拍摄与演播室点评相结合形式，通过平凡人物的不平凡事迹引领社会风尚。首播时间：每日21:30，每期20分钟。口号：“观察社会，启迪人生。”</desc>
+  </programme>
+  <programme start="20261030140000 +0800" stop="20261030143000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030143000 +0800" stop="20261030150000 +0800" channel="哈尔滨娱乐"><title lang="zh">热点</title>
+  </programme>
+  <programme start="20261030150000 +0800" stop="20261030153000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030153000 +0800" stop="20261030160000 +0800" channel="哈尔滨娱乐"><title lang="zh">体育报道</title>
+  </programme>
+  <programme start="20261030160000 +0800" stop="20261030161500 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030161500 +0800" stop="20261030170000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030170000 +0800" stop="20261030173000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030173000 +0800" stop="20261030180000 +0800" channel="哈尔滨娱乐"><title lang="zh">文化速递</title>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030181500 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030181500 +0800" stop="20261030190000 +0800" channel="哈尔滨娱乐"><title lang="zh">非洲直播室</title>
+  </programme>
+  <programme start="20261030190000 +0800" stop="20261030193000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日亚洲</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030193000 +0800" stop="20261030200000 +0800" channel="哈尔滨娱乐"><title lang="zh">对话杨锐</title>
+  </programme>
+  <programme start="20261030200000 +0800" stop="20261030201500 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030201500 +0800" stop="20261030210000 +0800" channel="哈尔滨娱乐"><title lang="zh">中国24小时</title><desc>中央电视台新闻频道夜间新闻资讯栏目，2009年8月10日开播，由原23点《晚间新闻》改版而来。每晚23:00首播，时长60分钟，以“为您梳理全天重要新闻”为宗旨，回顾当日国内外重大新闻，设有“主播关注”“声音”“今日面孔”“图说今天”等板块，集纳财经、体育、文化、国际等各类资讯，采用“说新闻”的口语化表达方式，让观众对全天新闻有清晰全面的了解。</desc>
+  </programme>
+  <programme start="20261030210000 +0800" stop="20261030213000 +0800" channel="哈尔滨娱乐"><title lang="zh">全球财经</title>
+  </programme>
+  <programme start="20261030213000 +0800" stop="20261030220000 +0800" channel="哈尔滨娱乐"><title lang="zh">欣视点</title>
+  </programme>
+  <programme start="20261030220000 +0800" stop="20261030223000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030223000 +0800" stop="20261030230000 +0800" channel="哈尔滨娱乐"><title lang="zh">薇观世界</title>
+  </programme>
+  <programme start="20261030230000 +0800" stop="20261030233000 +0800" channel="哈尔滨娱乐"><title lang="zh">今日世界</title><desc>“展示亚洲风采，倾听亚洲声音”，《今日亚洲》以主持人和视频报道为基本形态，栏目时长为25分钟。“今日亚洲”央视中文国际频道（CCTV-4）2008年7月28日开播的新闻类栏目。周一至周六，每日23点首播，次日7点重播，节目时长30分钟。栏目口号是“展示亚洲风采，倾听亚洲声音”。由于该栏目与亚洲其他国家电视机构建立了节目互换机制，所以在栏目中甚至可以看到亚洲主要电视台主播解说新闻的画面，也突显新闻的“原生态”。该栏目包括亚洲国家各地热点，用亚洲国家电视台的电视新闻节目来报道当天亚洲国家发生的重大事件；亚洲资讯速览；“当日焦点”选取亚洲国家共同关注的热点话题，梳理事件的来龙去脉，考察其对亚洲其他国家的影响以及这些国家的反应；“精彩亚洲”则介绍亚洲各国人民的文化生活及风土人情等内容。央视通过开播“今日亚洲”，将与亚洲一些国家电视台或机构商谈双边合作机制。目前央视已和亚洲六个国家的电视台签订了合作协议，并获得了15个国家电视台使用其新闻的授权。</desc>
+  </programme>
+  <programme start="20261030233000 +0800" stop="20261031000000 +0800" channel="哈尔滨娱乐"><title lang="zh">文化速递</title>
   </programme>
   <programme start="20261030000001 +0800" stop="20261030014000 +0800" channel="哈尔滨影视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
@@ -88963,6 +89075,62 @@ MC：津田麻莉奈</desc>
   <programme start="20261030232500 +0800" stop="20261030234500 +0800" channel="苏州生活"><title lang="zh">直播苏州</title>
   </programme>
   <programme start="20261030234500 +0800" stop="20261030235959 +0800" channel="苏州生活"><title lang="zh">晚间剧场</title><desc lang="zh">晚间剧场是晚间一档播放各类精彩影剧作品的节目。</desc>
+  </programme>
+  <programme start="20261030000000 +0800" stop="20261030001500 +0800" channel="苏州经济"><title lang="zh">精彩节目</title><desc lang="zh">精彩节目是西安都市频道推出的精彩节目展播时段，集中呈现频道各类优质节目的精华内容，涵盖新闻、专题、综艺、文化等多种类型，为观众提供丰富多元的视听选择，传承养生文化。</desc>
+  </programme>
+  <programme start="20261030001500 +0800" stop="20261030010500 +0800" channel="苏州经济"><title lang="zh">都市养生佳</title>
+  </programme>
+  <programme start="20261030010500 +0800" stop="20261030044900 +0800" channel="苏州经济"><title lang="zh">剧场</title><desc lang="zh">剧场是南京文旅纪录频道推出的电视剧剧场时段，精选优秀电视剧和纪录剧集集中播出，为观众呈现跌宕起伏的故事情节和丰富多样的人物命运，是市民茶余饭后欣赏精彩剧集、放松身心的专属时段。</desc>
+  </programme>
+  <programme start="20261030044900 +0800" stop="20261030060000 +0800" channel="苏州经济"><title lang="zh">测试卡</title><desc lang="zh">测试卡是深圳移动频道的技术测试垫片，于检修时段循环播放标准测试图，用于设备调试和信号监测。</desc>
+  </programme>
+  <programme start="20261030060000 +0800" stop="20261030061200 +0800" channel="苏州经济"><title lang="zh">第一现场</title><desc lang="zh">第一现场，直击真相！《第一现场》是一档全新的现场直播类型的新闻节目：突发现场，现场直播；热点事件，现场直击；民生民情，现场解读，力求“快、短、新、奇”。节目中，不仅有直播连线，还有全省、全国各地的精彩现场视频，再加上出镜记者讲述新闻、演播室巧妙、丰富的大屏展示，使得节目更加丰富和多样，获得收视、口碑双丰收！</desc>
+  </programme>
+  <programme start="20261030061200 +0800" stop="20261030071500 +0800" channel="苏州经济"><title lang="zh">寰宇地理</title><desc>金鹰纪实频道引进的美国国家地理频道纪录片栏目，前身为2000年引入中国的《神奇的地球》。节目涵盖科技探索、历史人文、自然生态等领域，设有《缤纷世界》《科技尖端》《风云盛宴》《狂野周末》等固定板块，周一至周日每日不同主题编排。</desc>
+  </programme>
+  <programme start="20261030071500 +0800" stop="20261030074600 +0800" channel="苏州经济"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
+  </programme>
+  <programme start="20261030074600 +0800" stop="20261030082500 +0800" channel="苏州经济"><title lang="zh">李刚评话</title>
+  </programme>
+  <programme start="20261030082500 +0800" stop="20261030092500 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261030092500 +0800" stop="20261030105800 +0800" channel="苏州经济"><title lang="zh">小鼓大戏</title>
+  </programme>
+  <programme start="20261030111500 +0800" stop="20261030120000 +0800" channel="苏州经济"><title lang="zh">施斌聊斋</title>
+  </programme>
+  <programme start="20261030120000 +0800" stop="20261030130500 +0800" channel="苏州经济"><title lang="zh">社会传真</title><desc>《社会传真》是一档以社会新闻为主题的节目，本集聚焦一线调研。通过深入基层、实地采访，向观众报道社会热点问题和民生故事，传递真实的社会声音和民生关切，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20261030130500 +0800" stop="20261030131200 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261030131200 +0800" stop="20261030142300 +0800" channel="苏州经济"><title lang="zh">金牌律师</title><desc lang="zh">金牌律师是一档法治资讯类电视节目，聚焦法律热点案件与律师实务领域，通过典型案例深入解读法律条文与诉讼流程，为观众提供专业法律知识普及与维权指引，增强公民法治意识。</desc>
+  </programme>
+  <programme start="20261030142300 +0800" stop="20261030151900 +0800" channel="苏州经济"><title lang="zh">金牌律师</title><desc lang="zh">金牌律师是一档法治资讯类电视节目，聚焦法律热点案件与律师实务领域，通过典型案例深入解读法律条文与诉讼流程，为观众提供专业法律知识普及与维权指引，增强公民法治意识。</desc>
+  </programme>
+  <programme start="20261030151900 +0800" stop="20261030162200 +0800" channel="苏州经济"><title lang="zh">葛洪养生苑</title><desc lang="zh">秉承传统医学理论，栏目按照二十四节气来安排，方便您随时掌握及时即时养生知识。</desc>
+  </programme>
+  <programme start="20261030162200 +0800" stop="20261030170200 +0800" channel="苏州经济"><title lang="zh">都市养生佳</title>
+  </programme>
+  <programme start="20261030170200 +0800" stop="20261030173000 +0800" channel="苏州经济"><title lang="zh">天下朋友圈</title>
+  </programme>
+  <programme start="20261030173000 +0800" stop="20261030174300 +0800" channel="苏州经济"><title lang="zh">都市路路通</title><desc lang="zh">都市路路通是一档交通生活服务栏目，由深圳都市频道推出，关注城市交通出行、路况信息与市民生活服务，为深圳市民提供实用的出行指南与生活资讯。</desc>
+  </programme>
+  <programme start="20261030174300 +0800" stop="20261030180000 +0800" channel="苏州经济"><title lang="zh">健康黄丝带</title>
+  </programme>
+  <programme start="20261030180000 +0800" stop="20261030183000 +0800" channel="苏州经济"><title lang="zh">李刚评话</title>
+  </programme>
+  <programme start="20261030183000 +0800" stop="20261030193000 +0800" channel="苏州经济"><title lang="zh">社会传真</title><desc>《社会传真》是一档以社会新闻为主题的节目，本集聚焦一线调研。通过深入基层、实地采访，向观众报道社会热点问题和民生故事，传递真实的社会声音和民生关切，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20261030193000 +0800" stop="20261030194300 +0800" channel="苏州经济"><title lang="zh">谈天说地</title>
+  </programme>
+  <programme start="20261030194300 +0800" stop="20261030220000 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261030222500 +0800" stop="20261030230000 +0800" channel="苏州经济"><title lang="zh">鞠说好看</title>
+  </programme>
+  <programme start="20261030231600 +0800" stop="20261030233100 +0800" channel="苏州经济"><title lang="zh">食客准备</title>
+  </programme>
+  <programme start="20261030233100 +0800" stop="20261030235500 +0800" channel="苏州经济"><title lang="zh">苏州财经报道</title>
+  </programme>
+  <programme start="20261030235500 +0800" stop="20261030235900 +0800" channel="苏州经济"><title lang="zh">谈天说地</title>
   </programme>
   <programme start="20261030000000 +0800" stop="20261030000500 +0800" channel="苏州综合"><title lang="zh">精彩节目</title><desc lang="zh">精彩节目是西安都市频道推出的精彩节目展播时段，集中呈现频道各类优质节目的精华内容，涵盖新闻、专题、综艺、文化等多种类型，为观众提供丰富多元的视听选择，传承养生文化。</desc>
   </programme>

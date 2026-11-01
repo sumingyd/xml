@@ -479,6 +479,8 @@
   </channel>
   <channel id="安徽影视"><display-name lang="zh">安徽影视</display-name>
   </channel>
+  <channel id="苏州经济"><display-name lang="zh">苏州经济</display-name><display-name lang="zh">苏州社会经济</display-name><display-name lang="zh">苏州社会</display-name><display-name lang="zh">苏州文化生活-苏州新闻综合-苏州生活资讯-苏州社会经济</display-name><display-name lang="zh">苏州文化生活苏州新闻综合苏州生活资讯苏州社会经济</display-name>
+  </channel>
   <channel id="青岛QTV-4"><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV-4</display-name><display-name lang="zh">青岛QTV4</display-name>
   </channel>
   <channel id="CCTV4美洲"><display-name lang="zh">CCTV-4美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name><display-name lang="zh">CCTV-4 中文国际（美）</display-name><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CCTV-4美洲台</display-name><display-name lang="zh">CCTV4美洲台</display-name>
@@ -2281,6 +2283,8 @@
   </channel>
   <channel id="CBWFTDT"><display-name lang="zh">CBWFTDT</display-name>
   </channel>
+  <channel id="[FR]BEINSPORTS2"><display-name lang="zh">[FR]BEINSPORTS2</display-name>
+  </channel>
   <channel id="十堰影视"><display-name lang="zh">十堰影视</display-name>
   </channel>
   <channel id="湖南经视"><display-name lang="zh">湖南经视</display-name>
@@ -3102,6 +3106,8 @@
   <channel id="济宁生活"><display-name lang="zh">济宁生活</display-name><display-name lang="zh">济宁生活</display-name><display-name lang="zh">济宁生活频道</display-name>
   </channel>
   <channel id="NOWSPORTS英超1台"><display-name lang="zh">NOWSPORTS英超1台</display-name>
+  </channel>
+  <channel id="哈尔滨娱乐"><display-name lang="zh">哈尔滨娱乐</display-name>
   </channel>
   <channel id="FTV综艺"><display-name lang="zh">FTV综艺</display-name>
   </channel>
@@ -41414,6 +41420,10 @@ Barcelona are the two-time defending champions, having won their 29th title last
   </programme>
   <programme start="20261101215000 +0800" stop="20261102000000 +0800" channel="[ESUS]BEINSSC"><title lang="zh">Fútbol Ligue 1</title><desc lang="zh">RC Strasbourg Alsace vs. AJ Auxerre</desc>
   </programme>
+  <programme start="20261101003000 +0800" stop="20261101004500 +0800" channel="[FR]BEINSPORTS2"><title lang="zh">Europe Arena</title>
+  </programme>
+  <programme start="20261101004500 +0800" stop="20261101013000 +0800" channel="[FR]BEINSPORTS2"><title lang="zh">Europe Arena</title>
+  </programme>
   <programme start="20261101000000 +0800" stop="20261101001500 +0800" channel="[FR]BEINSPORTS3"><title lang="zh">Ça se passe sur beIN SPORTS</title>
   </programme>
   <programme start="20261101001500 +0800" stop="20261101004500 +0800" channel="[FR]BEINSPORTS3"><title lang="zh">Salon VIP</title>
@@ -55206,6 +55216,52 @@ Barcelona are the two-time defending champions, having won their 29th title last
   <programme start="20261101230000 +0800" stop="20261101231500 +0800" channel="哈哈炫动"><title lang="zh">新闻同学</title><desc lang="zh">每天15分钟的《新闻同学》以多元化的形式展现丰富多彩的家事、国事、天下事。节目内容涵盖时政、国际、社会、家庭、科技、文化、艺术等，让少年队员们从小参与到社会活动中，建立与社会的联系。区别于传统新闻节目的语言风格与报道角度，《新闻同学》将以孩子的视角观察世界，用平等的姿态、平和的语气和孩子们感受世界，探讨孩子们关注的话题。除了新闻必要的影响力和及时性外，节目组更注重内容上的接近性、趣味性、知识性、画面美感和人文关怀等元素，希望通过这档用心制作的节目，提高孩子们独立思考的能力，拓宽孩子们的视野。</desc>
   </programme>
   <programme start="20261101231500 +0800" stop="20261102001500 +0800" channel="哈哈炫动"><title lang="zh">动画片剧场</title><desc lang="zh">为观众朋友奉上国内外优秀动画片作品。</desc>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101063000 +0800" channel="哈尔滨娱乐"><title lang="zh">乐游哈尔滨</title>
+  </programme>
+  <programme start="20261101063000 +0800" stop="20261101070000 +0800" channel="哈尔滨娱乐"><title lang="zh">娱乐开讲</title>
+  </programme>
+  <programme start="20261101070000 +0800" stop="20261101073000 +0800" channel="哈尔滨娱乐"><title lang="zh">食美全橙</title>
+  </programme>
+  <programme start="20261101073000 +0800" stop="20261101090000 +0800" channel="哈尔滨娱乐"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101090000 +0800" stop="20261101093000 +0800" channel="哈尔滨娱乐"><title lang="zh">橙意购</title>
+  </programme>
+  <programme start="20261101093000 +0800" stop="20261101112500 +0800" channel="哈尔滨娱乐"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101112500 +0800" stop="20261101120000 +0800" channel="哈尔滨娱乐"><title lang="zh">橙意购</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101123000 +0800" channel="哈尔滨娱乐"><title lang="zh">食美全橙</title>
+  </programme>
+  <programme start="20261101123000 +0800" stop="20261101125500 +0800" channel="哈尔滨娱乐"><title lang="zh">娱乐开讲</title>
+  </programme>
+  <programme start="20261101125500 +0800" stop="20261101133000 +0800" channel="哈尔滨娱乐"><title lang="zh">乐游哈尔滨</title>
+  </programme>
+  <programme start="20261101133000 +0800" stop="20261101150000 +0800" channel="哈尔滨娱乐"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101150000 +0800" stop="20261101153000 +0800" channel="哈尔滨娱乐"><title lang="zh">橙意购</title>
+  </programme>
+  <programme start="20261101153000 +0800" stop="20261101170000 +0800" channel="哈尔滨娱乐"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101170000 +0800" stop="20261101173000 +0800" channel="哈尔滨娱乐"><title lang="zh">食美全橙</title>
+  </programme>
+  <programme start="20261101173000 +0800" stop="20261101180000 +0800" channel="哈尔滨娱乐"><title lang="zh">乐游哈尔滨</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101183000 +0800" channel="哈尔滨娱乐"><title lang="zh">橙意购</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101185500 +0800" channel="哈尔滨娱乐"><title lang="zh">娱乐开讲</title>
+  </programme>
+  <programme start="20261101185500 +0800" stop="20261101185800 +0800" channel="哈尔滨娱乐"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261101185800 +0800" stop="20261101193000 +0800" channel="哈尔滨娱乐"><title lang="zh">食美全橙</title>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101195700 +0800" channel="哈尔滨娱乐"><title lang="zh">乐游哈尔滨</title>
+  </programme>
+  <programme start="20261101195700 +0800" stop="20261101200000 +0800" channel="哈尔滨娱乐"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261101200000 +0800" stop="20261101222500 +0800" channel="哈尔滨娱乐"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101235900 +0800" channel="哈尔滨娱乐"><title lang="zh">娱乐开讲</title>
   </programme>
   <programme start="20261101000001 +0800" stop="20261101014000 +0800" channel="哈尔滨影视"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
@@ -86330,6 +86386,62 @@ close to the</desc>
   <programme start="20261101233100 +0800" stop="20261101235500 +0800" channel="苏州生活"><title lang="zh">苏州财经报道</title>
   </programme>
   <programme start="20261101235500 +0800" stop="20261101235900 +0800" channel="苏州生活"><title lang="zh">谈天说地</title>
+  </programme>
+  <programme start="20261101000000 +0800" stop="20261101001500 +0800" channel="苏州经济"><title lang="zh">精彩节目</title><desc lang="zh">精彩节目是西安都市频道推出的精彩节目展播时段，集中呈现频道各类优质节目的精华内容，涵盖新闻、专题、综艺、文化等多种类型，为观众提供丰富多元的视听选择，传承养生文化。</desc>
+  </programme>
+  <programme start="20261101001500 +0800" stop="20261101010500 +0800" channel="苏州经济"><title lang="zh">都市养生佳</title>
+  </programme>
+  <programme start="20261101010500 +0800" stop="20261101044900 +0800" channel="苏州经济"><title lang="zh">剧场</title><desc lang="zh">剧场是南京文旅纪录频道推出的电视剧剧场时段，精选优秀电视剧和纪录剧集集中播出，为观众呈现跌宕起伏的故事情节和丰富多样的人物命运，是市民茶余饭后欣赏精彩剧集、放松身心的专属时段。</desc>
+  </programme>
+  <programme start="20261101044900 +0800" stop="20261101060000 +0800" channel="苏州经济"><title lang="zh">测试卡</title><desc lang="zh">测试卡是深圳移动频道的技术测试垫片，于检修时段循环播放标准测试图，用于设备调试和信号监测。</desc>
+  </programme>
+  <programme start="20261101060000 +0800" stop="20261101061200 +0800" channel="苏州经济"><title lang="zh">第一现场</title><desc lang="zh">第一现场，直击真相！《第一现场》是一档全新的现场直播类型的新闻节目：突发现场，现场直播；热点事件，现场直击；民生民情，现场解读，力求“快、短、新、奇”。节目中，不仅有直播连线，还有全省、全国各地的精彩现场视频，再加上出镜记者讲述新闻、演播室巧妙、丰富的大屏展示，使得节目更加丰富和多样，获得收视、口碑双丰收！</desc>
+  </programme>
+  <programme start="20261101061200 +0800" stop="20261101071500 +0800" channel="苏州经济"><title lang="zh">寰宇地理</title><desc>金鹰纪实频道引进的美国国家地理频道纪录片栏目，前身为2000年引入中国的《神奇的地球》。节目涵盖科技探索、历史人文、自然生态等领域，设有《缤纷世界》《科技尖端》《风云盛宴》《狂野周末》等固定板块，周一至周日每日不同主题编排。</desc>
+  </programme>
+  <programme start="20261101071500 +0800" stop="20261101074600 +0800" channel="苏州经济"><title lang="zh">第一时间</title><desc>中央电视台财经频道早间新闻栏目，每日清晨播出。以“资讯唤醒一天”为理念，网罗昨夜今晨国内外财经要闻、科技动态、天气出行等综合信息，提供“新鲜、有温度”的新闻早餐。</desc>
+  </programme>
+  <programme start="20261101074600 +0800" stop="20261101082500 +0800" channel="苏州经济"><title lang="zh">李刚评话</title>
+  </programme>
+  <programme start="20261101082500 +0800" stop="20261101092500 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101092500 +0800" stop="20261101105800 +0800" channel="苏州经济"><title lang="zh">小鼓大戏</title>
+  </programme>
+  <programme start="20261101111500 +0800" stop="20261101120000 +0800" channel="苏州经济"><title lang="zh">施斌聊斋</title>
+  </programme>
+  <programme start="20261101120000 +0800" stop="20261101130500 +0800" channel="苏州经济"><title lang="zh">社会传真</title><desc>《社会传真》是一档以社会新闻为主题的节目，本集聚焦一线调研。通过深入基层、实地采访，向观众报道社会热点问题和民生故事，传递真实的社会声音和民生关切，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20261101130500 +0800" stop="20261101131200 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101131200 +0800" stop="20261101142300 +0800" channel="苏州经济"><title lang="zh">金牌律师</title><desc lang="zh">金牌律师是一档法治资讯类电视节目，聚焦法律热点案件与律师实务领域，通过典型案例深入解读法律条文与诉讼流程，为观众提供专业法律知识普及与维权指引，增强公民法治意识。</desc>
+  </programme>
+  <programme start="20261101142300 +0800" stop="20261101151900 +0800" channel="苏州经济"><title lang="zh">金牌律师</title><desc lang="zh">金牌律师是一档法治资讯类电视节目，聚焦法律热点案件与律师实务领域，通过典型案例深入解读法律条文与诉讼流程，为观众提供专业法律知识普及与维权指引，增强公民法治意识。</desc>
+  </programme>
+  <programme start="20261101151900 +0800" stop="20261101162200 +0800" channel="苏州经济"><title lang="zh">葛洪养生苑</title><desc lang="zh">秉承传统医学理论，栏目按照二十四节气来安排，方便您随时掌握及时即时养生知识。</desc>
+  </programme>
+  <programme start="20261101162200 +0800" stop="20261101170200 +0800" channel="苏州经济"><title lang="zh">都市养生佳</title>
+  </programme>
+  <programme start="20261101170200 +0800" stop="20261101173000 +0800" channel="苏州经济"><title lang="zh">天下朋友圈</title>
+  </programme>
+  <programme start="20261101173000 +0800" stop="20261101174300 +0800" channel="苏州经济"><title lang="zh">都市路路通</title><desc lang="zh">都市路路通是一档交通生活服务栏目，由深圳都市频道推出，关注城市交通出行、路况信息与市民生活服务，为深圳市民提供实用的出行指南与生活资讯。</desc>
+  </programme>
+  <programme start="20261101174300 +0800" stop="20261101180000 +0800" channel="苏州经济"><title lang="zh">健康黄丝带</title>
+  </programme>
+  <programme start="20261101180000 +0800" stop="20261101183000 +0800" channel="苏州经济"><title lang="zh">李刚评话</title>
+  </programme>
+  <programme start="20261101183000 +0800" stop="20261101193000 +0800" channel="苏州经济"><title lang="zh">社会传真</title><desc>《社会传真》是一档以社会新闻为主题的节目，本集聚焦一线调研。通过深入基层、实地采访，向观众报道社会热点问题和民生故事，传递真实的社会声音和民生关切，为观众提供有价值的社会观察。</desc>
+  </programme>
+  <programme start="20261101193000 +0800" stop="20261101194300 +0800" channel="苏州经济"><title lang="zh">谈天说地</title>
+  </programme>
+  <programme start="20261101194300 +0800" stop="20261101220000 +0800" channel="苏州经济"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261101222500 +0800" stop="20261101230000 +0800" channel="苏州经济"><title lang="zh">鞠说好看</title>
+  </programme>
+  <programme start="20261101231600 +0800" stop="20261101233100 +0800" channel="苏州经济"><title lang="zh">食客准备</title>
+  </programme>
+  <programme start="20261101233100 +0800" stop="20261101235500 +0800" channel="苏州经济"><title lang="zh">苏州财经报道</title>
+  </programme>
+  <programme start="20261101235500 +0800" stop="20261101235900 +0800" channel="苏州经济"><title lang="zh">谈天说地</title>
   </programme>
   <programme start="20261101000000 +0800" stop="20261101000500 +0800" channel="苏州综合"><title lang="zh">精彩节目</title><desc lang="zh">精彩节目是西安都市频道推出的精彩节目展播时段，集中呈现频道各类优质节目的精华内容，涵盖新闻、专题、综艺、文化等多种类型，为观众提供丰富多元的视听选择，传承养生文化。</desc>
   </programme>

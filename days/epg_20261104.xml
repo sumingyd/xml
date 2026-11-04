@@ -217,6 +217,8 @@
   </channel>
   <channel id="十堰经济旅游"><display-name lang="zh">十堰经济旅游</display-name>
   </channel>
+  <channel id="[MENA]BEINSPORTSFR2"><display-name lang="zh">[MENA]BEINSPORTSFR2</display-name>
+  </channel>
   <channel id="THANGATHIRAI"><display-name lang="zh">THANGATHIRAI</display-name>
   </channel>
   <channel id="半岛国际新闻"><display-name lang="zh">半岛国际新闻</display-name>
@@ -4621,6 +4623,8 @@
   </channel>
   <channel id="GLOBALTORONTO(97)"><display-name lang="zh">GLOBALTORONTO(97)</display-name>
   </channel>
+  <channel id="青海综合"><display-name lang="zh">青海综合</display-name><display-name lang="zh">QHTV</display-name><display-name lang="zh">青海卫视高清</display-name><display-name lang="zh">青海台</display-name><display-name lang="zh">青海卫视</display-name>
+  </channel>
   <channel id="CTVTORONTO(1074)"><display-name lang="zh">CTVTORONTO(1074)</display-name>
   </channel>
   <channel id="NOOVO(1075)"><display-name lang="zh">NOOVO(1075)</display-name>
@@ -4704,6 +4708,8 @@
   <channel id="上海都市"><display-name lang="zh">上海都市</display-name>
   </channel>
   <channel id="云浮综合"><display-name lang="zh">云浮综合</display-name>
+  </channel>
+  <channel id="[ARMENA]BEINSPORTSFR2"><display-name lang="zh">[ARMENA]BEINSPORTSFR2</display-name>
   </channel>
   <channel id="GLOBALVANCOUVER(32)"><display-name lang="zh">GLOBALVANCOUVER(32)</display-name>
   </channel>
@@ -39436,6 +39442,16 @@ surprise when Kelly&amp;#x27;s talents land her the lead as &amp;quot;The Girl&a
   <programme start="20261104205500 +0800" stop="20261104225500 +0800" channel="[ARMENA]BEINSPORTS1"><title lang="zh">2026/27 歐洲青年聯賽盃 第15集 -朗斯 對 科木 (比賽日4)[直播]</title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
   </programme>
   <programme start="20261104225500 +0800" stop="20261105010000 +0800" channel="[ARMENA]BEINSPORTS1"><title lang="zh">2026/27 歐洲青年聯賽盃 第16集 -多蒙特 對 貝迪斯 (比賽日4)[直播]</title><desc>《大地讲堂》栏目以“助力乡村振兴，从读懂中国三农开始”为宗旨，打造中国最高端、最权威、最具价值的三农问题讲堂。来自全社会热爱并深耕于“三农”问题研究的政策、社会、历史、科技、文化等各领域权威专家、学者、实践者，带着温度与深度，以着眼历史、观察现实、畅想未来、立足全球的视野和维度，解读政策，梳理…</desc>
+  </programme>
+  <programme start="20261104010000 +0800" stop="20261104020000 +0800" channel="[ARMENA]BEINSPORTSFR2"><title lang="zh">Achat - Magazine 2026</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261104010000 +0800" stop="20261104020000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Achat - Magazine 2026</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261104100000 +0800" stop="20261104110000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Going Big V2 - Bein Story - Magazine 2026-2027</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261104150000 +0800" stop="20261104153000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Made in England -</title><desc lang="zh">Sport.</desc>
+  </programme>
+  <programme start="20261104220000 +0800" stop="20261104223000 +0800" channel="[MENA]BEINSPORTSFR2"><title lang="zh">Made in England -</title><desc lang="zh">Sport.</desc>
   </programme>
   <programme start="20261104010000 +0800" stop="20261104014000 +0800" channel="beIN SPORTS 1"><title lang="zh">The UCL Preview Show 2026/27: Tue, MD4 (Live)</title><desc lang="zh">The UCL Preview Show 2026/27</desc>
   </programme>
@@ -91821,6 +91837,84 @@ The Malaysian jungle is an ecosystem of great biodiversity. In the shelter of th
   <programme start="20261104231300 +0800" stop="20261104235800 +0800" channel="青海经视"><title lang="zh">经视法案</title><desc lang="zh">一档大型电视法制栏目,栏目以其贴近民生的精准定位,新颖独特的新闻视角,客观详实的节目内容。</desc>
   </programme>
   <programme start="20261104235800 +0800" stop="20261105004800 +0800" channel="青海经视"><title lang="zh">午夜剧场</title><desc lang="zh">各个卫视凌晨播出电视剧的剧场。</desc>
+  </programme>
+  <programme start="20261104020000 +0800" stop="20261104070000 +0800" channel="青海综合"><title lang="zh">停机检修</title><desc lang="zh">频道设备维护时段，暂无节目播出。</desc>
+  </programme>
+  <programme start="20261104070000 +0800" stop="20261104070100 +0800" channel="青海综合"><title lang="zh">中华人民共和国国歌</title><desc lang="zh">中华人民共和国国歌是三沙卫视每日开台与重要节目转场时奏放的国歌音视频版，用于播出仪式与国家标识呈现。</desc>
+  </programme>
+  <programme start="20261104070100 +0800" stop="20261104072600 +0800" channel="青海综合"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
+  </programme>
+  <programme start="20261104072600 +0800" stop="20261104073100 +0800" channel="青海综合"><title lang="zh">纪录时间</title><desc lang="zh">特别节目《纪录时间》，用平实的视角，真实的镜头记录百姓平凡的生活，文化名家的成长历程，回顾历史，真实再现，以细腻的镜头语言把握文化的脉搏。</desc>
+  </programme>
+  <programme start="20261104073100 +0800" stop="20261104073600 +0800" channel="青海综合"><title lang="zh">天气预报</title><desc lang="zh">青岛电视台QTV-3频道播出的天气预报节目，提供青岛地区的天气情况、温度变化、降水概率等信息，为观众的日常生活和出行提供参考。</desc>
+  </programme>
+  <programme start="20261104073600 +0800" stop="20261104075600 +0800" channel="青海综合"><title lang="zh">江河浪花</title><desc lang="zh">江河浪花是一档自然人文类专题栏目，以江河为主题展现沿线风土人情与自然风光。节目跟随河流走向，记录两岸百姓的生活故事与地域文化，呈现水与人的深厚情感。画面优美，叙事朴实，带领观众领略江河滋养下的多彩人文画卷。</desc>
+  </programme>
+  <programme start="20261104075600 +0800" stop="20261104080000 +0800" channel="青海综合"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
+  </programme>
+  <programme start="20261104080000 +0800" stop="20261104083000 +0800" channel="青海综合"><title lang="zh">动画片</title><desc lang="zh">动画片是西安都市频道推出的动画展播时段，精选国内外优秀动画作品集中播出，为少年儿童提供丰富多彩的视听内容，是孩子们课余时间观看动画、放松身心的专属节目时段。</desc>
+  </programme>
+  <programme start="20261104083000 +0800" stop="20261104083300 +0800" channel="青海综合"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
+  </programme>
+  <programme start="20261104083300 +0800" stop="20261104093300 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104093300 +0800" stop="20261104102100 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104102100 +0800" stop="20261104111000 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104111000 +0800" stop="20261104113000 +0800" channel="青海综合"><title lang="zh">金色童年</title><desc lang="zh">金色童年是一档面向少年儿童的综艺栏目，关注儿童成长与才艺展示。节目设有故事讲述、歌舞表演、互动游戏等环节，为孩子们提供展示自我的舞台。内容健康向上，氛围温馨活泼，陪伴小观众度过快乐的童年时光，深受家长与孩子喜爱。</desc>
+  </programme>
+  <programme start="20261104113000 +0800" stop="20261104115000 +0800" channel="青海综合"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
+  </programme>
+  <programme start="20261104115000 +0800" stop="20261104123000 +0800" channel="青海综合"><title lang="zh">天气预报</title><desc lang="zh">青岛电视台QTV-3频道播出的天气预报节目，提供青岛地区的天气情况、温度变化、降水概率等信息，为观众的日常生活和出行提供参考。</desc>
+  </programme>
+  <programme start="20261104123000 +0800" stop="20261104125500 +0800" channel="青海综合"><title lang="zh">午间360度</title><desc lang="zh">《午间360度》是一档青海卫视播出的新闻类节目。</desc>
+  </programme>
+  <programme start="20261104125500 +0800" stop="20261104134500 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104134500 +0800" stop="20261104144000 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104144000 +0800" stop="20261104152900 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104152900 +0800" stop="20261104162900 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104162900 +0800" stop="20261104170100 +0800" channel="青海综合"><title lang="zh">薛仁贵传奇</title><desc lang="zh">【背景介绍】 该剧演员阵容强盛，既汇集了影视圈的实力派、偶像派大腕，又兼备了娱乐圈的新老面孔，其阵容可谓壮观。全剧有名有姓的角色150多个。片中的“智取凤凰山”“勇破摩天岭”“巧取白玉关”等数次较大的战争场面，都拍得恢宏壮阔，而“巧摆龙门阵，决战铁世文”更是让人拍案叫绝，情节曲折，引人入胜。剧组更不惜血本动用了上万名群众演员，将当年“将军三箭定天山，壮士长歌入汉关”的浩瀚场面展现得淋漓尽致。 【故事情节】 传奇名将薛仁贵一生性格坚忍，侠骨柔肠，文韬武略，浑身武艺却差点报国无门，三次披军，才得入火头军，但从军之旅并不平坦，他因被皇帝视为“应梦贤臣”而招人妒，先锋大将张士贵处处刁难迫害他，他凭着不屈不挠的精神，率火头军 “勇破摩天岭”“三箭定天山”“巧取白玉关”，终于平定了渤辽国，被御赐为“一字并肩王”时，却被奸贼陷害入天牢…</desc>
+  </programme>
+  <programme start="20261104170100 +0800" stop="20261104172600 +0800" channel="青海综合"><title lang="zh">动画片</title><desc lang="zh">动画片是西安都市频道推出的动画展播时段，精选国内外优秀动画作品集中播出，为少年儿童提供丰富多彩的视听内容，是孩子们课余时间观看动画、放松身心的专属节目时段。</desc>
+  </programme>
+  <programme start="20261104172600 +0800" stop="20261104175700 +0800" channel="青海综合"><title lang="zh">名家讲坛</title><desc lang="zh">名家讲坛是一档学术文化类讲座栏目，邀请各领域知名专家学者就历史文化、哲学文学、科技前沿等话题进行演讲。节目以通俗易懂的方式传播知识，拓宽观众视野，激发思考与探索兴趣。内容深入浅出，兼具学术性与大众性，是终身学习的优质平台。</desc>
+  </programme>
+  <programme start="20261104175700 +0800" stop="20261104180000 +0800" channel="青海综合"><title lang="zh">电视剧场</title><desc lang="zh">《电视剧场》是潍坊经济生活频道的电视剧展播栏目，播出各类优秀电视剧，为观众带来精彩的剧情享受。</desc>
+  </programme>
+  <programme start="20261104180000 +0800" stop="20261104181000 +0800" channel="青海综合"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
+  </programme>
+  <programme start="20261104181000 +0800" stop="20261104182000 +0800" channel="青海综合"><title lang="zh">今日青海</title><desc lang="zh">《今日青海》栏目以经济事件、人物、新闻为载体，立足青海省，放眼未来，采用纪实和深度报道相结合的方式，以故事的真实性、可视性；经济政策的贴近性；经济信息的丰富性、实用性等特点吸引观众。</desc>
+  </programme>
+  <programme start="20261104182000 +0800" stop="20261104183000 +0800" channel="青海综合"><title lang="zh">青海省天气预报</title><desc lang="zh">《天气预报》为您提供天气气象信息,及时发布天气预报、灾害预警、气象云图、台风、暴雨雪等气象信息,为人民的生产生活提供全面精确的气象服务。</desc>
+  </programme>
+  <programme start="20261104183000 +0800" stop="20261104185500 +0800" channel="青海综合"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
+  </programme>
+  <programme start="20261104185500 +0800" stop="20261104190000 +0800" channel="青海综合"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
+  </programme>
+  <programme start="20261104193000 +0800" stop="20261104195500 +0800" channel="青海综合"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
+  </programme>
+  <programme start="20261104195500 +0800" stop="20261104195800 +0800" channel="青海综合"><title lang="zh">天气预报</title><desc lang="zh">青岛电视台QTV-3频道播出的天气预报节目，提供青岛地区的天气情况、温度变化、降水概率等信息，为观众的日常生活和出行提供参考。</desc>
+  </programme>
+  <programme start="20261104195800 +0800" stop="20261104203000 +0800" channel="青海综合"><title lang="zh">生活视线</title><desc lang="zh">生活视线是一档生活服务类栏目，聚焦百姓日常生活的方方面面。节目涵盖健康养生、家居收纳、美食烹饪、消费维权等实用话题，提供贴近生活的信息与建议。内容接地气，服务性强，帮助观众解决生活中的实际问题，提升生活品质。</desc>
+  </programme>
+  <programme start="20261104203000 +0800" stop="20261104205000 +0800" channel="青海综合"><title lang="zh">吉祥金桥</title><desc lang="zh">吉祥金桥是一档民族文化类栏目，展现少数民族地区的生活风貌与文化传承。节目走进高原牧区与多民族聚居地，记录各民族独特的节庆习俗、手工艺与民间艺术，呈现多元文化交融的生动图景。内容真实质朴，传递民族团结与和谐共生的美好愿景。</desc>
+  </programme>
+  <programme start="20261104205000 +0800" stop="20261104213000 +0800" channel="青海综合"><title lang="zh">电视剧场</title><desc lang="zh">《电视剧场》是潍坊经济生活频道的电视剧展播栏目，播出各类优秀电视剧，为观众带来精彩的剧情享受。</desc>
+  </programme>
+  <programme start="20261104213000 +0800" stop="20261104220000 +0800" channel="青海综合"><title lang="zh">纪录片</title><desc lang="zh">关注于各行各业的新兴企业的成长史，将企业鲜为人知的奋斗历程、资源优势、文化理念，以生动易懂的方式娓娓道来。以真实、客观、感人、详尽的纪录片形式呈现在大众面前。</desc>
+  </programme>
+  <programme start="20261104220000 +0800" stop="20261104222000 +0800" channel="青海综合"><title lang="zh">晚间播报</title><desc lang="zh">《晚间播报》是一档新闻类节目。</desc>
+  </programme>
+  <programme start="20261104222000 +0800" stop="20261104223000 +0800" channel="青海综合"><title lang="zh">今日青海</title><desc lang="zh">《今日青海》栏目以经济事件、人物、新闻为载体，立足青海省，放眼未来，采用纪实和深度报道相结合的方式，以故事的真实性、可视性；经济政策的贴近性；经济信息的丰富性、实用性等特点吸引观众。</desc>
+  </programme>
+  <programme start="20261104223000 +0800" stop="20261104235300 +0800" channel="青海综合"><title lang="zh">重播中央台新闻联播</title>
+  </programme>
+  <programme start="20261104235300 +0800" stop="20261104235959 +0800" channel="青海综合"><title lang="zh">青海新闻联播</title><desc lang="zh">青海电视台最主要的一档综合性电视新闻节目。内容涉及青海省政治、经济、文化及社会生活方方面面，是宣传党的各项方针政策，反映青海各项事业建设成就和各族各界群众意愿，实现上情下达的重要窗口。</desc>
   </programme>
   <programme start="20261104065900 +0800" stop="20261104073500 +0800" channel="青海都市"><title lang="zh">第一首映</title><desc lang="zh">大咖、大片、大场面、全国首档周播影视娱乐互动栏目《第一首映》2013全面开启，独特视角、深度解析国内外优秀首映电影及电影人的独特魅力。覆盖全国的庞大地面频道播出平台为影片首映宣传强势助力，多样的拍摄方式扑捉最及时最鲜活的影片动态。专业的栏目策划制作团队为影片宣传拍摄保驾护航，“专注首映电影，关注第一首映”！</desc>
   </programme>

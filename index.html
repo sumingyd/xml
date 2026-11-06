@@ -118,6 +118,7 @@
         .stat-value.green { color: var(--green); }
         .stat-value.red { color: var(--red); }
         .stat-value.qq { color: #a5b4fc; font-size: 1.3rem; }
+        .stat-value.orange { color: var(--orange); }
 
         .filter-bar {
             display: flex; gap: 6px; flex-wrap: wrap;
@@ -146,13 +147,45 @@
         .cat-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
         .gap-btn.active { background: var(--surface-2); border-color: var(--accent); color: #a5b4fc; }
 
+        .search-bar {
+            display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+            margin-bottom: 14px;
+        }
+        .search-bar input {
+            flex: 1; min-width: 200px;
+            padding: 10px 14px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text);
+            font-size: 0.85rem;
+            font-family: inherit;
+        }
+        .search-bar input::placeholder { color: var(--text-dim); }
+        .search-bar input:focus { outline: none; border-color: var(--accent); }
+        .search-count { font-size: 0.8rem; color: var(--text-dim); white-space: nowrap; }
+        .mini-btn {
+            padding: 9px 16px;
+            border-radius: 10px;
+            font-size: 0.8rem; font-weight: 500;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text-dim);
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .mini-btn:hover { border-color: var(--accent); color: var(--text); }
+
         .table-wrap {
             background: var(--surface);
             border: 1px solid var(--border);
             border-radius: var(--radius);
-            overflow: hidden;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
         }
-        table { width: 100%; border-collapse: collapse; }
+        table { width: 100%; border-collapse: collapse; min-width: 900px; }
         thead th {
             background: var(--surface-2);
             font-size: 0.75rem;
@@ -192,9 +225,46 @@
         }
         .cat-count { font-weight: 400; color: var(--text-dim); margin-left: 8px; }
 
+        .name-group-header td {
+            padding: 8px 16px;
+            font-size: 0.8rem;
+            color: #c7d2fe;
+            background: rgba(99,102,241,0.05);
+            border-bottom: 1px solid var(--border);
+        }
+        .group-toggle {
+            background: none; border: none; padding: 0 4px 0 0;
+            color: #a5b4fc; cursor: pointer;
+            font-size: 0.8rem; font-family: inherit;
+        }
+        .group-toggle:hover { color: #fff; }
+        .ng-count { color: var(--text-dim); margin-left: 8px; font-size: 0.75rem; }
+
+        .pager {
+            display: flex; justify-content: center; align-items: center;
+            gap: 6px; flex-wrap: wrap;
+            margin-top: 16px;
+        }
+        .page-btn {
+            min-width: 34px;
+            padding: 6px 10px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: var(--text-dim);
+            font-size: 0.78rem;
+            font-family: inherit;
+            cursor: pointer;
+        }
+        .page-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--text); }
+        .page-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+        .page-btn:disabled { opacity: 0.4; cursor: default; }
+        .page-info { font-size: 0.78rem; color: var(--text-dim); margin-left: 6px; }
+
         .badge { display: inline-flex; align-items: center; padding: 3px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 600; }
         .badge-ok { background: var(--green-dim); color: var(--green); }
         .badge-warn { background: var(--red-dim); color: var(--red); }
+        .badge-none { background: rgba(100,116,139,0.16); color: #94a3b8; }
 
         .coverage-wrap { display: flex; align-items: center; gap: 10px; }
         .coverage-track { flex: 1; height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; min-width: 60px; }
@@ -282,6 +352,7 @@
             .stats { grid-template-columns: repeat(2, 1fr); gap: 10px; }
             thead th, tbody td { padding: 8px 10px; font-size: 0.78rem; }
             .coverage-track { min-width: 40px; }
+            table { min-width: 760px; }
             .modal { max-width: 100%; }
             .modal-head, .modal-meta, .modal-body { padding-left: 20px; padding-right: 20px; }
         }
@@ -310,6 +381,12 @@
 
         <div class="stats" id="stats"></div>
 
+        <div class="search-bar">
+            <input id="searchInput" type="search" placeholder="搜索频道名 / ID / 别名…" autocomplete="off">
+            <span class="search-count" id="searchCount"></span>
+            <button class="mini-btn" id="collapseAllBtn">全部折叠</button>
+        </div>
+
         <div class="filter-bar" id="filterBar"></div>
 
         <div class="table-wrap">
@@ -329,18 +406,31 @@
             </table>
         </div>
 
+        <div class="pager" id="pager"></div>
+
         <div class="overlay" id="overlay" style="display:none">
             <div class="modal" id="modal"></div>
         </div>
     </div>
 
     <script>
-        var CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他'];
+        // epg_data.json 会下发 categories；这里的默认值只在 JSON 缺字段时兜底
+        var DEFAULT_CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '专区', '付费', '国际', '港澳台', '少数民族语', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他'];
+
+        var PAGE_SIZE = 200;
+        var RAW_FALLBACK = 'https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json';
 
         var state = {
             channels: [],
+            categoryOrder: DEFAULT_CATEGORY_ORDER.slice(),
             activeCategory: 'all',
-            gapFilter: 'all'
+            gapFilter: 'all',
+            search: '',
+            page: 1,
+            collapsed: {},
+            rawUpdateTime: null,
+            updateTime: '',
+            dataEnd: ''
         };
 
         function esc(s) {
@@ -362,30 +452,130 @@
             return 'pct-red';
         }
 
-        function groupedChannels() {
-            var groups = {};
-            CATEGORY_ORDER.forEach(function(c) { groups[c] = []; });
+        // 去掉尾部 (数字)：同一频道的多份副本归入同一视觉分组；频道本身不合并、不改名
+        function normName(name) {
+            return String(name == null ? '' : name).replace(/\(\d+\)\s*$/, '').trim();
+        }
+
+        // 今日三态：none=无节目，ok=有节目且无断层，gap=有节目但有断层
+        function progState(ch) {
+            var n = ch.todaySchedule ? ch.todaySchedule.length : 0;
+            if (!n) return 'none';
+            return ch.hasGap ? 'gap' : 'ok';
+        }
+
+        function matchChannel(ch, q) {
+            if (String(ch.name || '').toLowerCase().indexOf(q) !== -1) return true;
+            if (String(ch.id || '').toLowerCase().indexOf(q) !== -1) return true;
+            var aliases = ch.aliases || [];
+            for (var i = 0; i < aliases.length; i++) {
+                if (String(aliases[i] || '').toLowerCase().indexOf(q) !== -1) return true;
+            }
+            return false;
+        }
+
+        // JSON 下发的分类顺序优先；未列出的分类追加到末尾
+        function allCategories() {
+            var order = [], seen = {};
+            state.categoryOrder.forEach(function(c) {
+                if (c && !seen[c]) { seen[c] = 1; order.push(c); }
+            });
+            state.channels.forEach(function(ch) {
+                var c = ch.category || '其他';
+                if (!seen[c]) { seen[c] = 1; order.push(c); }
+            });
+            return order;
+        }
+
+        function presentCategories() {
+            var seen = {};
+            state.channels.forEach(function(ch) { seen[ch.category || '其他'] = true; });
+            return allCategories().filter(function(c) { return seen[c]; });
+        }
+
+        // 过滤（分类 + 三态 + 搜索）后，按 分类 → 归一化名称 分组
+        function buildModel() {
+            var q = state.search.trim().toLowerCase();
+            var gf = state.gapFilter;
+            var buckets = {};
             state.channels.forEach(function(ch, i) {
                 ch.globalIndex = i + 1;
+                var st = progState(ch);
+                if (gf === 'none' && st !== 'none') return;
+                if (gf === 'ok' && st !== 'ok') return;
+                if (gf === 'gap' && st !== 'gap') return;
+                if (q && !matchChannel(ch, q)) return;
                 var cat = ch.category || '其他';
-                if (!groups[cat]) groups[cat] = [];
-                groups[cat].push(ch);
+                if (state.activeCategory !== 'all' && cat !== state.activeCategory) return;
+                (buckets[cat] || (buckets[cat] = [])).push(ch);
             });
-            return CATEGORY_ORDER.filter(function(c) { return groups[c].length > 0; })
-                .map(function(c) { return { category: c, channels: groups[c] }; });
+            var model = [];
+            allCategories().forEach(function(cat) {
+                var chs = buckets[cat];
+                if (!chs || !chs.length) return;
+                var byName = {}, order = [];
+                chs.forEach(function(ch) {
+                    var key = normName(ch.name) || ch.name || ch.id;
+                    if (!byName[key]) { byName[key] = []; order.push(key); }
+                    byName[key].push(ch);
+                });
+                model.push({
+                    category: cat,
+                    blocks: order.map(function(key) {
+                        return { key: cat + '||' + key, name: key, channels: byName[key] };
+                    })
+                });
+            });
+            return model;
+        }
+
+        function visibleCount(block) {
+            return state.collapsed[block.key] ? 0 : block.channels.length;
+        }
+
+        // 每页约 200 个频道；分组不拆到两页，跨页时重新输出分类表头
+        function buildPages(model) {
+            var pages = [], units = [], count = 0, cat = null;
+            function flush() {
+                if (units.length) pages.push({ units: units, count: count });
+                units = [];
+                count = 0;
+                cat = null;
+            }
+            model.forEach(function(cg) {
+                var catCount = cg.blocks.reduce(function(s, b) { return s + b.channels.length; }, 0);
+                cg.blocks.forEach(function(b) {
+                    var n = visibleCount(b);
+                    if (units.length && count + n > PAGE_SIZE) flush();
+                    if (cat !== cg.category) {
+                        units.push({ type: 'cat', category: cg.category, count: catCount });
+                        cat = cg.category;
+                    }
+                    units.push({ type: 'block', block: b });
+                    count += n;
+                });
+            });
+            flush();
+            return pages;
         }
 
         function renderStats() {
             var chs = state.channels;
-            var hasProg = chs.filter(function(c) { return c.todaySchedule && c.todaySchedule.length > 0; }).length;
-            var noGap = chs.filter(function(c) { return !c.hasGap; }).length;
+            var none = 0, ok = 0, gap = 0;
+            chs.forEach(function(c) {
+                var st = progState(c);
+                if (st === 'none') none++;
+                else if (st === 'ok') ok++;
+                else gap++;
+            });
             document.getElementById('stats').innerHTML =
                 statCard('频道总数', esc(chs.length), 'accent') +
-                statCard('今日有节目', esc(hasProg), 'green') +
-                statCard('今日无节目', esc(chs.length - hasProg), '') +
-                statCard('今日无断层', esc(noGap), 'green') +
-                statCard('今日有断层', esc(chs.length - noGap), 'red') +
+                statCard('今日有节目', esc(ok + gap), 'green') +
+                statCard('今日无节目', esc(none), 'orange') +
+                statCard('今日无断层', esc(ok), 'green') +
+                statCard('今日有断层', esc(gap), 'red') +
                 statCard('QQ群', '757694351', 'qq') +
+                statCard('数据截止', esc(state.dataEnd || '—'), '', true) +
                 statCard('更新时间', esc(state.updateTime), '', true);
         }
         function statCard(label, value, cls, small) {
@@ -394,63 +584,111 @@
         }
 
         function renderFilterBar() {
-            var cats = groupedChannels().map(function(g) { return g.category; });
+            var cats = presentCategories();
             var html = '<button class="cat-btn' + (state.activeCategory === 'all' ? ' active' : '') + '" data-cat="all">全部</button>';
             cats.forEach(function(cat) {
                 html += '<button class="cat-btn' + (state.activeCategory === cat ? ' active' : '') + '" data-cat="' + esc(cat) + '">' + esc(cat) + '</button>';
             });
             html += '<div class="sep"></div>';
-            [['all', '全部频道'], ['ok', '无断层'], ['gap', '有断层']].forEach(function(p) {
+            [['all', '全部频道'], ['none', '无节目'], ['ok', '无断层'], ['gap', '有断层']].forEach(function(p) {
                 html += '<button class="gap-btn' + (state.gapFilter === p[0] ? ' active' : '') + '" data-gap="' + p[0] + '">' + p[1] + '</button>';
             });
             document.getElementById('filterBar').innerHTML = html;
         }
 
-        function filteredGroups() {
-            var gf = state.gapFilter;
-            var groups = groupedChannels();
-            if (state.activeCategory !== 'all') {
-                groups = groups.filter(function(g) { return g.category === state.activeCategory; });
-            }
-            return groups.map(function(g) {
-                var chs = g.channels;
-                if (gf === 'ok') chs = chs.filter(function(c) { return !c.hasGap; });
-                else if (gf === 'gap') chs = chs.filter(function(c) { return c.hasGap; });
-                return { category: g.category, channels: chs };
-            }).filter(function(g) { return g.channels.length > 0; });
+        function renderSearchCount(matched) {
+            var total = state.channels.length;
+            var el = document.getElementById('searchCount');
+            if (!total) { el.textContent = ''; return; }
+            el.textContent = state.search.trim()
+                ? '匹配 ' + matched + ' / ' + total + ' 个频道'
+                : '共 ' + total + ' 个频道';
         }
 
-        function renderTable() {
-            var groups = filteredGroups();
-            var total = groups.reduce(function(s, g) { return s + g.channels.length; }, 0);
+        function updateCollapseBtn(model) {
+            var keys = [];
+            model.forEach(function(cg) {
+                cg.blocks.forEach(function(b) { if (b.channels.length > 1) keys.push(b.key); });
+            });
+            var btn = document.getElementById('collapseAllBtn');
+            btn.style.display = keys.length ? '' : 'none';
+            var allCollapsed = keys.length > 0 && keys.every(function(k) { return !!state.collapsed[k]; });
+            btn.textContent = allCollapsed ? '全部展开' : '全部折叠';
+        }
+
+        function blockHeaderRow(block) {
+            if (block.channels.length < 2) return '';
+            var folded = !!state.collapsed[block.key];
+            return '<tr class="name-group-header"><td colspan="7">' +
+                '<button class="group-toggle" data-key="' + esc(block.key) + '">' + (folded ? '▸' : '▾') + '</button>' +
+                '<span class="ng-name">' + esc(block.name) + '</span>' +
+                '<span class="ng-count">' + block.channels.length + ' 份</span>' +
+                '</td></tr>';
+        }
+
+        function channelRow(ch) {
+            var st = progState(ch);
+            var gapCell;
+            if (st === 'none') gapCell = '<span class="badge badge-none">无节目</span>';
+            else if (st === 'gap') gapCell = '<span class="badge badge-warn">' + esc(ch.gapDetails) + '</span>';
+            else gapCell = '<span class="badge badge-ok">无断层</span>';
+            return '<tr class="row-data" data-id="' + esc(ch.id) + '">' +
+                '<td class="td-index">' + ch.globalIndex + '</td>' +
+                '<td class="td-id">' + esc(ch.id) + '</td>' +
+                '<td class="td-name">' + esc(ch.name) + '<span class="td-hint">点击查看详情</span></td>' +
+                '<td class="td-center">' + esc(ch.lastProgramTime) + '</td>' +
+                '<td class="td-center">' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '</td>' +
+                '<td class="td-center">' + gapCell + '</td>' +
+                '<td><div class="coverage-wrap">' +
+                    '<div class="coverage-track"><div class="coverage-fill ' + fillClass(ch.descriptionCoverage) + '" style="width:' + ch.descriptionCoverage + '%"></div></div>' +
+                    '<span class="coverage-pct ' + pctClass(ch.descriptionCoverage) + '">' + ch.descriptionCoverage + '%</span>' +
+                '</div></td></tr>';
+        }
+
+        function renderTable(model) {
+            var pages = buildPages(model);
+            var totalPages = Math.max(1, pages.length);
+            if (state.page > totalPages) state.page = totalPages;
+            if (state.page < 1) state.page = 1;
             var tbody = document.getElementById('tableBody');
-            if (total === 0) {
-                tbody.innerHTML = '<tr><td colspan="7" class="empty-state">' + (state.channels.length ? '暂无匹配频道' : esc(state.updateTime)) + '</td></tr>';
+            if (!pages.length) {
+                tbody.innerHTML = '<tr><td colspan="7" class="empty-state">' +
+                    (state.channels.length ? '没有匹配的频道' : esc(state.updateTime || '加载中…')) +
+                    '</td></tr>';
+                renderPager(0, 0);
                 return;
             }
+            var page = pages[state.page - 1];
             var html = '';
-            groups.forEach(function(g) {
-                html += '<tr class="cat-group-header"><td colspan="7">' + esc(g.category) +
-                    '<span class="cat-count">' + g.channels.length + ' 频道</span></td></tr>';
-                g.channels.forEach(function(ch) {
-                    html += '<tr class="row-data" data-id="' + esc(ch.id) + '">' +
-                        '<td class="td-index">' + ch.globalIndex + '</td>' +
-                        '<td class="td-id">' + esc(ch.id) + '</td>' +
-                        '<td class="td-name">' + esc(ch.name) + '<span class="td-hint">点击查看详情</span></td>' +
-                        '<td class="td-center">' + esc(ch.lastProgramTime) + '</td>' +
-                        '<td class="td-center">' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '</td>' +
-                        '<td class="td-center">' +
-                            (ch.hasGap
-                                ? '<span class="badge badge-warn">' + esc(ch.gapDetails) + '</span>'
-                                : '<span class="badge badge-ok">无断层</span>') +
-                        '</td>' +
-                        '<td><div class="coverage-wrap">' +
-                            '<div class="coverage-track"><div class="coverage-fill ' + fillClass(ch.descriptionCoverage) + '" style="width:' + ch.descriptionCoverage + '%"></div></div>' +
-                            '<span class="coverage-pct ' + pctClass(ch.descriptionCoverage) + '">' + ch.descriptionCoverage + '%</span>' +
-                        '</div></td></tr>';
-                });
+            page.units.forEach(function(u) {
+                if (u.type === 'cat') {
+                    html += '<tr class="cat-group-header"><td colspan="7">' + esc(u.category) +
+                        '<span class="cat-count">' + u.count + ' 频道</span></td></tr>';
+                } else {
+                    var b = u.block;
+                    html += blockHeaderRow(b);
+                    if (!state.collapsed[b.key]) {
+                        b.channels.forEach(function(ch) { html += channelRow(ch); });
+                    }
+                }
             });
             tbody.innerHTML = html;
+            renderPager(state.page, totalPages);
+        }
+
+        function renderPager(page, totalPages) {
+            var el = document.getElementById('pager');
+            if (totalPages <= 1) { el.innerHTML = ''; return; }
+            var html = '<button class="page-btn" data-page="' + (page - 1) + '"' + (page <= 1 ? ' disabled' : '') + '>上一页</button>';
+            var start = Math.max(1, page - 2);
+            var end = Math.min(totalPages, start + 4);
+            start = Math.max(1, end - 4);
+            for (var i = start; i <= end; i++) {
+                html += '<button class="page-btn' + (i === page ? ' active' : '') + '" data-page="' + i + '">' + i + '</button>';
+            }
+            html += '<button class="page-btn" data-page="' + (page + 1) + '"' + (page >= totalPages ? ' disabled' : '') + '>下一页</button>';
+            html += '<span class="page-info">第 ' + page + ' / ' + totalPages + ' 页</span>';
+            el.innerHTML = html;
         }
 
         function renderModal(ch) {
@@ -461,9 +699,12 @@
                 '<div class="modal-meta">' +
                     '<div class="meta-item"><strong>最后节目</strong>' + esc(ch.lastProgramTime) + '</div>' +
                     '<div class="meta-item"><strong>描述覆盖</strong>' + ch.descriptionCoverage + '%</div>' +
-                    '<div class="meta-item"><strong>今日断层</strong>' +
-                        (ch.hasGap ? '<span style="color:var(--red)">' + esc(ch.gapDetails) + '</span>'
-                                   : '<span style="color:var(--green)">无</span>') + '</div>' +
+                    '<div class="meta-item"><strong>今日状态</strong>' + (function() {
+                        var st = progState(ch);
+                        if (st === 'none') return '<span style="color:var(--text-dim)">无节目</span>';
+                        if (st === 'gap') return '<span style="color:var(--red)">' + esc(ch.gapDetails) + '</span>';
+                        return '<span style="color:var(--green)">无断层</span>';
+                    })() + '</div>' +
                     '<div class="meta-item"><strong>今日节目</strong>' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '个</div>' +
                 '</div><div class="modal-body">';
             if (ch.aliases && ch.aliases.length) {
@@ -504,9 +745,16 @@
         }
 
         function refresh() {
+            var model = buildModel();
+            var matched = 0;
+            model.forEach(function(cg) {
+                cg.blocks.forEach(function(b) { matched += b.channels.length; });
+            });
             renderStats();
             renderFilterBar();
-            renderTable();
+            renderSearchCount(matched);
+            updateCollapseBtn(model);
+            renderTable(model);
         }
 
         document.getElementById('filterBar').addEventListener('click', function(e) {
@@ -514,16 +762,58 @@
             if (!btn) return;
             if (btn.dataset.cat !== undefined) state.activeCategory = btn.dataset.cat;
             if (btn.dataset.gap !== undefined) state.gapFilter = btn.dataset.gap;
-            renderFilterBar();
-            renderTable();
+            state.page = 1;
+            refresh();
+        });
+
+        var searchTimer = null;
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            var v = e.target.value;
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(function() {
+                state.search = v;
+                state.page = 1;
+                refresh();
+            }, 150);
+        });
+
+        // 全部折叠 / 全部展开（只影响当前可见的副本分组，不动数据）
+        document.getElementById('collapseAllBtn').addEventListener('click', function() {
+            var model = buildModel();
+            var keys = [];
+            model.forEach(function(cg) {
+                cg.blocks.forEach(function(b) { if (b.channels.length > 1) keys.push(b.key); });
+            });
+            var allCollapsed = keys.length > 0 && keys.every(function(k) { return !!state.collapsed[k]; });
+            keys.forEach(function(k) {
+                if (allCollapsed) delete state.collapsed[k];
+                else state.collapsed[k] = true;
+            });
+            refresh();
         });
 
         document.getElementById('tableBody').addEventListener('click', function(e) {
+            var toggle = e.target.closest('.group-toggle');
+            if (toggle) {
+                var key = toggle.getAttribute('data-key');
+                if (state.collapsed[key]) delete state.collapsed[key];
+                else state.collapsed[key] = true;
+                refresh();
+                return;
+            }
             var row = e.target.closest('tr.row-data');
             if (!row) return;
             var id = row.getAttribute('data-id');
             var ch = state.channels.filter(function(c) { return String(c.id) === id; })[0];
             if (ch) renderModal(ch);
+        });
+
+        document.getElementById('pager').addEventListener('click', function(e) {
+            var btn = e.target.closest('button[data-page]');
+            if (!btn || btn.disabled) return;
+            state.page = parseInt(btn.getAttribute('data-page'), 10) || 1;
+            renderTable(buildModel());
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         });
 
         document.getElementById('overlay').addEventListener('click', function(e) {
@@ -533,30 +823,53 @@
             if (e.key === 'Escape') closeModal();
         });
 
+        function formatCn(ts) {
+            if (!ts) return '';
+            var d = new Date(ts * 1000);
+            if (isNaN(d.getTime())) return '';
+            return d.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false });
+        }
+
+        // 使用条件请求（no-cache 会带上 If-None-Match），未更新时服务端回 304，不再每次强拉 10MB
         function loadEpgData() {
-            var ts = Date.now();
-            fetch('epg_data.json?t=' + ts)
-                .then(function(r) { return r.json(); })
+            fetch('epg_data.json', { cache: 'no-cache' })
+                .then(function(r) {
+                    if (!r.ok) throw new Error('HTTP ' + r.status);
+                    return r.json();
+                })
                 .then(applyData)
                 .catch(function() {
-                    fetch('https://raw.githubusercontent.com/sumingyd/xml/main/epg_data.json?t=' + ts)
-                        .then(function(r) { return r.json(); })
-                        .then(applyData)
-                        .catch(function() {
-                            state.channels = [];
-                            state.updateTime = '加载失败，请稍后刷新重试';
-                            refresh();
-                        });
+                    return fetch(RAW_FALLBACK, { cache: 'no-cache' })
+                        .then(function(r) {
+                            if (!r.ok) throw new Error('HTTP ' + r.status);
+                            return r.json();
+                        })
+                        .then(applyData);
+                })
+                .catch(function() {
+                    if (state.channels.length) return;
+                    state.updateTime = '加载失败，请稍后刷新重试';
+                    refresh();
                 });
         }
 
         function applyData(d) {
+            if (!d || !Array.isArray(d.channels)) return;
+            // 按 JSON 内的 updateTime 判断是否需要刷新；相同则保持当前视图（搜索/页码/折叠状态不被打断）
+            if (state.rawUpdateTime !== null && d.updateTime === state.rawUpdateTime) return;
+            state.rawUpdateTime = d.updateTime;
+            if (Array.isArray(d.categories) && d.categories.length) {
+                state.categoryOrder = d.categories.slice();
+            }
             state.channels = d.channels;
-            state.updateTime = new Date(d.updateTime * 1000).toLocaleString();
+            state.dataEnd = d.dataEnd || '';
+            state.updateTime = formatCn(d.updateTime);
             refresh();
         }
 
         loadEpgData();
+        // 每 10 分钟做一次条件刷新；数据没变不会重绘
+        setInterval(loadEpgData, 10 * 60 * 1000);
     </script>
 </body>
 </html>

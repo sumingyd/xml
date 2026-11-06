@@ -1,7 +1,10 @@
 name: EPG Watchdog
 
-# 看门狗：检查 epg 数据是否超过 26 小时未更新（正常情况 NAS 每日采集推送多次）
-# 失败时 GitHub Actions 会标红并发通知邮件，避免数据停更数月无人发现
+# 看门狗三件事：
+# 1. 数据截止时间必须覆盖今天（epg-last-updated.txt 由 merge_epg.py 写入实际数据截止时间）
+# 2. 频道数不能异常偏少（防止"跑成功但数据是空的/残缺的"）
+# 3. 仓库最近一次提交不能超过 30 小时（NAS 完全停止推送时不会有任何工作流运行）
+# 任一不满足即任务失败，GitHub 会标红并通知
 
 permissions:
   contents: read
@@ -14,25 +17,39 @@ on:
 jobs:
   check-freshness:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check epg data freshness
+      - name: Check data freshness and quality
         run: |
-          last=$(tr -d '[:space:]' < epg-last-updated.txt)
-          if [ -z "$last" ]; then
+          set -euo pipefail
+          today=$(TZ=Asia/Shanghai date +%F)
+
+          cutoff=$(tr -d '[:space:]' < epg-last-updated.txt)
+          if [ -z "$cutoff" ]; then
             echo "::error::epg-last-updated.txt 是空的"
             exit 1
           fi
-          if ! last_ts=$(date -u -d "$last" +%s 2>/dev/null); then
-            echo "::error::epg-last-updated.txt 内容不是合法时间戳: $last"
+          cutoff_date=${cutoff:0:10}
+          echo "数据截止: $cutoff（今天: $today）"
+          if [[ "$cutoff_date" < "$today" ]]; then
+            echo "::error::EPG 数据只覆盖到 $cutoff_date，已不含今天 $today，采集端可能已停止推送"
             exit 1
           fi
-          now_ts=$(date -u +%s)
-          age_hours=$(( (now_ts - last_ts) / 3600 ))
-          echo "EPG 数据最后更新: $last (距今 ${age_hours} 小时)"
-          if [ "$age_hours" -gt 26 ]; then
-            echo "::error::EPG 数据已 ${age_hours} 小时未更新（阈值 26 小时），NAS 采集程序可能已停止推送！"
+
+          channels=$(python3 -c "import json;print(len(json.load(open('epg_data.json',encoding='utf-8'))['channels']))")
+          echo "频道数: $channels"
+          if [ "$channels" -lt 1000 ]; then
+            echo "::error::频道数只有 $channels（下限 1000），数据可能不完整"
+            exit 1
+          fi
+
+          last_commit=$(git log -1 --format=%ct)
+          age_hours=$(( ($(date +%s) - last_commit) / 3600 ))
+          echo "最后一次提交距今 ${age_hours} 小时"
+          if [ "$age_hours" -gt 30 ]; then
+            echo "::error::仓库已 ${age_hours} 小时没有新提交，采集端可能已停止推送"
             exit 1
           fi

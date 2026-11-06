@@ -9,6 +9,7 @@
 """
 import xml.etree.ElementTree as ET
 import re
+import json
 from datetime import datetime, timedelta, timezone
 from collections import OrderedDict
 import os
@@ -17,12 +18,20 @@ import glob
 
 HISTORY_DAYS = 7
 DAYS_DIR = 'days'
+STATS_FILE = 'epg_stats.json'
+LAST_UPDATED_FILE = 'epg-last-updated.txt'
+
+# 与上次成功合并相比，频道数/节目数允许的最大跌幅；低于该比例视为数据异常，中止发布
+MIN_RETAIN_RATIO = 0.6
 
 # 北京时间（中国无夏令时，固定 UTC+8）
 # CI 运行在 UTC 环境，直接用 datetime.now() 会导致"今日"判断比北京日期慢一天
 CN_TZ = timezone(timedelta(hours=8))
 
-CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '付费', '国际', '港澳台', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他']
+# 频道名前缀匹配前先剥离末尾的 (数字) 副本编号，避免同一频道的多份副本分类不一致
+TRAILING_INDEX_RE = re.compile(r'\(\d+\)\s*$')
+
+CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '专区', '付费', '国际', '港澳台', '少数民族语', '北京', '天津', '上海', '重庆', '河北', '山西', '辽宁', '吉林', '黑龙江', '江苏', '浙江', '安徽', '福建', '江西', '山东', '河南', '湖北', '湖南', '广东', '海南', '四川', '贵州', '云南', '陕西', '甘肃', '青海', '内蒙古', '广西', '西藏', '宁夏', '新疆', '地方', '其他']
 
 CATEGORY_RULES = OrderedDict([
     ('央视', [
@@ -34,6 +43,10 @@ CATEGORY_RULES = OrderedDict([
     ]),
     ('4K超高清', [
         r'4K', r'超高清',
+    ]),
+    ('专区', [
+        # 轮播/专区类点播频道
+        r'专区', r'^轮播', r'^红色轮播$', r'^经典卡通台$', r'^精选.*台$', r'专场$',
     ]),
     ('付费', [
         r'^CHC', r'^CCTV(?!-(\d+\+?|\d+ ))', r'^金鹰卡通$', r'^卡酷少儿$', r'^精彩影视$', r'^都市剧场$',
@@ -83,6 +96,12 @@ CATEGORY_RULES = OrderedDict([
         r'^BBC', r'^CNN', r'^CNBC', r'^DW', r'^France 24', r'^NHK',
         r'^CNC', r'^半岛', r'^亚洲新闻$', r'^寰宇新闻$',
         r'^动物星球$', r'^Discovery',
+        # 常见国际频道（不含中文台名的）、以及各国主流台
+        r'^(ABC|CBS|NBC|FOX|ESPN|NBA|NHL|MLB|AMC|AFN|TNT|TBS|USA|STARZ|SHOWTIME)',
+        r'^(Sky|BT Sport|Eurosport|DAZN|Fight Sports|Golf|Motorsport)',
+        r'^(TRACE|MTV|VH1|Nickelodeon|Cartoon Network|Disney|AXN|Sony|Animax)',
+        r'^(Al Jazeera|Aljazeera|Arirang|KBS|MBC|SBS|TV Asahi|Fuji TV|WOWOW|NHK World)',
+        r'^(RT|Euronews|Bloomberg|Fox News|CNBC World)',
     ]),
     ('港澳台', [
         r'^TVBS', r'^TVB Plus$', r'^TVB星河', r'^中天新闻$', r'^中天亚洲$',
@@ -100,12 +119,20 @@ CATEGORY_RULES = OrderedDict([
         r'^台视', r'^公视', r'^中视', r'^国会频道',
         r'^NOW新闻$', r'^采昌影剧$', r'^好消息$', r'^金光布袋戏$',
         r'^SUPER FREE$',
+        # 数据源新增的港台频道
+        r'^靖洋', r'^非凡', r'^麦卡贝', r'^镜电视', r'^龙祥',
+        r'^东森', r'^年代', r'^八大', r'^寰宇', r'^亚洲旅游$',
+    ]),
+    ('少数民族语', [
+        r'维吾尔语', r'哈萨克语', r'柯尔克孜语', r'蒙古语', r'藏语', r'朝鲜语',
     ]),
     ('地方', [
         # 区县级地方频道（数据源新增的县市/区级台标）
         r'^(临清|乳山|义乌|五莲|任城|兖州|历城|周村|商河|夏津|定陶|岱岳|崂山|平度|张店|招远|昌乐|曲阜|桓台|武城)',
         r'^(沂水|沂源|河东|沾化|泗洪|溧水|宝应|宜兴|江都|江阴|睢宁|赣榆|邳州|邹城|铜山|禹城|胶州|莒县|莱西)',
         r'^(长岛|陵城|鱼台|黄岛|齐河|龙口|潮安|晋江|永嘉|苍南|瑞安|诸暨|镇海|普陀|泰山|东海)',
+        # 地市级都市/商业频道，以及没有城市前缀的地方台
+        r'都市$', r'^黄河电视台', r'^第1商业',
     ]),
 ])
 
@@ -209,6 +236,8 @@ def _match_prefecture(name):
 def classify_channel(name):
     if not name:
         return '其他'
+    # 同一频道可能以 "名称(1024)" 的形式出现多份，匹配前统一剥离编号后缀
+    name = TRAILING_INDEX_RE.sub('', name).strip()
     for category, patterns in CATEGORY_RULES.items():
         for pattern in patterns:
             if re.search(pattern, name):
@@ -228,8 +257,9 @@ def classify_channel(name):
         return pref_result[0]
     if name.startswith('上视'):
         return '上海'
-    if name == '中国天气':
-        return '其他'
+    # 纯英文/数字台名基本是海外频道（ABC、FOXSEATTLE、Animal Planet (HD) 等）
+    if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9 '&+\.\-/()\[\]!:]*", name):
+        return '国际'
     return '其他'
 
 def get_sort_key(name):
@@ -252,6 +282,38 @@ def get_sort_key(name):
         sub_key = (99, name)
     return (cat_idx, sub_key)
 
+def _load_stats():
+    try:
+        with open(STATS_FILE, encoding='utf-8') as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+def _fmt_date(d):
+    return f"{d[:4]}-{d[4:6]}-{d[6:8]}" if len(d) == 8 else ''
+
+def _write_stats(channel_count, programme_count, days_count, data_start, data_end, data_end_time=''):
+    stats = {
+        'channels': channel_count,
+        'programmes': programme_count,
+        'days': days_count,
+        'data_start': _fmt_date(data_start),
+        'data_end': _fmt_date(data_end),
+        'data_end_time': data_end_time,
+        'updated_at': datetime.now(CN_TZ).isoformat(timespec='seconds'),
+    }
+    with open(STATS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+        f.write('\n')
+    # 看门狗读取的时间戳 = 数据实际截止时间，而不是工作流运行时间
+    if data_end_time and len(data_end_time) >= 12:
+        with open(LAST_UPDATED_FILE, 'w', encoding='utf-8') as f:
+            f.write(f"{data_end_time[:4]}-{data_end_time[4:6]}-{data_end_time[6:8]}"
+                    f"T{data_end_time[8:10]}:{data_end_time[10:12]}:{(data_end_time[12:14] or '00')}+08:00\n")
+    elif data_end:
+        with open(LAST_UPDATED_FILE, 'w', encoding='utf-8') as f:
+            f.write(f"{_fmt_date(data_end)}T23:59:59+08:00\n")
+
 def merge_epg():
     if not os.path.exists(DAYS_DIR):
         print(f"{DAYS_DIR}/ 目录不存在，跳过合并")
@@ -267,6 +329,12 @@ def merge_epg():
         print(f"{DAYS_DIR}/ 目录下没有EPG文件，跳过合并")
         return False
 
+    # 今日文件缺失说明采集端当天没有产出，继续合并会发布一份"缺今天"的数据
+    today_file = os.path.join(DAYS_DIR, f'epg_{today}.xml')
+    if not os.path.exists(today_file):
+        print(f"缺少今日文件 {today_file}，中止合并", file=sys.stderr)
+        return False
+
     removed_files = []
     for f in day_files[:]:
         basename = os.path.basename(f)
@@ -280,8 +348,8 @@ def merge_epg():
         print(f"清理了 {len(removed_files)} 个过期日期文件: {', '.join(removed_files)}")
 
     if not day_files:
-        print("清理后没有剩余日期文件，跳过合并")
-        return True
+        print("清理后没有剩余日期文件，中止合并", file=sys.stderr)
+        return False
 
     all_channels = {}
     all_programmes = []
@@ -297,7 +365,9 @@ def merge_epg():
             for programme in root.findall('programme'):
                 all_programmes.append(programme)
         except Exception as e:
-            print(f"解析 {f} 失败: {e}，跳过")
+            # 半个文件 / 编码损坏都会走到这里；静默跳过会发布缺数据的结果，必须让任务失败
+            print(f"解析 {f} 失败: {e}", file=sys.stderr)
+            return False
 
     channels_with_programmes = set()
     for programme in all_programmes:
@@ -332,7 +402,8 @@ def merge_epg():
 
     cleaned_programmes = []
     for ch_id, progs in ch_programmes.items():
-        progs.sort(key=lambda p: (p.get('start', ''), _parse_min(p.get('stop', '')) - _parse_min(p.get('start', ''))))
+        # 时长降序：同一开始时间时让更长的节目先成为主节目，避免长短重叠双双保留
+        progs.sort(key=lambda p: (p.get('start', ''), -(_parse_min(p.get('stop', '')) - _parse_min(p.get('start', '')))))
         used = set()
         for i, p in enumerate(progs):
             if i in used:
@@ -365,6 +436,22 @@ def merge_epg():
         name = display_names[0].text if display_names else ''
         return get_sort_key(name)
 
+    # 发布前校验：空结果、或与上次成功结果相比剧降，都中止，避免坏数据覆盖线上
+    if not all_channels:
+        print("合并结果为空（0 个频道），中止发布", file=sys.stderr)
+        return False
+
+    prev_stats = _load_stats()
+    if prev_stats:
+        prev_ch = prev_stats.get('channels') or 0
+        prev_pg = prev_stats.get('programmes') or 0
+        if prev_ch and len(all_channels) < prev_ch * MIN_RETAIN_RATIO:
+            print(f"频道数异常下降: 上次 {prev_ch} -> 本次 {len(all_channels)}，中止发布", file=sys.stderr)
+            return False
+        if prev_pg and len(cleaned_programmes) < prev_pg * MIN_RETAIN_RATIO:
+            print(f"节目数异常下降: 上次 {prev_pg} -> 本次 {len(cleaned_programmes)}，中止发布", file=sys.stderr)
+            return False
+
     sorted_channels = sorted(all_channels.values(), key=get_channel_sort_key)
 
     tv = ET.Element('tv')
@@ -376,7 +463,21 @@ def merge_epg():
 
     tree = ET.ElementTree(tv)
     ET.indent(tree, space='  ')
-    tree.write('epg.xml', encoding='utf-8', xml_declaration=True)
+    # 先写临时文件再原子替换，避免进程被中断时留下截断的 epg.xml
+    tmp_path = 'epg.xml.tmp'
+    tree.write(tmp_path, encoding='utf-8', xml_declaration=True)
+    os.replace(tmp_path, 'epg.xml')
+
+    start_dates = [(p.get('start') or '')[:8] for p in cleaned_programmes]
+    end_dates = [(p.get('stop') or '')[:8] for p in cleaned_programmes]
+    start_dates = [d for d in start_dates if len(d) == 8]
+    end_dates = [d for d in end_dates if len(d) == 8]
+    data_start = min(start_dates) if start_dates else ''
+    data_end = max(end_dates) if end_dates else ''
+    end_times = [(p.get('stop') or '')[:14] for p in cleaned_programmes]
+    end_times = [t for t in end_times if len(t) == 14]
+    data_end_time = max(end_times) if end_times else ''
+    _write_stats(len(all_channels), len(cleaned_programmes), len(day_files), data_start, data_end, data_end_time)
 
     file_size = os.path.getsize('epg.xml')
     print(f"合并完成! {len(day_files)} 个日期文件, {len(all_channels)} 个频道, {len(cleaned_programmes)} 个节目, {file_size / 1024:.1f}KB")

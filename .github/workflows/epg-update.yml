@@ -19,37 +19,60 @@ jobs:
   update-epg:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # merge_epg.py 内含校验：解析失败 / 今日文件缺失 / 结果为空 / 相对上次剧降都会非 0 退出
       - name: Merge all day files into epg.xml
         run: python merge_epg.py
 
       - name: Calculate coverage and generate data
         run: python calculate_coverage.py
 
+      # -n 去掉 gzip 头里的文件名与时间戳：相同数据产出相同字节，避免每次生成新 blob
       - name: Compress epg.xml
-        run: gzip -c epg.xml > epg.xml.gz
+        run: gzip -9n -c epg.xml > epg.xml.gz
 
-      - name: Update timestamp
-        run: date -u +"%Y-%m-%dT%H:%M:%SZ" > epg-last-updated.txt
-
-      # epg.xml 已超过 GitHub 100MB 单文件限制，不再提交进 git，改传 Release
-      # 稳定下载地址: https://github.com/sumingyd/xml/releases/latest/download/epg.xml
-      - name: Upload epg.xml to latest release
-        run: |
-          gh release create latest --title "EPG 最新数据" --notes "自动更新，通过 releases/latest/download/epg.xml 获取" --latest || true
-          gh release upload latest epg.xml --clobber
+      # epg.xml 已超过 GitHub 100MB 单文件限制，走 Release 分发。
+      # 每次先建新 tag 并上传资产，全部成功后才把 latest 指针切过去，
+      # 避免覆盖同名资产时出现 404 窗口；稳定地址保持
+      # https://github.com/sumingyd/xml/releases/latest/download/epg.xml
+      - name: Publish epg.xml release
         env:
           GH_TOKEN: ${{ github.token }}
-
-      - name: Configure git and push changes
         run: |
+          set -euo pipefail
+          tag="epg-$(date -u +%Y%m%d-%H%M%S)"
+          gh release create "$tag" epg.xml \
+            --title "EPG $tag" \
+            --notes "自动生成的数据快照，稳定地址: releases/latest/download/epg.xml"
+          gh release edit "$tag" --latest
+          # 迁移：旧版固定 latest 标签的 release 已由新版本接管
+          gh release delete latest -y --cleanup-tag 2>/dev/null || true
+          # 只保留最近 3 个数据 release
+          old_tags=$(gh release list --limit 30 --json tagName -q '.[].tagName' | grep '^epg-' | tail -n +4 || true)
+          for old in $old_tags; do
+            gh release delete "$old" -y --cleanup-tag || true
+          done
+
+      - name: Commit and push data
+        run: |
+          set -e
           git config user.name 'github-actions'
           git config user.email 'github-actions@github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-          git rm --cached epg.xml || true
-          git add epg_data.json epg.xml.gz epg-last-updated.txt days/
+          git add epg_data.json epg.xml.gz epg_stats.json epg-last-updated.txt days/
           git commit -m "Update EPG data" || echo "No changes to commit"
-          git push
+          # NAS 可能在本任务运行期间再次推送：非快进时先 rebase 再重试（不使用 force push）
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "pushed"
+              exit 0
+            fi
+            echo "push attempt $i failed, retrying in 5s"
+            sleep 5
+          done
+          echo "::error::三次尝试后仍无法推送，请检查远程状态"
+          exit 1

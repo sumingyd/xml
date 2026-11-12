@@ -517,6 +517,8 @@
   </channel>
   <channel id="河北三农"><display-name lang="zh">河北三农</display-name><display-name lang="zh">河北三农频道</display-name>
   </channel>
+  <channel id="Channel[V]"><display-name lang="zh">Channel V</display-name><display-name lang="zh">Channel V中国大陆</display-name><display-name lang="zh">V音乐台</display-name><display-name lang="zh">Channel[V]</display-name>
+  </channel>
   <channel id="爱尔达综合"><display-name lang="zh">爱尔达综合</display-name><display-name lang="zh">爱尔达综合台</display-name><display-name lang="zh">综合台</display-name><display-name lang="zh">台視綜合</display-name><display-name lang="zh">广州综合台</display-name><display-name lang="zh">靖天綜合</display-name><display-name lang="zh">momo綜合</display-name><display-name lang="zh">三立綜合</display-name>
   </channel>
   <channel id="山西卫视"><display-name lang="zh">山西卫视</display-name><display-name lang="zh">山西卫视高清</display-name>
@@ -612,6 +614,8 @@
   <channel id="CCTV风云足球"><display-name lang="zh">CCTV风云足球</display-name><display-name lang="zh">CCTV 风云足球频道</display-name>
   </channel>
   <channel id="Global Trekker"><display-name lang="zh">Global Trekker</display-name>
+  </channel>
+  <channel id="厦门海峡"><display-name lang="zh">厦门海峡</display-name>
   </channel>
   <channel id="江苏新闻"><display-name lang="zh">江苏新闻</display-name><display-name lang="zh">江苏新闻频道</display-name>
   </channel>
@@ -1317,11 +1321,11 @@
   </programme>
   <programme start="20261114180000 +0800" stop="20261115020000 +0800" channel="ASTROBADMINTON"><title lang="zh">BWF Japan Masters: QF</title><desc lang="zh">BWF World Tour Super 500: Kumamoto Masters Japan 2026: Quarter Finals, from Kumamoto Prefectural Gymnasium, Japan.</desc>
   </programme>
-  <programme start="20261114001500 +0800" stop="20261114014500 +0800" channel="ASTROFAMTIME"><title lang="zh">Family History Mysteries: Buried Past</title><desc lang="zh">Sophie McClaren, a genealogist, reunites with Jackson when his twin brother urgently needs a bone marrow donor, forcing past connections back into her life.</desc>
+  <programme start="20261114014000 +0800" stop="20261114031000 +0800" channel="ASTROFAMTIME"><title lang="zh">Haunted Harmony Mysteries: Murder In G Major</title><desc lang="zh">Former conductor Gethsemane Brown moves to Ireland to teach at a boarding school, where she uncovers a hidden musical message that leads her to the ghost of a famed composer suspected of killing his lover.</desc>
   </programme>
-  <programme start="20261114014500 +0800" stop="20261114031500 +0800" channel="ASTROFAMTIME"><title lang="zh">Haunted Harmony Mysteries: Murder In G Major</title><desc lang="zh">Former conductor Gethsemane Brown moves to Ireland to teach at a boarding school, where she uncovers a hidden musical message that leads her to the ghost of a famed composer suspected of killing his lover.</desc>
+  <programme start="20261114031000 +0800" stop="20261114043500 +0800" channel="ASTROFAMTIME"><title lang="zh">Frozen In Love</title><desc lang="zh">Bad boy hockey player Adam and struggling book-store owner Mary must work together to help rehabilitate each other&amp;#x27;s image. Their mutual animosity, and attraction, sees them struggle to achieve their goal.</desc>
   </programme>
-  <programme start="20261114031500 +0800" stop="20261114044500 +0800" channel="ASTROFAMTIME"><title lang="zh">Frozen In Love</title><desc lang="zh">Bad boy hockey player Adam and struggling book-store owner Mary must work together to help rehabilitate each other&amp;#x27;s image. Their mutual animosity, and attraction, sees them struggle to achieve their goal.</desc>
+  <programme start="20261114043500 +0800" stop="20261114044500 +0800" channel="ASTROFAMTIME"><title lang="zh">True Justice: Family Ties</title><desc lang="zh">A law school student and her friends, set out to prove her brother&amp;#x27;s innocence but the only way to clear his name is by finding the real killer.</desc>
   </programme>
   <programme start="20261114044500 +0800" stop="20261114060000 +0800" channel="ASTROFAMTIME"><title lang="zh">True Justice: Family Ties</title><desc lang="zh">A law school student and her friends, set out to prove her brother&amp;#x27;s innocence but the only way to clear his name is by finding the real killer.</desc>
   </programme>
@@ -4961,6 +4965,30 @@
   <programme start="20261114220000 +0800" stop="20261114230000 +0800" channel="CN卡通频道"><title lang="zh">怪盜喬克</title>
   </programme>
   <programme start="20261114230000 +0800" stop="20261114235900 +0800" channel="CN卡通频道"><title lang="zh">熊熊遇見你</title>
+  </programme>
+  <programme start="20261114000000 +0800" stop="20261114003000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 新闻档案</title>
+  </programme>
+  <programme start="20261114003000 +0800" stop="20261114010000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 俯瞰神州 及 世界观 及 中华掠影 及 三日天气预报 及 环球新闻档案</title>
+  </programme>
+  <programme start="20261114010000 +0800" stop="20261114013000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事多面睇</title>
+  </programme>
+  <programme start="20261114013000 +0800" stop="20261114020000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事中国</title>
+  </programme>
+  <programme start="20261114020000 +0800" stop="20261114023000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事通识 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
+  </programme>
+  <programme start="20261114023000 +0800" stop="20261114030000 +0800" channel="Channel[V]"><title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title><desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
+  </programme>
+  <programme start="20261114030000 +0800" stop="20261114033000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事多面睇</title>
+  </programme>
+  <programme start="20261114033000 +0800" stop="20261114040000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
+  </programme>
+  <programme start="20261114040000 +0800" stop="20261114043000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
+  </programme>
+  <programme start="20261114043000 +0800" stop="20261114050000 +0800" channel="Channel[V]"><title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title><desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
+  </programme>
+  <programme start="20261114050000 +0800" stop="20261114053000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事多面睇</title>
+  </programme>
+  <programme start="20261114053000 +0800" stop="20261115000000 +0800" channel="Channel[V]"><title lang="zh">深宵新闻报道 及 时事中国</title>
   </programme>
   <programme start="20261114010400 +0800" stop="20261114024400 +0800" channel="China Movie Channel"><title lang="zh">镖王</title><desc lang="zh">镖王</desc>
   </programme>
@@ -15163,6 +15191,44 @@
   <programme start="20261114220000 +0800" stop="20261114223000 +0800" channel="厦门卫视"><title lang="zh">厝边青草药(重)</title>
   </programme>
   <programme start="20261114223000 +0800" stop="20261115000000 +0800" channel="厦门卫视"><title lang="zh">镖门(闽)38 百媚千娇(闽)1</title>
+  </programme>
+  <programme start="20261114000000 +0800" stop="20261114063000 +0800" channel="厦门海峡"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  </programme>
+  <programme start="20261114063000 +0800" stop="20261114071000 +0800" channel="厦门海峡"><title lang="zh">名医大讲堂</title>
+  </programme>
+  <programme start="20261114071000 +0800" stop="20261114080500 +0800" channel="厦门海峡"><title lang="zh">厦视直播室</title>
+  </programme>
+  <programme start="20261114080500 +0800" stop="20261114083000 +0800" channel="厦门海峡"><title lang="zh">视点</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261114083000 +0800" stop="20261114084000 +0800" channel="厦门海峡"><title lang="zh">历史上的今天</title>
+  </programme>
+  <programme start="20261114084000 +0800" stop="20261114100000 +0800" channel="厦门海峡"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261114100000 +0800" stop="20261114120000 +0800" channel="厦门海峡"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261114120000 +0800" stop="20261114140000 +0800" channel="厦门海峡"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261114140000 +0800" stop="20261114160000 +0800" channel="厦门海峡"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261114160000 +0800" stop="20261114190000 +0800" channel="厦门海峡"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  </programme>
+  <programme start="20261114190000 +0800" stop="20261114193500 +0800" channel="厦门海峡"><title lang="zh">名医大讲堂</title>
+  </programme>
+  <programme start="20261114193500 +0800" stop="20261114203000 +0800" channel="厦门海峡"><title lang="zh">厦视直播室</title>
+  </programme>
+  <programme start="20261114203000 +0800" stop="20261114210000 +0800" channel="厦门海峡"><title lang="zh">TV透</title>
+  </programme>
+  <programme start="20261114210000 +0800" stop="20261114213000 +0800" channel="厦门海峡"><title lang="zh">特区新闻广播</title>
+  </programme>
+  <programme start="20261114213000 +0800" stop="20261114215000 +0800" channel="厦门海峡"><title lang="zh">TV透</title>
+  </programme>
+  <programme start="20261114215000 +0800" stop="20261114220000 +0800" channel="厦门海峡"><title lang="zh">历史上的今天</title>
+  </programme>
+  <programme start="20261114220000 +0800" stop="20261114230000 +0800" channel="厦门海峡"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  </programme>
+  <programme start="20261114230000 +0800" stop="20261114233500 +0800" channel="厦门海峡"><title lang="zh">厦视新闻</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  </programme>
+  <programme start="20261114233500 +0800" stop="20261115000000 +0800" channel="厦门海峡"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
   <programme start="20261114000000 +0800" stop="20261114021800 +0800" channel="古典音乐台"><title lang="zh">席夫演奏巴哈作品─2010年巴哈音樂節</title>
   </programme>

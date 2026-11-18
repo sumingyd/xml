@@ -1,9 +1,12 @@
 {
-  "channels": 2479,
-  "programmes": 304756,
+  "channels": 1386,
+  "programmes": 328612,
   "days": 11,
-  "data_start": "2026-11-09",
-  "data_end": "2026-11-20",
-  "data_end_time": "20261120060000",
-  "updated_at": "2026-11-16T09:05:25+08:00"
+  "data_start": "2026-11-12",
+  "data_end": "2026-11-23",
+  "data_end_time": "20261123073500",
+  "warnings": [
+    "频道数较上次明显下降: 2479 -> 1386"
+  ],
+  "updated_at": "2026-11-19T06:27:39+08:00"
 }

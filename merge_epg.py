@@ -292,7 +292,7 @@ def _load_stats():
 def _fmt_date(d):
     return f"{d[:4]}-{d[4:6]}-{d[6:8]}" if len(d) == 8 else ''
 
-def _write_stats(channel_count, programme_count, days_count, data_start, data_end, data_end_time=''):
+def _write_stats(channel_count, programme_count, days_count, data_start, data_end, data_end_time='', warnings=None):
     stats = {
         'channels': channel_count,
         'programmes': programme_count,
@@ -300,6 +300,8 @@ def _write_stats(channel_count, programme_count, days_count, data_start, data_en
         'data_start': _fmt_date(data_start),
         'data_end': _fmt_date(data_end),
         'data_end_time': data_end_time,
+        # 基线下降等异常降级为警告，随统计文件下发，不再中止发布
+        'warnings': warnings or [],
         'updated_at': datetime.now(CN_TZ).isoformat(timespec='seconds'),
     }
     with open(STATS_FILE, 'w', encoding='utf-8') as f:
@@ -329,11 +331,14 @@ def merge_epg():
         print(f"{DAYS_DIR}/ 目录下没有EPG文件，跳过合并")
         return False
 
-    # 今日文件缺失说明采集端当天没有产出，继续合并会发布一份"缺今天"的数据
+    warnings = []
+
+    # 今日文件缺失只做警告：是否"真的没有数据"交给看门狗判断，避免采集端晚点时卡死整条管线
     today_file = os.path.join(DAYS_DIR, f'epg_{today}.xml')
     if not os.path.exists(today_file):
-        print(f"缺少今日文件 {today_file}，中止合并", file=sys.stderr)
-        return False
+        msg = f"缺少今日文件 {today_file}"
+        print(msg, file=sys.stderr)
+        warnings.append(msg)
 
     removed_files = []
     for f in day_files[:]:
@@ -436,21 +441,24 @@ def merge_epg():
         name = display_names[0].text if display_names else ''
         return get_sort_key(name)
 
-    # 发布前校验：空结果、或与上次成功结果相比剧降，都中止，避免坏数据覆盖线上
+    # 硬拦截只有两条：解析失败（上面已返回）与 0 频道
     if not all_channels:
         print("合并结果为空（0 个频道），中止发布", file=sys.stderr)
         return False
 
+    # 与上次相比明显下降只记警告：频道集合本身会随采集源变化，是否真的没数据由看门狗判断
     prev_stats = _load_stats()
     if prev_stats:
         prev_ch = prev_stats.get('channels') or 0
         prev_pg = prev_stats.get('programmes') or 0
         if prev_ch and len(all_channels) < prev_ch * MIN_RETAIN_RATIO:
-            print(f"频道数异常下降: 上次 {prev_ch} -> 本次 {len(all_channels)}，中止发布", file=sys.stderr)
-            return False
+            msg = f"频道数较上次明显下降: {prev_ch} -> {len(all_channels)}"
+            print(msg, file=sys.stderr)
+            warnings.append(msg)
         if prev_pg and len(cleaned_programmes) < prev_pg * MIN_RETAIN_RATIO:
-            print(f"节目数异常下降: 上次 {prev_pg} -> 本次 {len(cleaned_programmes)}，中止发布", file=sys.stderr)
-            return False
+            msg = f"节目数较上次明显下降: {prev_pg} -> {len(cleaned_programmes)}"
+            print(msg, file=sys.stderr)
+            warnings.append(msg)
 
     sorted_channels = sorted(all_channels.values(), key=get_channel_sort_key)
 
@@ -477,7 +485,7 @@ def merge_epg():
     end_times = [(p.get('stop') or '')[:14] for p in cleaned_programmes]
     end_times = [t for t in end_times if len(t) == 14]
     data_end_time = max(end_times) if end_times else ''
-    _write_stats(len(all_channels), len(cleaned_programmes), len(day_files), data_start, data_end, data_end_time)
+    _write_stats(len(all_channels), len(cleaned_programmes), len(day_files), data_start, data_end, data_end_time, warnings)
 
     file_size = os.path.getsize('epg.xml')
     print(f"合并完成! {len(day_files)} 个日期文件, {len(all_channels)} 个频道, {len(cleaned_programmes)} 个节目, {file_size / 1024:.1f}KB")

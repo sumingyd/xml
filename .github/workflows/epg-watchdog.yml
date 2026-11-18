@@ -1,13 +1,15 @@
 name: EPG Watchdog
 
-# 看门狗三件事：
-# 1. 数据截止时间必须覆盖今天（epg-last-updated.txt 由 merge_epg.py 写入实际数据截止时间）
-# 2. 频道数不能异常偏少（防止"跑成功但数据是空的/残缺的"）
-# 3. 仓库最近一次提交不能超过 30 小时（NAS 完全停止推送时不会有任何工作流运行）
+# 看门狗只判断"数据是不是真的没有了"：
+# 1. 今日（Asia/Shanghai）是否还有频道有节目
+# 2. epg_data.json 的数据截止日期是否已经落在今天之前
+# 3. 最近一次 EPG Update 是否成功，且距今未超时
+# 不再用频道数阈值；也不再判断提交年龄（NAS 每天都在提交，会掩盖数据停滞）
 # 任一不满足即任务失败，GitHub 会标红并通知
 
 permissions:
   contents: read
+  actions: read
 
 on:
   schedule:
@@ -15,41 +17,68 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-freshness:
+  check-data:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Check data freshness and quality
+      - name: Check whether EPG still covers today
         run: |
           set -euo pipefail
           today=$(TZ=Asia/Shanghai date +%F)
+          python3 - "$today" <<'PY'
+          import json
+          import sys
 
-          cutoff=$(tr -d '[:space:]' < epg-last-updated.txt)
-          if [ -z "$cutoff" ]; then
-            echo "::error::epg-last-updated.txt 是空的"
+          today = sys.argv[1]
+          try:
+              with open('epg_data.json', encoding='utf-8') as f:
+                  data = json.load(f)
+          except Exception as e:
+              print(f'::error::无法读取 epg_data.json: {e}')
+              sys.exit(1)
+
+          channels = data.get('channels') or []
+          with_today = sum(1 for c in channels if c.get('todaySchedule'))
+          data_end = (data.get('dataEnd') or '')[:10]
+          print(f'频道数={len(channels)} 今日有节目频道={with_today} 数据截止={data_end or "未知"}')
+
+          if with_today == 0:
+              print('::error::EPG 里没有任何频道有今天的节目，采集端可能已停止产出')
+              sys.exit(1)
+          if not data_end or data_end < today:
+              print(f'::error::EPG 数据截止 {data_end or "未知"} 已落在今天 {today} 之前')
+              sys.exit(1)
+          PY
+
+      - name: Check latest EPG Update run
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          info=$(gh run list --workflow=epg-update.yml --limit 1 --json status,conclusion,createdAt \
+            --jq '.[0] | "\(.status) \(.conclusion // "-") \(.createdAt)"')
+          if [ -z "$info" ]; then
+            echo "::error::找不到任何 EPG Update 运行记录"
             exit 1
           fi
-          cutoff_date=${cutoff:0:10}
-          echo "数据截止: $cutoff（今天: $today）"
-          if [[ "$cutoff_date" < "$today" ]]; then
-            echo "::error::EPG 数据只覆盖到 $cutoff_date，已不含今天 $today，采集端可能已停止推送"
+          set -- $info
+          status=$1
+          conclusion=$2
+          created=$3
+          age_h=$(( ( $(date -u +%s) - $(date -u -d "$created" +%s) ) / 3600 ))
+          echo "最近一次 EPG Update: status=$status conclusion=$conclusion 距今 ${age_h} 小时"
+          if [ "$status" != "completed" ]; then
+            echo "::error::最近一次 EPG Update 尚未结束（status=$status）"
             exit 1
           fi
-
-          channels=$(python3 -c "import json;print(len(json.load(open('epg_data.json',encoding='utf-8'))['channels']))")
-          echo "频道数: $channels"
-          if [ "$channels" -lt 1000 ]; then
-            echo "::error::频道数只有 $channels（下限 1000），数据可能不完整"
+          if [ "$conclusion" != "success" ]; then
+            echo "::error::最近一次 EPG Update 未成功（conclusion=$conclusion）"
             exit 1
           fi
-
-          last_commit=$(git log -1 --format=%ct)
-          age_hours=$(( ($(date +%s) - last_commit) / 3600 ))
-          echo "最后一次提交距今 ${age_hours} 小时"
-          if [ "$age_hours" -gt 30 ]; then
-            echo "::error::仓库已 ${age_hours} 小时没有新提交，采集端可能已停止推送"
+          if [ "$age_h" -gt 36 ]; then
+            echo "::error::最近一次成功的 EPG Update 已是 ${age_h} 小时前（上限 36）"
             exit 1
           fi

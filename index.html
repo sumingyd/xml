@@ -265,6 +265,16 @@
         .badge-ok { background: var(--green-dim); color: var(--green); }
         .badge-warn { background: var(--red-dim); color: var(--red); }
         .badge-none { background: rgba(100,116,139,0.16); color: #94a3b8; }
+        .data-warning {
+            margin: -20px 0 20px;
+            padding: 10px 14px;
+            border-radius: 10px;
+            background: rgba(245,158,11,0.1);
+            border: 1px solid rgba(245,158,11,0.25);
+            color: #fbbf24;
+            font-size: 0.8rem;
+            line-height: 1.5;
+        }
 
         .coverage-wrap { display: flex; align-items: center; gap: 10px; }
         .coverage-track { flex: 1; height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; min-width: 60px; }
@@ -380,6 +390,7 @@
         </div>
 
         <div class="stats" id="stats"></div>
+        <div class="data-warning" id="dataWarning" style="display:none"></div>
 
         <div class="search-bar">
             <input id="searchInput" type="search" placeholder="搜索频道名 / ID / 别名…" autocomplete="off">
@@ -430,7 +441,8 @@
             collapsed: {},
             rawUpdateTime: null,
             updateTime: '',
-            dataEnd: ''
+            dataEnd: '',
+            warnings: []
         };
 
         function esc(s) {
@@ -557,6 +569,17 @@
             });
             flush();
             return pages;
+        }
+
+        function renderWarnings() {
+            var el = document.getElementById('dataWarning');
+            if (!state.warnings.length) {
+                el.style.display = 'none';
+                el.textContent = '';
+                return;
+            }
+            el.style.display = '';
+            el.textContent = '数据提示：' + state.warnings.join('；');
         }
 
         function renderStats() {
@@ -750,6 +773,7 @@
             model.forEach(function(cg) {
                 cg.blocks.forEach(function(b) { matched += b.channels.length; });
             });
+            renderWarnings();
             renderStats();
             renderFilterBar();
             renderSearchCount(matched);
@@ -863,6 +887,7 @@
             }
             state.channels = d.channels;
             state.dataEnd = d.dataEnd || '';
+            state.warnings = Array.isArray(d.warnings) ? d.warnings : [];
             state.updateTime = formatCn(d.updateTime);
             refresh();
         }

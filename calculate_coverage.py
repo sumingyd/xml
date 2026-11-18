@@ -192,12 +192,19 @@ for channel in root.findall('channel'):
 
 channels.sort(key=lambda c: get_sort_key(c['name']))
 
+# merge_epg.py 把基线下降等异常降级为警告写进 epg_stats.json，这里随数据一起下发给页面
+try:
+    with open('epg_stats.json', encoding='utf-8') as f:
+        merge_warnings = json.load(f).get('warnings') or []
+except Exception:
+    merge_warnings = []
+
 with open('epg_data.json', 'w', encoding='utf-8') as f:
     json.dump({
         'channels': channels,
-        # 分类白名单由后端下发，前端不再手抄一份
         'categories': CATEGORY_ORDER,
         'dataEnd': _fmt_last_program(latest_stop),
+        'warnings': merge_warnings,
         'updateTime': time.time()
     }, f, ensure_ascii=False, separators=(',', ':'))
 

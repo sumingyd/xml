@@ -119,6 +119,8 @@
   </channel>
   <channel id="NOWSPORTS英超2台"><display-name lang="zh">NOWSPORTS英超2台</display-name>
   </channel>
+  <channel id="青岛TV2"><display-name lang="zh">青岛TV2</display-name>
+  </channel>
   <channel id="武汉外语"><display-name lang="zh">武汉外语</display-name>
   </channel>
   <channel id="睛彩广场舞"><display-name lang="zh">睛彩广场舞</display-name>
@@ -126,6 +128,8 @@
   <channel id="哈萨克语新闻综合"><display-name lang="zh">哈萨克语新闻综合</display-name>
   </channel>
   <channel id="4K电视剧"><display-name lang="zh">4K电视剧</display-name>
+  </channel>
+  <channel id="澜湄国际"><display-name lang="zh">澜湄国际</display-name><display-name lang="zh">云南澜湄国际卫视</display-name><display-name lang="zh">澜湄国际卫视</display-name><display-name lang="zh">云南国际卫视</display-name><display-name lang="zh">云南国际</display-name>
   </channel>
   <channel id="龙华戏剧"><display-name lang="zh">龙华戏剧</display-name>
   </channel>
@@ -603,6 +607,8 @@
   </channel>
   <channel id="NOW报价台"><display-name lang="zh">NOW报价台</display-name>
   </channel>
+  <channel id="青岛TV6"><display-name lang="zh">青岛TV6</display-name>
+  </channel>
   <channel id="CCTV第一剧场"><display-name lang="zh">CCTV第一剧场</display-name><display-name lang="zh">CCTV 第一剧场频道</display-name>
   </channel>
   <channel id="华视主频"><display-name lang="zh">华视主频</display-name>
@@ -709,11 +715,15 @@
   </channel>
   <channel id="南平新闻综合"><display-name lang="zh">南平新闻综合</display-name>
   </channel>
+  <channel id="南方少儿"><display-name lang="zh">南方少儿</display-name>
+  </channel>
   <channel id="求索频道"><display-name lang="zh">求索频道</display-name>
   </channel>
   <channel id="CBSSEATTLE(417)"><display-name lang="zh">CBSSEATTLE(417)</display-name>
   </channel>
   <channel id="NewTV热播精选"><display-name lang="zh">NewTV热播精选</display-name>
+  </channel>
+  <channel id="南方影视"><display-name lang="zh">南方影视</display-name>
   </channel>
   <channel id="CBCVANCOUVER(28)"><display-name lang="zh">CBCVANCOUVER(28)</display-name>
   </channel>
@@ -888,6 +898,8 @@
   <channel id="NewTV明星大片"><display-name lang="zh">NewTV明星大片</display-name>
   </channel>
   <channel id="SPORTSNET360"><display-name lang="zh">SPORTSNET360</display-name>
+  </channel>
+  <channel id="互动赛马台"><display-name lang="zh">互动赛马台</display-name><display-name lang="zh">互动赛马台(免费试睇)</display-name>
   </channel>
   <channel id="中视"><display-name lang="zh">中视</display-name><display-name lang="zh">中视电视台</display-name>
   </channel>
@@ -1619,6 +1631,8 @@
   </channel>
   <channel id="浙江少儿"><display-name lang="zh">浙江少儿</display-name><display-name lang="zh">浙江少儿频道</display-name>
   </channel>
+  <channel id="东方电影"><display-name lang="zh">东方电影</display-name><display-name lang="zh">东方电影频道</display-name>
+  </channel>
   <channel id="南国都市"><display-name lang="zh">南国都市</display-name><display-name lang="zh">广州南国都市4K</display-name>
   </channel>
   <channel id="美人"><display-name lang="zh">美人</display-name>
@@ -1844,6 +1858,8 @@
   <channel id="阳江1"><display-name lang="zh">阳江1</display-name>
   </channel>
   <channel id="佛山公共"><display-name lang="zh">佛山公共</display-name>
+  </channel>
+  <channel id="上海星尚"><display-name lang="zh">上海星尚</display-name>
   </channel>
   <channel id="平顶山1新闻综合"><display-name lang="zh">平顶山1新闻综合</display-name>
   </channel>
@@ -7905,6 +7921,8 @@
   </programme>
   <programme start="20261120230200 +0800" stop="20261121000500 +0800" channel="CNA新聞"><title lang="zh">Singapore Hour</title><desc lang="zh">Forest bathing, sea adventures, planet-friendly dining, and Telok Blangah&amp;#x27;s timeless charm - discover how Singapore helps you breathe, play, and live anew.</desc>
   </programme>
+  <programme start="20261120000000 +0800" stop="20261120003000 +0800" channel="CNBC Asia 財經台"><title lang="zh">Squawk On The Street(普)</title>
+  </programme>
   <programme start="20261120003000 +0800" stop="20261120010000 +0800" channel="CNBC Asia 財經台"><title lang="zh">Squawk On The Street(普)</title>
   </programme>
   <programme start="20261120010000 +0800" stop="20261120013000 +0800" channel="CNBC Asia 財經台"><title lang="zh">Halftime Report(普)</title>
@@ -13073,6 +13091,8 @@
   </programme>
   <programme start="20261120223500 +0800" stop="20261121001500 +0800" channel="ROCK Action"><title lang="zh">唐山大兄(護)</title>
   </programme>
+  <programme start="20261120000000 +0800" stop="20261120010000 +0800" channel="ROCK Xstream搖滾極限頻道"><title lang="zh">秘夜組織(護)</title>
+  </programme>
   <programme start="20261120010000 +0800" stop="20261120020000 +0800" channel="ROCK Xstream搖滾極限頻道"><title lang="zh">秘夜組織(護)</title>
   </programme>
   <programme start="20261120020000 +0800" stop="20261120035000 +0800" channel="ROCK Xstream搖滾極限頻道"><title lang="zh">醉後末日(普)</title>
@@ -17748,6 +17768,52 @@
   </programme>
   <programme start="20261120233000 +0800" stop="20261121000000 +0800" channel="上海新闻综合"><title lang="zh">洋厨房</title>
   </programme>
+  <programme start="20261120000000 +0800" stop="20261120060000 +0800" channel="上海星尚"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120070000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261120070000 +0800" stop="20261120080000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261120080000 +0800" stop="20261120090000 +0800" channel="上海星尚"><title lang="zh">今日印象</title>
+  </programme>
+  <programme start="20261120090000 +0800" stop="20261120100000 +0800" channel="上海星尚"><title lang="zh">左右时尚</title>
+  </programme>
+  <programme start="20261120100000 +0800" stop="20261120110000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261120110000 +0800" stop="20261120120000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120123000 +0800" channel="上海星尚"><title lang="zh">乐活好正点</title>
+  </programme>
+  <programme start="20261120123000 +0800" stop="20261120130000 +0800" channel="上海星尚"><title lang="zh">今晚我们看电影</title>
+  </programme>
+  <programme start="20261120130000 +0800" stop="20261120142200 +0800" channel="上海星尚"><title lang="zh">生活大不同</title>
+  </programme>
+  <programme start="20261120142200 +0800" stop="20261120142400 +0800" channel="上海星尚"><title lang="zh">频道2分钟宣传片</title>
+  </programme>
+  <programme start="20261120142400 +0800" stop="20261120143000 +0800" channel="上海星尚"><title lang="zh">我就是偶像</title>
+  </programme>
+  <programme start="20261120143000 +0800" stop="20261120150000 +0800" channel="上海星尚"><title lang="zh">生活全接触</title>
+  </programme>
+  <programme start="20261120150000 +0800" stop="20261120160000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261120160000 +0800" stop="20261120170000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261120170000 +0800" stop="20261120173000 +0800" channel="上海星尚"><title lang="zh">乐活好正点</title>
+  </programme>
+  <programme start="20261120173000 +0800" stop="20261120180000 +0800" channel="上海星尚"><title lang="zh">星尚精选</title>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120190000 +0800" channel="上海星尚"><title lang="zh">美食大王牌</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120200000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120210000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261120220000 +0800" channel="上海星尚"><title lang="zh">今日印象</title>
+  </programme>
+  <programme start="20261120220000 +0800" stop="20261120230000 +0800" channel="上海星尚"><title lang="zh">左右时尚</title>
+  </programme>
+  <programme start="20261120230000 +0800" stop="20261120235900 +0800" channel="上海星尚"><title lang="zh">生活全接触</title>
+  </programme>
   <programme start="20261120000000 +0800" stop="20261120001900 +0800" channel="上海都市"><title lang="zh">X诊所冬虫夏草有问必答</title>
   </programme>
   <programme start="20261120001900 +0800" stop="20261120011200 +0800" channel="上海都市"><title lang="zh">新老娘舅</title><desc lang="zh">新老娘舅是民生调解栏目。节目聚焦家庭纠纷、邻里矛盾与情感纠葛，由调解员现场化解纷争，传递人情法理，是海派调解的品牌节目。</desc>
@@ -18111,6 +18177,36 @@
   <programme start="20261120230000 +0800" stop="20261120235200 +0800" channel="东方影视"><title lang="zh">38集连续剧：女子奇袭队（35）</title>
   </programme>
   <programme start="20261120235200 +0800" stop="20261120235900 +0800" channel="东方影视"><title lang="zh">38集连续剧：女子奇袭队（36）</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120000500 +0800" channel="东方电影"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120000500 +0800" stop="20261120015500 +0800" channel="东方电影"><title lang="zh">午夜经典</title>
+  </programme>
+  <programme start="20261120015500 +0800" stop="20261120075500 +0800" channel="东方电影"><title lang="zh">国产影院</title>
+  </programme>
+  <programme start="20261120075500 +0800" stop="20261120082500 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
+  </programme>
+  <programme start="20261120082500 +0800" stop="20261120100500 +0800" channel="东方电影"><title lang="zh">国产影院</title>
+  </programme>
+  <programme start="20261120100500 +0800" stop="20261120125000 +0800" channel="东方电影"><title lang="zh">黄金强档剧场</title>
+  </programme>
+  <programme start="20261120125000 +0800" stop="20261120132000 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
+  </programme>
+  <programme start="20261120132000 +0800" stop="20261120150000 +0800" channel="东方电影"><title lang="zh">正午影院</title>
+  </programme>
+  <programme start="20261120150000 +0800" stop="20261120153000 +0800" channel="东方电影"><title lang="zh">卡通王</title>
+  </programme>
+  <programme start="20261120153000 +0800" stop="20261120172000 +0800" channel="东方电影"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261120172000 +0800" stop="20261120190000 +0800" channel="东方电影"><title lang="zh">香港电影周</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120214500 +0800" channel="东方电影"><title lang="zh">黄金强档剧场</title>
+  </programme>
+  <programme start="20261120214500 +0800" stop="20261120215000 +0800" channel="东方电影"><title lang="zh">电影指南</title>
+  </programme>
+  <programme start="20261120215000 +0800" stop="20261120233000 +0800" channel="东方电影"><title lang="zh">环球影院</title>
+  </programme>
+  <programme start="20261120233000 +0800" stop="20261120235900 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120002500 +0800" channel="东方财经"><title lang="zh">天下雄关(4)</title>
   </programme>
@@ -21593,6 +21689,20 @@
   <programme start="20261120215600 +0800" stop="20261120233000 +0800" channel="云浮综合"><title lang="zh">电视剧：《悬崖》</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120233000 +0800" stop="20261120235900 +0800" channel="云浮综合"><title lang="zh">云浮新闻联播</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120060000 +0800" channel="互动赛马台"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120090000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
+  </programme>
+  <programme start="20261120090000 +0800" stop="20261120120000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120150000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
+  </programme>
+  <programme start="20261120150000 +0800" stop="20261120180000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120210000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261121030000 +0800" channel="互动赛马台"><title lang="zh">直播賽馬節目稍後播映</title>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120002000 +0800" channel="五星体育"><title lang="zh">metasvs2025长三角青少年高山滑雪公开赛</title>
   </programme>
@@ -25161,15 +25271,15 @@
   </programme>
   <programme start="20261120022800 +0800" stop="20261120031000 +0800" channel="北京卫视"><title lang="zh">我是大医生</title>
   </programme>
-  <programme start="20261120032300 +0800" stop="20261120032500 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(19)</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120032300 +0800" stop="20261120032500 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(19)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120032500 +0800" stop="20261120033100 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(15)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120033100 +0800" stop="20261120040000 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(12)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20261120040000 +0800" stop="20261120040700 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(19)</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120040000 +0800" stop="20261120040700 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(19)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20261120040700 +0800" stop="20261120043600 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(20)</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120040700 +0800" stop="20261120043600 +0800" channel="北京卫视"><title lang="zh">梦中的那片海(20)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120043600 +0800" stop="20261120043900 +0800" channel="北京卫视"><title lang="zh">好梦剧场</title>
   </programme>
@@ -25177,7 +25287,7 @@
   </programme>
   <programme start="20261120044500 +0800" stop="20261120045000 +0800" channel="北京卫视"><title lang="zh">档案</title><desc lang="zh">《档案》是一档以历史档案为主题的节目，本集讲述五四二台背后的故事。该节目通过挖掘历史档案，还原历史真相，让观众了解历史事件的背景和意义，增强历史意识和文化素养。</desc>
   </programme>
-  <programme start="20261120045000 +0800" stop="20261120045500 +0800" channel="北京卫视"><title lang="zh">2025最美北京我的家:古都、新城</title><desc>北京城市主题宣传节目，展现北京古都文脉传承与新城建设发展，记录城市变迁与人文风貌，彰显首都历史底蕴与时代活力。</desc>
+  <programme start="20261120045000 +0800" stop="20261120045500 +0800" channel="北京卫视"><title lang="zh">2025最美北京我的家:古都、新城</title><desc lang="zh">北京城市主题宣传节目，展现北京古都文脉传承与新城建设发展，记录城市变迁与人文风貌，彰显首都历史底蕴与时代活力。</desc>
   </programme>
   <programme start="20261120045500 +0800" stop="20261120045900 +0800" channel="北京卫视"><title lang="zh">沸腾吧火锅Ⅰ</title>
   </programme>
@@ -25221,11 +25331,13 @@
   </programme>
   <programme start="20261120094800 +0800" stop="20261120095200 +0800" channel="北京卫视"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
   </programme>
+  <programme start="20261120095200 +0800" stop="20261120102300 +0800" channel="北京卫视"><title lang="zh">沉默的荣耀(6)</title><desc lang="zh">1949年8月，本来要在福州迎接解放的吴石，突然被蒋介石任命为国民政府国防部次长。为了获得更多情报，吴石按照党组织的指示毅然前往台湾就职，利用工作便利陆续向中共华东局提供了有关金门岛兵力变化、西南战役国军调动等重要情报。原本要回上海的朱枫在得知吴石原来的交通员牺牲、组织上需要派新的交通员去台湾时，也毅然放弃了阖家团圆的机会，只身去了台湾。吴石、朱枫密切合作，送出了多份重要情报。1950年2月，由于叛徒出卖，吴石、朱枫、陈宝仓和聂曦等人不幸被捕，牺牲在台北西马场町，但他们送出的舟山兵力部署图帮助解放军顺利解放舟山群岛，为全国解放事业作出了贡献。</desc>
+  </programme>
   <programme start="20261120102300 +0800" stop="20261120103800 +0800" channel="北京卫视"><title lang="zh">剧场</title><desc lang="zh">电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261120103800 +0800" stop="20261120104200 +0800" channel="北京卫视"><title lang="zh">广宣时段</title><desc lang="zh">北京卫视常规公益与形象宣传时段，播出城市形象、文化推广、公益服务及精品导视类内容，传递主流价值与城市风貌。</desc>
   </programme>
-  <programme start="20261120104200 +0800" stop="20261120112000 +0800" channel="北京卫视"><title lang="zh">沉默的荣耀(7)</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120104200 +0800" stop="20261120112000 +0800" channel="北京卫视"><title lang="zh">沉默的荣耀(7)</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120112000 +0800" stop="20261120112500 +0800" channel="北京卫视"><title lang="zh">大国医者</title>
   </programme>
@@ -27043,6 +27155,188 @@
   </programme>
   <programme start="20261120222600 +0800" stop="20261121000000 +0800" channel="南平新闻综合"><title lang="zh">武夷方圆</title>
   </programme>
+  <programme start="20261120000000 +0800" stop="20261120000400 +0800" channel="南方少儿"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120000400 +0800" stop="20261120001400 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(20)</title>
+  </programme>
+  <programme start="20261120001400 +0800" stop="20261120002400 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(21)</title>
+  </programme>
+  <programme start="20261120002400 +0800" stop="20261120003300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(22)</title>
+  </programme>
+  <programme start="20261120003300 +0800" stop="20261120004300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(23)</title>
+  </programme>
+  <programme start="20261120004300 +0800" stop="20261120005300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(24)</title>
+  </programme>
+  <programme start="20261120005300 +0800" stop="20261120010200 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(25)</title>
+  </programme>
+  <programme start="20261120010200 +0800" stop="20261120011200 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(26)</title>
+  </programme>
+  <programme start="20261120011200 +0800" stop="20261120012300 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(1)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120012300 +0800" stop="20261120013500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(2)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120013500 +0800" stop="20261120014600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(3)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120014600 +0800" stop="20261120015700 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(4)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120015700 +0800" stop="20261120020900 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(5)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120020900 +0800" stop="20261120022100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(6)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120022100 +0800" stop="20261120023200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(7)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120023200 +0800" stop="20261120024400 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(8)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120024400 +0800" stop="20261120025500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(9)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120025500 +0800" stop="20261120030600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(10)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120030600 +0800" stop="20261120031800 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(11)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120031800 +0800" stop="20261120032900 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(12)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120032900 +0800" stop="20261120034000 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(13)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120034000 +0800" stop="20261120035100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(14)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120035100 +0800" stop="20261120040200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(15)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120040200 +0800" stop="20261120041400 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(16)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120041400 +0800" stop="20261120042500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(17)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120042500 +0800" stop="20261120043600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(18)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120043600 +0800" stop="20261120044700 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(19)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120044700 +0800" stop="20261120045800 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(20)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120045800 +0800" stop="20261120051000 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(21)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120051000 +0800" stop="20261120052100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(22)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120052100 +0800" stop="20261120053200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(23)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120053200 +0800" stop="20261120054300 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(24)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120054300 +0800" stop="20261120055500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(25)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120055500 +0800" stop="20261120060100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(26)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261120060100 +0800" stop="20261120061000 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(1)</title>
+  </programme>
+  <programme start="20261120061000 +0800" stop="20261120061900 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(2)</title>
+  </programme>
+  <programme start="20261120061900 +0800" stop="20261120062800 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(3)</title>
+  </programme>
+  <programme start="20261120062800 +0800" stop="20261120063800 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(4)</title>
+  </programme>
+  <programme start="20261120063800 +0800" stop="20261120064700 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(5)</title>
+  </programme>
+  <programme start="20261120064700 +0800" stop="20261120065700 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(6)</title>
+  </programme>
+  <programme start="20261120065700 +0800" stop="20261120070600 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(7)</title>
+  </programme>
+  <programme start="20261120070600 +0800" stop="20261120071500 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(8)</title>
+  </programme>
+  <programme start="20261120071500 +0800" stop="20261120072500 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(9)</title>
+  </programme>
+  <programme start="20261120072500 +0800" stop="20261120073400 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(10)</title>
+  </programme>
+  <programme start="20261120073400 +0800" stop="20261120074300 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(11)</title>
+  </programme>
+  <programme start="20261120074300 +0800" stop="20261120075300 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(12)</title>
+  </programme>
+  <programme start="20261120075300 +0800" stop="20261120080300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(1)</title>
+  </programme>
+  <programme start="20261120080300 +0800" stop="20261120081300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(2)</title>
+  </programme>
+  <programme start="20261120081300 +0800" stop="20261120082400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(3)</title>
+  </programme>
+  <programme start="20261120082400 +0800" stop="20261120083400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(4)</title>
+  </programme>
+  <programme start="20261120083400 +0800" stop="20261120084400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(5)</title>
+  </programme>
+  <programme start="20261120084400 +0800" stop="20261120085500 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(6)</title>
+  </programme>
+  <programme start="20261120085500 +0800" stop="20261120090500 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(7)</title>
+  </programme>
+  <programme start="20261120090500 +0800" stop="20261120091600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(8)</title>
+  </programme>
+  <programme start="20261120091600 +0800" stop="20261120092700 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(9)</title>
+  </programme>
+  <programme start="20261120092700 +0800" stop="20261120093900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(10)</title>
+  </programme>
+  <programme start="20261120093900 +0800" stop="20261120094900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(11)</title>
+  </programme>
+  <programme start="20261120094900 +0800" stop="20261120095900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(12)</title>
+  </programme>
+  <programme start="20261120095900 +0800" stop="20261120100900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(13)</title>
+  </programme>
+  <programme start="20261120100900 +0800" stop="20261120101900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(14)</title>
+  </programme>
+  <programme start="20261120101900 +0800" stop="20261120103300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(15)</title>
+  </programme>
+  <programme start="20261120103300 +0800" stop="20261120104400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(16)</title>
+  </programme>
+  <programme start="20261120104400 +0800" stop="20261120105400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(17)</title>
+  </programme>
+  <programme start="20261120105400 +0800" stop="20261120110600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(18)</title>
+  </programme>
+  <programme start="20261120110600 +0800" stop="20261120111600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(19)</title>
+  </programme>
+  <programme start="20261120111600 +0800" stop="20261120112800 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(20)</title>
+  </programme>
+  <programme start="20261120112800 +0800" stop="20261120113900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(21)</title>
+  </programme>
+  <programme start="20261120113900 +0800" stop="20261120115100 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(22)</title>
+  </programme>
+  <programme start="20261120115100 +0800" stop="20261120235900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(23)</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120003900 +0800" channel="南方影视"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120003900 +0800" stop="20261120011300 +0800" channel="南方影视"><title lang="zh">杀出黎明(9)</title>
+  </programme>
+  <programme start="20261120011300 +0800" stop="20261120014700 +0800" channel="南方影视"><title lang="zh">杀出黎明(10)</title>
+  </programme>
+  <programme start="20261120014700 +0800" stop="20261120021800 +0800" channel="南方影视"><title lang="zh">杀出黎明(11)</title>
+  </programme>
+  <programme start="20261120021800 +0800" stop="20261120024900 +0800" channel="南方影视"><title lang="zh">杀出黎明(12)</title>
+  </programme>
+  <programme start="20261120024900 +0800" stop="20261120032700 +0800" channel="南方影视"><title lang="zh">杀出黎明(13)</title>
+  </programme>
+  <programme start="20261120032700 +0800" stop="20261120035800 +0800" channel="南方影视"><title lang="zh">绿野心踪(45)</title>
+  </programme>
+  <programme start="20261120035800 +0800" stop="20261120043000 +0800" channel="南方影视"><title lang="zh">绿野心踪(46)</title>
+  </programme>
+  <programme start="20261120043000 +0800" stop="20261120050000 +0800" channel="南方影视"><title lang="zh">双枪(1)</title>
+  </programme>
+  <programme start="20261120050000 +0800" stop="20261120053000 +0800" channel="南方影视"><title lang="zh">双枪(2)</title>
+  </programme>
+  <programme start="20261120053000 +0800" stop="20261120060100 +0800" channel="南方影视"><title lang="zh">双枪(3)</title>
+  </programme>
+  <programme start="20261120060100 +0800" stop="20261120063100 +0800" channel="南方影视"><title lang="zh">双枪(4)</title>
+  </programme>
+  <programme start="20261120063100 +0800" stop="20261120072600 +0800" channel="南方影视"><title lang="zh">双枪(5)</title>
+  </programme>
+  <programme start="20261120072600 +0800" stop="20261120075600 +0800" channel="南方影视"><title lang="zh">双枪(6)</title>
+  </programme>
+  <programme start="20261120075600 +0800" stop="20261120083300 +0800" channel="南方影视"><title lang="zh">双枪(7)</title>
+  </programme>
+  <programme start="20261120083300 +0800" stop="20261120090700 +0800" channel="南方影视"><title lang="zh">双枪(8)</title>
+  </programme>
+  <programme start="20261120090700 +0800" stop="20261120094800 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(69)</title>
+  </programme>
+  <programme start="20261120094800 +0800" stop="20261120102900 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(70)</title>
+  </programme>
+  <programme start="20261120102900 +0800" stop="20261120110500 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(71)</title>
+  </programme>
+  <programme start="20261120110500 +0800" stop="20261120112100 +0800" channel="南方影视"><title lang="zh">广东电影报道</title>
+  </programme>
+  <programme start="20261120112100 +0800" stop="20261120115100 +0800" channel="南方影视"><title lang="zh">追时代1(4):钱火火求职记</title>
+  </programme>
+  <programme start="20261120115100 +0800" stop="20261120235900 +0800" channel="南方影视"><title lang="zh">战火青春(26)</title>
+  </programme>
   <programme start="20261120000000 +0800" stop="20261120002900 +0800" channel="南方购物高清"><title lang="zh">GESHE哥奢经典老花双肩包</title>
   </programme>
   <programme start="20261120002900 +0800" stop="20261120010300 +0800" channel="南方购物高清"><title lang="zh">BURRSAIL璀璨满天星机械对表</title>
@@ -27627,7 +27921,7 @@
   </programme>
   <programme start="20261120150000 +0800" stop="20261120180000 +0800" channel="博斯高球台"><title lang="zh">2026 PGA 奧斯丁錦標賽 第二天(普)</title>
   </programme>
-  <programme start="20261120180000 +0800" stop="20261121000000 +0800" channel="博斯高球台"><title lang="zh">2026 歐巡 世界巡迴錦標賽 第三天(普)</title>
+  <programme start="20261120180000 +0800" stop="20261120235900 +0800" channel="博斯高球台"><title lang="zh">2026 歐巡 世界巡迴錦標賽 第三天(普)</title>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120010000 +0800" channel="博斯魅力台"><title lang="zh">2026東京女網賽決賽FER vs SHN(普)</title>
   </programme>
@@ -28973,7 +29267,7 @@
   </programme>
   <programme start="20261120233000 +0800" stop="20261120235900 +0800" channel="台视财经台"><title lang="zh">全球新觀點 (第2474 集)【普】</title>
   </programme>
-  <programme start="20261120004100 +0800" stop="20261120043500 +0800" channel="吉林乡村"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20261120004100 +0800" stop="20261120043500 +0800" channel="吉林乡村"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
   <programme start="20261120043500 +0800" stop="20261120050300 +0800" channel="吉林乡村"><title lang="zh">家长里短</title>
   </programme>
@@ -28981,7 +29275,7 @@
   </programme>
   <programme start="20261120053900 +0800" stop="20261120061900 +0800" channel="吉林乡村"><title lang="zh">二人转总动员</title>
   </programme>
-  <programme start="20261120061900 +0800" stop="20261120104300 +0800" channel="吉林乡村"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120061900 +0800" stop="20261120104300 +0800" channel="吉林乡村"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120104300 +0800" stop="20261120113000 +0800" channel="吉林乡村"><title lang="zh">综艺精编版</title>
   </programme>
@@ -28991,7 +29285,7 @@
   </programme>
   <programme start="20261120133400 +0800" stop="20261120142100 +0800" channel="吉林乡村"><title lang="zh">家长里短</title>
   </programme>
-  <programme start="20261120142100 +0800" stop="20261120145700 +0800" channel="吉林乡村"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120142100 +0800" stop="20261120145700 +0800" channel="吉林乡村"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120145700 +0800" stop="20261120161400 +0800" channel="吉林乡村"><title lang="zh">斗你玩</title>
   </programme>
@@ -29005,7 +29299,7 @@
   </programme>
   <programme start="20261120183000 +0800" stop="20261120200600 +0800" channel="吉林乡村"><title lang="zh">二人转总动员</title>
   </programme>
-  <programme start="20261120200600 +0800" stop="20261120214200 +0800" channel="吉林乡村"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120200600 +0800" stop="20261120214200 +0800" channel="吉林乡村"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261120214200 +0800" stop="20261120222200 +0800" channel="吉林乡村"><title lang="zh">广角民生</title>
   </programme>
@@ -29439,9 +29733,9 @@
   </programme>
   <programme start="20261120234500 +0800" stop="20261120235959 +0800" channel="吉林综艺文化"><title lang="zh">欢乐喜剧人</title>
   </programme>
-  <programme start="20261120000400 +0800" stop="20261120052500 +0800" channel="吉林都市"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20261120000400 +0800" stop="20261120052500 +0800" channel="吉林都市"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20261120052500 +0800" stop="20261120055000 +0800" channel="吉林都市"><title lang="zh">吉林新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120052500 +0800" stop="20261120055000 +0800" channel="吉林都市"><title lang="zh">吉林新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -29453,7 +29747,7 @@
   </programme>
   <programme start="20261120070000 +0800" stop="20261120080300 +0800" channel="吉林都市"><title lang="zh">守望都市早间版</title>
   </programme>
-  <programme start="20261120080300 +0800" stop="20261120095100 +0800" channel="吉林都市"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120080300 +0800" stop="20261120095100 +0800" channel="吉林都市"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120095100 +0800" stop="20261120105300 +0800" channel="吉林都市"><title lang="zh">都市大明星</title>
   </programme>
@@ -29463,7 +29757,7 @@
   </programme>
   <programme start="20261120123300 +0800" stop="20261120130700 +0800" channel="吉林都市"><title lang="zh">都市生活圈</title>
   </programme>
-  <programme start="20261120130700 +0800" stop="20261120161300 +0800" channel="吉林都市"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120130700 +0800" stop="20261120161300 +0800" channel="吉林都市"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120161300 +0800" stop="20261120164200 +0800" channel="吉林都市"><title lang="zh">健康大赢家</title>
   </programme>
@@ -29473,7 +29767,7 @@
   </programme>
   <programme start="20261120180000 +0800" stop="20261120193000 +0800" channel="吉林都市"><title lang="zh">守望都市晚间版</title>
   </programme>
-  <programme start="20261120193000 +0800" stop="20261120222500 +0800" channel="吉林都市"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120193000 +0800" stop="20261120222500 +0800" channel="吉林都市"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261120222500 +0800" stop="20261120230000 +0800" channel="吉林都市"><title lang="zh">都市生活圈</title>
   </programme>
@@ -32765,11 +33059,11 @@
   </programme>
   <programme start="20261120231000 +0800" stop="20261121010000 +0800" channel="天津教育"><title lang="zh">法眼精编</title>
   </programme>
-  <programme start="20261120005000 +0800" stop="20261120022000 +0800" channel="天津文艺"><title lang="zh">幸福剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120005000 +0800" stop="20261120022000 +0800" channel="天津文艺"><title lang="zh">幸福剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120022000 +0800" stop="20261120044500 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120022000 +0800" stop="20261120044500 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20261120044500 +0800" stop="20261120060000 +0800" channel="天津文艺"><title lang="zh">档案</title><desc>《档案》是一档以历史档案为主题的节目，本集讲述五四二台背后的故事。该节目通过挖掘历史档案，还原历史真相，让观众了解历史事件的背景和意义，增强历史意识和文化素养。</desc>
+  <programme start="20261120044500 +0800" stop="20261120060000 +0800" channel="天津文艺"><title lang="zh">档案</title><desc lang="zh">《档案》是一档以历史档案为主题的节目，本集讲述五四二台背后的故事。该节目通过挖掘历史档案，还原历史真相，让观众了解历史事件的背景和意义，增强历史意识和文化素养。</desc>
   </programme>
   <programme start="20261120060000 +0800" stop="20261120070000 +0800" channel="天津文艺"><title lang="zh">每日笑吧</title>
   </programme>
@@ -32777,15 +33071,15 @@
   </programme>
   <programme start="20261120080600 +0800" stop="20261120094500 +0800" channel="天津文艺"><title lang="zh">音乐视界</title>
   </programme>
-  <programme start="20261120094500 +0800" stop="20261120123000 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120094500 +0800" stop="20261120123000 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120123000 +0800" stop="20261120132500 +0800" channel="天津文艺"><title lang="zh">每日笑吧</title>
   </programme>
   <programme start="20261120132500 +0800" stop="20261120133000 +0800" channel="天津文艺"><title lang="zh">文化关注</title>
   </programme>
-  <programme start="20261120133000 +0800" stop="20261120141500 +0800" channel="天津文艺"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120133000 +0800" stop="20261120141500 +0800" channel="天津文艺"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120141500 +0800" stop="20261120160000 +0800" channel="天津文艺"><title lang="zh">幸福剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120141500 +0800" stop="20261120160000 +0800" channel="天津文艺"><title lang="zh">幸福剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120160000 +0800" stop="20261120170500 +0800" channel="天津文艺"><title lang="zh">鱼龙百戏</title>
   </programme>
@@ -32795,7 +33089,7 @@
   </programme>
   <programme start="20261120182500 +0800" stop="20261120184000 +0800" channel="天津文艺"><title lang="zh">文化关注</title>
   </programme>
-  <programme start="20261120184000 +0800" stop="20261120190000 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120184000 +0800" stop="20261120190000 +0800" channel="天津文艺"><title lang="zh">多彩剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120190000 +0800" stop="20261120211000 +0800" channel="天津文艺"><title lang="zh">多彩剧场:《再见艳阳天》（10 11 12）</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -36417,7 +36711,7 @@
   </programme>
   <programme start="20261120210000 +0800" stop="20261120213000 +0800" channel="山西文体生活"><title lang="zh">我的旅游攻略</title>
   </programme>
-  <programme start="20261120213000 +0800" stop="20261120220000 +0800" channel="山西文体生活"><title lang="zh">山西新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120213000 +0800" stop="20261120220000 +0800" channel="山西文体生活"><title lang="zh">山西新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -36437,7 +36731,7 @@
   </programme>
   <programme start="20261120134500 +0800" stop="20261120142000 +0800" channel="山西社会与法治"><title lang="zh">公民与法</title>
   </programme>
-  <programme start="20261120142000 +0800" stop="20261120173000 +0800" channel="山西社会与法治"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120142000 +0800" stop="20261120173000 +0800" channel="山西社会与法治"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120173000 +0800" stop="20261120180000 +0800" channel="山西社会与法治"><title lang="zh">都市多看点</title>
   </programme>
@@ -36451,15 +36745,15 @@
   </programme>
   <programme start="20261120215000 +0800" stop="20261120224000 +0800" channel="山西社会与法治"><title lang="zh">说出你的爱</title>
   </programme>
-  <programme start="20261120224000 +0800" stop="20261120235000 +0800" channel="山西社会与法治"><title lang="zh">都市剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120224000 +0800" stop="20261120235000 +0800" channel="山西社会与法治"><title lang="zh">都市剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120002600 +0800" stop="20261120010900 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(42集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120002600 +0800" stop="20261120010900 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(42集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120010900 +0800" stop="20261120015200 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(43集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120010900 +0800" stop="20261120015200 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(43集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120015200 +0800" stop="20261120023600 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(44集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120015200 +0800" stop="20261120023600 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(44集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120023600 +0800" stop="20261120033400 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(45集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120023600 +0800" stop="20261120033400 +0800" channel="山西经济与科技"><title lang="zh">深夜剧场:三生三世十里桃花(45集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120033400 +0800" stop="20261120040100 +0800" channel="山西经济与科技"><title lang="zh">经济30分(重播)</title>
   </programme>
@@ -36477,21 +36771,21 @@
   </programme>
   <programme start="20261120065600 +0800" stop="20261120072300 +0800" channel="山西经济与科技"><title lang="zh">一起健康吧(重播)</title>
   </programme>
-  <programme start="20261120072300 +0800" stop="20261120075300 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:飞虎队(48集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120072300 +0800" stop="20261120075300 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:飞虎队(48集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120075300 +0800" stop="20261120082100 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120075300 +0800" stop="20261120082100 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120082100 +0800" stop="20261120085100 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:飞虎队(49集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120082100 +0800" stop="20261120085100 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:飞虎队(49集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120085100 +0800" stop="20261120091500 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120085100 +0800" stop="20261120091500 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120091500 +0800" stop="20261120094500 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(1集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120091500 +0800" stop="20261120094500 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(1集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120094500 +0800" stop="20261120101200 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120094500 +0800" stop="20261120101200 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120101200 +0800" stop="20261120104200 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(2集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120101200 +0800" stop="20261120104200 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(2集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120104200 +0800" stop="20261120111200 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(3集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120104200 +0800" stop="20261120111200 +0800" channel="山西经济与科技"><title lang="zh">上午剧场:兵临城下(3集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120115200 +0800" stop="20261120121400 +0800" channel="山西经济与科技"><title lang="zh">一起健康吧</title><desc lang="zh">生活健康栏目，讲解日常健康常识。</desc>
   </programme>
@@ -36505,23 +36799,23 @@
   </programme>
   <programme start="20261120133500 +0800" stop="20261120135100 +0800" channel="山西经济与科技"><title lang="zh">理论天天学(首播)</title>
   </programme>
-  <programme start="20261120135100 +0800" stop="20261120142100 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(9集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120135100 +0800" stop="20261120142100 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(9集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120142100 +0800" stop="20261120144600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120142100 +0800" stop="20261120144600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120144600 +0800" stop="20261120151600 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(10集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120144600 +0800" stop="20261120151600 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(10集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120151600 +0800" stop="20261120154600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120151600 +0800" stop="20261120154600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120154600 +0800" stop="20261120161600 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(11集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120154600 +0800" stop="20261120161600 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(11集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120161600 +0800" stop="20261120163600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120161600 +0800" stop="20261120163600 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
-  <programme start="20261120163600 +0800" stop="20261120170700 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(12集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120163600 +0800" stop="20261120170700 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(12集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120170700 +0800" stop="20261120173700 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(13集)</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120170700 +0800" stop="20261120173700 +0800" channel="山西经济与科技"><title lang="zh">下午剧场:烈火刀影(13集)</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120173700 +0800" stop="20261120184300 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120173700 +0800" stop="20261120184300 +0800" channel="山西经济与科技"><title lang="zh">专题</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261120184300 +0800" stop="20261120190900 +0800" channel="山西经济与科技"><title lang="zh">经济30分之看天下(重播)</title>
   </programme>
@@ -36533,17 +36827,17 @@
   </programme>
   <programme start="20261120203700 +0800" stop="20261120210000 +0800" channel="山西经济与科技"><title lang="zh">经济30分之看天下(首播)</title>
   </programme>
-  <programme start="20261120210000 +0800" stop="20261120213000 +0800" channel="山西经济与科技"><title lang="zh">山西新闻联播(首播)</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120210000 +0800" stop="20261120213000 +0800" channel="山西经济与科技"><title lang="zh">山西新闻联播(首播)</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
   </programme>
-  <programme start="20261120213000 +0800" stop="20261120221500 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(7集)</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120213000 +0800" stop="20261120221500 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(7集)</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120221500 +0800" stop="20261120225500 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(8集)</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120221500 +0800" stop="20261120225500 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(8集)</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120225500 +0800" stop="20261120234300 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(9集)</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120225500 +0800" stop="20261120234300 +0800" channel="山西经济与科技"><title lang="zh">晚间剧场:上海滩生死较量(9集)</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120010000 +0800" channel="岭南戏曲"><title lang="zh">剧场连线</title>
   </programme>
@@ -45960,7 +46254,7 @@ ani</desc>
   </programme>
   <programme start="20261120234500 +0800" stop="20261121000000 +0800" channel="江苏综艺"><title lang="zh">缘分进行时之桃花朵朵开</title><desc>江苏电视台综艺频道的婚恋交友栏目，为单身男女提供相识相知的平台。节目设置“桃花意中人”选择、亮灯灭灯等互动环节，通过真诚对话与情感交流，帮助参与者寻找人生伴侣，传递积极健康的婚恋观。</desc>
   </programme>
-  <programme start="20261120085000 +0800" stop="20261120120000 +0800" channel="江西公共农业"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120085000 +0800" stop="20261120120000 +0800" channel="江西公共农业"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120120000 +0800" stop="20261120134000 +0800" channel="江西公共农业"><title lang="zh">爱在旅途</title>
   </programme>
@@ -45968,7 +46262,7 @@ ani</desc>
   </programme>
   <programme start="20261120172000 +0800" stop="20261120175000 +0800" channel="江西公共农业"><title lang="zh">谈讬</title>
   </programme>
-  <programme start="20261120175000 +0800" stop="20261120193800 +0800" channel="江西公共农业"><title lang="zh">新闻晚高峰</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261120175000 +0800" stop="20261120193800 +0800" channel="江西公共农业"><title lang="zh">新闻晚高峰</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20261120193800 +0800" stop="20261120201000 +0800" channel="江西公共农业"><title lang="zh">目击者</title>
   </programme>
@@ -45976,7 +46270,7 @@ ani</desc>
   </programme>
   <programme start="20261120224500 +0800" stop="20261120235500 +0800" channel="江西公共农业"><title lang="zh">夜来香</title>
   </programme>
-  <programme start="20261120235500 +0800" stop="20261120235900 +0800" channel="江西公共农业"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120235500 +0800" stop="20261120235900 +0800" channel="江西公共农业"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120002500 +0800" channel="江西卫视"><title lang="zh">沉默的荣耀(32)</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -46100,25 +46394,25 @@ ani</desc>
   </programme>
   <programme start="20261120063000 +0800" stop="20261120083300 +0800" channel="江西新闻"><title lang="zh">票房影院</title>
   </programme>
-  <programme start="20261120083300 +0800" stop="20261120113300 +0800" channel="江西新闻"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120083300 +0800" stop="20261120113300 +0800" channel="江西新闻"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120113300 +0800" stop="20261120115800 +0800" channel="江西新闻"><title lang="zh">大幕追击</title>
   </programme>
   <programme start="20261120115800 +0800" stop="20261120125500 +0800" channel="江西新闻"><title lang="zh">欢乐逗地主</title>
   </programme>
-  <programme start="20261120125500 +0800" stop="20261120170200 +0800" channel="江西新闻"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120125500 +0800" stop="20261120170200 +0800" channel="江西新闻"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120170200 +0800" stop="20261120184200 +0800" channel="江西新闻"><title lang="zh">经典影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
+  <programme start="20261120170200 +0800" stop="20261120184200 +0800" channel="江西新闻"><title lang="zh">经典影院</title><desc lang="zh">电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
   <programme start="20261120184200 +0800" stop="20261120185700 +0800" channel="江西新闻"><title lang="zh">第一地产</title>
   </programme>
-  <programme start="20261120185700 +0800" stop="20261120212800 +0800" channel="江西新闻"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120185700 +0800" stop="20261120212800 +0800" channel="江西新闻"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261120212800 +0800" stop="20261120220000 +0800" channel="江西新闻"><title lang="zh">大幕追击</title>
   </programme>
   <programme start="20261120220000 +0800" stop="20261120234000 +0800" channel="江西新闻"><title lang="zh">票房影院</title>
   </programme>
-  <programme start="20261120234000 +0800" stop="20261120235900 +0800" channel="江西新闻"><title lang="zh">经典影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
+  <programme start="20261120234000 +0800" stop="20261120235900 +0800" channel="江西新闻"><title lang="zh">经典影院</title><desc lang="zh">电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
   <programme start="20261120000000 +0800" stop="20261120004000 +0800" channel="江西移动"><title lang="zh">精彩节目</title>
   </programme>
@@ -53498,23 +53792,23 @@ ani</desc>
   </programme>
   <programme start="20261120224400 +0800" stop="20261120235959 +0800" channel="湖南爱晚"><title lang="zh">帮女郎帮你忙</title><desc lang="zh">全国首个专业女性记者团队——湖南公共频道“帮女郎”，将于2014年3月1日美丽“蝶变”。服务了湖南观众近8年的《帮助直通车》，改名为《帮女郎 帮你忙》，每天17:30，60分钟直播，美丽加倍，帮助升级，贴心互动。《帮女郎 帮你忙》推出“帮女郎帮你忙”版块，18位美丽善良的“帮女郎”，采集了权威新闻资讯，搜索热点深度报道，并同步启动2014年度公益活动——“快乐校舍”，在全省寻找需要重建的贫困山区村小。栏目将打通栏目热线、微博、微信等多个平台，打破电视屏幕的距离，与观众网友实时爱心互动，每周打造一场全民参与的公益活动。“帮女郎在调查”版块，将坚持独立的调查、人文的关怀、深度的思考、犀利的评论，彰显舆论监督的力度，将帮忙进行到底！</desc>
   </programme>
-  <programme start="20261120003000 +0800" stop="20261120080000 +0800" channel="湖南电影"><title lang="zh">电影</title><desc>"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
+  <programme start="20261120003000 +0800" stop="20261120080000 +0800" channel="湖南电影"><title lang="zh">电影</title><desc lang="zh">"你可以忘了电影的故事，或是一部电视剧的细节，甚至是它们的名字，但是每当片中的旋律响起时，那沉淀的回忆，就会被轻轻地唤起；被雕刻的时光，也渐渐地清晰。光阴的指尖弹奏着心灵的音符，《影视留声机》让我们一起看见声音的表情，音乐响起，和我们想起的一切都属于你。</desc>
   </programme>
-  <programme start="20261120080000 +0800" stop="20261120120000 +0800" channel="湖南电影"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120080000 +0800" stop="20261120120000 +0800" channel="湖南电影"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120120000 +0800" stop="20261120140000 +0800" channel="湖南电影"><title lang="zh">动作天下</title>
   </programme>
-  <programme start="20261120140000 +0800" stop="20261120154000 +0800" channel="湖南电影"><title lang="zh">经典影院</title><desc>电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
+  <programme start="20261120140000 +0800" stop="20261120154000 +0800" channel="湖南电影"><title lang="zh">经典影院</title><desc lang="zh">电视台电影频道或特定电影栏目的统称，通常按播出时段划分，如“第一剧场”“环球影院”“热门影院”等。节目内容涵盖国内外优秀影片、原创微电影及无障碍电影等多元形式，通过多时段编排满足不同观众的观影需求。部分节目如《追光电影院》则专注于无障碍电影制作与传播，服务视障群体共享光影魅力。</desc>
   </programme>
   <programme start="20261120154000 +0800" stop="20261120174000 +0800" channel="湖南电影"><title lang="zh">传奇影院</title>
   </programme>
   <programme start="20261120174000 +0800" stop="20261120193000 +0800" channel="湖南电影"><title lang="zh">第一放映室</title>
   </programme>
-  <programme start="20261120193000 +0800" stop="20261120203100 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120193000 +0800" stop="20261120203100 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120203100 +0800" stop="20261120213300 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120203100 +0800" stop="20261120213300 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120213300 +0800" stop="20261120223500 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120213300 +0800" stop="20261120223500 +0800" channel="湖南电影"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261120223500 +0800" stop="20261120235900 +0800" channel="湖南电影"><title lang="zh">潇湘影视学院</title>
   </programme>
@@ -54571,6 +54865,18 @@ ani</desc>
   <programme start="20261120225500 +0800" stop="20261120234000 +0800" channel="潮州综合"><title lang="zh">连续剧</title>
   </programme>
   <programme start="20261120234000 +0800" stop="20261120235900 +0800" channel="潮州综合"><title lang="zh">连续剧</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120060000 +0800" channel="澜湄国际"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261120060000 +0800" stop="20261120080000 +0800" channel="澜湄国际"><title lang="zh">雲南瀾湄國際衛視全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261120080000 +0800" stop="20261120120000 +0800" channel="澜湄国际"><title lang="zh">雲南瀾湄國際衛視全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120160000 +0800" channel="澜湄国际"><title lang="zh">雲南瀾湄國際衛視全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261120160000 +0800" stop="20261120200000 +0800" channel="澜湄国际"><title lang="zh">雲南瀾湄國際衛視全日24小時為你送上精彩節目</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261121000000 +0800" channel="澜湄国际"><title lang="zh">雲南瀾湄國際衛視全日24小時為你送上精彩節目</title>
   </programme>
   <programme start="20261120000100 +0800" stop="20261120002700 +0800" channel="澳视澳门"><title lang="zh">灣區全媒睇</title>
   </programme>
@@ -55739,6 +56045,8 @@ ani</desc>
   <programme start="20261120220000 +0800" stop="20261120230000 +0800" channel="爱尔达日韩"><title lang="zh">信號(泰) 23:23(第15集) (護)</title>
   </programme>
   <programme start="20261120230000 +0800" stop="20261120235900 +0800" channel="爱尔达日韩"><title lang="zh">信號(泰) 23:23(第16集) (護)</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120000200 +0800" channel="爱尔达生活旅游"><title lang="zh">精彩节目</title>
   </programme>
   <programme start="20261120000200 +0800" stop="20261120005300 +0800" channel="爱尔达生活旅游"><title lang="zh">主廚大聯盟 09</title>
   </programme>
@@ -57310,43 +57618,43 @@ ani</desc>
   </programme>
   <programme start="20261120004600 +0800" stop="20261120070100 +0800" channel="甘肃少儿"><title lang="zh">奇趣大自然</title>
   </programme>
-  <programme start="20261120070100 +0800" stop="20261120095100 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120070100 +0800" stop="20261120095100 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120095100 +0800" stop="20261120110800 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120095100 +0800" stop="20261120110800 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120110800 +0800" stop="20261120120000 +0800" channel="甘肃少儿"><title lang="zh">童心梦想</title>
   </programme>
   <programme start="20261120120000 +0800" stop="20261120125100 +0800" channel="甘肃少儿"><title lang="zh">王师说电竞</title>
   </programme>
-  <programme start="20261120125100 +0800" stop="20261120135700 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120125100 +0800" stop="20261120135700 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120135700 +0800" stop="20261120150300 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120135700 +0800" stop="20261120150300 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120150300 +0800" stop="20261120154400 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120150300 +0800" stop="20261120154400 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120154400 +0800" stop="20261120160900 +0800" channel="甘肃少儿"><title lang="zh">哎呦黑皮</title>
   </programme>
-  <programme start="20261120160900 +0800" stop="20261120165400 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120160900 +0800" stop="20261120165400 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120165400 +0800" stop="20261120173700 +0800" channel="甘肃少儿"><title lang="zh">超能小星探</title>
   </programme>
-  <programme start="20261120173700 +0800" stop="20261120182000 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120173700 +0800" stop="20261120182000 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120182000 +0800" stop="20261120190100 +0800" channel="甘肃少儿"><title lang="zh">七彩空间</title>
   </programme>
   <programme start="20261120190100 +0800" stop="20261120193200 +0800" channel="甘肃少儿"><title lang="zh">童心学堂</title>
   </programme>
-  <programme start="20261120193200 +0800" stop="20261120202200 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120193200 +0800" stop="20261120202200 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120202200 +0800" stop="20261120205400 +0800" channel="甘肃少儿"><title lang="zh">奇趣大自然</title>
   </programme>
   <programme start="20261120205400 +0800" stop="20261120211000 +0800" channel="甘肃少儿"><title lang="zh">天天教育</title>
   </programme>
-  <programme start="20261120211000 +0800" stop="20261120235900 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120211000 +0800" stop="20261120235900 +0800" channel="甘肃少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120000700 +0800" stop="20261120080300 +0800" channel="甘肃文化影视"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20261120000700 +0800" stop="20261120080300 +0800" channel="甘肃文化影视"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20261120080300 +0800" stop="20261120113300 +0800" channel="甘肃文化影视"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120080300 +0800" stop="20261120113300 +0800" channel="甘肃文化影视"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120113300 +0800" stop="20261120120000 +0800" channel="甘肃文化影视"><title lang="zh">情暖夕阳</title>
   </programme>
@@ -57354,13 +57662,13 @@ ani</desc>
   </programme>
   <programme start="20261120134200 +0800" stop="20261120141900 +0800" channel="甘肃文化影视"><title lang="zh">第一生活</title>
   </programme>
-  <programme start="20261120141900 +0800" stop="20261120163400 +0800" channel="甘肃文化影视"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120141900 +0800" stop="20261120163400 +0800" channel="甘肃文化影视"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120163400 +0800" stop="20261120180000 +0800" channel="甘肃文化影视"><title lang="zh">情暖夕阳</title>
   </programme>
   <programme start="20261120180000 +0800" stop="20261120193000 +0800" channel="甘肃文化影视"><title lang="zh">喧个关,帮个忙</title>
   </programme>
-  <programme start="20261120193000 +0800" stop="20261120223000 +0800" channel="甘肃文化影视"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120193000 +0800" stop="20261120223000 +0800" channel="甘肃文化影视"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
   <programme start="20261120223000 +0800" stop="20261120233600 +0800" channel="甘肃文化影视"><title lang="zh">第一生活</title>
   </programme>
@@ -57380,7 +57688,7 @@ ani</desc>
   </programme>
   <programme start="20261120040300 +0800" stop="20261120042800 +0800" channel="甘肃科教"><title lang="zh">乡村新事记</title><desc lang="zh">《乡村新事记》是甘肃卫视全新打造的一档对农栏目，旨在把甘肃省“乡村振兴”工作的经验和做法，鲜活地展现在全国观众面前。栏目以产业振兴、人才振兴、文化振兴、生态振兴、组织振兴五大方面为主要内容，聚焦新时代“三农”故事，通过人物、事件的小切口，用每一个包含真情的小故事反映甘肃省巩固脱贫攻坚成果，及人民群众对于乡村振兴的热情与干劲，让人们感受到更多的力量和信心。</desc>
   </programme>
-  <programme start="20261120042800 +0800" stop="20261120044300 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc>《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
+  <programme start="20261120042800 +0800" stop="20261120044300 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc lang="zh">《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
   </programme>
   <programme start="20261120044300 +0800" stop="20261120051300 +0800" channel="甘肃科教"><title lang="zh">纪录30分</title><desc lang="zh">整合上星综合频道的30分钟纪录片栏目 提供播出时间查询，节目点播一站式服务。</desc>
   </programme>
@@ -57390,7 +57698,7 @@ ani</desc>
   </programme>
   <programme start="20261120062100 +0800" stop="20261120063500 +0800" channel="甘肃科教"><title lang="zh">劳模纪录工程</title><desc lang="zh">《劳模记录工程》是由甘肃省总工会、甘肃省广播电视台联合创办、甘肃卫视制作的一档以全媒体方式传播的人物微纪录片栏目。《劳模记录工程》栏目通过主持人（讲述人）的叙述，引出劳模故事，以第一人称或第三人称视角展开叙述，以相对客观的视角展现各级各类劳模人物的事迹，把观众带入人物纪录片的叙述情境，忠实记录人物的本真状态和所处环境，不刻意摆拍，注重细节，突出平凡的感动、向上的力量，以小见大展现新时代劳模风采，多维度、立体式呈现甘肃劳模群像。</desc>
   </programme>
-  <programme start="20261120063500 +0800" stop="20261120065500 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc>《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
+  <programme start="20261120063500 +0800" stop="20261120065500 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc lang="zh">《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
   </programme>
   <programme start="20261120065500 +0800" stop="20261120073000 +0800" channel="甘肃科教"><title lang="zh">纪录30分</title><desc lang="zh">整合上星综合频道的30分钟纪录片栏目 提供播出时间查询，节目点播一站式服务。</desc>
   </programme>
@@ -57446,7 +57754,7 @@ ani</desc>
   </programme>
   <programme start="20261120193200 +0800" stop="20261120200500 +0800" channel="甘肃科教"><title lang="zh">剧场</title><desc lang="zh">剧场是电视剧剧场时段，精选优秀电视剧和纪录剧集集中播出，为观众呈现跌宕起伏的故事情节和丰富多样的人物命运，是市民茶余饭后欣赏精彩剧集、放松身心的专属时段。</desc>
   </programme>
-  <programme start="20261120200500 +0800" stop="20261120202000 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc>《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
+  <programme start="20261120200500 +0800" stop="20261120202000 +0800" channel="甘肃科教"><title lang="zh">非遗匠心</title><desc lang="zh">《 平凡匠心 》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
   </programme>
   <programme start="20261120202000 +0800" stop="20261120204000 +0800" channel="甘肃科教"><title lang="zh">健康甘肃</title>
   </programme>
@@ -65086,13 +65394,13 @@ ani</desc>
   </programme>
   <programme start="20261120234900 +0800" stop="20261121000000 +0800" channel="贵州卫视"><title lang="zh">纪录片</title><desc>以真实生活为创作素材，以真人真事为表现对象，通过非虚构的艺术手法，对现实进行观察、记录与思考的影视作品形式。纪录片涵盖自然地理、人文历史、社会现实、科技探索等多元题材，兼具纪实性、思想性与艺术性，是记录时代变迁、传承文化记忆的重要载体。</desc>
   </programme>
-  <programme start="20261120072000 +0800" stop="20261120085000 +0800" channel="贵州大众生活"><title lang="zh">家园</title><desc>由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
+  <programme start="20261120072000 +0800" stop="20261120085000 +0800" channel="贵州大众生活"><title lang="zh">家园</title><desc lang="zh">由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
   </programme>
-  <programme start="20261120085000 +0800" stop="20261120114400 +0800" channel="贵州大众生活"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120085000 +0800" stop="20261120114400 +0800" channel="贵州大众生活"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120114400 +0800" stop="20261120130200 +0800" channel="贵州大众生活"><title lang="zh">家园美居</title>
   </programme>
-  <programme start="20261120130200 +0800" stop="20261120174000 +0800" channel="贵州大众生活"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120130200 +0800" stop="20261120174000 +0800" channel="贵州大众生活"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120174000 +0800" stop="20261120175700 +0800" channel="贵州大众生活"><title lang="zh">生活购</title>
   </programme>
@@ -65110,7 +65418,7 @@ ani</desc>
   </programme>
   <programme start="20261120001600 +0800" stop="20261120070800 +0800" channel="贵州影视文艺"><title lang="zh">电视剧剧场</title>
   </programme>
-  <programme start="20261120070800 +0800" stop="20261120073900 +0800" channel="贵州影视文艺"><title lang="zh">家园</title><desc>由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
+  <programme start="20261120070800 +0800" stop="20261120073900 +0800" channel="贵州影视文艺"><title lang="zh">家园</title><desc lang="zh">由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
   </programme>
   <programme start="20261120073900 +0800" stop="20261120103800 +0800" channel="贵州影视文艺"><title lang="zh">电视剧剧场</title>
   </programme>
@@ -65124,7 +65432,7 @@ ani</desc>
   </programme>
   <programme start="20261120125900 +0800" stop="20261120134700 +0800" channel="贵州影视文艺"><title lang="zh">电视剧剧场</title>
   </programme>
-  <programme start="20261120134700 +0800" stop="20261120145400 +0800" channel="贵州影视文艺"><title lang="zh">家园</title><desc>由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
+  <programme start="20261120134700 +0800" stop="20261120145400 +0800" channel="贵州影视文艺"><title lang="zh">家园</title><desc lang="zh">由国家广电总局宣传司指导，宁夏广播电视台联合内蒙古、广西、西藏、新疆及新疆兵团六家广播电视台共同打造的大型融媒体传播项目，以“铸牢中华民族共同体意识”为核心主线，通过故事化影像生动刻画各族人民像石榴籽一样紧紧相拥的团结风貌。</desc>
   </programme>
   <programme start="20261120145400 +0800" stop="20261120171500 +0800" channel="贵州影视文艺"><title lang="zh">电视剧剧场</title>
   </programme>
@@ -67496,7 +67804,7 @@ ani</desc>
   </programme>
   <programme start="20261120232500 +0800" stop="20261120235900 +0800" channel="重庆国际"><title lang="zh">雾都夜话</title>
   </programme>
-  <programme start="20261120010000 +0800" stop="20261120060000 +0800" channel="重庆少儿"><title lang="zh">节目结束</title><desc>电视台全天播出结束时的标识画面，通常在深夜至凌晨时段出现。画面内容包括频道标识、播出日期、休台提示及次日节目预告等信息，标志着当日节目播出的正式结束。部分频道在此期间会播放国歌、公益宣传片或测试卡，直至次日清晨恢复播出。</desc>
+  <programme start="20261120010000 +0800" stop="20261120060000 +0800" channel="重庆少儿"><title lang="zh">节目结束</title><desc lang="zh">电视台全天播出结束时的标识画面，通常在深夜至凌晨时段出现。画面内容包括频道标识、播出日期、休台提示及次日节目预告等信息，标志着当日节目播出的正式结束。部分频道在此期间会播放国歌、公益宣传片或测试卡，直至次日清晨恢复播出。</desc>
   </programme>
   <programme start="20261120060000 +0800" stop="20261120070000 +0800" channel="重庆少儿"><title lang="zh">TICO魔力扣</title>
   </programme>
@@ -67520,7 +67828,7 @@ ani</desc>
   </programme>
   <programme start="20261120200000 +0800" stop="20261120215700 +0800" channel="重庆少儿"><title lang="zh">TICO动漫空间</title>
   </programme>
-  <programme start="20261120215700 +0800" stop="20261120232900 +0800" channel="重庆少儿"><title lang="zh">专题节目</title><desc>《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
+  <programme start="20261120215700 +0800" stop="20261120232900 +0800" channel="重庆少儿"><title lang="zh">专题节目</title><desc lang="zh">《 今日说法 》（英语： Legal Report ）是 中国中央电视台 的一栏法律节目，1999年1月开始播出，以“点滴记录中国法治进程”为口号，以讲述案件为主体，传播法律知识和理念。</desc>
   </programme>
   <programme start="20261120232900 +0800" stop="20261120233400 +0800" channel="重庆少儿"><title lang="zh">重庆地产</title>
   </programme>
@@ -67794,7 +68102,7 @@ ani</desc>
   </programme>
   <programme start="20261120042500 +0800" stop="20261120042900 +0800" channel="重庆新闻"><title lang="zh">鸟瞰新重庆</title>
   </programme>
-  <programme start="20261120042900 +0800" stop="20261120045500 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120042900 +0800" stop="20261120045500 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -67806,7 +68114,7 @@ ani</desc>
   </programme>
   <programme start="20261120061500 +0800" stop="20261120062000 +0800" channel="重庆新闻"><title lang="zh">鸟瞰新重庆</title>
   </programme>
-  <programme start="20261120062000 +0800" stop="20261120064500 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120062000 +0800" stop="20261120064500 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -67814,7 +68122,7 @@ ani</desc>
   </programme>
   <programme start="20261120064500 +0800" stop="20261120065300 +0800" channel="重庆新闻"><title lang="zh">鸟瞰新重庆</title>
   </programme>
-  <programme start="20261120065300 +0800" stop="20261120070000 +0800" channel="重庆新闻"><title lang="zh">早间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  <programme start="20261120065300 +0800" stop="20261120070000 +0800" channel="重庆新闻"><title lang="zh">早间气象</title><desc lang="zh">东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
   </programme>
   <programme start="20261120070000 +0800" stop="20261120080000 +0800" channel="重庆新闻"><title lang="zh">直播重庆</title>
   </programme>
@@ -67834,7 +68142,7 @@ ani</desc>
   </programme>
   <programme start="20261120130000 +0800" stop="20261120135200 +0800" channel="重庆新闻"><title lang="zh">网罗天下</title>
   </programme>
-  <programme start="20261120135200 +0800" stop="20261120140000 +0800" channel="重庆新闻"><title lang="zh">午间气象服务</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  <programme start="20261120135200 +0800" stop="20261120140000 +0800" channel="重庆新闻"><title lang="zh">午间气象服务</title><desc lang="zh">东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
   </programme>
   <programme start="20261120140000 +0800" stop="20261120150000 +0800" channel="重庆新闻"><title lang="zh">重庆发现</title>
   </programme>
@@ -67846,7 +68154,7 @@ ani</desc>
   </programme>
   <programme start="20261120173000 +0800" stop="20261120182300 +0800" channel="重庆新闻"><title lang="zh">网罗天下</title>
   </programme>
-  <programme start="20261120182300 +0800" stop="20261120183000 +0800" channel="重庆新闻"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  <programme start="20261120182300 +0800" stop="20261120183000 +0800" channel="重庆新闻"><title lang="zh">天气预报</title><desc lang="zh">天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
   <programme start="20261120183000 +0800" stop="20261120183300 +0800" channel="重庆新闻"><title lang="zh">630新闻冲击波</title>
   </programme>
@@ -67858,7 +68166,7 @@ ani</desc>
   </programme>
   <programme start="20261120220000 +0800" stop="20261120230000 +0800" channel="重庆新闻"><title lang="zh">630晚报</title>
   </programme>
-  <programme start="20261120230000 +0800" stop="20261120233000 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120230000 +0800" stop="20261120233000 +0800" channel="重庆新闻"><title lang="zh">重庆新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -71090,6 +71398,170 @@ ani</desc>
   </programme>
   <programme start="20261120233300 +0800" stop="20261121060500 +0800" channel="青岛QTV-5"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
+  <programme start="20261120000000 +0800" stop="20261120054400 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120054400 +0800" stop="20261120060900 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120060900 +0800" stop="20261120070500 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261120070500 +0800" stop="20261120072600 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120072600 +0800" stop="20261120074200 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261120074200 +0800" stop="20261120082800 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120082800 +0800" stop="20261120083200 +0800" channel="青岛TV2"><title lang="zh">早间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20261120083200 +0800" stop="20261120091800 +0800" channel="青岛TV2"><title lang="zh">一起旅行吧</title>
+  </programme>
+  <programme start="20261120091800 +0800" stop="20261120092800 +0800" channel="青岛TV2"><title lang="zh">健康在线</title>
+  </programme>
+  <programme start="20261120092800 +0800" stop="20261120104700 +0800" channel="青岛TV2"><title lang="zh">《最强医声》特别节目</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
+  </programme>
+  <programme start="20261120104700 +0800" stop="20261120111200 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120111200 +0800" stop="20261120114000 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120114000 +0800" stop="20261120121200 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120121200 +0800" stop="20261120123900 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120123900 +0800" stop="20261120130500 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261120130500 +0800" stop="20261120131600 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120131600 +0800" stop="20261120133200 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261120133200 +0800" stop="20261120134900 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120134900 +0800" stop="20261120135600 +0800" channel="青岛TV2"><title lang="zh">午间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20261120135600 +0800" stop="20261120141100 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120141100 +0800" stop="20261120143900 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120143900 +0800" stop="20261120145200 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120145200 +0800" stop="20261120153200 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120153200 +0800" stop="20261120155400 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261120155400 +0800" stop="20261120164300 +0800" channel="青岛TV2"><title lang="zh">于成龙17</title>
+  </programme>
+  <programme start="20261120164300 +0800" stop="20261120174500 +0800" channel="青岛TV2"><title lang="zh">于成龙18</title>
+  </programme>
+  <programme start="20261120174500 +0800" stop="20261120180500 +0800" channel="青岛TV2"><title lang="zh">一起旅行吧</title>
+  </programme>
+  <programme start="20261120180500 +0800" stop="20261120183300 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120183300 +0800" stop="20261120185600 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261120185600 +0800" stop="20261120185800 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报上</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261120185800 +0800" stop="20261120190200 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报下</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261120190200 +0800" stop="20261120192000 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120192000 +0800" stop="20261120193600 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120193600 +0800" stop="20261120195000 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120195000 +0800" stop="20261120200100 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120200100 +0800" stop="20261120201800 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261120201800 +0800" stop="20261120203500 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120203500 +0800" stop="20261120212000 +0800" channel="青岛TV2"><title lang="zh">于成龙19</title>
+  </programme>
+  <programme start="20261120212000 +0800" stop="20261120212200 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报上</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261120212200 +0800" stop="20261120212300 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报下</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261120212300 +0800" stop="20261120221200 +0800" channel="青岛TV2"><title lang="zh">于成龙20</title>
+  </programme>
+  <programme start="20261120221200 +0800" stop="20261120222200 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120222200 +0800" stop="20261120223700 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261120223700 +0800" stop="20261120225500 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120225500 +0800" stop="20261120231000 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120231000 +0800" stop="20261120232500 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120232500 +0800" stop="20261120233800 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261120233800 +0800" stop="20261120235900 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261120000000 +0800" stop="20261120070300 +0800" channel="青岛TV6"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261120070300 +0800" stop="20261120073400 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261120073400 +0800" stop="20261120074400 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261120074400 +0800" stop="20261120075400 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261120075400 +0800" stop="20261120081000 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261120081000 +0800" stop="20261120085600 +0800" channel="青岛TV6"><title lang="zh">悬崖15</title>
+  </programme>
+  <programme start="20261120085600 +0800" stop="20261120094200 +0800" channel="青岛TV6"><title lang="zh">悬崖16</title>
+  </programme>
+  <programme start="20261120094200 +0800" stop="20261120102800 +0800" channel="青岛TV6"><title lang="zh">悬崖17</title>
+  </programme>
+  <programme start="20261120102800 +0800" stop="20261120112400 +0800" channel="青岛TV6"><title lang="zh">悬崖18</title>
+  </programme>
+  <programme start="20261120112400 +0800" stop="20261120120000 +0800" channel="青岛TV6"><title lang="zh">直通高考</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20261120120000 +0800" stop="20261120124400 +0800" channel="青岛TV6"><title lang="zh">江河日上23</title>
+  </programme>
+  <programme start="20261120124400 +0800" stop="20261120132900 +0800" channel="青岛TV6"><title lang="zh">江河日上24</title>
+  </programme>
+  <programme start="20261120132900 +0800" stop="20261120141400 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四01</title>
+  </programme>
+  <programme start="20261120141400 +0800" stop="20261120145800 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四02</title>
+  </programme>
+  <programme start="20261120145800 +0800" stop="20261120154700 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四03</title>
+  </programme>
+  <programme start="20261120154700 +0800" stop="20261120160800 +0800" channel="青岛TV6"><title lang="zh">小白帆大舞台</title>
+  </programme>
+  <programme start="20261120160800 +0800" stop="20261120163800 +0800" channel="青岛TV6"><title lang="zh">鲁茶的足迹03</title>
+  </programme>
+  <programme start="20261120163800 +0800" stop="20261120171000 +0800" channel="青岛TV6"><title lang="zh">鲁茶的足迹04</title>
+  </programme>
+  <programme start="20261120171000 +0800" stop="20261120173500 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261120173500 +0800" stop="20261120174800 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（一）</title>
+  </programme>
+  <programme start="20261120174800 +0800" stop="20261120180000 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（二）</title>
+  </programme>
+  <programme start="20261120180000 +0800" stop="20261120182200 +0800" channel="青岛TV6"><title lang="zh">小白帆大舞台</title>
+  </programme>
+  <programme start="20261120182200 +0800" stop="20261120190000 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（三）</title>
+  </programme>
+  <programme start="20261120190000 +0800" stop="20261120192400 +0800" channel="青岛TV6"><title lang="zh">青岛教育新闻</title><desc>《教育新闻》是一档以教育为主题的新闻节目，通过报道教育政策、教育改革和教育动态，向观众传递教育信息和知识。该节目旨在帮助观众了解教育领域的发展和变化，促进教育事业的发展。</desc>
+  </programme>
+  <programme start="20261120192400 +0800" stop="20261120200000 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261120200000 +0800" stop="20261120203000 +0800" channel="青岛TV6"><title lang="zh">名师导学</title>
+  </programme>
+  <programme start="20261120203000 +0800" stop="20261120210000 +0800" channel="青岛TV6"><title lang="zh">名师导学</title>
+  </programme>
+  <programme start="20261120210000 +0800" stop="20261120210600 +0800" channel="青岛TV6"><title lang="zh">师说</title>
+  </programme>
+  <programme start="20261120210600 +0800" stop="20261120211400 +0800" channel="青岛TV6"><title lang="zh">师说</title>
+  </programme>
+  <programme start="20261120211400 +0800" stop="20261120220300 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四07</title>
+  </programme>
+  <programme start="20261120220300 +0800" stop="20261120222900 +0800" channel="青岛TV6"><title lang="zh">青岛教育新闻</title><desc>《教育新闻》是一档以教育为主题的新闻节目，通过报道教育政策、教育改革和教育动态，向观众传递教育信息和知识。该节目旨在帮助观众了解教育领域的发展和变化，促进教育事业的发展。</desc>
+  </programme>
+  <programme start="20261120222900 +0800" stop="20261120225500 +0800" channel="青岛TV6"><title lang="zh">小白帆大舞台</title>
+  </programme>
+  <programme start="20261120225500 +0800" stop="20261120233300 +0800" channel="青岛TV6"><title lang="zh">筑梦百年03</title>
+  </programme>
+  <programme start="20261120233300 +0800" stop="20261120235900 +0800" channel="青岛TV6"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
   <programme start="20261120010400 +0800" stop="20261120013400 +0800" channel="青海卫视"><title lang="zh">征战达喀尔</title><desc>青海卫视体育纪录片栏目，聚焦中国车手征战达喀尔拉力赛的艰辛历程，记录他们驰骋沙漠、挑战极限的勇气与坚持。</desc>
   </programme>
   <programme start="20261120013400 +0800" stop="20261120021700 +0800" channel="青海卫视"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
@@ -71252,7 +71724,7 @@ ani</desc>
   </programme>
   <programme start="20261120073500 +0800" stop="20261120080500 +0800" channel="青海都市"><title lang="zh">极致</title>
   </programme>
-  <programme start="20261120080500 +0800" stop="20261120124800 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120080500 +0800" stop="20261120124800 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120124800 +0800" stop="20261120132500 +0800" channel="青海都市"><title lang="zh">极致</title>
   </programme>
@@ -71260,27 +71732,27 @@ ani</desc>
   </programme>
   <programme start="20261120140700 +0800" stop="20261120170000 +0800" channel="青海都市"><title lang="zh">乡村纪事</title>
   </programme>
-  <programme start="20261120170000 +0800" stop="20261120173900 +0800" channel="青海都市"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120170000 +0800" stop="20261120173900 +0800" channel="青海都市"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120173900 +0800" stop="20261120184500 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120173900 +0800" stop="20261120184500 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20261120184500 +0800" stop="20261120193200 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120184500 +0800" stop="20261120193200 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
   <programme start="20261120193200 +0800" stop="20261120193500 +0800" channel="青海都市"><title lang="zh">本省天气预报</title>
   </programme>
-  <programme start="20261120193500 +0800" stop="20261120200800 +0800" channel="青海都市"><title lang="zh">青海新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120193500 +0800" stop="20261120200800 +0800" channel="青海都市"><title lang="zh">青海新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
 节目于1978年1月1日起每日19:00在中央电视台综合频道首播。2003年5月1日，因中央电视台新闻频道的试播，该节目每日19:00在中央电视台综合频道和新闻频道并机直播。2019年8月1日，因CCTV-7由“军事·农业频道”更名为“国防军事频道”，该节目每日19:00在中央电视台综合频道、新闻频道和国防军事频道并机直播。同时各省级卫视频道和部分地方台进行转播，每期为30分钟（有时可能会延长）。</desc>
   </programme>
-  <programme start="20261120200800 +0800" stop="20261120204800 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
+  <programme start="20261120200800 +0800" stop="20261120204800 +0800" channel="青海都市"><title lang="zh">电视剧场</title><desc lang="zh">电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
-  <programme start="20261120204800 +0800" stop="20261120225700 +0800" channel="青海都市"><title lang="zh">晚间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  <programme start="20261120204800 +0800" stop="20261120225700 +0800" channel="青海都市"><title lang="zh">晚间气象</title><desc lang="zh">东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
   </programme>
-  <programme start="20261120225700 +0800" stop="20261120235800 +0800" channel="青海都市"><title lang="zh">健康之路</title><desc>《健康之路》是中央电视台唯一一档以关注大众身心、保健意识，倡导健康生活为主旨的直播栏目。开办至今，凭借鲜明的节目定位、权威的专家讲解、及时的现场解答，栏目在在医学界也引发轰动，节目内容成为医生间相互学习切磋的话题。《健康之路》以演播室为主，每次围绕有关卫生与健康的一个主题请国内一流的医学专家到演播室，做嘉宾主持直接回答观众的问题。演播室设有9部热线电话，由主治医师以上的专家接听，这样每一个咨询者的问题虽然不一定能在屏幕上马上获得答案，却能通过热线得到答复。作为一个专栏，直播版每周五次，每次50分钟，完全采用直播形式，在我国电视史上尚属首次。《健康之路》进入CCTV-10之后，栏目已经不是直播节目，栏目 《健康之路》已经缩短为30分钟，但是，该栏目主要是关注健康与社会生活的方方面面。不定期邀请一些嘉宾到演播室来教观众如何解决健康问题。节目口号： 把握健康，拥有未来</desc>
+  <programme start="20261120225700 +0800" stop="20261120235800 +0800" channel="青海都市"><title lang="zh">健康之路</title><desc lang="zh">《健康之路》是中央电视台唯一一档以关注大众身心、保健意识，倡导健康生活为主旨的直播栏目。开办至今，凭借鲜明的节目定位、权威的专家讲解、及时的现场解答，栏目在在医学界也引发轰动，节目内容成为医生间相互学习切磋的话题。《健康之路》以演播室为主，每次围绕有关卫生与健康的一个主题请国内一流的医学专家到演播室，做嘉宾主持直接回答观众的问题。演播室设有9部热线电话，由主治医师以上的专家接听，这样每一个咨询者的问题虽然不一定能在屏幕上马上获得答案，却能通过热线得到答复。作为一个专栏，直播版每周五次，每次50分钟，完全采用直播形式，在我国电视史上尚属首次。《健康之路》进入CCTV-10之后，栏目已经不是直播节目，栏目 《健康之路》已经缩短为30分钟，但是，该栏目主要是关注健康与社会生活的方方面面。不定期邀请一些嘉宾到演播室来教观众如何解决健康问题。节目口号： 把握健康，拥有未来</desc>
   </programme>
-  <programme start="20261120235800 +0800" stop="20261120235900 +0800" channel="青海都市"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120235800 +0800" stop="20261120235900 +0800" channel="青海都市"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120005200 +0800" stop="20261120020300 +0800" channel="靖天中文台"><title lang="zh">NowJelli紫金國際台-音樂緣計劃 第二季 20</title>
   </programme>
@@ -74156,17 +74628,17 @@ ani</desc>
   </programme>
   <programme start="20261120025700 +0800" stop="20261120035100 +0800" channel="黑龙江少儿"><title lang="zh">极地馆奇妙世界</title>
   </programme>
-  <programme start="20261120035100 +0800" stop="20261120043100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120035100 +0800" stop="20261120043100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120043100 +0800" stop="20261120051100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120043100 +0800" stop="20261120051100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120051100 +0800" stop="20261120055100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120051100 +0800" stop="20261120055100 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120055100 +0800" stop="20261120062200 +0800" channel="黑龙江少儿"><title lang="zh">传奇</title><desc>《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
+  <programme start="20261120055100 +0800" stop="20261120062200 +0800" channel="黑龙江少儿"><title lang="zh">传奇</title><desc lang="zh">《泱泱中华》是中央广播电视总台央视综合频道推出的系列节目，旨在提炼展示中华文明的精神标识与文化精髓，弘扬中华优秀传统文化。云山苍苍，江水泱泱。千百年来，中华文化长河奔流不息，沉淀出无数瑰宝，灿若星辰。依托《泱泱中华》节目品牌，连续推出“小而美”的融媒体视听传播精品，以一贯的精神气质和独特的传播优势，讲好中国故事，助力总台打造具有强大引领力、传播力、影响力的国际一流新型主流媒体，为实现中华民族伟大复兴的中国梦、推动构建人类命运共同体作出贡献。</desc>
   </programme>
   <programme start="20261120062200 +0800" stop="20261120065500 +0800" channel="黑龙江少儿"><title lang="zh">非常幽默</title>
   </programme>
-  <programme start="20261120065500 +0800" stop="20261120103100 +0800" channel="黑龙江少儿"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120065500 +0800" stop="20261120103100 +0800" channel="黑龙江少儿"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120103100 +0800" stop="20261120110000 +0800" channel="黑龙江少儿"><title lang="zh">连衣裙</title>
   </programme>
@@ -74178,37 +74650,37 @@ ani</desc>
   </programme>
   <programme start="20261120123200 +0800" stop="20261120130500 +0800" channel="黑龙江少儿"><title lang="zh">非常幽默</title>
   </programme>
-  <programme start="20261120130500 +0800" stop="20261120154500 +0800" channel="黑龙江少儿"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120130500 +0800" stop="20261120154500 +0800" channel="黑龙江少儿"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120154500 +0800" stop="20261120155600 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120154500 +0800" stop="20261120155600 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120155600 +0800" stop="20261120162000 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120155600 +0800" stop="20261120162000 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120162000 +0800" stop="20261120162500 +0800" channel="黑龙江少儿"><title lang="zh">冻梨播报站</title>
   </programme>
-  <programme start="20261120162500 +0800" stop="20261120165600 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120162500 +0800" stop="20261120165600 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120165600 +0800" stop="20261120172000 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120165600 +0800" stop="20261120172000 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120172000 +0800" stop="20261120181500 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120172000 +0800" stop="20261120181500 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120181500 +0800" stop="20261120183600 +0800" channel="黑龙江少儿"><title lang="zh">快乐每一程</title>
   </programme>
-  <programme start="20261120183600 +0800" stop="20261120185800 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120183600 +0800" stop="20261120185800 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120185800 +0800" stop="20261120192100 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120185800 +0800" stop="20261120192100 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
   <programme start="20261120192100 +0800" stop="20261120192600 +0800" channel="黑龙江少儿"><title lang="zh">冻梨播报站</title>
   </programme>
-  <programme start="20261120192600 +0800" stop="20261120202500 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc>《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
+  <programme start="20261120192600 +0800" stop="20261120202500 +0800" channel="黑龙江少儿"><title lang="zh">动画片剧场</title><desc lang="zh">《动画片1》是一部面向儿童的动画节目，通过生动有趣的故事和精美的画面，向孩子们传递友谊、勇气和正能量。该节目旨在为孩子们提供娱乐和教育内容，促进儿童的身心健康发展。</desc>
   </programme>
-  <programme start="20261120202500 +0800" stop="20261120210500 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120202500 +0800" stop="20261120210500 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120210500 +0800" stop="20261120214800 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120210500 +0800" stop="20261120214800 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120214800 +0800" stop="20261120223000 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120214800 +0800" stop="20261120223000 +0800" channel="黑龙江少儿"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120223000 +0800" stop="20261120225400 +0800" channel="黑龙江少儿"><title lang="zh">全省新闻联播</title><desc>《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
+  <programme start="20261120223000 +0800" stop="20261120225400 +0800" channel="黑龙江少儿"><title lang="zh">全省新闻联播</title><desc lang="zh">《新闻联播》是中央电视台综合频道推出的晚间新闻节目，节目由郭志坚、康辉、海霞、李梓萌、欧阳夏丹、刚强、潘涛、宝晓峰、严於信、郑丽担任主播。
 
 节目以政治、经济、科技、社会、军事、外交、文化、体育、农业、交通等方面新闻为主。
 
@@ -74222,55 +74694,55 @@ ani</desc>
   </programme>
   <programme start="20261120051100 +0800" stop="20261120051300 +0800" channel="黑龙江影视"><title lang="zh">公益时间</title>
   </programme>
-  <programme start="20261120051300 +0800" stop="20261120055500 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120051300 +0800" stop="20261120055500 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120055500 +0800" stop="20261120063700 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120055500 +0800" stop="20261120063700 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120063700 +0800" stop="20261120072200 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120063700 +0800" stop="20261120072200 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120072200 +0800" stop="20261120080900 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120072200 +0800" stop="20261120080900 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120080900 +0800" stop="20261120092800 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120080900 +0800" stop="20261120092800 +0800" channel="黑龙江影视"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120092800 +0800" stop="20261120101400 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120092800 +0800" stop="20261120101400 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120101400 +0800" stop="20261120102400 +0800" channel="黑龙江影视"><title lang="zh">影视气象站</title>
   </programme>
-  <programme start="20261120102400 +0800" stop="20261120110500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120102400 +0800" stop="20261120110500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120110500 +0800" stop="20261120115300 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120110500 +0800" stop="20261120115300 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120115300 +0800" stop="20261120123900 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120115300 +0800" stop="20261120123900 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120123900 +0800" stop="20261120132700 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120123900 +0800" stop="20261120132700 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120132700 +0800" stop="20261120141500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120132700 +0800" stop="20261120141500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120141500 +0800" stop="20261120150300 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120141500 +0800" stop="20261120150300 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120150300 +0800" stop="20261120161500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120150300 +0800" stop="20261120161500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120161500 +0800" stop="20261120171500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120161500 +0800" stop="20261120171500 +0800" channel="黑龙江影视"><title lang="zh">经典剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120171500 +0800" stop="20261120180200 +0800" channel="黑龙江影视"><title lang="zh">金色时空</title>
   </programme>
-  <programme start="20261120180200 +0800" stop="20261120185100 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120180200 +0800" stop="20261120185100 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120185100 +0800" stop="20261120193500 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120185100 +0800" stop="20261120193500 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
   <programme start="20261120193500 +0800" stop="20261120194400 +0800" channel="黑龙江影视"><title lang="zh">影视气象站</title>
   </programme>
-  <programme start="20261120194400 +0800" stop="20261120203600 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120194400 +0800" stop="20261120203600 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120203600 +0800" stop="20261120212300 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120203600 +0800" stop="20261120212300 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120212300 +0800" stop="20261120220800 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc>吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
+  <programme start="20261120212300 +0800" stop="20261120220800 +0800" channel="黑龙江影视"><title lang="zh">黄金剧场</title><desc lang="zh">吉林卫视晚间黄金档电视剧场，播出时间为每晚19:30左右。内容充实、题材丰富，涵盖古装玄幻、战争传奇、都市情感、年代大戏等多种类型电视剧。曾播出《那年花开月正圆》《情满四合院》《面具》《亮剑》《远方的家》《黄河英雄》等精品剧集。</desc>
   </programme>
-  <programme start="20261120220800 +0800" stop="20261120224800 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120220800 +0800" stop="20261120224800 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120224800 +0800" stop="20261120232900 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120224800 +0800" stop="20261120232900 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
-  <programme start="20261120232900 +0800" stop="20261120235900 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120232900 +0800" stop="20261120235900 +0800" channel="黑龙江影视"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
   <programme start="20261120003300 +0800" stop="20261120044100 +0800" channel="黑龙江文体"><title lang="zh">精彩放映室</title>
   </programme>
@@ -74282,7 +74754,7 @@ ani</desc>
   </programme>
   <programme start="20261120073000 +0800" stop="20261120083600 +0800" channel="黑龙江文体"><title lang="zh">相亲相爱精编版</title>
   </programme>
-  <programme start="20261120083600 +0800" stop="20261120114600 +0800" channel="黑龙江文体"><title lang="zh">上午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120083600 +0800" stop="20261120114600 +0800" channel="黑龙江文体"><title lang="zh">上午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120114600 +0800" stop="20261120123000 +0800" channel="黑龙江文体"><title lang="zh">笑吧2017</title>
   </programme>
@@ -74300,7 +74772,7 @@ ani</desc>
   </programme>
   <programme start="20261120173900 +0800" stop="20261120185000 +0800" channel="黑龙江文体"><title lang="zh">快乐POKER派</title>
   </programme>
-  <programme start="20261120185000 +0800" stop="20261120201400 +0800" channel="黑龙江文体"><title lang="zh">相亲相爱</title><desc>生活服务类婚恋栏目，为单身男女提供相识相知的平台。节目设有嘉宾自我介绍、才艺展示、情感交流、心动选择等环节，通过真诚对话与互动，帮助参与者寻找志同道合的人生伴侣，传递积极健康的婚恋观。</desc>
+  <programme start="20261120185000 +0800" stop="20261120201400 +0800" channel="黑龙江文体"><title lang="zh">相亲相爱</title><desc lang="zh">生活服务类婚恋栏目，为单身男女提供相识相知的平台。节目设有嘉宾自我介绍、才艺展示、情感交流、心动选择等环节，通过真诚对话与互动，帮助参与者寻找志同道合的人生伴侣，传递积极健康的婚恋观。</desc>
   </programme>
   <programme start="20261120201400 +0800" stop="20261120212000 +0800" channel="黑龙江文体"><title lang="zh">大牌价到</title>
   </programme>
@@ -74366,23 +74838,23 @@ ani</desc>
   </programme>
   <programme start="20261120224400 +0800" stop="20261120235900 +0800" channel="黑龙江新闻法治"><title lang="zh">新闻在线</title>
   </programme>
-  <programme start="20261120000200 +0800" stop="20261120053100 +0800" channel="黑龙江都市"><title lang="zh">凌晨剧场</title><desc>吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
+  <programme start="20261120000200 +0800" stop="20261120053100 +0800" channel="黑龙江都市"><title lang="zh">凌晨剧场</title><desc lang="zh">吉林卫视午夜时段电视剧场，前身为“星河剧场”，播出时间为凌晨时段。主要播出刑侦、悬疑、谍战等类型剧集，多采用多集连播模式，满足夜班族及深夜收视群体的观剧需求。</desc>
   </programme>
-  <programme start="20261120053100 +0800" stop="20261120070400 +0800" channel="黑龙江都市"><title lang="zh">新闻夜航</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261120053100 +0800" stop="20261120070400 +0800" channel="黑龙江都市"><title lang="zh">新闻夜航</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
   <programme start="20261120070400 +0800" stop="20261120075100 +0800" channel="黑龙江都市"><title lang="zh">本草新说</title>
   </programme>
-  <programme start="20261120075100 +0800" stop="20261120084200 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120075100 +0800" stop="20261120084200 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120084200 +0800" stop="20261120093400 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120084200 +0800" stop="20261120093400 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120093400 +0800" stop="20261120110000 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120093400 +0800" stop="20261120110000 +0800" channel="黑龙江都市"><title lang="zh">早间剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120110000 +0800" stop="20261120115000 +0800" channel="黑龙江都市"><title lang="zh">走近健康</title>
   </programme>
   <programme start="20261120115000 +0800" stop="20261120131400 +0800" channel="黑龙江都市"><title lang="zh">夜航说法</title>
   </programme>
-  <programme start="20261120131400 +0800" stop="20261120153200 +0800" channel="黑龙江都市"><title lang="zh">下午剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120131400 +0800" stop="20261120153200 +0800" channel="黑龙江都市"><title lang="zh">下午剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120153200 +0800" stop="20261120162200 +0800" channel="黑龙江都市"><title lang="zh">宜人益方</title>
   </programme>
@@ -74392,15 +74864,15 @@ ani</desc>
   </programme>
   <programme start="20261120173100 +0800" stop="20261120180000 +0800" channel="黑龙江都市"><title lang="zh">天下夜航</title>
   </programme>
-  <programme start="20261120180000 +0800" stop="20261120200800 +0800" channel="黑龙江都市"><title lang="zh">新闻夜航</title><desc>中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
+  <programme start="20261120180000 +0800" stop="20261120200800 +0800" channel="黑龙江都市"><title lang="zh">新闻夜航</title><desc lang="zh">中央电视台新闻频道深度评论栏目，2008年3月24日开播，由白岩松、董倩等担任评论员。栏目以“时事政策、公共话题、突发事件”为选题范围，采取一位主持人、一位新闻观察员在演播室对话的形式，并配以短片、现场报道、电话连线等多种手段，对当天最新、最热、最快的新闻话题进行深度解读，还原新闻全貌，剖析事件真相。首播时间：周一至周五21:30，每期约25分钟。</desc>
   </programme>
-  <programme start="20261120200800 +0800" stop="20261120221800 +0800" channel="黑龙江都市"><title lang="zh">晚间剧场</title><desc>《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
+  <programme start="20261120200800 +0800" stop="20261120221800 +0800" channel="黑龙江都市"><title lang="zh">晚间剧场</title><desc lang="zh">《晚间剧场》是电视台在晚间时段播出的电视剧场，通常播放热门电视剧。第一集作为剧集的开篇，主要介绍故事背景、人物关系和核心冲突，为后续剧情发展奠定基础。</desc>
   </programme>
   <programme start="20261120221800 +0800" stop="20261120222600 +0800" channel="黑龙江都市"><title lang="zh">戏里戏外</title>
   </programme>
-  <programme start="20261120222600 +0800" stop="20261120231500 +0800" channel="黑龙江都市"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120222600 +0800" stop="20261120231500 +0800" channel="黑龙江都市"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
-  <programme start="20261120231500 +0800" stop="20261120235900 +0800" channel="黑龙江都市"><title lang="zh">午夜剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  <programme start="20261120231500 +0800" stop="20261120235900 +0800" channel="黑龙江都市"><title lang="zh">午夜剧场</title><desc lang="zh">《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
   </programme>
   <programme start="20261120000001 +0800" stop="20261120060000 +0800" channel="齐齐哈尔新闻综合"><title lang="zh">子夜剧场3集</title>
   </programme>

@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from merge_epg import classify_channel, get_sort_key, CATEGORY_ORDER, CN_TZ
+from merge_epg import classify_channel_multi, get_sort_key, CATEGORY_ORDER, CN_TZ
 
 tree = ET.parse('epg.xml')
 root = tree.getroot()
@@ -177,11 +177,14 @@ for channel in root.findall('channel'):
             'subProgrammes': sub_programmes
         })
 
+    primary_category, categories = classify_channel_multi(name, aliases)
+
     channels.append({
         'id': channel_id,
         'name': name,
         'aliases': aliases,
-        'category': classify_channel(name),
+        'category': primary_category,
+        'categories': categories,
         'lastProgramTime': last_program_time,
         'descriptionCoverage': description_coverage,
         'hasGap': has_gap,
@@ -202,7 +205,8 @@ except Exception:
 with open('epg_data.json', 'w', encoding='utf-8') as f:
     json.dump({
         'channels': channels,
-        'categories': CATEGORY_ORDER,
+        # 分类白名单由后端下发；每频道的 categories 见上方字段
+        'categoryOrder': CATEGORY_ORDER,
         'dataEnd': _fmt_last_program(latest_stop),
         'warnings': merge_warnings,
         'updateTime': time.time()

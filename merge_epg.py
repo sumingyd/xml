@@ -35,24 +35,31 @@ CATEGORY_ORDER = ['央视', '卫视', '4K超高清', '专区', '付费', '国际
 
 CATEGORY_RULES = OrderedDict([
     ('央视', [
-        r'^CCTV-(?!4 (美洲|欧洲))', r'^中国中央',
+        # 数据源用紧凑命名（CCTV1），也兼容旧的 CCTV-1 / CCTV-1 综合
+        r'^CCTV-?\d{1,2}\+?$', r'^CCTV-\d{1,2} ', r'^中国中央', r'^中央电视台',
+        r'^中国电影频道$',
     ]),
     ('卫视', [
-        r'^.{2,3}卫视$', r'^.{2,3}卫视-',
+        r'^.{2,3}卫视$', r'^.{2,3}卫视-', r'^东方卫视国际',
         r'^内蒙古卫视（蒙语）$',
     ]),
     ('4K超高清', [
-        r'4K', r'超高清',
+        r'4K', r'8K', r'超高清',
     ]),
     ('专区', [
         # 轮播/专区类点播频道
         r'专区', r'^轮播', r'^红色轮播$', r'^经典卡通台$', r'^精选.*台$', r'专场$',
+        r'^iHOT', r'^体育\d+台$', r'^体育MAX\d+台$', r'^四大名著剧场$',
+        r'^城市剧场$', r'^黄金八点档$',
     ]),
     ('付费', [
-        r'^CHC', r'^CCTV(?!-(\d+\+?|\d+ ))', r'^金鹰卡通$', r'^卡酷少儿$', r'^精彩影视$', r'^都市剧场$',
+        # 带中文后缀的 CCTV 付费频道（CCTV兵器科技 等）；纯数字的 CCTV1 归央视
+        r'^CHC', r'^CCTV(?!-?\d)', r'^金鹰卡通$', r'^卡酷少儿$', r'^精彩影视$', r'^都市剧场$',
         r'^金鹰纪实$', r'^北京纪实科教$', r'^法治天地$', r'^中国教育', r'^CETV', r'^中学生$',
         r'^求索纪录$', r'^求索动物$', r'^求索科学$', r'^求索生活$',
         r'^游戏风云$', r'^生活时尚$', r'^动漫秀场$', r'^东方财经$',
+        r'^卡酷', r'^求索', r'^戏曲', r'^经典电影', r'^美亚电影', r'^罪案',
+        r'^睛彩', r'^中国天气$', r'^卫生健康$',
         r'^财富天下$', r'^中国交通$', r'^乐游$', r'^快乐垂钓$', r'^四海钓鱼$',
         r'^文物宝库$', r'^梨园$', r'^武术世界$', r'^汽摩$', r'^海洋频道$',
         r'^环球旅游$', r'^生态环境$', r'^茶$', r'^金色学堂$', r'^金色$', r'^书画$',
@@ -92,9 +99,11 @@ CATEGORY_RULES = OrderedDict([
         r'^24小时', r'^和美乡途',
     ]),
     ('国际', [
-        r'^CCTV-4 (美洲|欧洲)', r'^CGTN',
+        r'^CCTV-?4\s*(美洲|欧洲)', r'^中国环球电视网$', r'^CGTN',
         r'^BBC', r'^CNN', r'^CNBC', r'^DW', r'^France 24', r'^NHK',
-        r'^CNC', r'^半岛', r'^亚洲新闻$', r'^寰宇新闻$',
+        r'^CNC', r'^CNA', r'^半岛', r'^亚洲新闻', r'^寰宇新闻$',
+        r'^新唐人', r'^Astro', r'^GINX', r'^SUPERÉCRAN', r'^TéLéTOON|^TELETOON',
+        r'^ASSEMBL|^TVA',
         r'^动物星球$', r'^Discovery',
         # 常见国际频道（不含中文台名的）、以及各国主流台
         r'^(ABC|CBS|NBC|FOX|ESPN|NBA|NHL|MLB|AMC|AFN|TNT|TBS|USA|STARZ|SHOWTIME)',
@@ -104,24 +113,23 @@ CATEGORY_RULES = OrderedDict([
         r'^(RT|Euronews|Bloomberg|Fox News|CNBC World)',
     ]),
     ('港澳台', [
-        r'^TVBS', r'^TVB Plus$', r'^TVB星河', r'^中天新闻$', r'^中天亚洲$',
-        r'^三立新闻$', r'^三立综合$', r'^爱尔达', r'^无线新闻$', r'^无线卫星新闻$',
-        r'^无线卫星亚洲$', r'^凤凰中文$', r'^凤凰资讯$', r'^凤凰香港$',
-        r'^翡翠台$', r'^明珠$', r'^澳视', r'^民视', r'^大爱电视$',
-        r'^华视', r'^娱乐新闻$', r'^客家生活$',
-        r'^靖天', r'^粤语片$', r'^黄金翡翠$',
-        r'^八大精彩$', r'^八大综艺$', r'^亚洲剧$', r'^亚洲美食$', r'^千禧经典$',
-        r'^惊悚悬疑$', r'^影迷数位', r'^热播精选$', r'^烽烟剧场$', r'^爱情喜剧$',
-        r'^经典剧场$', r'^谍战大剧$', r'^精品大剧$', r'^黄金华剧$', r'^追剧少女$',
-        r'^创世电视$', r'^冰火$', r'^精品萌宠$', r'^精品体育$', r'^精品综合$',
-        r'^黑莓影视$', r'^黑莓动画$', r'^黑莓电影$',
-        r'^HOY', r'^RTHK', r'^龙华',
-        r'^台视', r'^公视', r'^中视', r'^国会频道',
-        r'^NOW新闻$', r'^采昌影剧$', r'^好消息$', r'^金光布袋戏$',
-        r'^SUPER FREE$',
-        # 数据源新增的港台频道
-        r'^靖洋', r'^非凡', r'^麦卡贝', r'^镜电视', r'^龙祥',
-        r'^东森', r'^年代', r'^八大', r'^寰宇', r'^亚洲旅游$',
+        # 数据源用紧凑/繁体命名，这里统一用前缀匹配，兼容「台/频道」等后缀
+        r'^TVB', r'^myTV', r'^NOW', r'^PHOENIX', r'^鳳凰', r'^凤凰',
+        r'^中天', r'^三立', r'^爱尔达', r'^愛爾達', r'^无线', r'^無線',
+        r'^翡翠台', r'^明珠', r'^澳视', r'^澳門', r'^澳门', r'^民视', r'^民視',
+        r'^大爱', r'^华视', r'^華視', r'^娛樂新聞', r'^娱乐新闻', r'^客家',
+        r'^靖天', r'^靖洋', r'^非凡', r'^麦卡贝', r'^鏡電視', r'^镜电视',
+        r'^龙祥', r'^龍祥', r'^粤语片', r'^粵語片', r'^黄金翡翠', r'^黃金翡翠',
+        r'^八大', r'^亚洲剧', r'^亚洲美食', r'^亚洲旅游',
+        r'^千禧经典', r'^千禧經典', r'^惊悚悬疑', r'^影迷数位', r'^热播精选',
+        r'^烽烟剧场', r'^爱情喜剧', r'^经典剧场', r'^谍战大剧', r'^精品大剧',
+        r'^黄金华剧', r'^追剧少女', r'^创世电视', r'^冰火',
+        r'^精品(萌宠|体育|综合)$',
+        r'^黑莓', r'^HOY', r'^RTHK', r'^龙华', r'^龍華', r'^台视', r'^公视',
+        r'^中视', r'^国会频道', r'^采昌', r'^好消息', r'^金光布袋戏',
+        r'^SUPER(?!ÉCRAN)', r'^FTV', r'^博斯', r'^原住民族', r'^台湾戏剧',
+        r'^华语剧', r'^韩国', r'^韓國', r'^东森', r'^東森', r'^年代', r'^寰宇',
+        r'^互动赛马', r'^HAMI',
     ]),
     ('少数民族语', [
         r'维吾尔语', r'哈萨克语', r'柯尔克孜语', r'蒙古语', r'藏语', r'朝鲜语',
@@ -131,8 +139,8 @@ CATEGORY_RULES = OrderedDict([
         r'^(临清|乳山|义乌|五莲|任城|兖州|历城|周村|商河|夏津|定陶|岱岳|崂山|平度|张店|招远|昌乐|曲阜|桓台|武城)',
         r'^(沂水|沂源|河东|沾化|泗洪|溧水|宝应|宜兴|江都|江阴|睢宁|赣榆|邳州|邹城|铜山|禹城|胶州|莒县|莱西)',
         r'^(长岛|陵城|鱼台|黄岛|齐河|龙口|潮安|晋江|永嘉|苍南|瑞安|诸暨|镇海|普陀|泰山|东海)',
-        # 地市级都市/商业频道，以及没有城市前缀的地方台
-        r'都市$', r'^黄河电视台', r'^第1商业',
+        # 没有省份/城市前缀的地方台；「都市」在省份匹配之后单独处理
+        r'^(吴江|沛县|无棣|惠民|滨城)', r'^黄河电视台', r'^第1商业',
     ]),
 ])
 
@@ -215,9 +223,11 @@ MUNICIPAL_PROVINCES = {'北京', '天津', '上海', '重庆'}
 PROVINCE_ALIASES = {
     '内蒙古': ['内蒙'],
     '吉林': ['吉视'],
-    '浙江': ['之江'],
-    '广东': ['珠江'],
+    '浙江': ['之江', '钱江'],
+    '广东': ['珠江', '南方'],
     '湖北': ['葛洲坝'],
+    '四川': ['SCTV', 'CDTV'],
+    '上海': ['东方影视', '东方电影'],
 }
 
 def _match_province(name):
@@ -257,10 +267,51 @@ def classify_channel(name):
         return pref_result[0]
     if name.startswith('上视'):
         return '上海'
-    # 纯英文/数字台名基本是海外频道（ABC、FOXSEATTLE、Animal Planet (HD) 等）
-    if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9 '&+\.\-/()\[\]!:]*", name):
+    # 「都市」放在省份/城市匹配之后，避免上海都市、常州都市等被抢到地方
+    if name.endswith('都市'):
+        return '地方'
+    # 纯英文/数字台名基本是海外频道（ABC、FOXSEATTLE 等）
+    # 但 TVB/NOW/SCTV/CDTV 这类是港台或内地台的罗马字台标，不能算国际
+    if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9 '&+\.\-/()\[\]!:]*", name) and not re.match(
+            r'^(TVB|myTV|NOW|PHOENIX|SCTV|CDTV)', name):
         return '国际'
     return '其他'
+
+def _norm_alias(alias):
+    """别名常用于「高清/4K」等变体，归一化后再判断，避免把变体当成别的分类"""
+    a = TRAILING_INDEX_RE.sub('', str(alias)).strip().replace(' ', '')
+    return re.sub(r'(\s*(高清|超高清|超清|4K|8K|HD)\s*)+$', '', a, flags=re.I)
+
+def classify_channel_multi(name, aliases=None):
+    """返回 (主分类, 分类列表)。主名与别名都参与判断，可命中多个分类。
+
+    典型场景：主名「山东卫视」的别名里有「山东卫视4K」，
+    结果同时属于「卫视」和「4K超高清」，主分类仍是「卫视」。
+    """
+    primary = classify_channel(name)
+    found = {primary}
+    # 只接受与主名高度相似（互为前缀）的别名，避免 "XINYANG1" 这类罗马字别名把河南台判成国际
+    base_key = re.sub(r'[^\w\u4e00-\u9fff]', '', str(name or '').lower())
+    for alias in aliases or []:
+        if not alias:
+            continue
+        alias_norm = _norm_alias(alias)
+        alias_key = re.sub(r'[^\w\u4e00-\u9fff]', '', alias_norm.lower())
+        related = bool(alias_key) and (alias_key.startswith(base_key) or base_key.startswith(alias_key))
+        if not related:
+            continue
+        cat = classify_channel(alias_norm)
+        if cat != '其他':
+            found.add(cat)
+        if re.search(r'4K|8K|超高清', str(alias), flags=re.I):
+            found.add('4K超高清')
+    # 主分类已经明确时，不再把「其他」当成一个额外分类
+    if len(found) > 1:
+        found.discard('其他')
+    ordered = [c for c in CATEGORY_ORDER if c in found]
+    if primary == '其他' and ordered and ordered[0] != '其他':
+        primary = ordered[0]
+    return primary, ordered
 
 def get_sort_key(name):
     category = classify_channel(name)

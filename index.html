@@ -213,6 +213,17 @@
         .td-id { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.78rem; color: var(--text-dim); }
         .td-name { font-weight: 500; }
         .td-hint { font-size: 0.7rem; color: var(--text-dim); opacity: 0.6; margin-left: 6px; }
+        .td-aliases {
+            display: block;
+            margin-top: 2px;
+            max-width: 360px;
+            font-size: 0.7rem;
+            color: var(--text-dim);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .td-cats { display: block; margin-top: 2px; font-size: 0.68rem; color: #818cf8; }
 
         .cat-group-header { background: var(--surface-2); }
         .cat-group-header td {
@@ -486,6 +497,12 @@
             return false;
         }
 
+        // 一个频道可能同时属于多个分类（例如 卫视 + 4K超高清）
+        function chCats(ch) {
+            if (Array.isArray(ch.categories) && ch.categories.length) return ch.categories;
+            return [ch.category || '其他'];
+        }
+
         // JSON 下发的分类顺序优先；未列出的分类追加到末尾
         function allCategories() {
             var order = [], seen = {};
@@ -493,15 +510,18 @@
                 if (c && !seen[c]) { seen[c] = 1; order.push(c); }
             });
             state.channels.forEach(function(ch) {
-                var c = ch.category || '其他';
-                if (!seen[c]) { seen[c] = 1; order.push(c); }
+                chCats(ch).forEach(function(c) {
+                    if (!seen[c]) { seen[c] = 1; order.push(c); }
+                });
             });
             return order;
         }
 
         function presentCategories() {
             var seen = {};
-            state.channels.forEach(function(ch) { seen[ch.category || '其他'] = true; });
+            state.channels.forEach(function(ch) {
+                chCats(ch).forEach(function(c) { seen[c] = true; });
+            });
             return allCategories().filter(function(c) { return seen[c]; });
         }
 
@@ -517,9 +537,10 @@
                 if (gf === 'ok' && st !== 'ok') return;
                 if (gf === 'gap' && st !== 'gap') return;
                 if (q && !matchChannel(ch, q)) return;
-                var cat = ch.category || '其他';
-                if (state.activeCategory !== 'all' && cat !== state.activeCategory) return;
-                (buckets[cat] || (buckets[cat] = [])).push(ch);
+                chCats(ch).forEach(function(cat) {
+                    if (state.activeCategory !== 'all' && cat !== state.activeCategory) return;
+                    (buckets[cat] || (buckets[cat] = [])).push(ch);
+                });
             });
             var model = [];
             allCategories().forEach(function(cat) {
@@ -655,10 +676,18 @@
             if (st === 'none') gapCell = '<span class="badge badge-none">无节目</span>';
             else if (st === 'gap') gapCell = '<span class="badge badge-warn">' + esc(ch.gapDetails) + '</span>';
             else gapCell = '<span class="badge badge-ok">无断层</span>';
+            var al = (ch.aliases || []).filter(Boolean);
+            var aliasHtml = al.length
+                ? '<span class="td-aliases" title="' + esc(al.join('、')) + '">别名：' + esc(al.join(' / ')) + '</span>'
+                : '';
+            var cats = chCats(ch);
+            var catsHtml = cats.length > 1
+                ? '<span class="td-cats">' + cats.map(esc).join(' · ') + '</span>'
+                : '';
             return '<tr class="row-data" data-id="' + esc(ch.id) + '">' +
                 '<td class="td-index">' + ch.globalIndex + '</td>' +
                 '<td class="td-id">' + esc(ch.id) + '</td>' +
-                '<td class="td-name">' + esc(ch.name) + '<span class="td-hint">点击查看详情</span></td>' +
+                '<td class="td-name">' + esc(ch.name) + '<span class="td-hint">点击查看详情</span>' + aliasHtml + catsHtml + '</td>' +
                 '<td class="td-center">' + esc(ch.lastProgramTime) + '</td>' +
                 '<td class="td-center">' + (ch.todaySchedule ? ch.todaySchedule.length : 0) + '</td>' +
                 '<td class="td-center">' + gapCell + '</td>' +
@@ -717,7 +746,7 @@
         function renderModal(ch) {
             var html = '<div class="modal-head"><div>' +
                 '<div class="modal-title">' + esc(ch.name) + '</div>' +
-                '<div class="modal-cat">' + esc(ch.category) + ' · ID: ' + esc(ch.id) + '</div></div>' +
+                '<div class="modal-cat">' + esc(chCats(ch).join(' / ')) + ' · ID: ' + esc(ch.id) + '</div></div>' +
                 '<button class="modal-close" id="modalClose">&times;</button></div>' +
                 '<div class="modal-meta">' +
                     '<div class="meta-item"><strong>最后节目</strong>' + esc(ch.lastProgramTime) + '</div>' +
@@ -769,9 +798,15 @@
 
         function refresh() {
             var model = buildModel();
-            var matched = 0;
+            // 多分类频道会在多个分组里出现，搜索计数按频道去重
+            var seen = {}, matched = 0;
             model.forEach(function(cg) {
-                cg.blocks.forEach(function(b) { matched += b.channels.length; });
+                cg.blocks.forEach(function(b) {
+                    b.channels.forEach(function(ch) {
+                        var key = ch.id || ch.name;
+                        if (!seen[key]) { seen[key] = 1; matched++; }
+                    });
+                });
             });
             renderWarnings();
             renderStats();
@@ -882,8 +917,11 @@
             // 按 JSON 内的 updateTime 判断是否需要刷新；相同则保持当前视图（搜索/页码/折叠状态不被打断）
             if (state.rawUpdateTime !== null && d.updateTime === state.rawUpdateTime) return;
             state.rawUpdateTime = d.updateTime;
-            if (Array.isArray(d.categories) && d.categories.length) {
-                state.categoryOrder = d.categories.slice();
+            // 新版用 categoryOrder；旧版 JSON 的分类白名单在 categories 里
+            var order = Array.isArray(d.categoryOrder) ? d.categoryOrder
+                : (Array.isArray(d.categories) && d.categories.length && typeof d.categories[0] === 'string' ? d.categories : null);
+            if (order && order.length) {
+                state.categoryOrder = order.slice();
             }
             state.channels = d.channels;
             state.dataEnd = d.dataEnd || '';

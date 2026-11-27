@@ -17,13 +17,15 @@
   </channel>
   <channel id="金鹰纪实"><display-name lang="zh">金鹰纪实</display-name><display-name lang="zh">金鹰纪实高清</display-name>
   </channel>
-  <channel id="黄河卫视"><display-name lang="zh">黄河卫视</display-name>
+  <channel id="青岛TV6"><display-name lang="zh">青岛TV6</display-name>
   </channel>
   <channel id="中央台–珠江"><display-name lang="zh">中央台–珠江</display-name>
   </channel>
   <channel id="杭州文化"><display-name lang="zh">杭州文化</display-name>
   </channel>
   <channel id="杭州生活"><display-name lang="zh">杭州生活</display-name>
+  </channel>
+  <channel id="黄河卫视"><display-name lang="zh">黄河卫视</display-name>
   </channel>
   <channel id="汕尾新闻综合"><display-name lang="zh">汕尾新闻综合</display-name>
   </channel>
@@ -325,6 +327,8 @@
   </channel>
   <channel id="WSBKMYTVTV38BOSTON(515)"><display-name lang="zh">WSBKMYTVTV38BOSTON(515)</display-name>
   </channel>
+  <channel id="南方少儿"><display-name lang="zh">南方少儿</display-name>
+  </channel>
   <channel id="CBSBOSTON(468)"><display-name lang="zh">CBSBOSTON(468)</display-name>
   </channel>
   <channel id="CCTV4美洲"><display-name lang="zh">CCTV4美洲</display-name><display-name lang="zh">CCTV-4 美洲</display-name>
@@ -363,9 +367,11 @@
   </channel>
   <channel id="戏曲"><display-name lang="zh">戏曲</display-name>
   </channel>
-  <channel id="黑莓动画"><display-name lang="zh">黑莓动画</display-name>
+  <channel id="南方影视"><display-name lang="zh">南方影视</display-name>
   </channel>
   <channel id="TVBS精采"><display-name lang="zh">TVBS精采</display-name>
+  </channel>
+  <channel id="黑莓动画"><display-name lang="zh">黑莓动画</display-name>
   </channel>
   <channel id="CBCVANCOUVER(28)"><display-name lang="zh">CBCVANCOUVER(28)</display-name>
   </channel>
@@ -518,6 +524,8 @@
   <channel id="新乡3影视"><display-name lang="zh">新乡3影视</display-name>
   </channel>
   <channel id="西安影视"><display-name lang="zh">西安影视</display-name>
+  </channel>
+  <channel id="青岛TV2"><display-name lang="zh">青岛TV2</display-name>
   </channel>
   <channel id="WORLDOFLOVEISLAND"><display-name lang="zh">WORLDOFLOVEISLAND</display-name>
   </channel>
@@ -1357,6 +1365,8 @@
   </channel>
   <channel id="江西新闻"><display-name lang="zh">江西新闻</display-name>
   </channel>
+  <channel id="东方电影"><display-name lang="zh">东方电影</display-name><display-name lang="zh">东方电影频道</display-name>
+  </channel>
   <channel id="安多卫视"><display-name lang="zh">安多卫视</display-name><display-name lang="zh">安多卫视高清</display-name>
   </channel>
   <channel id="江苏国际"><display-name lang="zh">江苏国际</display-name><display-name lang="zh">江苏国际频道</display-name>
@@ -2143,13 +2153,15 @@
   </channel>
   <channel id="麦卡贝综艺"><display-name lang="zh">麦卡贝综艺</display-name>
   </channel>
+  <channel id="上海星尚"><display-name lang="zh">上海星尚</display-name>
+  </channel>
   <channel id="平顶山1新闻综合"><display-name lang="zh">平顶山1新闻综合</display-name>
   </channel>
   <channel id="扬州生活"><display-name lang="zh">扬州生活</display-name>
   </channel>
-  <channel id="辽宁影视剧"><display-name lang="zh">辽宁影视剧</display-name>
-  </channel>
   <channel id="欢笑剧场"><display-name lang="zh">欢笑剧场</display-name>
+  </channel>
+  <channel id="辽宁影视剧"><display-name lang="zh">辽宁影视剧</display-name>
   </channel>
   <channel id="香港卫视"><display-name lang="zh">香港卫视</display-name>
   </channel>
@@ -11485,45 +11497,45 @@
   </programme>
   <programme start="20261127060744 +0800" stop="20261127070055 +0800" channel="NewTV军事评论"><title lang="zh">刘飞保：绘彩蓝天上</title>
   </programme>
-  <programme start="20261127070055 +0800" stop="20261127072524 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127070055 +0800" stop="20261127072524 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127072524 +0800" stop="20261127074954 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127072524 +0800" stop="20261127074954 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127074954 +0800" stop="20261127081423 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127074954 +0800" stop="20261127081423 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127081423 +0800" stop="20261127083852 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127081423 +0800" stop="20261127083852 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127083852 +0800" stop="20261127090311 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127083852 +0800" stop="20261127090311 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127090311 +0800" stop="20261127092730 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127090311 +0800" stop="20261127092730 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127092730 +0800" stop="20261127095149 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127092730 +0800" stop="20261127095149 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127095149 +0800" stop="20261127101619 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127095149 +0800" stop="20261127101619 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127101619 +0800" stop="20261127104049 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127101619 +0800" stop="20261127104049 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127104049 +0800" stop="20261127110509 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc>中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
+  <programme start="20261127104049 +0800" stop="20261127110509 +0800" channel="NewTV军事评论"><title lang="zh">国防军事早报</title><desc lang="zh">中央电视台国防军事频道早间新闻栏目，每天7:30播出，时长30分钟。以全球视野梳理国内外防务军事新闻，围绕国防和军队建设热点话题进行深度解读，突显大国防理念。</desc>
   </programme>
-  <programme start="20261127110509 +0800" stop="20261127114401 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127110509 +0800" stop="20261127114401 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127114401 +0800" stop="20261127122900 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127114401 +0800" stop="20261127122900 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127122900 +0800" stop="20261127130859 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127122900 +0800" stop="20261127130859 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127130859 +0800" stop="20261127135358 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127130859 +0800" stop="20261127135358 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127135358 +0800" stop="20261127143357 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127135358 +0800" stop="20261127143357 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127143357 +0800" stop="20261127151354 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127143357 +0800" stop="20261127151354 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127151354 +0800" stop="20261127155352 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127151354 +0800" stop="20261127155352 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127155352 +0800" stop="20261127163304 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127155352 +0800" stop="20261127163304 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127163304 +0800" stop="20261127170303 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127163304 +0800" stop="20261127170303 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
-  <programme start="20261127170303 +0800" stop="20261127173302 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc>中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
+  <programme start="20261127170303 +0800" stop="20261127173302 +0800" channel="NewTV军事评论"><title lang="zh">正午国防军事</title><desc lang="zh">中央电视台国防军事频道午间新闻栏目，每天12:00播出，时长30分钟。聚焦国内外防务军事新闻，发布权威军事信息，解读国防政策动态，关注军队现代化建设成就。节目设置“军情速递”“热点聚焦”等板块，为观众提供全面及时的午间军事资讯。</desc>
   </programme>
   <programme start="20261127173302 +0800" stop="20261127175501 +0800" channel="NewTV军事评论"><title lang="zh">雷霆之翼（1）</title>
   </programme>
@@ -12145,11 +12157,11 @@
   </programme>
   <programme start="20261127082938 +0800" stop="20261127090748 +0800" channel="NewTV炫舞未来"><title lang="zh">抗癌战（四）（20220417）</title>
   </programme>
-  <programme start="20261127090748 +0800" stop="20261127091047 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127090748 +0800" stop="20261127091047 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
-  <programme start="20261127091047 +0800" stop="20261127091346 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127091047 +0800" stop="20261127091346 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
-  <programme start="20261127091346 +0800" stop="20261127091645 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127091346 +0800" stop="20261127091645 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
   <programme start="20261127091645 +0800" stop="20261127093059 +0800" channel="NewTV炫舞未来"><title lang="zh">广场舞《我的蒙古马》-乌兰图雅、王广成</title>
   </programme>
@@ -12179,7 +12191,7 @@
   </programme>
   <programme start="20261127131411 +0800" stop="20261127131753 +0800" channel="NewTV炫舞未来"><title lang="zh">[中国节拍]《美丽新疆》演唱：乌兰图雅_舞蹈：炫健身舞团</title>
   </programme>
-  <programme start="20261127131753 +0800" stop="20261127134217 +0800" channel="NewTV炫舞未来"><title lang="zh">回家吃饭（20240226）</title><desc>中央电视台财经频道日播美食节目，以“回家吃饭”为核心理念，每期邀请一位民间烹饪达人与一位专业大厨同台竞技，用家常食材做出美味菜肴，倡导“好好吃饭、用心生活”的健康饮食观，传递家的温暖与烟火气。</desc>
+  <programme start="20261127131753 +0800" stop="20261127134217 +0800" channel="NewTV炫舞未来"><title lang="zh">回家吃饭（20240226）</title><desc lang="zh">中央电视台财经频道日播美食节目，以“回家吃饭”为核心理念，每期邀请一位民间烹饪达人与一位专业大厨同台竞技，用家常食材做出美味菜肴，倡导“好好吃饭、用心生活”的健康饮食观，传递家的温暖与烟火气。</desc>
   </programme>
   <programme start="20261127134217 +0800" stop="20261127142116 +0800" channel="NewTV炫舞未来"><title lang="zh">生活服务</title>
   </programme>
@@ -12193,11 +12205,11 @@
   </programme>
   <programme start="20261127145159 +0800" stop="20261127151458 +0800" channel="NewTV炫舞未来"><title lang="zh">第三集 芜湖</title>
   </programme>
-  <programme start="20261127151458 +0800" stop="20261127151757 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127151458 +0800" stop="20261127151757 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
-  <programme start="20261127151757 +0800" stop="20261127152056 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127151757 +0800" stop="20261127152056 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
-  <programme start="20261127152056 +0800" stop="20261127152355 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  <programme start="20261127152056 +0800" stop="20261127152355 +0800" channel="NewTV炫舞未来"><title lang="zh">健康生活-紫苏籽油</title><desc lang="zh">湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
   </programme>
   <programme start="20261127152355 +0800" stop="20261127153827 +0800" channel="NewTV炫舞未来"><title lang="zh">广场舞《厉害了我的国》-乌兰图雅、王广成</title>
   </programme>
@@ -12215,7 +12227,7 @@
   </programme>
   <programme start="20261127172500 +0800" stop="20261127173246 +0800" channel="NewTV炫舞未来"><title lang="zh">广场舞《给我一个吻》-乌兰图雅、王广成</title>
   </programme>
-  <programme start="20261127173246 +0800" stop="20261127185614 +0800" channel="NewTV炫舞未来"><title lang="zh">国风超有戏·寻风季（20251010）</title><desc>中央广播电视总台文艺节目中心匠心打造的原创国风音乐唱演节目《国风超有戏·寻风季》，邀请国风音乐人从山西太原这方文化沃土出发，通过户外采风与深度文化体验的创新实践，旨在探索国风音乐创作的源头活水，展现中华优秀传统文化的时代魅力。节目紧扣“焕新国风”核心理念，围绕“土地欢歌”“溯古撷珍”“丹心永晖…</desc>
+  <programme start="20261127173246 +0800" stop="20261127185614 +0800" channel="NewTV炫舞未来"><title lang="zh">国风超有戏·寻风季（20251010）</title><desc lang="zh">中央广播电视总台文艺节目中心匠心打造的原创国风音乐唱演节目《国风超有戏·寻风季》，邀请国风音乐人从山西太原这方文化沃土出发，通过户外采风与深度文化体验的创新实践，旨在探索国风音乐创作的源头活水，展现中华优秀传统文化的时代魅力。节目紧扣“焕新国风”核心理念，围绕“土地欢歌”“溯古撷珍”“丹心永晖…</desc>
   </programme>
   <programme start="20261127185614 +0800" stop="20261127193513 +0800" channel="NewTV炫舞未来"><title lang="zh">生活服务</title>
   </programme>
@@ -12233,9 +12245,9 @@
   </programme>
   <programme start="20261127215457 +0800" stop="20261127220056 +0800" channel="NewTV炫舞未来"><title lang="zh">广场舞《午夜星河》-乌兰图雅、王广成</title>
   </programme>
-  <programme start="20261127220056 +0800" stop="20261127231755 +0800" channel="NewTV炫舞未来"><title lang="zh">全民畅舞（20261013）</title><desc>江苏卫视推出的大型群众舞蹈互动秀节目，由薛之谦、王心凌、刘维、刘宇组成“夺金合伙人”。节目将舞蹈赛道细分流行风格、街头风格、异域风格和国风为四大“舞种圈层”，上演不同舞种间的同台对决，挖掘全民舞蹈“民间王者”，让不同代际和背景的舞者尽情释放对舞蹈的热爱与激情。播出后收视多次位列同时段前茅，开分获豆瓣9.0高分。</desc>
+  <programme start="20261127220056 +0800" stop="20261127231755 +0800" channel="NewTV炫舞未来"><title lang="zh">全民畅舞（20261013）</title><desc lang="zh">江苏卫视推出的大型群众舞蹈互动秀节目，由薛之谦、王心凌、刘维、刘宇组成“夺金合伙人”。节目将舞蹈赛道细分流行风格、街头风格、异域风格和国风为四大“舞种圈层”，上演不同舞种间的同台对决，挖掘全民舞蹈“民间王者”，让不同代际和背景的舞者尽情释放对舞蹈的热爱与激情。播出后收视多次位列同时段前茅，开分获豆瓣9.0高分。</desc>
   </programme>
-  <programme start="20261127231755 +0800" stop="20261128000000 +0800" channel="NewTV炫舞未来"><title lang="zh">国风超有戏·寻风季（20251017）</title><desc>中央广播电视总台文艺节目中心匠心打造的原创国风音乐唱演节目《国风超有戏·寻风季》，邀请国风音乐人从山西太原这方文化沃土出发，通过户外采风与深度文化体验的创新实践，旨在探索国风音乐创作的源头活水，展现中华优秀传统文化的时代魅力。节目紧扣“焕新国风”核心理念，围绕“土地欢歌”“溯古撷珍”“丹心永晖…</desc>
+  <programme start="20261127231755 +0800" stop="20261128000000 +0800" channel="NewTV炫舞未来"><title lang="zh">国风超有戏·寻风季（20251017）</title><desc lang="zh">中央广播电视总台文艺节目中心匠心打造的原创国风音乐唱演节目《国风超有戏·寻风季》，邀请国风音乐人从山西太原这方文化沃土出发，通过户外采风与深度文化体验的创新实践，旨在探索国风音乐创作的源头活水，展现中华优秀传统文化的时代魅力。节目紧扣“焕新国风”核心理念，围绕“土地欢歌”“溯古撷珍”“丹心永晖…</desc>
   </programme>
   <programme start="20261127003845 +0800" stop="20261127012306 +0800" channel="NewTV热播精选"><title lang="zh">16_星汉灿烂</title>
   </programme>
@@ -17568,6 +17580,52 @@
   </programme>
   <programme start="20261127233000 +0800" stop="20261128000000 +0800" channel="上海新闻综合"><title lang="zh">洋厨房</title>
   </programme>
+  <programme start="20261127000000 +0800" stop="20261127060000 +0800" channel="上海星尚"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261127060000 +0800" stop="20261127070000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261127070000 +0800" stop="20261127080000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261127080000 +0800" stop="20261127090000 +0800" channel="上海星尚"><title lang="zh">今日印象</title>
+  </programme>
+  <programme start="20261127090000 +0800" stop="20261127100000 +0800" channel="上海星尚"><title lang="zh">左右时尚</title>
+  </programme>
+  <programme start="20261127100000 +0800" stop="20261127110000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261127110000 +0800" stop="20261127120000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261127120000 +0800" stop="20261127123000 +0800" channel="上海星尚"><title lang="zh">乐活好正点</title>
+  </programme>
+  <programme start="20261127123000 +0800" stop="20261127130000 +0800" channel="上海星尚"><title lang="zh">今晚我们看电影</title>
+  </programme>
+  <programme start="20261127130000 +0800" stop="20261127142200 +0800" channel="上海星尚"><title lang="zh">生活大不同</title>
+  </programme>
+  <programme start="20261127142200 +0800" stop="20261127142400 +0800" channel="上海星尚"><title lang="zh">频道2分钟宣传片</title>
+  </programme>
+  <programme start="20261127142400 +0800" stop="20261127143000 +0800" channel="上海星尚"><title lang="zh">我就是偶像</title>
+  </programme>
+  <programme start="20261127143000 +0800" stop="20261127150000 +0800" channel="上海星尚"><title lang="zh">生活全接触</title>
+  </programme>
+  <programme start="20261127150000 +0800" stop="20261127160000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261127160000 +0800" stop="20261127170000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261127170000 +0800" stop="20261127173000 +0800" channel="上海星尚"><title lang="zh">乐活好正点</title>
+  </programme>
+  <programme start="20261127173000 +0800" stop="20261127180000 +0800" channel="上海星尚"><title lang="zh">星尚精选</title>
+  </programme>
+  <programme start="20261127180000 +0800" stop="20261127190000 +0800" channel="上海星尚"><title lang="zh">美食大王牌</title>
+  </programme>
+  <programme start="20261127190000 +0800" stop="20261127200000 +0800" channel="上海星尚"><title lang="zh">人气美食</title>
+  </programme>
+  <programme start="20261127200000 +0800" stop="20261127210000 +0800" channel="上海星尚"><title lang="zh">甲方乙方</title>
+  </programme>
+  <programme start="20261127210000 +0800" stop="20261127220000 +0800" channel="上海星尚"><title lang="zh">今日印象</title>
+  </programme>
+  <programme start="20261127220000 +0800" stop="20261127230000 +0800" channel="上海星尚"><title lang="zh">左右时尚</title>
+  </programme>
+  <programme start="20261127230000 +0800" stop="20261127235900 +0800" channel="上海星尚"><title lang="zh">生活全接触</title>
+  </programme>
   <programme start="20261127000000 +0800" stop="20261127001700 +0800" channel="上海都市"><title lang="zh">X诊所青光眼别等看不见才重视</title>
   </programme>
   <programme start="20261127001700 +0800" stop="20261127011000 +0800" channel="上海都市"><title lang="zh">新老娘舅</title><desc lang="zh">新老娘舅是民生调解栏目。节目聚焦家庭纠纷、邻里矛盾与情感纠葛，由调解员现场化解纷争，传递人情法理，是海派调解的品牌节目。</desc>
@@ -17939,6 +17997,36 @@
   <programme start="20261127230000 +0800" stop="20261127235200 +0800" channel="东方影视"><title lang="zh">50集连续剧：河山（18）</title>
   </programme>
   <programme start="20261127235200 +0800" stop="20261127235900 +0800" channel="东方影视"><title lang="zh">50集连续剧：河山（19）</title>
+  </programme>
+  <programme start="20261127000000 +0800" stop="20261127000500 +0800" channel="东方电影"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261127000500 +0800" stop="20261127015500 +0800" channel="东方电影"><title lang="zh">午夜经典</title>
+  </programme>
+  <programme start="20261127015500 +0800" stop="20261127075500 +0800" channel="东方电影"><title lang="zh">国产影院</title>
+  </programme>
+  <programme start="20261127075500 +0800" stop="20261127082500 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
+  </programme>
+  <programme start="20261127082500 +0800" stop="20261127100500 +0800" channel="东方电影"><title lang="zh">国产影院</title>
+  </programme>
+  <programme start="20261127100500 +0800" stop="20261127125000 +0800" channel="东方电影"><title lang="zh">黄金强档剧场</title>
+  </programme>
+  <programme start="20261127125000 +0800" stop="20261127132000 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
+  </programme>
+  <programme start="20261127132000 +0800" stop="20261127150000 +0800" channel="东方电影"><title lang="zh">正午影院</title>
+  </programme>
+  <programme start="20261127150000 +0800" stop="20261127153000 +0800" channel="东方电影"><title lang="zh">卡通王</title>
+  </programme>
+  <programme start="20261127153000 +0800" stop="20261127172000 +0800" channel="东方电影"><title lang="zh">热播剧场</title><desc>《午后剧场》是电视台在午后时段播出的电视剧场，通常播放热门电视剧。该剧场为观众提供了丰富的电视剧内容，满足不同观众的观看需求。</desc>
+  </programme>
+  <programme start="20261127172000 +0800" stop="20261127190000 +0800" channel="东方电影"><title lang="zh">香港电影周</title>
+  </programme>
+  <programme start="20261127190000 +0800" stop="20261127214500 +0800" channel="东方电影"><title lang="zh">黄金强档剧场</title>
+  </programme>
+  <programme start="20261127214500 +0800" stop="20261127215000 +0800" channel="东方电影"><title lang="zh">电影指南</title>
+  </programme>
+  <programme start="20261127215000 +0800" stop="20261127233000 +0800" channel="东方电影"><title lang="zh">环球影院</title>
+  </programme>
+  <programme start="20261127233000 +0800" stop="20261127235900 +0800" channel="东方电影"><title lang="zh">东方电影报道</title>
   </programme>
   <programme start="20261127000000 +0800" stop="20261127010000 +0800" channel="东方财经"><title lang="zh">野性四季(1)</title>
   </programme>
@@ -19219,8 +19307,6 @@
   <programme start="20261127234600 +0800" stop="20261127235600 +0800" channel="中国天气"><title lang="zh">气象今日谈</title>
   </programme>
   <programme start="20261127235600 +0800" stop="20261128000000 +0800" channel="中国天气"><title lang="zh">北京本地气象</title>
-  </programme>
-  <programme start="20261127000000 +0800" stop="20261127003000 +0800" channel="中国教育1"><title lang="zh">美丽人生</title><desc>2008年郭靖宇执导的电视剧，李雪健、吴越主演。讲述上世纪80年代话剧团遭遇车祸后，失去亲人的老美工伍正德与孤儿、遗属组成临时家庭，在相互扶持中走过数十年的感人故事。</desc>
   </programme>
   <programme start="20261127003000 +0800" stop="20261127010000 +0800" channel="中国教育1"><title lang="zh">发现中国</title><desc>《发现中国》是一档以中国文化和自然为主题的纪录片，通过探索中国的历史文化、自然风光和人文景观，向观众展示中国的独特魅力。第79集继续讲述中国的故事，通过精美的画面和生动的讲述，向观众传递对中国文化和自然的热爱。</desc>
   </programme>
@@ -26593,6 +26679,188 @@
   <programme start="20261127203500 +0800" stop="20261127222600 +0800" channel="南平新闻综合"><title lang="zh">剧场: 秋霜 9-10</title><desc>电视台电视剧场的通用称谓，通常按播出时段划分，如清晨剧场、上午剧场、午后剧场、黄金剧场、深夜剧场等，是电视台播出电视剧的主要时段。各卫视剧场定位各有侧重，或主打情感家庭、抗战传奇，或聚焦年代风云、都市生活，采用多集连播模式，满足不同时段观众的观剧需求。</desc>
   </programme>
   <programme start="20261127222600 +0800" stop="20261128000000 +0800" channel="南平新闻综合"><title lang="zh">武夷方圆</title>
+  </programme>
+  <programme start="20261127000000 +0800" stop="20261127000400 +0800" channel="南方少儿"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261127000400 +0800" stop="20261127001400 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(20)</title>
+  </programme>
+  <programme start="20261127001400 +0800" stop="20261127002400 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(21)</title>
+  </programme>
+  <programme start="20261127002400 +0800" stop="20261127003300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(22)</title>
+  </programme>
+  <programme start="20261127003300 +0800" stop="20261127004300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(23)</title>
+  </programme>
+  <programme start="20261127004300 +0800" stop="20261127005300 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(24)</title>
+  </programme>
+  <programme start="20261127005300 +0800" stop="20261127010200 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(25)</title>
+  </programme>
+  <programme start="20261127010200 +0800" stop="20261127011200 +0800" channel="南方少儿"><title lang="zh">舒克贝塔3(26)</title>
+  </programme>
+  <programme start="20261127011200 +0800" stop="20261127012300 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(1)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127012300 +0800" stop="20261127013500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(2)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127013500 +0800" stop="20261127014600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(3)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127014600 +0800" stop="20261127015700 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(4)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127015700 +0800" stop="20261127020900 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(5)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127020900 +0800" stop="20261127022100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(6)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127022100 +0800" stop="20261127023200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(7)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127023200 +0800" stop="20261127024400 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(8)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127024400 +0800" stop="20261127025500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(9)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127025500 +0800" stop="20261127030600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(10)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127030600 +0800" stop="20261127031800 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(11)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127031800 +0800" stop="20261127032900 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(12)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127032900 +0800" stop="20261127034000 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(13)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127034000 +0800" stop="20261127035100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(14)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127035100 +0800" stop="20261127040200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(15)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127040200 +0800" stop="20261127041400 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(16)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127041400 +0800" stop="20261127042500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(17)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127042500 +0800" stop="20261127043600 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(18)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127043600 +0800" stop="20261127044700 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(19)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127044700 +0800" stop="20261127045800 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(20)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127045800 +0800" stop="20261127051000 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(21)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127051000 +0800" stop="20261127052100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(22)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127052100 +0800" stop="20261127053200 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(23)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127053200 +0800" stop="20261127054300 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(24)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127054300 +0800" stop="20261127055500 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(25)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127055500 +0800" stop="20261127060100 +0800" channel="南方少儿"><title lang="zh">猪猪侠之超星五灵侠(26)</title><desc>广东咏声动漫制作的动画系列，讲述猪猪侠与同伴接收到来自九霄星的求救信号后前往救援的冒险历程。团队成员在失去超能力的情况下仍冒险前往，对抗岩浆灾害、独孤博士及其无敌军团等威胁，运用功夫保卫家园。</desc>
+  </programme>
+  <programme start="20261127060100 +0800" stop="20261127061000 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(1)</title>
+  </programme>
+  <programme start="20261127061000 +0800" stop="20261127061900 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(2)</title>
+  </programme>
+  <programme start="20261127061900 +0800" stop="20261127062800 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(3)</title>
+  </programme>
+  <programme start="20261127062800 +0800" stop="20261127063800 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(4)</title>
+  </programme>
+  <programme start="20261127063800 +0800" stop="20261127064700 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(5)</title>
+  </programme>
+  <programme start="20261127064700 +0800" stop="20261127065700 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(6)</title>
+  </programme>
+  <programme start="20261127065700 +0800" stop="20261127070600 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(7)</title>
+  </programme>
+  <programme start="20261127070600 +0800" stop="20261127071500 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(8)</title>
+  </programme>
+  <programme start="20261127071500 +0800" stop="20261127072500 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(9)</title>
+  </programme>
+  <programme start="20261127072500 +0800" stop="20261127073400 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(10)</title>
+  </programme>
+  <programme start="20261127073400 +0800" stop="20261127074300 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(11)</title>
+  </programme>
+  <programme start="20261127074300 +0800" stop="20261127075300 +0800" channel="南方少儿"><title lang="zh">旗旗号巡洋舰2(12)</title>
+  </programme>
+  <programme start="20261127075300 +0800" stop="20261127080300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(1)</title>
+  </programme>
+  <programme start="20261127080300 +0800" stop="20261127081300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(2)</title>
+  </programme>
+  <programme start="20261127081300 +0800" stop="20261127082400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(3)</title>
+  </programme>
+  <programme start="20261127082400 +0800" stop="20261127083400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(4)</title>
+  </programme>
+  <programme start="20261127083400 +0800" stop="20261127084400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(5)</title>
+  </programme>
+  <programme start="20261127084400 +0800" stop="20261127085500 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(6)</title>
+  </programme>
+  <programme start="20261127085500 +0800" stop="20261127090500 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(7)</title>
+  </programme>
+  <programme start="20261127090500 +0800" stop="20261127091600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(8)</title>
+  </programme>
+  <programme start="20261127091600 +0800" stop="20261127092700 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(9)</title>
+  </programme>
+  <programme start="20261127092700 +0800" stop="20261127093900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(10)</title>
+  </programme>
+  <programme start="20261127093900 +0800" stop="20261127094900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(11)</title>
+  </programme>
+  <programme start="20261127094900 +0800" stop="20261127095900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(12)</title>
+  </programme>
+  <programme start="20261127095900 +0800" stop="20261127100900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(13)</title>
+  </programme>
+  <programme start="20261127100900 +0800" stop="20261127101900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(14)</title>
+  </programme>
+  <programme start="20261127101900 +0800" stop="20261127103300 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(15)</title>
+  </programme>
+  <programme start="20261127103300 +0800" stop="20261127104400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(16)</title>
+  </programme>
+  <programme start="20261127104400 +0800" stop="20261127105400 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(17)</title>
+  </programme>
+  <programme start="20261127105400 +0800" stop="20261127110600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(18)</title>
+  </programme>
+  <programme start="20261127110600 +0800" stop="20261127111600 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(19)</title>
+  </programme>
+  <programme start="20261127111600 +0800" stop="20261127112800 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(20)</title>
+  </programme>
+  <programme start="20261127112800 +0800" stop="20261127113900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(21)</title>
+  </programme>
+  <programme start="20261127113900 +0800" stop="20261127115100 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(22)</title>
+  </programme>
+  <programme start="20261127115100 +0800" stop="20261127235900 +0800" channel="南方少儿"><title lang="zh">熊出没之春日对对碰(23)</title>
+  </programme>
+  <programme start="20261127000000 +0800" stop="20261127003900 +0800" channel="南方影视"><title lang="zh">精彩节目</title>
+  </programme>
+  <programme start="20261127003900 +0800" stop="20261127011300 +0800" channel="南方影视"><title lang="zh">杀出黎明(9)</title>
+  </programme>
+  <programme start="20261127011300 +0800" stop="20261127014700 +0800" channel="南方影视"><title lang="zh">杀出黎明(10)</title>
+  </programme>
+  <programme start="20261127014700 +0800" stop="20261127021800 +0800" channel="南方影视"><title lang="zh">杀出黎明(11)</title>
+  </programme>
+  <programme start="20261127021800 +0800" stop="20261127024900 +0800" channel="南方影视"><title lang="zh">杀出黎明(12)</title>
+  </programme>
+  <programme start="20261127024900 +0800" stop="20261127032700 +0800" channel="南方影视"><title lang="zh">杀出黎明(13)</title>
+  </programme>
+  <programme start="20261127032700 +0800" stop="20261127035800 +0800" channel="南方影视"><title lang="zh">绿野心踪(45)</title>
+  </programme>
+  <programme start="20261127035800 +0800" stop="20261127043000 +0800" channel="南方影视"><title lang="zh">绿野心踪(46)</title>
+  </programme>
+  <programme start="20261127043000 +0800" stop="20261127050000 +0800" channel="南方影视"><title lang="zh">双枪(1)</title>
+  </programme>
+  <programme start="20261127050000 +0800" stop="20261127053000 +0800" channel="南方影视"><title lang="zh">双枪(2)</title>
+  </programme>
+  <programme start="20261127053000 +0800" stop="20261127060100 +0800" channel="南方影视"><title lang="zh">双枪(3)</title>
+  </programme>
+  <programme start="20261127060100 +0800" stop="20261127063100 +0800" channel="南方影视"><title lang="zh">双枪(4)</title>
+  </programme>
+  <programme start="20261127063100 +0800" stop="20261127072600 +0800" channel="南方影视"><title lang="zh">双枪(5)</title>
+  </programme>
+  <programme start="20261127072600 +0800" stop="20261127075600 +0800" channel="南方影视"><title lang="zh">双枪(6)</title>
+  </programme>
+  <programme start="20261127075600 +0800" stop="20261127083300 +0800" channel="南方影视"><title lang="zh">双枪(7)</title>
+  </programme>
+  <programme start="20261127083300 +0800" stop="20261127090700 +0800" channel="南方影视"><title lang="zh">双枪(8)</title>
+  </programme>
+  <programme start="20261127090700 +0800" stop="20261127094800 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(69)</title>
+  </programme>
+  <programme start="20261127094800 +0800" stop="20261127102900 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(70)</title>
+  </programme>
+  <programme start="20261127102900 +0800" stop="20261127110500 +0800" channel="南方影视"><title lang="zh">桃花依旧笑春风(71)</title>
+  </programme>
+  <programme start="20261127110500 +0800" stop="20261127112100 +0800" channel="南方影视"><title lang="zh">广东电影报道</title>
+  </programme>
+  <programme start="20261127112100 +0800" stop="20261127115100 +0800" channel="南方影视"><title lang="zh">追时代1(4):钱火火求职记</title>
+  </programme>
+  <programme start="20261127115100 +0800" stop="20261127235900 +0800" channel="南方影视"><title lang="zh">战火青春(26)</title>
   </programme>
   <programme start="20261127000000 +0800" stop="20261127063400 +0800" channel="南通一套·新闻综合"><title lang="zh">电视剧</title><desc>电视剧在各地有着不同的称呼，在美国，以电影方式制作的电视剧称作“ 电视电影 ”，按照传统 戏剧 拍摄制作的电视剧称作“电视戏剧”。在苏联称作“电视故事片”，在日本称作“电视小说”。“电视剧”早期在中国大陆类似的概念为“电视小戏”，1958年直播《 一口菜饼子 》时，当时的编导认为这类型电视节目不同于过往的“电视小戏”，也不同于苏联的“电视故事片”，所以称呼这类电视节目为“电视剧”。台湾、香港、澳门也沿用了这个说法 [ 1 ] 。</desc>
   </programme>
@@ -67779,6 +68047,166 @@
   <programme start="20261127222700 +0800" stop="20261127230000 +0800" channel="青岛QTV-5"><title lang="zh">小白帆大舞台</title>
   </programme>
   <programme start="20261127233300 +0800" stop="20261128060500 +0800" channel="青岛QTV-5"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261127000000 +0800" stop="20261127054400 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127054400 +0800" stop="20261127060900 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127060900 +0800" stop="20261127070200 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261127070200 +0800" stop="20261127072300 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127072300 +0800" stop="20261127073900 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261127073900 +0800" stop="20261127082500 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127082500 +0800" stop="20261127082900 +0800" channel="青岛TV2"><title lang="zh">早间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20261127082900 +0800" stop="20261127094500 +0800" channel="青岛TV2"><title lang="zh">一起旅行吧</title>
+  </programme>
+  <programme start="20261127094500 +0800" stop="20261127095500 +0800" channel="青岛TV2"><title lang="zh">健康在线</title>
+  </programme>
+  <programme start="20261127095500 +0800" stop="20261127103900 +0800" channel="青岛TV2"><title lang="zh">《最强医声》特别节目</title><desc>中央电视台综合频道早间生活服务类节目，以“科学实验+权威专家解读”为核心形式，聚焦健康、安全、消费领域的热点问题。特别节目以“生活传言大求真”等主题展开，通过实证调查与专家辟谣，为观众提供可信赖的生活指导。</desc>
+  </programme>
+  <programme start="20261127103900 +0800" stop="20261127110400 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127110400 +0800" stop="20261127113200 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127113200 +0800" stop="20261127120500 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127120500 +0800" stop="20261127123400 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127123400 +0800" stop="20261127125900 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261127125900 +0800" stop="20261127131200 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127131200 +0800" stop="20261127133000 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261127133000 +0800" stop="20261127134700 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127134700 +0800" stop="20261127135400 +0800" channel="青岛TV2"><title lang="zh">午间气象</title><desc>东南卫视气象服务资讯节目，及时发布天气实况、气象预警与出行建议，为观众提供实用、准确的气象信息服务。</desc>
+  </programme>
+  <programme start="20261127135400 +0800" stop="20261127140900 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127140900 +0800" stop="20261127143700 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127143700 +0800" stop="20261127145100 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127145100 +0800" stop="20261127153100 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127153100 +0800" stop="20261127155300 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261127155300 +0800" stop="20261127164300 +0800" channel="青岛TV2"><title lang="zh">于成龙31</title>
+  </programme>
+  <programme start="20261127164300 +0800" stop="20261127174500 +0800" channel="青岛TV2"><title lang="zh">于成龙32</title>
+  </programme>
+  <programme start="20261127174500 +0800" stop="20261127180500 +0800" channel="青岛TV2"><title lang="zh">一起旅行吧</title>
+  </programme>
+  <programme start="20261127180500 +0800" stop="20261127183500 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127183500 +0800" stop="20261127185800 +0800" channel="青岛TV2"><title lang="zh">生活快线下</title>
+  </programme>
+  <programme start="20261127185800 +0800" stop="20261127190000 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报上</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261127190000 +0800" stop="20261127190400 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报下</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261127190400 +0800" stop="20261127192100 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127192100 +0800" stop="20261127193800 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127193800 +0800" stop="20261127195400 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127195400 +0800" stop="20261127200500 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127200500 +0800" stop="20261127202300 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261127202300 +0800" stop="20261127203900 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127203900 +0800" stop="20261127212500 +0800" channel="青岛TV2"><title lang="zh">于成龙33</title>
+  </programme>
+  <programme start="20261127212500 +0800" stop="20261127212600 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报上</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261127212600 +0800" stop="20261127212700 +0800" channel="青岛TV2"><title lang="zh">（二）天气预报下</title><desc>《内蒙古天气预报》是内蒙古自治区的天气预报节目，为观众提供内蒙古各地的天气情况和未来趋势，帮助观众了解天气变化，做好出行和生活安排。</desc>
+  </programme>
+  <programme start="20261127212700 +0800" stop="20261127221600 +0800" channel="青岛TV2"><title lang="zh">于成龙34</title>
+  </programme>
+  <programme start="20261127221600 +0800" stop="20261127222600 +0800" channel="青岛TV2"><title lang="zh">生活在线上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127222600 +0800" stop="20261127224100 +0800" channel="青岛TV2"><title lang="zh">生活在线中</title><desc>《生活在线中》是一档以生活为主题的节目，通过报道生活资讯、生活技巧和生活故事，向观众传递生活知识和生活态度。该节目旨在帮助观众提高生活质量，享受美好生活。</desc>
+  </programme>
+  <programme start="20261127224100 +0800" stop="20261127230100 +0800" channel="青岛TV2"><title lang="zh">生活在线下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127230100 +0800" stop="20261127231600 +0800" channel="青岛TV2"><title lang="zh">生活天天秀上</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127231600 +0800" stop="20261127233100 +0800" channel="青岛TV2"><title lang="zh">生活天天秀中</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127233100 +0800" stop="20261127234400 +0800" channel="青岛TV2"><title lang="zh">生活天天秀下</title><desc>湖北武汉的吉庆街，有一个年代悠久的夜市。这条“脏乱差”的小市场虽经过多次治理，却总如荒原野草一般死而复生。美丽的单身女子来双扬（陶红 饰）正是吉庆街上的一家商户，她经营着“久久酒家”，特色菜透味鸭颈引得多少食客盘桓与此，流连忘返。当然有些人不只钟爱鸭颈，还为来双扬的风韵所吸引。生意红火、追求者众，来双扬看似风光得意，却有着自己一份苦衷：母亲早年去世，父亲另娶，为了拉扯弟弟妹妹她成为吉庆街第一个个体户；婚姻失败，独身一人；弟弟吸毒进入戒毒所，哥哥嫂子觊觎着家里的老房子……如此种种，皆让她应接不暇，疲于应对。也许，这便是生活。</desc>
+  </programme>
+  <programme start="20261127234400 +0800" stop="20261127235900 +0800" channel="青岛TV2"><title lang="zh">生活快线上</title>
+  </programme>
+  <programme start="20261127000000 +0800" stop="20261127070700 +0800" channel="青岛TV6"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
+  </programme>
+  <programme start="20261127070700 +0800" stop="20261127073500 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261127073500 +0800" stop="20261127074400 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261127074400 +0800" stop="20261127075400 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261127075400 +0800" stop="20261127081000 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261127081000 +0800" stop="20261127085600 +0800" channel="青岛TV6"><title lang="zh">悬崖35</title>
+  </programme>
+  <programme start="20261127085600 +0800" stop="20261127094200 +0800" channel="青岛TV6"><title lang="zh">悬崖36</title>
+  </programme>
+  <programme start="20261127094200 +0800" stop="20261127102700 +0800" channel="青岛TV6"><title lang="zh">悬崖37</title>
+  </programme>
+  <programme start="20261127102700 +0800" stop="20261127112400 +0800" channel="青岛TV6"><title lang="zh">悬崖38</title>
+  </programme>
+  <programme start="20261127112400 +0800" stop="20261127120000 +0800" channel="青岛TV6"><title lang="zh">直通高考</title><desc>陕西卫视《丝路小脚印》栏目是由全国优秀少儿节目《我们的绿水青山》节目组原班主创团队倾情推出的一档以生态丝路为主题的公益类轻综艺青少年融媒体验节目。节目旨在深入践行“两山”理论，展示丝路上“守护绿色家园”的故事，创新创优精品节目，打造沉浸式体验的精品节目，带领新时代青少年饱览祖国绿水青山，链接丝路环保之旅，以孩童视角探索生态之美，记录美丽中国成长印记，开启一场心灵与自然的深度对话。</desc>
+  </programme>
+  <programme start="20261127120000 +0800" stop="20261127124300 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四34</title>
+  </programme>
+  <programme start="20261127124300 +0800" stop="20261127132700 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四35</title>
+  </programme>
+  <programme start="20261127132700 +0800" stop="20261127141200 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四36</title>
+  </programme>
+  <programme start="20261127141200 +0800" stop="20261127145600 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四37</title>
+  </programme>
+  <programme start="20261127145600 +0800" stop="20261127154400 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四38</title>
+  </programme>
+  <programme start="20261127154400 +0800" stop="20261127155600 +0800" channel="青岛TV6"><title lang="zh">汉字解密</title>
+  </programme>
+  <programme start="20261127155600 +0800" stop="20261127162600 +0800" channel="青岛TV6"><title lang="zh">鲁茶的足迹03</title>
+  </programme>
+  <programme start="20261127162600 +0800" stop="20261127170000 +0800" channel="青岛TV6"><title lang="zh">鲁茶的足迹04</title>
+  </programme>
+  <programme start="20261127170000 +0800" stop="20261127173200 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261127173200 +0800" stop="20261127174500 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（一）</title>
+  </programme>
+  <programme start="20261127174500 +0800" stop="20261127180000 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（二）</title>
+  </programme>
+  <programme start="20261127180000 +0800" stop="20261127182300 +0800" channel="青岛TV6"><title lang="zh">小白帆大舞台</title>
+  </programme>
+  <programme start="20261127182300 +0800" stop="20261127190000 +0800" channel="青岛TV6"><title lang="zh">小白帆乐园（三）</title>
+  </programme>
+  <programme start="20261127190000 +0800" stop="20261127192000 +0800" channel="青岛TV6"><title lang="zh">青岛教育新闻</title><desc>《教育新闻》是一档以教育为主题的新闻节目，通过报道教育政策、教育改革和教育动态，向观众传递教育信息和知识。该节目旨在帮助观众了解教育领域的发展和变化，促进教育事业的发展。</desc>
+  </programme>
+  <programme start="20261127192000 +0800" stop="20261127200000 +0800" channel="青岛TV6"><title lang="zh">校长说</title>
+  </programme>
+  <programme start="20261127200000 +0800" stop="20261127203000 +0800" channel="青岛TV6"><title lang="zh">名师导学</title>
+  </programme>
+  <programme start="20261127203000 +0800" stop="20261127210200 +0800" channel="青岛TV6"><title lang="zh">名师导学</title>
+  </programme>
+  <programme start="20261127210200 +0800" stop="20261127215600 +0800" channel="青岛TV6"><title lang="zh">哈尔滨一九四四14</title>
+  </programme>
+  <programme start="20261127215600 +0800" stop="20261127222700 +0800" channel="青岛TV6"><title lang="zh">青岛教育新闻</title><desc>《教育新闻》是一档以教育为主题的新闻节目，通过报道教育政策、教育改革和教育动态，向观众传递教育信息和知识。该节目旨在帮助观众了解教育领域的发展和变化，促进教育事业的发展。</desc>
+  </programme>
+  <programme start="20261127222700 +0800" stop="20261127230000 +0800" channel="青岛TV6"><title lang="zh">小白帆大舞台</title>
+  </programme>
+  <programme start="20261127230000 +0800" stop="20261127233300 +0800" channel="青岛TV6"><title lang="zh">筑梦百年10</title>
+  </programme>
+  <programme start="20261127233300 +0800" stop="20261127235900 +0800" channel="青岛TV6"><title lang="zh">天气预报</title><desc>天气预报，又称气象预报（测），是指使用现代科学技术对未来某一地点地球大气层的状态进行预测。史前人类就已经开始对天气进行预测，来相应地安排其工作与生活（比如农业生产、军事行动等等）</desc>
   </programme>
   <programme start="20261127010400 +0800" stop="20261127013400 +0800" channel="青海卫视"><title lang="zh">征战达喀尔</title><desc>青海卫视体育纪录片栏目，聚焦中国车手征战达喀尔拉力赛的艰辛历程，记录他们驰骋沙漠、挑战极限的勇气与坚持。</desc>
   </programme>
